@@ -19,6 +19,13 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 
 ## Files
 
+| File | What it is |
+|---|---|
+| `scripts/fetch_bgg.py` | hot list + 50 keyword searches → details for ~4,000 games (expansions filtered) |
+| `data/games.csv` | Raw export straight from the downloader (uncleaned) |
+| `run.bat` | Windows one-click downloader (double-click, paste token) |
+| `README.md` | This file |
+
 
 ## Quick start
 
@@ -29,6 +36,13 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 3. When asked `Enter your BAG API token:`, paste your token
    (get one at https://boardgamegeek.com/applications)
 4. Wait ~20 minutes → check `data/game.csv`
+
+### Windows - manually (Anaconda Prompt)
+
+```bat
+set BGG_API_TOKEN="your token"
+python scripts\fetch_bgg.py --out data
+```
 
 ### Mac / Linux
 
