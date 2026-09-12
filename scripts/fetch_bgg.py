@@ -260,7 +260,7 @@ def main() -> int:
     log(f"Step 4/4: writing {len(rows)} games to games.csv")
 
     csv_path = out / "games.csv"
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+    with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=COLUMNS)
         w.writeheader()
         w.writerows(rows)
