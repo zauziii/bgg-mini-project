@@ -47,7 +47,7 @@ python scripts\fetch_bgg.py --out data
 ### Mac / Linux
 
 ```bash
-export BGG_API_TOKEN="your-token"
+export BGG_API_TOKEN="your token"
 python3 scripts/fetch_bgg.py --out data
 ```
 
