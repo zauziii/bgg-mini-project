@@ -43,5 +43,5 @@ python3 scripts/fetch_bgg.py --out data
 
 ## Security note
 
-Your BGG API token is **never** stored in this repo. The scripts read it from the enviroment or ask for it interactively, and 
+Your BGG API token is **never** stored in this repo. The scripts read it from the enviroment or ask for it interactively, and `.gitignore` excludes any token-like files and the `raw/`cache.
 
