@@ -1,0 +1,4859 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="477506">
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO 7-Eleven" />
+			
+						                           
+						               													<description>Play the Wild Eleven Card on any "7" card - even out of turn! And when you're down to your last card, don't yell "BRAINFREEZE", yell "UNO!"
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="475042">
+         <thumbnail>https://cf.geekdo-images.com/HlRP4zcP3DHNOhvQaKTBMA__small/img/kCsp-mPjZJgIeGi-qCqJtiNKvXA=/fit-in/200x150/filters:strip_icc()/pic9694868.png</thumbnail>
+      <image>https://cf.geekdo-images.com/HlRP4zcP3DHNOhvQaKTBMA__original/img/0tV_aixM5Ul4drgNZC8KhoDYiak=/0x0/filters:format(png)/pic9694868.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO All Wild!: My Hero Academia (McDonald&#039;s Happy Meal Edition)" />
+			
+						                           
+						               													<description>This is a highly competitive, fast-action promotional card game released globally as part of the 2026 McDonald's "UNO x Anime" Happy Meal crossover campaign. Housed in a fierce, dark crimson box featuring Tomura Shigaraki and the League of Villains, this officially licensed mini-deck adapts Mattel's chaotic UNO All Wild! rules into a compact 43-card structure optimized for 2 to 4 players.
+
+Stripping away all standard numbers and colors, every single card in this deck functions as a Wild card. Rather than making basic color matches, players must rely purely on strategy and timing to chain together powerful Action Cards&amp;mdash;such as Wild Skip, Wild Reverse, Wild Draw 2, and Wild Targeted Draw 2&amp;mdash;to force their opponents into disadvantageous positions.
+
+This set features a franchise-exclusive holographic foil "Decay" Wild Card. When played, it channels Shigaraki's destructive Quirk: the active player names a target color to resume normal play, and then chooses one opponent to immediately "decay" their hand. That opponent must instantly discard half of their current cards (rounded up) straight to the bottom of the draw deck and draw that same amount of new cards from the top, completely ruining their hand management and strategic planning.
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62084" value="Brands: McDonald&#039;s" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="352997" value="UNO: All Wild!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1933" value="McDonald&#039;s Corporation" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="475039">
+         <thumbnail>https://cf.geekdo-images.com/2iRqm2gWrBjSf3bEHj67ag__small/img/EjtXS34uMhA0lyuh_AhJwwzJ4HU=/fit-in/200x150/filters:strip_icc()/pic9694878.png</thumbnail>
+      <image>https://cf.geekdo-images.com/2iRqm2gWrBjSf3bEHj67ag__original/img/oUA63Fzc4fq9YZnXcETIbuARAKk=/0x0/filters:format(png)/pic9694878.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO All Wild!: SPY x FAMILY" />
+			
+						                           
+						               													<description>This is a chaotic, fast-paced promotional variant of the card game released globally as part of the 2026 McDonald's "UNO x Anime" Happy Meal crossover campaign. Housed in a striking black and red box featuring the elegant assassin Yor Forger (Thorn Princess), this licensed mini-deck shrinks the chaotic UNO All Wild! formula down to an optimized 43-card deck designed for 2 to 4 players.
+
+True to the "All Wild" style, this deck completely removes standard numbers and colors. Every single card in the deck is a Wild card, meaning players never have to worry about matching colors or numbers. Instead, the game becomes a brutal tactical race driven entirely by special Action Cards&amp;mdash;including Wild Skip, Wild Reverse, Wild Draw 2, and Wild Targeted Draw 2.
+
+This set features a franchise-exclusive holographic foil "Thorn Princess Strike" Wild Card. When played, it represents Yor's fierce combat prowess: the active player chooses the next color to resume normal play, and then chooses two different opponents to immediately skip, cutting down their chances to shed cards and changing the turn order completely.
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62084" value="Brands: McDonald&#039;s" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="352997" value="UNO: All Wild!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1933" value="McDonald&#039;s Corporation" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="2818">
+         <thumbnail>https://cf.geekdo-images.com/DzN1JWNbrIEn7V9Wx20ooA__small/img/BRHi4YbZCDnMVl_TmkPcP6PIh8E=/fit-in/200x150/filters:strip_icc()/pic894192.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DzN1JWNbrIEn7V9Wx20ooA__original/img/J_k3VjUIjk5GrHB0597VdJk-9iY=/0x0/filters:format(jpeg)/pic894192.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Attack!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Attack! Mega Hit" />
+			    				
+				<name type="alternate" sortindex="1" value="Uno Express" />
+			    				
+				<name type="alternate" sortindex="1" value="Uno Extreme" />
+			    				
+				<name type="alternate" sortindex="1" value="ウノ アタック" />
+			
+						               													<description>UNO, America's No. 1-selling card game, has a whole new twist. You'll still encounter all the elements that make UNO so unpredictable and challenging, but add to that a motorized card launcher that shows no mercy and you've got UNO Attack. The object of the game is still to get rid of all your cards. The UNO command cards direct the game by telling players when to trade hands, discard, reverse the playing order, or skip a player. Beware the dreaded Hit command, though, as this translates into a game of Russian roulette. You never know when the card launcher is going to fire off a stream of UNO cards just for you! For 2 to 10 players. Requires three C batteries (not included).
+
+112 cards as follows:
+
+18 Blue cards: 2 each - 1 to 9
+18 Green cards: 2 each - 1 to 9
+18 Red cards: 2 each - 1 to 9
+18 Yellow cards: 2 each - 1 to 9
+8 Hit 2 cards: 2 each in blue, green, red and yellow
+8 Reverse cards: 2 each in blue, green, red and yellow
+8 Skip cards: 2 each in blue, green, red and yellow
+4 Discard All cards: 1 each in blue, green, red and yellow
+4 Trade Hands cards: 1 each in blue, green, red and yellow
+4 Wild cards
+2 Wild All-Hit cards
+2 Wild Hit-Fire card
+
+2010 Edition Changes:
+
+     Trade Hand cards are replaced with another set of Discard All cards
+     Wild All-Hit and Wild Hit-Fire cards are replaced with 4 Wild Attack-Attack cards
+
+
+</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–7 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="276495" value="UNO Attack: Jurassic World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="423154" value="UNO Flip Attack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110752" value="Damon Saddler" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1961" />
+			<average value="5.52718" />
+			<bayesaverage value="5.45793" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30587" bayesaverage="5.45793" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3558" bayesaverage="5.42524" />
+												</ranks>
+
+			<stddev value="1.71196" />
+			<median value="0" />
+			<owned value="4620" />
+			<trading value="47" />
+			<wanting value="5" />
+			<wishing value="72" />
+			<numcomments value="449" />
+			<numweights value="97" />
+			<averageweight value="1.2062" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="9465">
+         <thumbnail>https://cf.geekdo-images.com/-jGkYrEkV-Q5JSBg0InYXg__small/img/jZKvbhy9It-XMDAN8lfNLFtI58w=/fit-in/200x150/filters:strip_icc()/pic1976733.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-jGkYrEkV-Q5JSBg0InYXg__original/img/MEhHiKI735fefhIdoM4iPXnL7rk=/0x0/filters:format(jpeg)/pic1976733.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Bingo" />
+			
+						                           
+						               													<description>Bingo. With an UNO twist.
+
+Roll the dice, place the chips, and try for a BINGO.
+
+</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7855" value="Traditional Games: Bingo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="3.22222" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.6178" />
+			<median value="0" />
+			<owned value="28" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="16" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="147647">
+         <thumbnail>https://cf.geekdo-images.com/y_J2CnLVEOoRH3H5U04Xjw__small/img/c8agrTzRdKC6SU0DSW3vY9RK3js=/fit-in/200x150/filters:strip_icc()/pic4659337.png</thumbnail>
+      <image>https://cf.geekdo-images.com/y_J2CnLVEOoRH3H5U04Xjw__original/img/rIYXtyBcRE0m4gNroHz4XaYaSs8=/0x0/filters:format(png)/pic4659337.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Blast" />
+			
+						                           
+						               													<description>UNO Blast adds a new level of surprise and excitement to America&amp;rsquo;s #1 brand of card games! When you draw a card you can&amp;rsquo;t play, you have to put it in one of five slots in the card blaster. The cards stack up until someone randomly triggers the blast &amp;ndash; when the blaster goes off, the player adds ALL of the blasted cards into their own hand.
+
+Unique to this UNO deck are the Wild Blast cards. When you play a Wild Blast card, the next player has to take cards from the draw pile and put them into the card blaster until he or she triggers it. Will they end up with one extra card in their hand or five? You&amp;rsquo;ll have to play it to find out!
+
+</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110752" value="Damon Saddler" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="4.97368" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.02922" />
+			<median value="0" />
+			<owned value="72" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="19" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="12162">
+         <thumbnail>https://cf.geekdo-images.com/UFmrs4e6TIh6ovhtV1G00A__small/img/G7I0-UJVI9K1Kzb2I2b4bFpVRRo=/fit-in/200x150/filters:strip_icc()/pic246661.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UFmrs4e6TIh6ovhtV1G00A__original/img/To5LpNs113w48fHTgJb00tHj1dc=/0x0/filters:format(jpeg)/pic246661.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Blitzo" />
+			
+						                           
+						               													<description>Uno meets Bop It. The traditional UNO rules apply but the cards are eliminated and play is enhanced by a modern console with lights and sounds. The console calls out the number, color or instruction (reverse, skip) and you have to react quickly.  Press the wrong button, the button you've already eliminated, or forget to hit the Uno button when only one light is left, and the console will dole out the punishments (while mocking you with a snide laugh). The goal is to eliminate your four colored &amp; numbered lights. A fast dexterity and memory game.
+
+</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1, 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="127630" value="Dan Klitsner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="37" />
+			<average value="5.3" />
+			<bayesaverage value="5.49443" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="27706" bayesaverage="5.49443" />
+												</ranks>
+
+			<stddev value="2.14148" />
+			<median value="0" />
+			<owned value="96" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="16" />
+			<numcomments value="16" />
+			<numweights value="4" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="1333">
+         <thumbnail>https://cf.geekdo-images.com/lSIz7HfNpWVu8rCbybgAfQ__small/img/NxKTd-YAftrpFuRF1YyGA3facW4=/fit-in/200x150/filters:strip_icc()/pic186255.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lSIz7HfNpWVu8rCbybgAfQ__original/img/R11NidPo9EtQEXsLCuIyUvQ-_54=/0x0/filters:format(jpeg)/pic186255.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Boom-O" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Boom-O +" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Boomo" />
+			
+						               													<description>Boom-O is a simple elimination card game from the makers of Uno. Each player gets 7 cards in hand and three time bomb cards in front of them. Most of the cards in the deck either increase or decrease the timer total. Other cards include familiar commands such as Skip, Reverse, Draw 1 (or 2) and Trade Hands. Player discard one card per turn trying to clear their hand while keeping the timer total under 60. If a player can't play a valid card, they must flip over one of their three time bombs. If a player clears their hand, all other players flip one of their time bombs. Whoever flips all three of their bombs is out of the game. Survivor wins.
+
+Re-implements:
+
+5 Alive
+
+</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1961" value="5 Alive" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="314892" value="5 Alive / Uno" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="7803" value="ONO 99" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="715" />
+			<average value="5.37498" />
+			<bayesaverage value="5.46604" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30350" bayesaverage="5.46604" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3527" bayesaverage="5.44558" />
+												</ranks>
+
+			<stddev value="1.60617" />
+			<median value="0" />
+			<owned value="1691" />
+			<trading value="68" />
+			<wanting value="4" />
+			<wishing value="20" />
+			<numcomments value="266" />
+			<numweights value="50" />
+			<averageweight value="1.16" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="337824">
+         <thumbnail>https://cf.geekdo-images.com/fhJi7zJ3bg4NiETxkO47yw__small/img/kWUaLXxzh8yWFEfmyaNon6ITVNs=/fit-in/200x150/filters:strip_icc()/pic6151656.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fhJi7zJ3bg4NiETxkO47yw__original/img/qProAwUEi9bzc8lmKZBBDpPpg0g=/0x0/filters:format(jpeg)/pic6151656.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Bundle Collector Tin" />
+			
+						                           
+						               													<description>What a great gift for your friends who love to play games: UNO, PHASE 10, and SNAPPY DRESSERS in one premium collectible tin! Which one will they play first?
+
+UNO: Match colors and numbers to be the first to get rid of all your cards.
+
+PHASE 10: Players must complete rummy like hands to move through all 10 phases of the game.
+
+SNAPPY DRESSERS: the delightfully creative card game in which every card matches in one way with every other card in the deck. It's the ultimate game collection for super-fun nights in with family and friends. Gather your friends and play all three!
+
+Three classic games for nights in with family and friends
+
+&amp;ndash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6813" value="Game: Phase 10" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="1258" value="Phase 10" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="220199" value="Snappy Dressers" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="11" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="172009">
+         <thumbnail>https://cf.geekdo-images.com/I5izy9wKSaYKkZtqR7u6JQ__small/img/LkboftE9xsKgy0ReNHbVqwgfMsk=/fit-in/200x150/filters:strip_icc()/pic2423104.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/I5izy9wKSaYKkZtqR7u6JQ__original/img/UKF6hUSH-mQ4c2nQmHbQluLRzb4=/0x0/filters:format(jpeg)/pic2423104.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Choo-Choo" />
+			
+						                           
+						               													<description>All aboard for Fast Fun for Little Ones with UNO Choo-Choo Game. Preschoolers depart on an UNO adventure featuring a train filled with adorable animals. Play by matching color or animal cards, or play a conductor card he's wild and matches anything! When you have only one card left, cheer 'UNO Choo-Choo!' to let everyone know the winning train is leaving the station! Includes 28 cards, 4 caboose partitions and train. For 2 to 4 players. Ages 3 and older.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="3" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75974" value="Rawn Trinidad" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2631" value="Fisher Price" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="31136">
+         <thumbnail>https://cf.geekdo-images.com/pm-o-w-tdxKzwEXyLtGWlA__small/img/gneYLjb5c2d9GyRqItjYUiQtUH0=/fit-in/200x150/filters:strip_icc()/pic434718.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pm-o-w-tdxKzwEXyLtGWlA__original/img/yspqLTfrt71iQ7FhHTZLdoyoU4U=/0x0/filters:format(jpeg)/pic434718.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="1 vs. 100 Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="1 contra 1000" />
+			    				
+				<name type="alternate" sortindex="1" value="1 contre 100" />
+			    				
+				<name type="alternate" sortindex="1" value="1 vs. 100" />
+			    				
+				<name type="alternate" sortindex="1" value="Alla mot en" />
+			    				
+				<name type="alternate" sortindex="1" value="Allá tú" />
+			    				
+				<name type="alternate" sortindex="1" value="Au Pied du Mur!" />
+			    				
+				<name type="alternate" sortindex="1" value="Ehad Neged Meah" />
+			    				
+				<name type="alternate" sortindex="5" value="Een Tegen 100" />
+			    				
+				<name type="alternate" sortindex="1" value="Uno Contra Cien" />
+			
+						               													<description>From the box: It's you against the mob in the most exciting trivia game ever.
+
+Contents: 275 question cards (825 questions), card holder, wipe-off mob board with stand, 51 mob tokens, 4 cardboard shields, 5 answer photos, 3 answer cards, wipe-off money board, score pad, wipe-off pen, and instructions
+
+Gameplay: One player is the contestant. The other player(s) become the mob. The mob divides one hundred mob tokens as evenly as possible. One mob player, acting as host, reads a question and its three possible answers aloud. The mob players use their tokens to secretly choose one or more answers.
+
+When the mob players have finished distributing all of their tokens, the contestant may ask for one of three helps before giving a response to the question. The helps one response of the contestant&amp;rsquo;s choosing), Trust the Mob (the contestant is forced to choose whichever response has the most tokens on it) or Ask the Mob (this eliminates one wrong response). The contestant can use each help only once.
+
+If the contestant gives the correct response, the money is added to the bank equal to the level the player is on multiplied by the number of tokens the mob has put on the wrong responses. The levels start at $1000 and ascend to $10,000. The mob tokens that are on the incorrect responses are out of play.
+
+The game is over when the contestant gives an incorrect response. This means the money in the bank is divided among the mob players who still have tokens.  The contestant wins $1,000,000 when the mob loses all its tokens. The contestant can quit the game before ascending to the next level and keep whatever money has been accumulated in the bank.
+
+Players continue the game until each player has been the contestant. A running total of the scores of each game is kept. The player with the highest score is the winner.
+
+Considering that the television series uses 101 contestants, this is reasonable faithful translation of the television series.
+
+Intended for 2 - 4 players Ages 12 and up
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24229" value="TV Shows: 1 vs. 100" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44139" value="TV Shows: TV Game Shows" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4680" value="Borras Plana S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1299" value="Diset S. A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="926" value="Imagination Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2721" value="Kod Kod" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1768" value="TF1 Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="36" />
+			<average value="4.84444" />
+			<bayesaverage value="5.49089" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28366" bayesaverage="5.49089" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1338" bayesaverage="5.45751" />
+												</ranks>
+
+			<stddev value="1.8249" />
+			<median value="0" />
+			<owned value="147" />
+			<trading value="5" />
+			<wanting value="1" />
+			<wishing value="9" />
+			<numcomments value="17" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="172237">
+         <thumbnail>https://cf.geekdo-images.com/klIerGyzG7jol4GA8Xim7g__small/img/twzlILzptgASayVHMcZxL7zGSu4=/fit-in/200x150/filters:strip_icc()/pic3342224.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/klIerGyzG7jol4GA8Xim7g__original/img/sXeQois40JORGE5zIO82tNEmXBQ=/0x0/filters:format(jpeg)/pic3342224.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dare!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Action" />
+			
+						               													<description>From the publisher's website:
+
+The familiar fun race to yell "UNO!" comes with wild, new choices! While playing the color and numbers matching game, you're faced with a decision: draw extra cards or take a dare! Dare cards come in 3 categories: Family, Show-Off and Daredevil, with 16 dares on each card. You may end up talking like a pirate until your next turn, or standing on one foot, or even showing your best dance moves! There is even a blank card to make up your own dares! What will you risk - drawing more cards or doing something wild? Find out when you play this new version of the classic UNO game - if you DARE! And don't forget to yell "UNO!", even if you have to do it like a pirate, matey! Comes with instructions and 112 playing cards. Ages 7 and older.
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–6 players" />
+  <result name="recommmendedwith" value="Recommended with 3–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24432" value="Card Games: Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17709" value="Traditional Card Games: Eights" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="400760" value="UNO Dare: Adults Only" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="235" />
+			<average value="4.95553" />
+			<bayesaverage value="5.45367" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30674" bayesaverage="5.45367" />
+												</ranks>
+
+			<stddev value="1.60325" />
+			<median value="0" />
+			<owned value="1374" />
+			<trading value="14" />
+			<wanting value="1" />
+			<wishing value="16" />
+			<numcomments value="69" />
+			<numweights value="7" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="400760">
+         <thumbnail>https://cf.geekdo-images.com/jv0H6vjve10RBujhgMFSYA__small/img/M4hq4Z9FkY3L0w4HwVjW73kBZDM=/fit-in/200x150/filters:strip_icc()/pic7724045.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jv0H6vjve10RBujhgMFSYA__original/img/MrsrRCOuWyG4z6f6zGFyEKJ2TS0=/0x0/filters:format(jpeg)/pic7724045.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dare: Adults Only" />
+			
+						                           
+						               													<description>Adult fans of UNO card games will love this daring take on the classic game. It plays like regular UNO matching color and number, but if a Dare Card is played, the player must decide if they are willing to risk doing the dare versus the penalty of drawing cards. There are four levels of dares: mild, medium, spicy, and fuego!  A chance roll of the die determines which dare players must perform. A card with a &amp;ldquo;reverse&amp;rdquo; icon on it forces the player who played the Dare Card to perform the dare! But the party doesn't end there, these cards are durable, waterproof plastic cards to make them completely spill-proof and comes with a handy clip to keep them together! Makes a great gift for fans and game lovers ages 18 years old and up.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1118" value="Mature / Adult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24432" value="Card Games: Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62860" value="Versions &amp; Editions: Adult Versions of Family-Friendly Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="466590" value="UNO Truth: Adults Only" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="172237" value="UNO Dare!" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6562" value="Christopher Lawrence" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="4.3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.77764" />
+			<median value="0" />
+			<owned value="103" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="11" />
+			<numcomments value="2" />
+			<numweights value="2" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="3004">
+         <thumbnail>https://cf.geekdo-images.com/yrblc0DGYAlaEWnrpJHrmw__small/img/-hoOhh-zUgSCABGn2m5m2NkvgOQ=/fit-in/200x150/filters:strip_icc()/pic406766.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yrblc0DGYAlaEWnrpJHrmw__original/img/MC2BPX5O29bmr8iGe-jb8RuHgJE=/0x0/filters:format(jpeg)/pic406766.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dice" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Jeu de UNO Dice" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dice Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Würfel UNO" />
+			
+						               													<description>Includes three ways to play.
+
+Game 1
+
+Each player draws four dice. Each player on their turn draws, rolls their dice, and places one of them in the dice tray. Any dice added to the tray must match by colour, number or letters. The first player to get rid of her dice is the winner.
+
+Game 2
+
+Game 2 is a variant of Yacht where the object is to have the highest points score after 11 rounds of play. The player draws five dice out of the bag and rolls all of them. The player may then take up to two more rolls with their choice of one or more of these five dice. Simply put aside the dice you do not want to roll, and roll the rest. Any of these dice may be rolled in any of your three rolls, except that all five must be rolled on the first roll. At the end of your turn, you must score your exposed dice faces in one of the eleven spaces in your column of the scoring sheet. If you cannot or do not wish to enter a score in any of the eleven spaces, then you must score a zero in your choice of one of the eleven spaces.
+
+Game 3
+
+All 24 spaces in the dice tray are used for Game 3. A player draws one die out of the bag, rolls it, and places it face up in any one of the 24 dice spaces in the tray. After the starting die is placed in the tray, the player to the left of the starting player draws four dice out of the bag and rolls them. The player looks at the dice to see if any of these can match the die already in the tray. The dice can match by either number, color or letter in any combination. If a match can be made, the player places the die in the tray and scores points. Dice are scored by making strings of two or more adjacent dice, all of the same color or kind. All numbered faces (0 through 9) score as their numerical value. The R, S and D2 each score as 20 points. The W and WD4 are not scored.
+
+After a player finishes their turn, the next player takes a turn using the same dice. Thus a player will usually begin her turn with one less die than the previous player. In this way, the first player will have four dice to roll, the second three, the third will have two, and so on. When a player, down to only one die, is able to play it, then the next player starts the pattern over again by drawing four fresh dice from the bag, rolls them and play proceeds from there.
+
+The game ends when the dice tray is full. The winner is the player with the highest total score.
+
+</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1046" value="Merle Robbins" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21" value="Canada Games Company Lmt." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="117" value="International Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear&#039;s Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="113" />
+			<average value="4.92425" />
+			<bayesaverage value="5.47027" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30198" bayesaverage="5.47027" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1456" bayesaverage="5.34009" />
+												</ranks>
+
+			<stddev value="1.57312" />
+			<median value="0" />
+			<owned value="362" />
+			<trading value="11" />
+			<wanting value="1" />
+			<wishing value="20" />
+			<numcomments value="49" />
+			<numweights value="16" />
+			<averageweight value="1.125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="157945">
+         <thumbnail>https://cf.geekdo-images.com/9pOePbuVyYnZE8Q9rJGfwA__small/img/fEyRwM9yvRkwAkTBsK_f5UDkmWU=/fit-in/200x150/filters:strip_icc()/pic1205819.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9pOePbuVyYnZE8Q9rJGfwA__original/img/FbLwl5mc7EerbqeLMS01ZQPy0xk=/0x0/filters:format(jpeg)/pic1205819.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dice" />
+			
+						                           
+						               													<description>UNO Dice uses the same colours, numbers, and directions as the card game.
+
+To start, players take 5 dice to make their hand which is left visible to the other players.  One die is rolled in the center.
+
+On each turn, the players examine their dice without rolling them.  If a play can be made by matching the center dice in number or color, then the dice are exchanged and the center die is placed back in the bag.  If a play can not be made, then the dice in the player's hand are rolled.  If a play still can not be made, then a new die is added to the player's hand.
+
+The first player to get rid of all their dice wins. The winning player's score is based on the faces of the dice left in front of their opponent. Be the first player to reach 500 points.
+
+</description>
+										      	               				<yearpublished value="1996" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="116593" value="UNO Dice Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="5.2871" />
+			<bayesaverage value="5.49736" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="27048" bayesaverage="5.49736" />
+												</ranks>
+
+			<stddev value="1.41484" />
+			<median value="0" />
+			<owned value="143" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="8" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="116593">
+         <thumbnail>https://cf.geekdo-images.com/gWCiiU2R2-aOruLa0hTR6g__small/img/NuQGIFyaSTXPmC9YiI-rMzR41D0=/fit-in/200x150/filters:strip_icc()/pic4899751.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gWCiiU2R2-aOruLa0hTR6g__original/img/RKbsD4t7eKK8Zks9RlNgo4aUBQw=/0x0/filters:format(png)/pic4899751.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dice Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Dadi" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dados" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dés" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dice Terninger" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dobbelspel" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Würfel" />
+			
+						               													<description>BASIC DESCRIPTION:
+The UNO Dice Game attempts to translate the original UNO card game into a two player dice game.  It was released during the 2011 Christmas season and displayed along with other Mattel dice games in the same type of soda can tin packaging.
+
+COMPONENTS:
+The game includes 11 dice.  Each die is unique and has some combination of faces in the four UNO colors (yellow, green, blue and red).  The die faces include: 1, 2, 3, 4, 5, draw one, draw two, and wild (in black).  Note that there are no die faces that represent the Skip or Reverse cards from the original UNO card game (presumably because this is just a 2 player game).
+
+GAMEPLAY:
+The game mechanic is simple and mimics the original UNO card game.  To begin, 5 dice are randomly given to each of the two players.  These dice take the place of a players hand of cards in the original UNO card game.  The 11th die is left in the middle of the play area to form the start of the dice line (think UNO discard stack from the original card game).  The starting player rolls their dice and has to match either the color or value of the most recently placed die in the dice line.  That player's matching die is placed in the dice line and will have to be matched by the next player.  Play continues as players take turns rolling their hand of dice and adding one matching die from their hand to the dice line each turn until they only have one die left in their hand.  The player must then say "UNO!" or be penalized.  The penalty for not remembering to say "UNO!" is similar to the draw one and draw two die faces:  the affected player must take the appropriate number of dice from the end of the dice line.  The first player with no dice left wins.  The winning player's score is based on the faces of the dice left in front of their opponent.  Alternate rules are provided to ignore scoring and simply play the best out of 3 games.
+
+PACKAGING:
+This edition was packaged in a creative looking tin that was made to resemble an aluminum soda can--complete with Nutrition Facts label.  The top of the can pops off (twist to open).  The one sheet of rules and 11 dice fit inside the tin with a cardboard insert to help dampen the sound of the dice in the tin.  The tin also has a coin slot in the top that holds the a plastic hook to allow it to be hung for selling/display purposes.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62200" value="Series: Soda Pop Can Dice Game (Mattel)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="157945" value="UNO Dice" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="210" />
+			<average value="5.01576" />
+			<bayesaverage value="5.44849" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30768" bayesaverage="5.44849" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3563" bayesaverage="5.42258" />
+												</ranks>
+
+			<stddev value="1.75677" />
+			<median value="0" />
+			<owned value="704" />
+			<trading value="11" />
+			<wanting value="3" />
+			<wishing value="28" />
+			<numcomments value="72" />
+			<numweights value="11" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="286309">
+         <thumbnail>https://cf.geekdo-images.com/u6FXKKaEe4lGqdNqdts49Q__small/img/76MjN8RaQMtmBPDz1JT6USYGduE=/fit-in/200x150/filters:strip_icc()/pic4917786.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u6FXKKaEe4lGqdNqdts49Q__original/img/WGPPEv5MTBvwqfJTGz_VVnZY6Ds=/0x0/filters:format(jpeg)/pic4917786.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dice Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Würfelspiel" />
+			
+						               													<description>Note: There are two other games in the database with the same name as this one: UNO Dice Game (2011) and UNO Dice (1987).  All three games are entirely different.
+
+UNO Dice Game is a roll -and-write version of the UNO card game.  Each player gets a marker and an individual player board.  The object of the game is to be the first player to fill in all of the spaces on your board.
+
+On your turn, roll all 6 dice.  You are allowed one reroll if you don't like the results.  Then, arrange the dice in a chain by matching either color or number.  The first die in your chain must match the number of the last number written on your board.
+
+For example, the last number on your board is a 5.  Your chain could start with a red 5, then continue with a blue 5, a blue 3, and end with a blue 2.  When you have finished creating your chain, write those numbers in the spaces on your player board.  Finally, call out the color and number of the last die in your chain.  Any player who is able to match that number to the last number written on their board may write it down.  The player whose board matches the color of the number you called out can always write the number, even if it doesn't match.
+
+Use wilds, draw 1s and minus 1s to help yourself and hinder your opponents.  The first player to fill in all the empty spaces on their board wins!
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57195" value="Series: Roll &amp; Write (Mattel)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116013" value="Emmorie Jossie" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="86" />
+			<average value="5.16744" />
+			<bayesaverage value="5.48303" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29377" bayesaverage="5.48303" />
+												</ranks>
+
+			<stddev value="1.86082" />
+			<median value="0" />
+			<owned value="363" />
+			<trading value="6" />
+			<wanting value="0" />
+			<wishing value="24" />
+			<numcomments value="21" />
+			<numweights value="3" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="3839">
+         <thumbnail>https://cf.geekdo-images.com/KBBFNQQhEThjf3ie-t8Chw__small/img/NjZHA9s_sWu3LCMLh2DuxhESQzs=/fit-in/200x150/filters:strip_icc()/pic1516009.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KBBFNQQhEThjf3ie-t8Chw__original/img/BPQwR959cppSPdVAUfeLhdS4Oco=/0x0/filters:format(jpeg)/pic1516009.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Dominos" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Domino" />
+			
+						               													<description>UNO Dominos for 2 to 6 players ages 7 and up
+
+EQUIPMENT
+81 Domo playing pieces and 6 playing racks
+
+SUMMARY OF PLAY
+Each player draws 6 Domos. The player with the highest starting double goes first. After the starting doublet is placed on the table, each player in turn tries to match by color, number or word. The words on the Domos add excitement to the game by reversing the direction of play, skipping the next player or instruction the next player to draw a certain number of additional Domos. The first player to get rid of his Domos is the winner.
+
+MATCHING DOMOS
+In general, Domos are matched by UNO rules and arranged DOMINO style. Match by color, number, or word. But play is limited to the 4 directions of play from the starting doublet. When playing the MATCHING SIDE always constitutes the play. If someone puts down a draw two card and you have one you can put it down.
+
+If at any time you are unable to match color, number or word, you MUST draw ONE Domo from the remaining stock. If the drawn Domo is playable, you may play it immediately. If it is unplayable, it is added to your hand and play passes to the left to the next player.
+
+</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="117" value="International Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19145" value="Oy Non-Food markkinointi Ab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1318" value="Sio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="124" />
+			<average value="4.86903" />
+			<bayesaverage value="5.46277" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30467" bayesaverage="5.46277" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1472" bayesaverage="5.29764" />
+												</ranks>
+
+			<stddev value="1.70141" />
+			<median value="0" />
+			<owned value="494" />
+			<trading value="16" />
+			<wanting value="2" />
+			<wishing value="21" />
+			<numcomments value="53" />
+			<numweights value="9" />
+			<averageweight value="1.4444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="460867">
+         <thumbnail>https://cf.geekdo-images.com/oc9a06kVpsvjSIP7kWIpzA__small/img/dbae6sEQg-pRbGOG7ypGAxPgNYo=/fit-in/200x150/filters:strip_icc()/pic9758975.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/oc9a06kVpsvjSIP7kWIpzA__original/img/2rDiwpH3Iq6lbdCUr6kkhwzbusk=/0x0/filters:format(jpeg)/pic9758975.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Elite Formula 1: 2025 Core Edition" />
+			
+						                           
+						               													<description>This high-octane UNO Elite Formula 1 card game fuses the strategy of classic UNO with the adrenaline of Formula 1 racing! The excitement starts with a full deck of 112 UNO cards and picks up speed with 40 randomized Formula 1 Elite Action Cards (in four Game Booster Packs) and two Promo Cards. UNO Elite Formula 1 plays like classic UNO, but actions like Skip and Reverse are found on the Elite Action Cards. Each Elite Action Card comes with its own special power that activates when a game player plays a card with an Elite icon on it. And when down to the last card, don&amp;rsquo;t forget to yell &amp;ldquo;UNO!&amp;rdquo; The racing-themed game makes a thrilling gift for Formula 1 fans and card game lovers ages 7 years old and up. Colors and decorations may vary.
+
+
+     Race into game night with the UNO Elite Formula 1 2025 Core Edition card game where Elite Action Cards add extra thrills to classic UNO game play!
+     The set comes with 112 UNO cards, 4 Game Booster Packs (with 10 Elite Action Cards per pack) and 2 Promo Cards!
+     Each UNO player creates their own &amp;ldquo;Lineup&amp;rdquo; from the 8 Elite Action Cards they are dealt -- Elite Action Cards feature Formula 1 drivers, cars, helmets, circuits, team principals and reserve drivers.
+     Gameplay matches the classic card game with the action and excitement of Formula 1 racing!
+     Players simply play a card of matching color with an Elite icon on it to unlock the power of an Elite Action Card!
+     Unique graphic symbols on cards help identify the card color, allowing players with any form of color blindness to play!
+     Designed for 2 to 5 players ages 7 years and older, this exciting UNO card game makes a fun, racing-themed gift for fans of Formula 1!
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6206" value="Sports: Auto Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72934" value="Sports: Formula 1" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="460868" value="UNO Elite Formula 1: 2025 Core Edition – Booster Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="427570" value="UNO Elite NFL: 2024 Core Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="5.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.2829" />
+			<median value="0" />
+			<owned value="18" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="460868">
+         <thumbnail>https://cf.geekdo-images.com/OQMNbQJke-gJJ6MDEA36Mw__small/img/YBAPoXIbqFfRnhGTtni-Ear4seA=/fit-in/200x150/filters:strip_icc()/pic9758976.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OQMNbQJke-gJJ6MDEA36Mw__original/img/eL5tSZXs1Kg6CHUzNB4CCkW0K_Q=/0x0/filters:format(jpeg)/pic9758976.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="UNO Elite Formula 1: 2025 Core Edition – Booster Set" />
+			
+						                           
+						               													<description>Add the cards from the UNO Elite Formula 1 2025 Core Edition Booster Set  to an  UNO Elite Formula 1  card game to get the race going! Each set includes three Game Booster Packs, each with 10 Elite Action Cards for a total of 30. Which ones will you get? Each Elite Action Card comes with its own special power that activates when a game player plays a card with an Elite icon on it. And when down to the last card, don&amp;rsquo;t forget to yell &amp;ldquo;UNO!&amp;rdquo; The racing-themed game makes a thrilling gift for Formula 1 fans and card game lovers ages 7 years old and up. Colors and decorations may vary.
+
+
+     Players can expand their  UNO Elite Formula 1  roster with  UNO Elite Formula 1 2025 Core Edition  (the  UNO Elite Core Edition Starter Pack , sold separately, is required to play).
+     Each set includes 3 Game Booster Packs with 10 Elite Action Cards per pack for a total of 30 -- all randomized so the cards are a surprise! Which ones will you get?
+     The Elite Action Cards feature Formula 1 drivers, cars, helmets, circuits, team principals and reserve drivers, and each comes with its own special power that activates when a card of matching color with an Elite icon is played!
+      UNO Elite  game players can build their own lineup from their roster of  UNO Elite  Action Cards -- Booster Sets expand the options with more players and actions!
+     Gameplay matches the classic card game with the action and excitement of Formula 1 racing!
+     Special graphic symbols added to each card help identify the color on that card, allowing players with any form of color blindness to play!
+     Designed for 2 to 5 players ages 7 years and older, this exciting  UNO  card game makes a fun, racing-themed gift for fans of Formula 1!
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6206" value="Sports: Auto Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72934" value="Sports: Formula 1" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="460867" value="UNO Elite Formula 1: 2025 Core Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="427570" value="UNO Elite NFL: 2024 Core Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

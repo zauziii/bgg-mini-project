@@ -1,0 +1,6439 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="178900">
+         <thumbnail>https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames (کدنیمز)" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Afrikaans" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Arabic: رسائل سرية" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Edisi Indonesia" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames Québec" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames: Кодовые Имена XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Codi secret" />
+			    				
+				<name type="alternate" sortindex="1" value="Código secreto" />
+			    				
+				<name type="alternate" sortindex="1" value="Codinomes" />
+			    				
+				<name type="alternate" sortindex="1" value="Fedőnevek" />
+			    				
+				<name type="alternate" sortindex="1" value="Fedőnevek" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycí jména" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycí jména XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycie mená" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Nume de Cod" />
+			    				
+				<name type="alternate" sortindex="1" value="Nume de Cod XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Tajniacy" />
+			    				
+				<name type="alternate" sortindex="1" value="Κωδική Ονομασία" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодови имена" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодові імена" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодові імена: гра слів" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодовые Имена" />
+			    				
+				<name type="alternate" sortindex="1" value="שם-קוד" />
+			    				
+				<name type="alternate" sortindex="1" value="الأسماء الحركية" />
+			    				
+				<name type="alternate" sortindex="1" value="コードネーム" />
+			    				
+				<name type="alternate" sortindex="1" value="コードネーム XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="機密代號" />
+			    				
+				<name type="alternate" sortindex="1" value="機密代號: 廣東話版" />
+			    				
+				<name type="alternate" sortindex="1" value="行动代号" />
+			    				
+				<name type="alternate" sortindex="1" value="코드네임" />
+			
+						               													<description>Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames &amp;mdash; single-word labels like "disease", "Germany", and "carrot". Yes, carrot. It's a legitimate codename. Each spymaster wants their team to identify their agents first...without uncovering the assassin by mistake.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Lay out 25 cards, each bearing a single word. The spymasters look at a card showing the identity of each card, then take turns clueing their teammates. A clue consists of a single word and a number, with the number suggesting how many cards in play have some association to the given clue word. The teammates then identify one agent they think is on their team; if they're correct, they can keep guessing up to one more than the stated number of times; if the agent belongs to the opposing team or is an innocent bystander, the team's turn ends; and if they fingered the assassin, they lose the game.
+
+Spymasters continue giving clues until one team has identified all of their agents or the assassin has removed one team from play.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1453">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1087" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="164" />
+					<result value="Not Recommended" numvotes="990" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="160" />
+					<result value="Not Recommended" numvotes="978" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="437" />
+					<result value="Recommended" numvotes="753" />
+					<result value="Not Recommended" numvotes="151" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="801" />
+					<result value="Not Recommended" numvotes="324" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1113" />
+					<result value="Recommended" numvotes="229" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="145" />
+					<result value="Recommended" numvotes="770" />
+					<result value="Not Recommended" numvotes="228" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="771" />
+					<result value="Recommended" numvotes="408" />
+					<result value="Not Recommended" numvotes="80" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="157" />
+					<result value="Recommended" numvotes="488" />
+					<result value="Not Recommended" numvotes="351" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8+ players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="306">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="71" />
+					<result value="10" numvotes="125" />
+					<result value="12" numvotes="78" />
+					<result value="14" numvotes="19" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="176">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="26" />
+					<result level="5" value="Unplayable in another language" numvotes="142" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="118771" value="Components: Oversized Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="118687" value="Versions &amp; Editions: Bigger Versions of Regular-Size Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="421137" value="Codenames: 10 jarig Jubileum bonus set 2020 NL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213294" value="Codenames: Authors &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224198" value="Codenames: Bonus Pack – Board Gaming (English)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="221824" value="Codenames: Bonus Pack – Board Gaming (German)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215603" value="Codenames: Bonus Pack – CGE Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295466" value="Codenames: Bonus Pack – Literatur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="387517" value="Codenames: Bonus Pack – Schweiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293928" value="Codenames: Bonus Pack – Through the Ages" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367802" value="Codenames: Bonus Pack – Webhallen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225039" value="Codenames: Bonuskaarten 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262581" value="Codenames: Bonuskaarten 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319890" value="Codenames: Bonuskaarten 2019" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319891" value="Codenames: Bonuskaarten 2020" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="448679" value="Codenames: Brazil Promotional Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234198" value="Codenames: Cartes promo – Personnalités" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264856" value="Codenames: Cartes promo – Univers Geek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="464602" value="Codenames: Fairy Tales Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227990" value="Codenames: Mini-Erweiterung – Weihnachten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="464604" value="Codenames: Sci-Fi Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363088" value="Código Secreto: Expansão promocional Brasil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363092" value="Código Secreto: Expansão promocional Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350213" value="Código Secreto: Expansión promocional Américas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292037" value="Código secreto: Expansión promocional Andalucía" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="342140" value="Código Secreto: Expansión promocional Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318899" value="Código Secreto: Expansión promocional Chile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316876" value="Código Secreto: Expansión Promocional México" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205611" value="Deutscher Spielepreis 2016 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="240994" value="Fedőnevek: Magyar bónusz csomag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428507" value="Krycí jména: Bonusové karty – 10 let MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353668" value="Nome in Codice: Carte Bonus Comics and Games 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310511" value="Nome in Codice: Carte Bonus da Torneo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347651" value="Tajniacy: Agenci na kwarantannie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307032" value="Tajniacy: Fantastyczne Światy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234643" value="Tajniacy: Nowi Agenci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253443" value="Tajniacy: Obcy Agenci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234644" value="Tajniacy: Sami Nieswoi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377424" value="コードネーム　ボーナスパック　COOL JAPAN (Codenames: Bonus Pack – COOL JAPAN)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377425" value="コードネーム　ボーナスパック　JAPAN2020 (Codenames: Bonus Pack 2 – Japan 2020)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="461847" value="코드네임: 미니획장1 – 합성어 동물 (Codenames: Mini-Expansion 1 – Compound Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345093" value="Codenames: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="462816" value="Codenames: Card Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="221005" value="Codenames: Character Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="410635" value="Codenames: GeekMod Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="464061" value="Codenames: InMyBox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271940" value="Codenames: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="268232" value="Codenames: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="264050" value="Codenames: Special Christmas Bonus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319074" value="Codenames: The Game Doctors Insert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="205158" value="Codenames: Deep Undercover" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="220775" value="Codenames: Disney – Family Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="224037" value="Codenames: Duet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="249821" value="Codenames: Harry Potter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="220774" value="Codenames: Marvel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="198773" value="Codenames: Pictures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="366383" value="Codenames: Singapore Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="290028" value="Codenames: The Simpsons" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="272910" value="Codenames: Malaysia Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="450782" value="Codenames: Back to Hogwarts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="301628" value="Codenames: Blizzard Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="789" value="Vlaada Chvátil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119981" value="Dávid Jablonovský" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114458" value="Filip Murmak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119983" value="František Sedláček" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38045" value="Cuaca Cerah Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56725" value="Gaming Library" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57696" value="Goblin Gaming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22763" value="Golden Egg Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38505" value="HeidelBÄR Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40841" value="Land of Beautiful Mind (سرزمین ذهن زیبا)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41676" value="Liam Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22973" value="More Fun Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36366" value="Pridemage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="105575" />
+			<average value="7.52338" />
+			<bayesaverage value="7.42702" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="163" bayesaverage="7.42702" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="6" bayesaverage="7.43584" />
+												</ranks>
+
+			<stddev value="1.30057" />
+			<median value="0" />
+			<owned value="183626" />
+			<trading value="1495" />
+			<wanting value="365" />
+			<wishing value="8064" />
+			<numcomments value="13737" />
+			<numweights value="2623" />
+			<averageweight value="1.2524" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="421137">
+         <thumbnail>https://cf.geekdo-images.com/ujv5bSuLipt8AAKpEAMPgg__small/img/QVR7OOxRQv9x0yeeYEsB3ty4w4Y=/fit-in/200x150/filters:strip_icc()/pic8240152.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ujv5bSuLipt8AAKpEAMPgg__original/img/D1iSUyYTOW-LQO_ulaxYIk4l_ks=/0x0/filters:format(jpeg)/pic8240152.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: 10 jarig Jubileum bonus set 2020 NL" />
+			
+						                           
+						               													<description>A set of 10 extra cards with (regular) Dutch words for the 10th anniversary of the Dutch version of Codenames.
+
+Set is marked with NL05
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="213294">
+         <thumbnail>https://cf.geekdo-images.com/Q7z52sO9Erkmx-iHOU4nQA__small/img/DD4N8j5SePF0IILflL23git-eRs=/fit-in/200x150/filters:strip_icc()/pic3272917.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Q7z52sO9Erkmx-iHOU4nQA__original/img/GXaitHX8b7aK9kHUYeiziRVP6-c=/0x0/filters:format(jpeg)/pic3272917.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Authors &amp; Games" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames: Autoren &amp; Spiele" />
+			
+						               													<description>Contained in the Deutscher Spielepreis 2016 Goodie Box
+
+These cards (32) may be shuffled in with the other cards or used by themselves.
+
+On one side are the titles of popular board games, on the other side is the name of the designer for the game.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6 players" />
+  <result name="recommmendedwith" value="Recommended with 4–6, 8 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="0" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61998" value="Celebrities: Boardgame Celebrities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="205611" value="Deutscher Spielepreis 2016 Goodie Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="93" />
+			<average value="6.20753" />
+			<bayesaverage value="5.52771" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.52771" />
+												</ranks>
+
+			<stddev value="1.89244" />
+			<median value="0" />
+			<owned value="656" />
+			<trading value="35" />
+			<wanting value="42" />
+			<wishing value="97" />
+			<numcomments value="54" />
+			<numweights value="3" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="450782">
+         <thumbnail>https://cf.geekdo-images.com/YOEK9mQe0OkWITHmq8Yqqg__small/img/XOp7SGsdL46r3FjVKqTBjcP0qis=/fit-in/200x150/filters:strip_icc()/pic9001898.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YOEK9mQe0OkWITHmq8Yqqg__original/img/WUUahDGEb_weK6vN9N2uaTkD7mc=/0x0/filters:format(jpeg)/pic9001898.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Back to Hogwarts" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames: Retour à Poudlard" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames: Terug naar Zweinstein" />
+			    				
+				<name type="alternate" sortindex="1" value="Codenames: Zurück nach Hogwarts" />
+			    				
+				<name type="alternate" sortindex="1" value="Código Secreto: Regreso a Hogwarts" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycí jména: Zpátky do Bradavic" />
+			    				
+				<name type="alternate" sortindex="1" value="Krycie mená: Návrat do Rokfortu" />
+			    				
+				<name type="alternate" sortindex="1" value="Nome in Codice: Back to Hogwarts" />
+			    				
+				<name type="alternate" sortindex="1" value="Tajniacy: Powrót do Hogwartu" />
+			    				
+				<name type="alternate" sortindex="1" value="Кодові імена: Назад у Гоґвортс" />
+			
+						               													<description>Codenames: Back to Hogwarts puts a fresh spin on the classic Codenames word association gameplay, while offering thematic new mechanics to change up the gameplay for both longtime fans and new players alike.
+
+As new first-year students at Hogwarts, players will be sorted into two rival houses, each with their own prefect who knows the secrets of the fabled school&amp;rsquo;s mystery card grid. On their turn, prefects give their team of students a clue consisting of a single word and a number suggesting how many cards are associated with that word. Students must then follow these clues to explore Hogwarts by guessing the corresponding words and revealing one card at a time.
+
+If they&amp;rsquo;re correct, they can keep guessing words up to the stated number of times. If they encounter a card for the rival house, a dead end, locked door, or other obstacle, they&amp;rsquo;ll end their turn. Take care not to get caught by groundskeeper Argus Filch, however, as that ends the game and marks a win for the rival house. Every win also earns points for their house, which can be tracked across multiple play sessions in the House Cup.
+
+Beneath the surface, this should sound very familiar to existing fans of Codenames&amp;mdash;at least mechanically. Codenames: Back to Hogwarts also adds new layers of strategic depth onto the classic Codenames gameplay in the form of unique asymmetrical abilities.
+
+Each house has access to two powerful and distinct special abilities. These abilities have been designed to meaningfully transform the fundamentals of Codenames, providing both muggles and wizards with some surprising new gameplay possibilities. Because each game features two different houses, and each house will use only one of its two abilities, there are a multitude of possible combinations for players to explore and play!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5608" value="Books: Harry Potter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109412" value="Components: RE-Wood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113560" value="Theme: Wizards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="249821" value="Codenames: Harry Potter" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="152613" value="Štěpán Drašťák" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115373" value="Ondřej Hrdina" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38505" value="HeidelBÄR Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="825" />
+			<average value="5.91077" />
+			<bayesaverage value="5.61681" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8724" bayesaverage="5.61681" />
+												</ranks>
+
+			<stddev value="4.09391" />
+			<median value="0" />
+			<owned value="593" />
+			<trading value="1" />
+			<wanting value="18" />
+			<wishing value="297" />
+			<numcomments value="224" />
+			<numweights value="21" />
+			<averageweight value="1.7619" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="301628">
+         <thumbnail>https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__small/img/hxKPPxIowA-hW-O_lEw1-OThavI=/fit-in/200x150/filters:strip_icc()/pic5228682.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DpDmqJnXlVEy8zvZpsq5-A__original/img/HPAKz8YVFrs9amB6wqgmsc8q36w=/0x0/filters:format(jpeg)/pic5228682.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Blizzard Edition" />
+			
+						                           
+						               													<description>Codenames: Blizzard Edition is an officially licensed edition of Codenames, published by The Op Games for Blizzard Entertainment.  This edition was not a retail product, only being made available to Employees of Blizzard Entertainment as a company Holiday Gift in 2019.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 8 players" />
+  <result name="recommmendedwith" value="Recommended with 5–8+ players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11505" value="Promotional: Board Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="34" />
+			<average value="6.90441" />
+			<bayesaverage value="5.51373" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21857" bayesaverage="5.51373" />
+												</ranks>
+
+			<stddev value="2.48674" />
+			<median value="0" />
+			<owned value="116" />
+			<trading value="6" />
+			<wanting value="15" />
+			<wishing value="65" />
+			<numcomments value="10" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="224198">
+         <thumbnail>https://cf.geekdo-images.com/Y-j2nChNDlTPskj0dVVPRA__small/img/nhI-UWTnic7-8BxSC6fib2Od2c8=/fit-in/200x150/filters:strip_icc()/pic8249652.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Y-j2nChNDlTPskj0dVVPRA__original/img/7mi57kE4045TXaZuTqa3r0coB7g=/0x0/filters:format(jpeg)/pic8249652.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Board Gaming (English)" />
+			
+						                           
+						               													<description>Found in Spielbox Issue 1-2017 English Edition. Also came with Game Boy Geek 2018 Kickstarter Family Pack.
+
+Bonus Pack contains 10 double-sided cards with terms based on typical board gaming words and lingo.
+
+Euro/Family
+Roleplay/Chance
+Mini/Author
+Expansion/Strategy
+Geek/Cube
+Tile/Party
+Turn/Review
+Loss/Token
+Illustrator/Victory
+Analysis/Paralysis
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8+ players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="137" />
+			<average value="7.08832" />
+			<bayesaverage value="5.58996" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58996" />
+												</ranks>
+
+			<stddev value="1.45547" />
+			<median value="0" />
+			<owned value="1121" />
+			<trading value="74" />
+			<wanting value="26" />
+			<wishing value="58" />
+			<numcomments value="98" />
+			<numweights value="4" />
+			<averageweight value="1.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="221824">
+         <thumbnail>https://cf.geekdo-images.com/yggOdMcVhjA_aZOkOIVWjw__small/img/5bopmQ_tYF5MKOnRdLN8fPMaQlc=/fit-in/200x150/filters:strip_icc()/pic3491549.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yggOdMcVhjA_aZOkOIVWjw__original/img/QWn1vPSDt8XmK8yPx47PtACd70k=/0x0/filters:format(jpeg)/pic3491549.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Board Gaming (German)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames: Mini-Erweiterung – Spielbox Promo" />
+			
+						               													<description>10 cards with 20 new words around boardgames included in Spielbox magazine 2017/1 German Edition.
+
+Sieger / Verlierer (meaning winner / loser)
+P&amp;ouml;ppel / Verlag (meeple / publisher)
+Strategie / Taktik (strategy / tactics)
+Nachdruck / Rezension (reprint / review)
+Autor / Marker (author / marker)
+Auflage / Gegner (edition / opponent)
+Erweiterung / Chip (expansion / chip)
+Kooperation / Brett (cooperation / board)
+Gesellschaft / Anleitung (company / instructions)
+Heidelberger / Spielbox (the publisher of the German Codenames / the magazine)
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="0" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3001" value="W. Nostheide Verlag GmbH" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="35" />
+			<average value="6.7" />
+			<bayesaverage value="5.51642" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51642" />
+												</ranks>
+
+			<stddev value="1.57299" />
+			<median value="0" />
+			<owned value="233" />
+			<trading value="9" />
+			<wanting value="7" />
+			<wishing value="23" />
+			<numcomments value="19" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="215603">
+         <thumbnail>https://cf.geekdo-images.com/5puQcLPpHxgEIEmu9Y6rrA__small/img/JzdE25Lyy78fXlSjw4GhU1A8ruc=/fit-in/200x150/filters:strip_icc()/pic8249650.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5puQcLPpHxgEIEmu9Y6rrA__original/img/CLVpBbc2HYvWJXIfc8L9ev6P4AM=/0x0/filters:format(jpeg)/pic8249650.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – CGE Games" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Codenames: CGE Games Bonus Pack" />
+			
+						               													<description>This is a promo pack of ten additional double-sided cards for Codenames.
+
+Goblin / League
+Dungeon / Trucker
+Codename / Alchemist
+Blog / Legend
+Calendar / Last Will
+Moose / Pictomania
+Sneak / Pet
+Prodigals Club / Shipyard
+Century / Alert
+Age / Adrenaline
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4, 6 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="45" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="84" />
+			<average value="6.70357" />
+			<bayesaverage value="5.54212" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54212" />
+												</ranks>
+
+			<stddev value="1.69076" />
+			<median value="0" />
+			<owned value="659" />
+			<trading value="40" />
+			<wanting value="37" />
+			<wishing value="69" />
+			<numcomments value="47" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="295466">
+         <thumbnail>https://cf.geekdo-images.com/uYINR9e1n0-74W010ETt8w__small/img/DILBow5NFlMi2PBineKIjqqbpBI=/fit-in/200x150/filters:strip_icc()/pic5106733.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uYINR9e1n0-74W010ETt8w__original/img/kMDJnzxAQCAB2XkVXoMAi_UN3fY=/0x0/filters:format(jpeg)/pic5106733.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Literatur" />
+			
+						                           
+						               													<description>10 bonuscards for Codenames with a literature theme.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="7.55556" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.42292" />
+			<median value="0" />
+			<owned value="59" />
+			<trading value="6" />
+			<wanting value="12" />
+			<wishing value="28" />
+			<numcomments value="6" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="387517">
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Schweiz" />
+			
+						                           
+						               													<description>Ten new Switzerland themed cards for Codenames.
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10311" value="Country: Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="3.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.5" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="6" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="293928">
+         <thumbnail>https://cf.geekdo-images.com/-MZzTv6Qg1wW8qhZ-UPwrw__small/img/VADJj7FxgqRgUJ3jIcuyo2BnfFo=/fit-in/200x150/filters:strip_icc()/pic5047098.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-MZzTv6Qg1wW8qhZ-UPwrw__original/img/HciT7A-Izn7ZYS9myQsFsbIHxVw=/0x0/filters:format(jpeg)/pic5047098.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Through the Ages" />
+			
+						                           
+						               													<description>Bonus Pack contains 10 double-sided cards with terms based on Through the Ages.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2, 4, 6 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4–8+ players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="23" />
+			<average value="7.65652" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.40026" />
+			<median value="0" />
+			<owned value="261" />
+			<trading value="15" />
+			<wanting value="21" />
+			<wishing value="34" />
+			<numcomments value="17" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="367802">
+         <thumbnail>https://cf.geekdo-images.com/WEuaSQNHXmdtJO26_REvHw__small/img/Lj0iAwMyXAK-9ktp_oIc9zI0zQc=/fit-in/200x150/filters:strip_icc()/pic6983349.png</thumbnail>
+      <image>https://cf.geekdo-images.com/WEuaSQNHXmdtJO26_REvHw__original/img/n9OTA3s7FW8Yt9Jbl5UH0tYJogY=/0x0/filters:format(png)/pic6983349.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonus Pack – Webhallen" />
+			
+						                           
+						               													<description>10 bonuscards for Codenames with a tech theme.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="225039">
+         <thumbnail>https://cf.geekdo-images.com/uOqxkw11MqU7xl1O3TWfDQ__small/img/dO8EqEktADyVVLOk_c7KiKLIAwI=/fit-in/200x150/filters:strip_icc()/pic3510705.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uOqxkw11MqU7xl1O3TWfDQ__original/img/gAqihQz8WPHlBxN1ADMVaYTZtys=/0x0/filters:format(jpeg)/pic3510705.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonuskaarten 2016" />
+			
+						                           
+						               													<description>A set of 9 extra cards with (regular) Dutch words for the Dutch version of Codenames.
+
+The cards are:
+
+     Amber/Zout
+     Lavendel/Heet
+     Zwart/Worst
+     Blank/Koffie
+     Jasmijn/Tong
+     Marine/Spek
+     Grijs/Beleg
+     Zilver/Chili
+     Zalm/Schuim
+
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="7.04839" />
+			<bayesaverage value="5.52075" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.52075" />
+												</ranks>
+
+			<stddev value="1.01881" />
+			<median value="0" />
+			<owned value="163" />
+			<trading value="5" />
+			<wanting value="0" />
+			<wishing value="14" />
+			<numcomments value="15" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="262581">
+         <thumbnail>https://cf.geekdo-images.com/uQt7NCR46x5nTSO4lNbNUQ__small/img/cM-RBogzcvUnBJn34L2UriOTFZo=/fit-in/200x150/filters:strip_icc()/pic4422983.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uQt7NCR46x5nTSO4lNbNUQ__original/img/ruaUZVtb81unQez2wJn3stBP2HY=/0x0/filters:format(jpeg)/pic4422983.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonuskaarten 2018" />
+			
+						                           
+						               													<description>A set of 10 extra cards with (regular) Dutch words for the Dutch version of Codenames.
+
+The cards are:
+
+     Doel/Foxtrot
+     Racket/Draai
+     Race/Maat
+     Horde/Samba
+     Diploma/Salsa
+     Record/Vloer
+     Team/Ritme
+     Basket/Disco
+     Atletiek/Ballet
+     Trainer/Choreograaf
+
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60165" value="Stéphane Ganthiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21" />
+			<average value="7.2619" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.995455" />
+			<median value="0" />
+			<owned value="105" />
+			<trading value="4" />
+			<wanting value="1" />
+			<wishing value="12" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="319890">
+         <thumbnail>https://cf.geekdo-images.com/HDz6bW9NRq5tMx7kxsA9mA__small/img/m9_s3P_pbjh0EKHnJSFo_-NtnBI=/fit-in/200x150/filters:strip_icc()/pic5664699.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HDz6bW9NRq5tMx7kxsA9mA__original/img/DsmGXtQPTyF-jOyUBZ_kieCylfc=/0x0/filters:format(jpeg)/pic5664699.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonuskaarten 2019" />
+			
+						                           
+						               													<description>A set of 10 extra cards with (regular) Dutch words for the Dutch version of Codenames.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60165" value="Stéphane Ganthiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="7.05556" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.895806" />
+			<median value="0" />
+			<owned value="56" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="319891">
+         <thumbnail>https://cf.geekdo-images.com/M_LmY4ancJOJ8BW8TFywdQ__small/img/UWGLh8v0RK50Nv8IaQNZXVV3zjM=/fit-in/200x150/filters:strip_icc()/pic5664705.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/M_LmY4ancJOJ8BW8TFywdQ__original/img/scaYcifi4xlO9bOT7IMSQ2R7yOU=/0x0/filters:format(jpeg)/pic5664705.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Bonuskaarten 2020" />
+			
+						                           
+						               													<description>A set of 10 extra cards with (regular) Dutch words for the Dutch version of Codenames.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–8 players" />
+  <result name="recommmendedwith" value="Recommended with 4–8 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60165" value="Stéphane Ganthiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="7.00909" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.863876" />
+			<median value="0" />
+			<owned value="50" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="448679">
+         <thumbnail>https://cf.geekdo-images.com/r2iPbcUhBdceoP54-3Brag__small/img/FgqVoUA3PgJ1s1GTtXB8vqlpvJc=/fit-in/200x150/filters:strip_icc()/pic8951683.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/r2iPbcUhBdceoP54-3Brag__original/img/Kd-UEMm2fQAtYIXSEifV2ZFbsWA=/0x0/filters:format(jpeg)/pic8951683.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Brazil Promotional Expansion" />
+			
+						                           
+						               													<description>This promotional pack is produced by Devir and contains 10 cards with 20 new words in Portuguese.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="99" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="234198">
+         <thumbnail>https://cf.geekdo-images.com/0ChDmXMCudAe8jDnLzWlQA__small/img/EfSkoeKWtUITT-jesI8-T1hFpFQ=/fit-in/200x150/filters:strip_icc()/pic3719939.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0ChDmXMCudAe8jDnLzWlQA__original/img/VwXNy6A55JijUtcQ-nEyrtGXHzI=/0x0/filters:format(jpeg)/pic3719939.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Cartes promo – Personnalités" />
+			
+						                           
+						               													<description>This is a promo pack of ten additional double-sided cards for Codenames.
+
+Michael Jackson / Laure Manaudou
+Zin&amp;eacute;dine Zidane / Barack Obama
+Albert Einstein / Angelina Jolie
+Cl&amp;eacute;op&amp;acirc;tre / Michael Jordan
+C&amp;eacute;line Dion / Chuck Norris
+L&amp;eacute;onard de Vinci / &amp;Eacute;dith Piaf
+Jacques Chirac / Marie Curie
+Steven Spielberg / Nelson Mandela
+Jeanne d'Arc / Jamel Debbouze
+Shakespeare / Lady Gaga
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="6.71333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.48003" />
+			<median value="0" />
+			<owned value="99" />
+			<trading value="7" />
+			<wanting value="24" />
+			<wishing value="41" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="264856">
+         <thumbnail>https://cf.geekdo-images.com/jbIQv3YskKhvcdoKetTu4A__small/img/4HfN-iNgY7CbeYlwWT1-UunHyP0=/fit-in/200x150/filters:strip_icc()/pic4424793.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jbIQv3YskKhvcdoKetTu4A__original/img/gpZnXeyxJEKaIXcLBqcL0nho9Xc=/0x0/filters:format(jpeg)/pic4424793.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Cartes promo – Univers Geek" />
+			
+						                           
+						               													<description>This is a promo pack of ten additional double-sided cards for Codenames.
+
+Catwoman / Lara Croft
+Diablo / Mordor
+Godzilla / Zelda
+Gollum / Mickey
+Homer Simpson / Pikachu
+Jack Sparrow / Luigi
+James Bond / Narnia
+Poudlard / Sangoku
+Princesse Leia / Wolverine
+Westeros / Yoda
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178900" value="Codenames" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205158" value="Codenames: Deep Undercover" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224037" value="Codenames: Duet" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28450" value="Tomáš Kučerovský" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114458" value="Filip Murmak" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.19896" />
+			<median value="0" />
+			<owned value="53" />
+			<trading value="2" />
+			<wanting value="26" />
+			<wishing value="39" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="465849">
+         <thumbnail>https://cf.geekdo-images.com/TZBC8xrO8CoL1wZLrvnusA__small/img/3CMqEdgJJpc5prg8eGM_w2Ovios=/fit-in/200x150/filters:strip_icc()/pic9658208.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TZBC8xrO8CoL1wZLrvnusA__original/img/8g2ELkF3vbE5PnE5lbiqpHJpsp0=/0x0/filters:format(jpeg)/pic9658208.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Codenames: Critical Role Adventures" />
+			
+						                           
+						               													<description>Enter the world of Exandria, a land of infinite wonder and unexpected champions, and experience the Critical Role adventures through Codenames. Assemble a party of heroes from the first three Critical Role campaigns, embark on missions, and level up your characters to defeat the final boss.
+
+Codenames: Critical Role Adventures is a unique take on Codenames inspired by the Critical Role universe. It&amp;rsquo;s a fully cooperative version of the game where one GM (game master) leads their party through perilous missions, each with its own twist and take on the classic Codenames rules and featuring a new set of themed words. Play the game in three separate campaigns, choose from seven Critical Role characters, and, by levelling them up, unlock new abilities and equip items to use during missions.
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2, 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4+ players" />
+</poll-summary> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37062" value="Game: Codenames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76562" value="Webcomics: Critical Role" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="476569" value="Codenames: Critical Role Adventures – Traveler&#039;s Leaflet Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="465851" value="Codenames: Critical Role Adventures – Vox Machina Expansion Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="173841" value="Felix Podlesny" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="173811" value="David Aghamyan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="152613" value="Štěpán Drašťák" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119981" value="Dávid Jablonovský" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition (CGE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38505" value="HeidelBÄR Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="114" />
+			<average value="8.46082" />
+			<bayesaverage value="5.61783" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8677" bayesaverage="5.61783" />
+												</ranks>
+
+			<stddev value="1.24688" />
+			<median value="0" />
+			<owned value="353" />
+			<trading value="1" />
+			<wanting value="50" />
+			<wishing value="396" />
+			<numcomments value="45" />
+			<numweights value="3" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

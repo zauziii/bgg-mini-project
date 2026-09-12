@@ -1,0 +1,5064 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="183833">
+         <thumbnail>https://cf.geekdo-images.com/pJWvUWQhzV-bDkQQDPEOOQ__small/img/n8p9o3C2lR7EkH8tHIvp5p5nL2o=/fit-in/200x150/filters:strip_icc()/pic5160745.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pJWvUWQhzV-bDkQQDPEOOQ__original/img/oVoRuQfnMQxuqGYvBrERKwRCFhU=/0x0/filters:format(jpeg)/pic5160745.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Hanabi: Master Artisan Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hanabi: Die Bonus-Plättchen" />
+			
+						               													<description>Hanabi: Die Bonus-Pl&amp;auml;ttchen, also known as Hanabi: Master Artisan Expansion, adds six bonus tokens to the Hanabi card game. The deluxe version of the expansion adds six bonus tiles to the Hanabi Deluxe base game. Hanabi Deluxe II already contains the 6 tiles of the Master Artisan Expansion.
+
+Shuffle these tokens face down, then place them near the clue tokens. Instead of flipping a clue token when correctly playing the fifth card of a color, flip a bonus token instead and carry out the special action. The action must be carried out immediately.  These actions allow the fireworks master (i.e., the oldest player in the game per the ABACUSSPIELE rules) to:
+
+
+    Flip a clue token already used (as in the base game) [&amp;times;2].
+    Choose a card from the discard pile and shuffle it back into the draw pile [&amp;times;2].
+    Choose another player and tell her the color AND value of a card in her hand (does not require use of a clue token).
+    Flip up to two unused thunderstorm/fuse tokens to flip an equal number of used clue tokens.
+
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46216" value="Game: Hanabi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81801" value="Theme: Fireworks" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="98778" value="Hanabi" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="272743" value="Hanabi Deluxe II" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9714" value="Antoine Bauza" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29" value="ABACUSSPIELE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="105" value="R&amp;R Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="161" />
+			<average value="6.89575" />
+			<bayesaverage value="5.59018" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59018" />
+												</ranks>
+
+			<stddev value="1.60193" />
+			<median value="0" />
+			<owned value="903" />
+			<trading value="36" />
+			<wanting value="34" />
+			<wishing value="104" />
+			<numcomments value="80" />
+			<numweights value="3" />
+			<averageweight value="2.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="149310">
+         <thumbnail>https://cf.geekdo-images.com/XrC-mvE1gRLg6hCj27VrGQ__small/img/BaRFlyPbeNH4DD7j7Lbr-v8NJl0=/fit-in/200x150/filters:strip_icc()/pic1802323.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/XrC-mvE1gRLg6hCj27VrGQ__original/img/O-0JW5Q-tY2vyiFq3AJr_zU6_9o=/0x0/filters:format(jpeg)/pic1802323.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Hanabi: ¡Gana o explota!" />
+			
+						                           
+						               													<description>Hanabi (Cordobesian) variant rules, printed as a mini-expansion card for the Spanish edition of Hanabi (Cocktail Games - Asmod&amp;eacute;e Ib&amp;eacute;rica).
+Free promo item at the Festival Internacional de Juegos C&amp;oacute;rdoba 2013.
+
+</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="(Undetermined)" />
+  <result name="recommmendedwith" value="(Undetermined)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46216" value="Game: Hanabi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25436" value="Organizations: Board Games Association of Creators in Spain (LUDO)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81801" value="Theme: Fireworks" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="98778" value="Hanabi" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9714" value="Antoine Bauza" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41726" value="Jesús Torres Castro" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26040" value="Festival Internacional de Juegos de Córdoba" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8842" value="Jugamos Tod@s" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="7.26316" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5076" />
+			<median value="0" />
+			<owned value="43" />
+			<trading value="1" />
+			<wanting value="12" />
+			<wishing value="30" />
+			<numcomments value="7" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="239006">
+         <thumbnail>https://cf.geekdo-images.com/g-IqPSgRcZCWm91kTihNHg__small/img/NfemAOFzH6qeZRfMnQPy9iifQno=/fit-in/200x150/filters:strip_icc()/pic3817440.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/g-IqPSgRcZCWm91kTihNHg__original/img/4VnStboueimM9J6tNxGfzGR5SsE=/0x0/filters:format(jpeg)/pic3817440.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="テーブル花火 (Table Hanabi)" />
+			
+						                           
+						               													<description>User summary
+Table Hanabi (テーブル花火) (Te-buru Hanabi) is a balancing game where players strive to expand seven colors like an exploding firework (Hanabi is the Japanese word for firework). Not overly strategical nor a game of deep dilemmas &amp;mdash; however, the game does offer plenty of suspense and uncertainty, requiring finesse in order for a player to retain the proper balance.
+
+Color, shape, and size have a high impact while players build up vibrant fireworks that skyrocket off the table.
+
+Publisher's summary
+花火のように、大きく七色に広がるバランスゲームです。
+戦略性やジレンマなどのゲーム性はほとんどありませんが、グラグラ感や繊細さやハラハラ感などのバランス性はたっぷりあります。
+色、形、大きさのインパクトが高く、積み上がっていくうちに華やかな花火が卓上に打ち上がります。
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81801" value="Theme: Fireworks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="104280" value="Masoccer (マサッカー)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37640" value="39game (39芸夢)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.875" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.24373" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="2740">
+         <thumbnail>https://cf.geekdo-images.com/4L06rMu4eBYjWN_2cAp4GA__small/img/gUUMGcemdnM44bt_NnyEK2C-kx8=/fit-in/200x150/filters:strip_icc()/pic65273.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4L06rMu4eBYjWN_2cAp4GA__original/img/OTaFJ8wxcrKGAONuoADjxwzEe3M=/0x0/filters:format(jpeg)/pic65273.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Jumbo Jet" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Aero Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Aeromonopoly" />
+			
+						               													<description>This game is a Monopoly variant, with an international airways theme.  The board depicts the world and many of the world's major cities.  Each player controls an airline (represented by a coloured tail fin).  To kick off with a player starts at home base and picks up a card which has the name of a city on it.  The player flies to that city and returns to base, then gets the landing rights for that city.  Anyone landing there in future must pay for the privilege.  More landing rights must be paid if the player owns a "set" made up of several cities in that country/continent.
+
+Airlines represented are British Airways, Lufthansa, Air France, Alitalia, KLM and SAS.
+
+Contents (Jumbo Jet editions):
+
+
+     Game board
+     2 six-sided dice
+     6 playing pieces
+     6 flight arrows
+     6 x 8 route-right indicators
+     22 chance cards (red)
+     38 booking tickets (blue)
+     'Jumbo' play money in denominations of 1000, 2000, 5000, 10000, 50000 and 100000 
+
+
+</description>
+										      	               				<yearpublished value="1975" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2421" value="Dick de Rijk" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1299" value="Diset S. A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6892" value="MIKA" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="302" />
+			<average value="4.95375" />
+			<bayesaverage value="5.42599" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30960" bayesaverage="5.42599" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3580" bayesaverage="5.39293" />
+												</ranks>
+
+			<stddev value="1.75828" />
+			<median value="0" />
+			<owned value="662" />
+			<trading value="34" />
+			<wanting value="2" />
+			<wishing value="21" />
+			<numcomments value="103" />
+			<numweights value="26" />
+			<averageweight value="1.5385" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="1931">
+         <thumbnail>https://cf.geekdo-images.com/ziGP5j3xzoLES0N8eorLbg__small/img/5TbjYhbPJ4UxxgvT3QiOVcZo0bM=/fit-in/200x150/filters:strip_icc()/pic1214933.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ziGP5j3xzoLES0N8eorLbg__original/img/hHvC93StU6KdwulXyz3QT5jmY90=/0x0/filters:format(jpeg)/pic1214933.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Anti-Monopoly" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Anti" />
+			    				
+				<name type="alternate" sortindex="1" value="Anti-monopol" />
+			    				
+				<name type="alternate" sortindex="1" value="Anti-Monopoli" />
+			    				
+				<name type="alternate" sortindex="1" value="Anty-Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Анти-Монополия" />
+			
+						               													<description>(Note: Not to be confused with Anti-Monopoly II. Please be careful when submitting new versions of this game; basically, anything published after 1987 will almost certainly be Anti-Monopoly II and belong to that game, even if it's called "Anti-Monopoly". As for the reasons why this is so, please see the clarifications at the end of this article and the article of Anti-Monopoly II.)
+
+The "Bust~the~Trust!" Game
+
+The basic idea of the game is to end the monopolistic practices of the 3-company-combinations of the game board. The players are Trust-Busting lawyers going about the board slapping lawsuits on the monopolies. The winning trust buster is the one who ends with the largest number of social-credit points when one of the players runs out of money.
+
+There are 3 kinds of company combinations on the board: Oligopolies, Trusts and Monopolies, marked by one, two and three "accusation circles" respectively. "Accusing" is done by placing a small, round chip of the same color as your token on such a circle. When all accusation circles of a combination are covered, the monopolistic practices of that combination have been ended. An accusation chip can be bought from the "Budget-Commissioner"; when lending money, he provides a Social-Credit card as an IOU.
+
+Variant rules are supplied for a Low-Budget Game and a Trading Game.
+
+Anspach fought --and won-- a vicious court battle against Hasbro (and others) over this game.
+
+Anti-Monopoly was briefly (1976-1982) published as "Anti" and "Anti-Monopoly II" was published as "Choice" whilst the company was forbidden to use the word "Monopoly". In 1984 after prevailing in court the company used the names "Anti-Monopoly" and "Anti-Monopoly II" for its two games.  In 1987, Anti-Monopoly was withdrawn and Anti-Monopoly II was renamed "Anti-Monopoly".  The game described here was produced as Anti-Monopoly before 1976 and from 1984 thru 1987.  The game produced as Anti-Monopoly after 1987 is a different game, with the same name. Plenty of potential for confusion there, eh?
+
+</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261955" value="Anti-Monopoly: Luxus-Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="813" value="Ralph Anspach" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21927" value="Anti-Monopoly, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3060" value="Hanky Panky Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="117" value="International Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="661" value="John Sands Pty Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="451" value="National Games, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="782" value="Peter Pan Playthings" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="842" />
+			<average value="3.69882" />
+			<bayesaverage value="5.04547" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="31268" bayesaverage="5.04547" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3661" bayesaverage="4.91329" />
+												</ranks>
+
+			<stddev value="1.77637" />
+			<median value="0" />
+			<owned value="2743" />
+			<trading value="127" />
+			<wanting value="4" />
+			<wishing value="81" />
+			<numcomments value="314" />
+			<numweights value="41" />
+			<averageweight value="1.6585" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="1932">
+         <thumbnail>https://cf.geekdo-images.com/yvk037jAt4jS7kWK-o3aAg__small/img/mOjWXIn4JkIMzOxpfMtbWIaR6NY=/fit-in/200x150/filters:strip_icc()/pic438333.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yvk037jAt4jS7kWK-o3aAg__original/img/iLBCJ2QV-Maa-m0s6lHdywjpUhk=/0x0/filters:format(jpeg)/pic438333.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Anti-Monopoly II" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Anti-Monopoli" />
+			    				
+				<name type="alternate" sortindex="1" value="Anti-Monopoli II" />
+			    				
+				<name type="alternate" sortindex="1" value="Anti-Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Anti-Monopoly Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Anty-Monopoly" />
+			
+						               													<description>(Note: Not to be confused with the original Anti-Monopoly, even though recent versions of Anti-Monopoly II are called simply "Anti-Monopoly". As for the reasons why this is so, please see the clarifications at the end of this article and the article of Anti-Monopoly.)
+
+In this game the players follow either the rules for Monopolists or those for Competitors. Competitors charge fair rents, build as soon as they own a property, place four houses (green) at the most, after which they build a hotel (red) and occasionally go to Price War. On the other hand, Monopolists extort monopoly-high rents from their poor tenants, build only after they have at least two streets of one color, restrict supply by putting only three houses on their properties, after which they also are allowed to build a hotel (red) and occasionally go to prison!
+
+The good guys are the small entrepreneurs and the bad guys are the monopolists. Since players do not play by the same rules, fairness is achieved by a win probability equalization technique (which is where the second author comes in).
+
+Competitors make more money than Monopolists in the beginning of the game but Monopolists can catch up later, especially if Competitors don't watch their money!
+
+The game was first published as "Choice" because Anspach was forbidden to use the word "Monopoly" by the courts. When that was overturned in 1983, the name was changed to "Anti-Monopoly II". In 1987, believing that consumer confusion between Anti-Monopoly and Anti-Monopoly II was harming sales of the latter game, Anspach ceased the production of the original game and removed the "II" from the name of the latter game.
+
+</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109910" value="Versions &amp; Editions: Sequels" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261955" value="Anti-Monopoly: Luxus-Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="813" value="Ralph Anspach" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="254" value="University Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="784" value="Brand Makers International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7818" value="Ferriot Cric" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4977" value="Kirjalito" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="451" value="National Games, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50536" value="Noriel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="486" value="Paul Lamond Games Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="777" value="Simba Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44841" value="Suomen Pelimiehet Oy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="738" value="Talicor/Aristoplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5268" value="Trefl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="426" value="Ungame" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="232" />
+			<average value="3.80384" />
+			<bayesaverage value="5.3564" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="31154" bayesaverage="5.3564" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3620" bayesaverage="5.30649" />
+												</ranks>
+
+			<stddev value="1.6885" />
+			<median value="0" />
+			<owned value="607" />
+			<trading value="35" />
+			<wanting value="3" />
+			<wishing value="30" />
+			<numcomments value="96" />
+			<numweights value="21" />
+			<averageweight value="1.5238" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="1930">
+         <thumbnail>https://cf.geekdo-images.com/3YDxigxi0s5gISmdCfz-jQ__small/img/S0bR0ck2nVIU2lHJ8UjMMtWWu_g=/fit-in/200x150/filters:strip_icc()/pic479823.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3YDxigxi0s5gISmdCfz-jQ__original/img/qcIcHzqiSFltl8SWudpdWCK_wdY=/0x0/filters:format(jpeg)/pic479823.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Anti-Monopoly III: Washington-Moskau" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Star Peace: Anti Nuclear War" />
+			
+						               													<description>Each of the players represents a Nuclear Power.  The aim of the game is to maintain world peace and avoid nuclear war.  An "Arms Spiral" is in the middle of the board, representing the arms race.  When the "BOMB" arrives at the end of the Arms Spiral, world peace is over and everyone has lost!  However, if all players work together in such a way that one reaches the "World Peace" space, then the arms race is over.  All players have won and the one who has contributed the most to maintaining world peace is declared winner.
+
+To prevent destruction each player must simultaneously pursue his own goals as well co-operate with the other players to maintain peace.  Each one can pursue his personal selfish goal to come to a victory, but this promotes the arms race.
+
+The American version of this game is called Star Peace: Anti Nuclear War.
+
+</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261955" value="Anti-Monopoly: Luxus-Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="813" value="Ralph Anspach" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.55841" />
+			<median value="0" />
+			<owned value="32" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="8" />
+			<numcomments value="6" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="261955">
+         <thumbnail>https://cf.geekdo-images.com/yJGSJjR1iq3sQDXZo4ax7g__small/img/9LRh09PLBwsADRNzIFUkAvF2MKU=/fit-in/200x150/filters:strip_icc()/pic4350313.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yJGSJjR1iq3sQDXZo4ax7g__original/img/yNav_l75e6BnSRTJ0XswPgJolxY=/0x0/filters:format(jpeg)/pic4350313.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Anti-Monopoly: Luxus-Edition" />
+			
+						                           
+						               													<description>German special edition with all 3 former Anti-Monopoly games. Limited to 10,000 copies, with numbered document.
+
+</description>
+										      	               				<yearpublished value="1988" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="180" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="1931" value="Anti-Monopoly" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="1932" value="Anti-Monopoly II" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="1930" value="Anti-Monopoly III: Washington-Moskau" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="813" value="Ralph Anspach" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="21659">
+         <thumbnail>https://cf.geekdo-images.com/GP2U7KJPrPBaC_ouxrGE_A__small/img/42xOAJG_2_hYS49lG8EIfeNVtdk=/fit-in/200x150/filters:strip_icc()/pic8469338.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GP2U7KJPrPBaC_ouxrGE_A__original/img/vFiQ8Qt5NKAA3TzgCpG3p-8Co8A=/0x0/filters:format(jpeg)/pic8469338.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Beyond Boardwalk and Park Place (fan expansion for Monopoly)" />
+			
+						                           
+						               													<description>Beyond Boardwalk and Park Place is an unauthorized variant of Monopoly.  Published in the form of a trade paperback, it is designed to address what its authors describe as three problems with the game:
+
+     It takes too long.
+     There's too much luck.
+     There's too much dead time.
+
+
+They go about this by making eleven changes to the rules of the game.  The boldest of these are that the price to purchase a property landed on is doubled, and that a property may not be mortgaged but can instead be sold back to the bank for its "mortgage value."  The game is changed immensely - it is no longer advisable (or even possible) for a player to buy outright every property landed on, and properties frequently go up for public or private auction.
+
+In effect, this variant forces the players to make more difficult decisions, reducing the game's luck factor in favor of more emphasis on bidding and negotiation.
+
+Expands:
+
+    Monopoly
+
+
+</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1406" value="Monopoly" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6536" value="Noel Gunther" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6537" value="Richard Hutton" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5008" value="Bantam Books" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="5.6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.05913" />
+			<median value="0" />
+			<owned value="11" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="11" />
+			<numcomments value="6" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="36487">
+         <thumbnail>https://cf.geekdo-images.com/opov9UFM1UXbISnGUFFY7g__small/img/yDUsBUcB9qZrhRAiY0WROQH1UTk=/fit-in/200x150/filters:strip_icc()/pic334503.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/opov9UFM1UXbISnGUFFY7g__original/img/3xJ1QJq8UVUAZev8fYMXqsLW-ZI=/0x0/filters:format(jpeg)/pic334503.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Burmese Monopoly" />
+			
+						                           
+						               													<description>This is a very primitive copy of Monopoly from Burma (Myanmar).
+It was purchased at a Burmese market in about 1990. As in all monopoly sets, the streets are named differently, but the play is the same. In Burmese Monopoly, all of the streets are named after cities and towns in the country of Burma.
+
+</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10625" value="Country: Burma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.75681" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="27322">
+         <thumbnail>https://cf.geekdo-images.com/Y-gpjbfPFUE2Zd85_i-ECw__small/img/Y9Aw3JXi1T5RsXsZu4UGky7pcww=/fit-in/200x150/filters:strip_icc()/pic172597.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Y-gpjbfPFUE2Zd85_i-ECw__original/img/FAxFVuSd7i7H8QuZ-Ouee5tPWPg=/0x0/filters:format(jpeg)/pic172597.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Chocolate Monopoly" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chocolade Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Chocolat Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Choklad Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Milk Chocolate Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Suklaa Monopoly" />
+			    				
+				<name type="alternate" sortindex="1" value="Σοκολατένια Monopoly" />
+			
+						               													<description>This is only Monopoly in name. The name and visual trademarks are licensed from Hasbro, but any similarity ends there.
+
+The player whose turn it is spins a spinner. This determines where the player places a chocolate piece representing a property color. When all properties of that color or railroad have been placed, the next player to spin that color or railroad gets to eat all those chocolates.
+
+There are 32 pieces of milk chocolate in the game. The winner is the player who accumulates and eats the most pieces of chocolate properties.
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51512" value="Components: Consumable Chocolate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6246" value="Gamesformotion" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="52" />
+			<average value="2.45192" />
+			<bayesaverage value="5.4305" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30941" bayesaverage="5.4305" />
+												</ranks>
+
+			<stddev value="1.92718" />
+			<median value="0" />
+			<owned value="70" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="7" />
+			<numcomments value="25" />
+			<numweights value="5" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="362509">
+         <thumbnail>https://cf.geekdo-images.com/JtGQGodDE6sC7P7uQszhKw__small/img/J8js1k5LXDzxcHaoRNgRak9scvk=/fit-in/200x150/filters:strip_icc()/pic9289988.png</thumbnail>
+      <image>https://cf.geekdo-images.com/JtGQGodDE6sC7P7uQszhKw__original/img/PkPIEmWjGa2ioR5R8XWkdOOemyU=/0x0/filters:format(png)/pic9289988.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Co-opoly: a &quot;conversion kit&quot; for Monopoly" />
+			
+						                           
+						               													<description>A conversion kit that turns the classic game of Monopoly into a co-operative game of tearing down luxury condos and building tiny homes for the people. Co-opoly was nominated for an award for "Best Adaptation" by Indiecade 2019.
+
+&amp;mdash;description from the designer
+
+
+Also refer to: https://www.indiecade.com/co-opoly/
+
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1406" value="Monopoly" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8148" value="Lisa Smedman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48211" value="Monkey Mind Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="402608">
+         <thumbnail>https://cf.geekdo-images.com/dg4kVMhbTUM8z1XnByyNfA__small/img/ymVxmV_yRnfO1DMHBWKIBRv8_TE=/fit-in/200x150/filters:strip_icc()/pic7817198.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/dg4kVMhbTUM8z1XnByyNfA__original/img/Ck0C54_R9OOlh6uYWi2gGhyCDuA=/0x0/filters:format(jpeg)/pic7817198.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Costco Monopoly" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Monopoly Costco Wholesale" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly: Costco" />
+			
+						               													<description>Play your favorite family game while celebrating your favorite shopping experience! This Monopoly game commemorates what has made Costco a destination for 40 years. Every detail in the charming game board design is a Costco-lover&amp;rsquo;s dream. Enjoy playful artwork of 22 locations worldwide lovingly drawn by a Costco Super-fan. The delightful illustration touches every component in the game, including a warehouse guide detailing each location.
+
+Features:
+
+Illustrated gameboard with worldwide Costco properties
+    6 extra-large Costco-themed die-cast tokens
+    Flocked organizer tray and banker&amp;rsquo;s tray
+    12 Costco Warehouse &amp;ldquo;hotels&amp;rdquo; and 32 Food Court Table &amp;ldquo;houses&amp;rdquo;
+    The delightful illustration touches every component in the game
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24099" value="Winning Solutions (WS Game Company)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44" />
+			<average value="6.225" />
+			<bayesaverage value="5.506" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24565" bayesaverage="5.506" />
+												</ranks>
+
+			<stddev value="1.77599" />
+			<median value="0" />
+			<owned value="336" />
+			<trading value="4" />
+			<wanting value="0" />
+			<wishing value="8" />
+			<numcomments value="14" />
+			<numweights value="4" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="13102">
+         <thumbnail>https://cf.geekdo-images.com/_a_OxRY0JXQQJTHDszJVzQ__small/img/XFNCYQvs1Np-P7MtGTgU41GKoTk=/fit-in/200x150/filters:strip_icc()/pic8197703.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_a_OxRY0JXQQJTHDszJVzQ__original/img/eBggT1E27TGEq1bNL56DmoM9IdU=/0x0/filters:format(jpeg)/pic8197703.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Entrepreneur&#039;s Accessory to Monopoly (fan expansion for Monopoly)" />
+			
+						                           
+						               													<description>This game, subtitled "The Power-Business Venture Game", is an unofficial expansion to Monopoly. It comes with a small board that fits exactly into the center of a standard Monopoly game board. The game plays like regular Monopoly but adds Corporations, Leverage Buyouts, Corporate Takeovers, Casinos and Financial Coups into the mix.
+
+Expands
+
+    Monopoly
+
+
+</description>
+										      	               				<yearpublished value="1989" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="2" />
+						               				<minplaytime value="2" />
+						               				<maxplaytime value="2" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1406" value="Monopoly" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2953" value="The Third Dimension" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="8" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="5166">
+         <thumbnail>https://cf.geekdo-images.com/rwapR206AY0H37tAZ-6eqw__small/img/HH8eTb4jEkEjXvypbbQtRkGOeUI=/fit-in/200x150/filters:strip_icc()/pic411222.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rwapR206AY0H37tAZ-6eqw__original/img/kYi5nFYfOmE7ors6PxIdmx_3bus=/0x0/filters:format(jpeg)/pic411222.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Express Monopoly Card Game" />
+			
+						                           
+						               													<description>A different and simpler game from the Monopoly Card Game; this game comes in a double card sized pack with a jigsaw board.
+
+Play consists simply of playing cards from your hand to the board with the aim of being the player to complete a set or Monopoly, at which point you collect the cards in that set in your score pile.  There are special cards which allow you to steal cards sight unseen from other players.  Chance and Community Chest cards act as jokers.
+
+</description>
+										      	               				<yearpublished value="1993" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64788" value="Cities: Atlantic City (New Jersey, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4462" value="Series: Monopoly Derivatives (Official)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1194" value="Tonka Corporation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="128" />
+			<average value="5.05781" />
+			<bayesaverage value="5.47718" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29836" bayesaverage="5.47718" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="951" bayesaverage="5.21419" />
+												</ranks>
+
+			<stddev value="1.73262" />
+			<median value="0" />
+			<owned value="411" />
+			<trading value="18" />
+			<wanting value="1" />
+			<wishing value="11" />
+			<numcomments value="46" />
+			<numweights value="9" />
+			<averageweight value="1.1111" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="108230">
+         <thumbnail>https://cf.geekdo-images.com/L3EcD26K-HQaBByWPiaQkA__small/img/f7VeAQI6KP_cgz8naY447PYAQs8=/fit-in/200x150/filters:strip_icc()/pic1090977.png</thumbnail>
+      <image>https://cf.geekdo-images.com/L3EcD26K-HQaBByWPiaQkA__original/img/JG_WxxhuyetHWuTPK0akjg-UWDg=/0x0/filters:format(png)/pic1090977.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Final Fantasy Monopoly" />
+			
+						                           
+						               													<description>This is a Monopoly game by every standard. The artwork and titles have all been replaced to match the theme of Final Fantasy. Places, names, and people, have been taken from Final Fantasy I to Final Fantasy XIII, also from Final Fantasy Tactics, Final Fantasy Unlimited, Final Fantasy Adventure.
+
+The Monopoly games are the most commercially successful and one of the oldest game franchises in the US. The family of games are re-themed versions of the original Monopoly. The original game was released in 1935 and almost every year sees the launch of rethemed and rebranded editions. The games are published by Parker Brothers, a subsidiary of Hasbro. Gameplay consist of the players trying to acquire wealth through stylized economic system involving the buying, renting, and trading of properties using play money, the roll of the dice for movement a long the board. The object of the game is to own every piece of property and drive the other players into bankruptcy.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2, 4, 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4, 6, 8 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22722" value="Video Game Theme: Final Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="5.71429" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.88088" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="22" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="3446">
+         <thumbnail>https://cf.geekdo-images.com/LUD5JUXNGbX_hHlxkVsWLg__small/img/VVtFxZtEuO2yutX_kJkwpWjcrGw=/fit-in/200x150/filters:strip_icc()/pic519583.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LUD5JUXNGbX_hHlxkVsWLg__original/img/C1QE9TxTpzJ6fHM9petUdltmu8w=/0x0/filters:format(jpeg)/pic519583.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Game Spice: Monopoly Expansion (fan expansion for Monopoly)" />
+			
+						                           
+						               													<description>Game Spice: Monopoly Expansion is a set of 30 new Chance Cards and 30 new Community Chest cards that replace the existing Chance and Community Chest cards. These new cards affect the game far more than the original cards. For example, various cards will allow you to steal property from other players, build houses without owning the whole color group, change your die roll, or charge an opponent double rent. One card even introduces a new victory condition.
+
+This expansion set works with any version of Monopoly.
+
+The author had originally planned to create additional expansions for Monopoly which could provide opportunities to buy the Jail, Tax, and Chance spaces and collect rent on them, various nasty ways to accidentally (and not so accidentally) die, extra railroads and utilities that will allow players to charge obscene amounts of rent, and new ways to extort huge sums of money and favors from friends and family. These ideas never came to fruition.
+
+</description>
+										      	               				<yearpublished value="1988" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1406" value="Monopoly" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1416" value="Bill Ingram" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.3665" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="9" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="11862">
+         <thumbnail>https://cf.geekdo-images.com/w1LNqoHWqa188zceLH39cA__small/img/iG30nIbvqzV9ng8QnqivwM9imsA=/fit-in/200x150/filters:strip_icc()/pic48115.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/w1LNqoHWqa188zceLH39cA__original/img/HhVvsIt41Q-njBHTkvg-8N8p81c=/0x0/filters:format(jpeg)/pic48115.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Gay Monopoly" />
+			
+						                           
+						               													<description>"Gay Monopoly - A celebration of gay life."
+
+Tongue in cheek version of the classic Monopoly.  Player tokens are altered - now you can choose from a jeep, teddy bear, blow drier, leather cap, handcuffs or a stiletto heel.  Properties have been changed to a 'gay' theme as well - e.g. Fire Island and Castro Street.  Instead of buying houses and hotels, you can buy bars and bathhouses.  The money denominations include $3.00 bills.
+
+One departure from the original Monopoly is the inclusion of Family Pride cards.  When landing on the appropriate space, the description of a famous gay man is read aloud, and the player who can correctly identify the person can move ahead to any space on the board.  Also different is the addition of Camp Cards.  When these are drawn, you must perform the indicated action (ie. 'say: 'faaabulous!' six different ways and receive $3).  Finally, there are "hanky code" cards, where the player must identify what each color of the code meant, and what it meant when worn in each (left and right) rear pants pocket.
+
+Rumor has it that there were only a very limited number of copies of this game, as it was produced by The Parker Sisters, a division of Fire Island games, and were sued for copyright infringement by Parker Brothers (the company is no longer in business).
+
+</description>
+										      	               				<yearpublished value="1983" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56129" value="Theme: LGBTQIA" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3752" value="LaDera deMure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3753" value="Toluca deMure" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2612" value="Fire Island Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="56" />
+			<average value="4.70893" />
+			<bayesaverage value="5.47866" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29740" bayesaverage="5.47866" />
+												</ranks>
+
+			<stddev value="3.45565" />
+			<median value="0" />
+			<owned value="55" />
+			<trading value="0" />
+			<wanting value="22" />
+			<wishing value="79" />
+			<numcomments value="22" />
+			<numweights value="7" />
+			<averageweight value="2.7143" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="434437">
+   	                                  				
+				<name type="primary" sortindex="1" value="Hamleys Monopoly" />
+			
+						                           
+						               													<description>Everyone's favourite toy shop (that's us of course) collides with everyone's favourite family game-night argument-starter! Perfect for kids, Hamleys Exclusive Monopoly keeps the theme child-friendly but maintains that competitive spirit for tired and tested Mums and Dads who will take their revenge on their energetic off-spring wherever they can get it. Sorry kids, you're going down. Go team Mum!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11505" value="Promotional: Board Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6442" value="Hamleys" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="94416">
+         <thumbnail>https://cf.geekdo-images.com/9UXCYzZIAvS6x4WuJv4GGA__small/img/h_Bks-lXGtJ4We29igb9ED8k5gY=/fit-in/200x150/filters:strip_icc()/pic939388.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9UXCYzZIAvS6x4WuJv4GGA__original/img/5EBy_UWCqBGqQGMSdFJrnju2N2s=/0x0/filters:format(jpeg)/pic939388.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Harley-Davidson Monopoly: Collector&#039;s Edition" />
+			
+						                           
+						               													<description>Incorporating the classic strategy of the Monopoly game with the Harley-Davidson&amp;reg; legacy of open-road freedom. With a full complement of individually sculptured gaming pieces, each lavishly coated in sterling silver.  Combining legendary Monopoly game graphics with illustrations that celebrate the history of Harley-Davidson&amp;reg; motorcycles, the handsome hardwood-framed playing board is accentuated with corners that are enhanced with silver-toned die-cast bolsters. To house all your components, a custom-designed banker's drawer is fitted into the playing board.
+
+Best of all, the lush green playing surface is luxuriously framed in fine hardwood, to present the classic MONOPOLY game graphics as never before.
+
+Featuring a full complement of gaming pieces, with hotels accented in 24 karat gold and houses accented in sterling silver.
+Complete with hardwood-framed playing board, specially designed "Chance" and "Community Chest" cards and Harley-Davidson&amp;reg; "money."
+
+Authorized by Harley-Davidson&amp;reg; and Hasbro.
+
+</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66177" value="Brands: Harley-Davidson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62255" value="Brands: Vehicles (Cars, Trucks, etc.)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="100" value="Series: Monopoly-Like" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5890" value="Theme: Motorcycles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="896" value="Franklin Mint" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.4187" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="6" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

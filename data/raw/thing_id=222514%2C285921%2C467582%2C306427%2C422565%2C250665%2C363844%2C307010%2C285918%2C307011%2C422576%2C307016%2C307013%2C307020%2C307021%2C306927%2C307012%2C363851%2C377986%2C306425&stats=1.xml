@@ -1,0 +1,7305 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="222514">
+         <thumbnail>https://cf.geekdo-images.com/YGNk9UF-QqLWT58aWiRV7w__small/img/OJRkVH8OmPyCtrpExfCW63phnkE=/fit-in/200x150/filters:strip_icc()/pic3893551.png</thumbnail>
+      <image>https://cf.geekdo-images.com/YGNk9UF-QqLWT58aWiRV7w__original/img/KdB7vv0-cUujU4-eE3udGR1xYKA=/0x0/filters:format(png)/pic3893551.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles" />
+			
+						                           
+						               													<description>In Batman: Gotham City Chronicles, one villain faces off against a team of heroes in one of multiple scenarios. Each hero has their own character, and they control this character by spending energy to perform actions (such as Melee and Ranged attacks, defusing bombs...) recovering more or less energy at the beginning of their turn depending on their stance. If the hero gets damaged, energy moves to a wound area, and if they lose all of their energy, then they're out of action for a while to recover their strength. Each hero has differing strengths for their abilities, and these strengths are represented by colored dice with different values; the more energy a hero spends on an ability, the more dice of that color they can roll.
+
+The villain controls a team of henchmen and iconic villains of the Batman universe, and these characters are represented by tiles on their command board, with the characters costing 1, 2, 3, etc. energy to activate as you move left to right down the line. Once a character is activated, they move to the end of the line, boosting their cost to the maximum value should you want to use them again immediately, and decreasing the cost of the other tiles.
+
+The game-play in Batman: Gotham City Chronicles is based on that of Conan, with revisions to character abilities, the addition of two different types of dice (w/ five types total), and a modified two-player set-up, the Versus Mode, in which each player has a command board and their own team of tiles that they can draft, with heroes facing off against villains.
+
+See also Batman: Gotham City Chronicles - The Roleplaying Game
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="44" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113768" value="Players: Games with expansions that change player count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250968" value="Batman: Gotham City Chronicles – The Batmobile Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285921" value="Batman: Gotham City Chronicles – 5th Player Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="467582" value="Batman: Gotham City Chronicles – Absolute Batman Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306427" value="Batman: Gotham City Chronicles – Amygdala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="422565" value="Batman: Gotham City Chronicles – Anarky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250665" value="Batman: Gotham City Chronicles – Arkham Asylum Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363844" value="Batman: Gotham City Chronicles – Batman (New 52) and Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307010" value="Batman: Gotham City Chronicles – Batman Beyond" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285918" value="Batman: Gotham City Chronicles – Batman Inc. Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307011" value="Batman: Gotham City Chronicles – Batman Rebirth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="422576" value="Batman: Gotham City Chronicles – Batman Who Laughs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307016" value="Batman: Gotham City Chronicles – Carmine Falcone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307013" value="Batman: Gotham City Chronicles – Catwoman (Batman: Hush)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307020" value="Batman: Gotham City Chronicles – Cluemaster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307021" value="Batman: Gotham City Chronicles – Deacon Blackfire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306927" value="Batman: Gotham City Chronicles – Etrigan (The Demon)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307012" value="Batman: Gotham City Chronicles – Gang of Robin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363851" value="Batman: Gotham City Chronicles – Ghost Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377986" value="Batman: Gotham City Chronicles – Gotham City in Flames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306425" value="Batman: Gotham City Chronicles – Hawkfire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307015" value="Batman: Gotham City Chronicles – Hounds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285919" value="Batman: Gotham City Chronicles – League of Assassins Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306923" value="Batman: Gotham City Chronicles – Lincoln March (Owlman)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306424" value="Batman: Gotham City Chronicles – Mr. Freeze (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363849" value="Batman: Gotham City Chronicles – Nobody" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363843" value="Batman: Gotham City Chronicles – Poison Ivy (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309139" value="Batman: Gotham City Chronicles – Portable Batcomputer Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363846" value="Batman: Gotham City Chronicles – Prof. Pyg&#039;s Gang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306426" value="Batman: Gotham City Chronicles – Red Hood (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="423840" value="Batman: Gotham City Chronicles – Season 3 Stretch Goals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306924" value="Batman: Gotham City Chronicles – Shen Fang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377990" value="Batman: Gotham City Chronicles – Solo-Cooperative Mode Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285922" value="Batman: Gotham City Chronicles – Suicide Squad Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307019" value="Batman: Gotham City Chronicles – Talon (Uriah Boone)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363848" value="Batman: Gotham City Chronicles – The Architect" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363847" value="Batman: Gotham City Chronicles – The Beast" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363850" value="Batman: Gotham City Chronicles – The Great White Shark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="273064" value="Batman: Gotham City Chronicles – The Narrows Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377988" value="Batman: Gotham City Chronicles – The Narrows Chronicles 2: A New Eden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306928" value="Batman: Gotham City Chronicles – The Reaper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285920" value="Batman: Gotham City Chronicles – The Sewers &amp; GCPD Maps Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306929" value="Batman: Gotham City Chronicles – The Ventriloquist (Arnold Wesker)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307017" value="Batman: Gotham City Chronicles – The Ventriloquist (Peyton Riley)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248759" value="Batman: Gotham City Chronicles – Versus Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248114" value="Batman: Gotham City Chronicles – Wayne Manor Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307018" value="Batman: Gotham City Chronicles – White Rabbit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309138" value="Compendium: The Overlord – Tome IV (fan expansion for Batman)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377987" value="Batman: Gotham City Chronicles – Batcomputer Files" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273066" value="Batman: Gotham City Chronicles – Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426366" value="Batman: Gotham City Chronicles – Heroes Dice Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306127" value="Batman: Gotham City Chronicles – Laserox Batman Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426703" value="Batman: Gotham City Chronicles – Poison Ivy Dice Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426704" value="Batman: Gotham City Chronicles – Scarecrow Dice Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423810" value="Batman: Gotham City Chronicles – Season 2 Hero Character Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="160010" value="Conan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2787" />
+			<average value="7.59463" />
+			<bayesaverage value="6.46002" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1439" bayesaverage="6.46002" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="258" bayesaverage="6.7762" />
+												</ranks>
+
+			<stddev value="1.76746" />
+			<median value="0" />
+			<owned value="6856" />
+			<trading value="205" />
+			<wanting value="153" />
+			<wishing value="1159" />
+			<numcomments value="768" />
+			<numweights value="132" />
+			<averageweight value="3.7652" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="285921">
+         <thumbnail>https://cf.geekdo-images.com/TFT5nhmtF35-ahtBg8k-3g__small/img/N2xO6xAV4AZ8SWHAECzROtc5jDA=/fit-in/200x150/filters:strip_icc()/pic8279418.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TFT5nhmtF35-ahtBg8k-3g__original/img/5KNmfQMBcdv1eibprjTNLFRffrM=/0x0/filters:format(jpeg)/pic8279418.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – 5th Player Expansion" />
+			
+						                           
+						               													<description>This expansion makes adding a 5th hero to your Bat-team worry free.
+
+Now unleash 4 vs 1 in 3 Adventure mode missions and take Justice to that lawbreaker.
+The &amp;ldquo;Detective Comics &amp;ldquo; series by James Tynion IV is the setting for these 3 missions, Batman assembles a new Bat-team led by Batwoman and featuring the skills and talents of Stephanie Brown, Cassandra Cain, Tim Drake and Basil Karlo.
+5th player Adventure mode provides the Evil Masterminds side with some much-needed fortitude to stand up to the might of 4 heroes of Gotham. Villains have access to a larger reinforcement point pool and a boosted Energy Cube turn recovery amount, that lays a good foundation towards going toe to toe with the team and instigating their heinous plan.
+Careful consideration during setup is key to a villain&amp;rsquo;s victory, as the evil mastermind, you have to ensure that your back up is up to the job. Remember that point when creating your own missions in &amp;rdquo;Mission Maker &amp;ldquo;. Back up, Back, up, back up &amp;ndash; make sure you have some &amp;ndash; tough cookies too.
+Setting inspired, Clayfaces&amp;rsquo; hero screen rounds out the expansion and the team, with Batwoman leading the plays &amp;ndash; these 3 missions drop you right into the comics timeline.
+
+Mission 1 &amp;ndash; Our Heroes face off the Court of Owls, aided by Cassandra&amp;rsquo;s father as they plan to awaken an entire army of Talons to wreak chaos and destruction in Gotham City &amp;ndash; it&amp;rsquo;s your job to foil them.
+
+Mission 2 &amp;ndash; The head of the Demon, attended by Deathstroke plans Gotham&amp;rsquo;s downfall. His plan ? take out the city&amp;rsquo;s economic backbone, destroy the corruption it creates. Your Job &amp;ndash; Guard and Prevent.
+
+Mission 3 - The St Dumas Order&amp;rsquo;s final creation is awakening &amp;ndash; the team faces the Azrael assassins and the artificial intelligence Ascalon. It&amp;rsquo;s your job to lay waste to this order once and for all.
+
+More Missions for this dedicated team will roll out, fully supporting 5 player mode into the future in addition to expanding the mission roster even further.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 5 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61990" value="Players: Expansions Changing Player Count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="61" />
+			<average value="8.1259" />
+			<bayesaverage value="5.56079" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56079" />
+												</ranks>
+
+			<stddev value="1.39866" />
+			<median value="0" />
+			<owned value="1089" />
+			<trading value="13" />
+			<wanting value="8" />
+			<wishing value="28" />
+			<numcomments value="22" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="467582">
+         <thumbnail>https://cf.geekdo-images.com/pQ9WMgjpI-fkyHwtHsuErg__small/img/9Kteqk0czpvk7gSZLnoQKoxisGc=/fit-in/200x150/filters:strip_icc()/pic9488314.png</thumbnail>
+      <image>https://cf.geekdo-images.com/pQ9WMgjpI-fkyHwtHsuErg__original/img/Qk86DJUSPQ6uRiuNCW2rzPCaTDU=/0x0/filters:format(png)/pic9488314.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Absolute Batman Expansion" />
+			
+						                           
+						               													<description>Batman: Gotham City Chronicles is an asymmetric miniatures board game for 2 to 4 players, where Heroes and Villains clash in handcrafted scenarios across Gotham City. One or more players take on the role of the Dark Knight and his allies, while another one controls the Villains.
+
+Key Features of this fourth Season:
+Absolute Universe Setting.
+Discover new takes on iconic characters and missions set in the critically acclaimed Absolute Batman by writer Scott Snyder and artist Nick Dragotta.
+True Vertical Gameplay. Fight across rooftops, streets, and interiors with multi-level maps that add height and depth to every decision.
+Multiple Game Modes. Play solo, cooperatively (with an automated Villain system), or in competitive asymmetric skirmishes.
+Includes reprints of the base game and previous expansions.
+This new season offers the most advanced and immersive Batman: Gotham City Chronicles experience to date.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="22" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="306427">
+         <thumbnail>https://cf.geekdo-images.com/U7Ya6kCuI7kS1MfwewJvOQ__small/img/HrvXMKg2L-L_xxVfD8eQSl2XGgE=/fit-in/200x150/filters:strip_icc()/pic8278170.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/U7Ya6kCuI7kS1MfwewJvOQ__original/img/dHCt2cFjQPW4sQAp6ZsMoPgNLhw=/0x0/filters:format(jpeg)/pic8278170.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Amygdala" />
+			
+						                           
+						               													<description>Lobotomies are used to calm violent individuals. For Aaron Helzinger, a man who had his amygdala tampered with, it didn&amp;rsquo;t work. He is completely unable to control his emotions, which leads to violent bouts of rage. The more wild he gets, the stronger he gets. A dangerous force, indeed. He cannot be reasoned with, but his cellmates in Arkham sometimes manipulate him for their own violent machinations.
+
+When talking with your fists is required, call Amygdala! A huge musclebound dope that just needs to land one blow to beat opponents to a pulp.
+
+The more you hurt him, the stronger he gets, nothing can stand in his way, especially walls.
+
+This figure expansion includes 1 Amygdala miniature, 1 Character Tile, 1 Lifepoint Tracker, and 1 Versus Power Card.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="22" />
+			<average value="8.15909" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.54763" />
+			<median value="0" />
+			<owned value="423" />
+			<trading value="0" />
+			<wanting value="8" />
+			<wishing value="13" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="422565">
+         <thumbnail>https://cf.geekdo-images.com/ojZ6etbIHnq68Cwz4jDINA__small/img/c5V-Q9czPd_rXFyP9DRt-G9Ew7A=/fit-in/200x150/filters:strip_icc()/pic8278299.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ojZ6etbIHnq68Cwz4jDINA__original/img/X_x8AAXqm4WAR3OH_yDzBzfERVM=/0x0/filters:format(jpeg)/pic8278299.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Anarky" />
+			
+						                           
+						               													<description>Lonnie Machin (Anarky), a gifted teenager who misguidedly believes he is the Joker&amp;rsquo;s son, is a soldier of anarchy and uses the gadgets he invents to attack all forms of authority &amp;ndash; particularly those managed by the government.
+
+This expansion adds Anarky to the game.
+
+Season 3 expansion.
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="13" />
+			<average value="7.88462" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.52106" />
+			<median value="0" />
+			<owned value="442" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="5" />
+			<numcomments value="8" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="250665">
+         <thumbnail>https://cf.geekdo-images.com/UHjMoOOyVUc0mcpspo6HMw__small/img/a19M_cv0ejCTYphW0mM9bfyAXdU=/fit-in/200x150/filters:strip_icc()/pic4076620.png</thumbnail>
+      <image>https://cf.geekdo-images.com/UHjMoOOyVUc0mcpspo6HMw__original/img/rEn7HUrxnU-gD2LJfs6DT0snoqk=/0x0/filters:format(png)/pic4076620.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Arkham Asylum Expansion" />
+			
+						                           
+						               													<description>In Arkham Asylum, violent and criminally insane villains are locked away from Gotham's citizens in specially constructed cells. But often, these villains break free and it becomes Batman's job to bring them back to the asylum before their darkest whims are realized.
+
+And, as is often the case, the Joker seems to be missing. Chances are he can be found in Jokerland, an abandoned fun fair the Clown Prince of Crime converted into his own playground. Here, attractions are functional, but from a mad man's point of view, and they aren&amp;rsquo;t really fun in any conventional sense.
+
+This expansion includes two game boards: Arkham Asylum and Jokerland, coming with three scenarios each. Jokerland will include various attractions, shaped as double-sided overlays, which provide a lot of replayability, as the combination of attractions change with each scenario. These attractions offer unique atmospheres and terrain types that change the way you navigate the map. Of course, you can&amp;rsquo;t imagine an expansion like this without thinking about the villains. This box is absolutely brimming with bad guys and you won&amp;rsquo;t find a single hero among them. Within you will find a horrific faceless version of the Joker, as well as the Mad Hatter and his inseparable sidekicks, the Tweedle brothers.
+
+-description from the Kickstarter page
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62214" value="Medical: Psychiatric Hospitals / Asylums" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="173" />
+			<average value="8.30835" />
+			<bayesaverage value="5.65797" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.65797" />
+												</ranks>
+
+			<stddev value="1.40272" />
+			<median value="0" />
+			<owned value="2641" />
+			<trading value="64" />
+			<wanting value="18" />
+			<wishing value="43" />
+			<numcomments value="61" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="363844">
+         <thumbnail>https://cf.geekdo-images.com/IPWtqi8pQwzygexyXADs4w__small/img/P-sVD598X7gzxa4cBRixHt1uEQc=/fit-in/200x150/filters:strip_icc()/pic8278225.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IPWtqi8pQwzygexyXADs4w__original/img/JTh6IU9qXGPw_tyLf7dEWb-w_24=/0x0/filters:format(jpeg)/pic8278225.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Batman (New 52) and Rookie" />
+			
+						                           
+						               													<description>For a time, a government program saw commissioner Gordon donning the mantle of Gotham City&amp;rsquo;s protector. But he wasn&amp;rsquo;t alone; he was accompanied by a huge robot affectionately named &amp;laquo; Rookie &amp;raquo;.
+
+Surgical muscle implantation and intense training augmented his fighting ability and agility, allowing him to face his fears and push beyond his prior limits. And his detective skills, honed over the years as Police Commissioner, were as sharp as ever.
+
+His moral compass, unchanged, still guided him towards the pursuit of justice. The government tech allowed Rookie to be at his side, under his guidance, providing mission support.
+
+In gameplay terms, Gordon controls Rookie using his Command skill, but instead of GCPD officers it&amp;rsquo;s a super heavy Bat-suit Bot striking fear into Gotham&amp;rsquo;s&amp;rsquo; criminal underworld.
+
+Batman (New 52) and Rookie are both playable in Versus mode. Batman (New 52) (with Rookie&amp;rsquo;s tile) can be substituted in the following corebox Adventure Mode Missions: "Deadly Infection" and "Good Cops / Bad Cops".
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423810" value="Batman: Gotham City Chronicles – Season 2 Hero Character Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="7.65833" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.00851" />
+			<median value="0" />
+			<owned value="289" />
+			<trading value="1" />
+			<wanting value="6" />
+			<wishing value="8" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307010">
+         <thumbnail>https://cf.geekdo-images.com/pip7zlwawnHqReDnevecQQ__small/img/wRkWka8nZY6egdPISUM8TFOq6jg=/fit-in/200x150/filters:strip_icc()/pic8278196.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pip7zlwawnHqReDnevecQQ__original/img/dZ3ju_EKS4o7ATV3V8C3aBphOcw=/0x0/filters:format(jpeg)/pic8278196.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Batman Beyond" />
+			
+						                           
+						               													<description>Batman of the future.
+
+This expansion adds Batman Beyond to the game.
+
+Season 2 expansion.
+
+Twenty years after Batman&amp;rsquo;s retirement, a young Terry McGinnis discovers the true identity of the masked vigilante. After learning of his father&amp;rsquo;s murder, Terry turns to Bruce Wayne for help. The aged former crime fighter refuses, but Terry persists and makes an exceptionally bold move. Needing the proper equipment to avenge his father, he breaks into the Batcave and steals the batsuit. Though inexperienced, Terry proves himself to be a capable fighter. Eventually, Terry is permitted to continue his mission, but only under Bruce&amp;rsquo;s supervision and guidance. After 20 years without a protector, Gotham needs Batman more than ever.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423810" value="Batman: Gotham City Chronicles – Season 2 Hero Character Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.53297" />
+			<median value="0" />
+			<owned value="497" />
+			<trading value="1" />
+			<wanting value="6" />
+			<wishing value="23" />
+			<numcomments value="12" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="285918">
+         <thumbnail>https://cf.geekdo-images.com/YfPBRE5LXcRyTy8SAsrr7Q__small/img/qgJTFyz4Ch5ARkBoVopyjlqi7cM=/fit-in/200x150/filters:strip_icc()/pic8278691.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YfPBRE5LXcRyTy8SAsrr7Q__original/img/6dOhax65aX7ydl91i909eaEIvis=/0x0/filters:format(jpeg)/pic8278691.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Batman Inc. Expansion" />
+			
+						                           
+						               													<description>After having a future sight and still aiming for justice to reign around the world, Bruce Wayne made official the creation of a new international organization founded by Wayne Enterprises: Batman Incorporated. This super-heroes network, chosen by the Dark Knight himself, wages a battle against crime all over the world, shares information and provides help to one another. The vigilante therefore became famous worldwide. This notoriety brought to his cause other vigilantes, like El Gaucho, the Nightrunner, the Knight, Chief Man-of-Bats accompanied by Raven Red, the Dark Ranger, Batman of Japan, Batman of Moscow and many others&amp;hellip; 
+Through this organization, Batman managed to set up a plan against the mysterious institution called Leviathan.
+
+During a character&amp;rsquo;s creation, our teams think of them as the comics describe them. Once the profile has been set up, our teams check if it fits what we want the character to do and if their role is the one we defined for them. There are several modifications along the playtests to adjust the different characteristics, skills&amp;hellip; Once a hero (in the case of the Batman Inc. Expansion) is validated, they are tried in missions as replacement of heroes of equivalent roles. Numerous playtests of the many possible team composition for the heroes then occur, before making the hero fit without breaking the mission up.
+
+Each miniature from this expansion can be played as another choice of hero in missions of the corebox. Therefore, the heroes will have much more choice than they already had. For example, Dark Ranger will be another possible choice of hero in the mission &amp;laquo; An Icy Welcome &amp;raquo;, and he can also be picked as 2nd hero in &amp;laquo; To Sink a City &amp;raquo;&amp;hellip; The Knight will make a good replacement for the 1st hero in &amp;laquo; Biological Scourge &amp;raquo;. Chief Man-of-Bats as well as Raven Red in &amp;laquo; A Golden Opportunity &amp;raquo;, and so on&amp;hellip;
+
+Each of those heroes owns one or several equipment cards related to them. 5 new bat gadgets are also included to be added and bring more choice to the already consequent amount of bat gadgets, offering new possibilities to players.
+
+Batman of Japan
+ Batman (the one from Gotham City) maintains a network of correspondents around the world who use crime fighting techniques similar to his own. In Japan, Mister Unknown&amp;mdash;a vigilante of who trained a promising young man named Osamu&amp;mdash;took up the mantle. But tragically, Mr. Unknown was killed before Osamu&amp;rsquo;s training was finished. After Batman and Osamu fought together, Bruce Wayne came to support Osamu as Batman of Japan. Osamu may still be young, but he is an excellent detective and a martial arts expert. Though sometimes duty calls him elsewhere, as member of Batman Inc. his primary responsibility is protecting Japan. 
+Gameplay
+ That martial art expert is a great fighter capable of competing with Batman himself. He excels in hacking and is able to move wherever he wants, as heights do not frighten him at all. 
+ In Adventure Mode, he can show up with his teammate, Lolita Canary. This flying small version of Black Canary has got a good breath and is able to neutralize her opponents through ultrasounds. 
+Versus Power
+Lolita Canary: Batman of Japan uses his girlfriend&amp;rsquo;s blast to neutralize his enemies.
+
+Batman of Moscow
+ Batman Incorporated was Bruce Wayne&amp;rsquo;s attempt to extend the Club of Heroes into major cities around the world. It was his belief that Batman could become a symbol of justice that defied borders. Crime fighters from all over the globe were equipped with their own variations of the iconic Batsuit. As one might expect, these new Batmen were as varied as the nations in which they fought. Ravil, the Batman of Moscow, was no exception. To wage a war on crime in the streets of the Russian capital was no easy task; it called for a brutal fighter&amp;mdash;one whose methods differed from his American counterpart&amp;rsquo;s. Subtlety wasn&amp;rsquo;t going to work. 
+Gameplay 
+He's a demolition expert, and therefore knows everything about explosives. Would it be to throw grenades of arm and disarm explosive engines, he is second to none. 
+ In Adventure Mode, he accomplishes his missions with an incendiary grenade, which spreads fire while exploding. This makes him sure no one will stand against him. 
+Versus power 
+Demolition expert: Batman of Moscow can clear an area close to him by triggering an explosion (level 2) there that leaves one flame token. Or he can destroy a wall thanks to his explosive devices.
+
+Chief Man-of-bats
+ Dr. William Great-Eagle, aka Man-of-Bats, understands that being a hero is about more than just beating the bad guys. William is a Chief of the Dakota Sioux and a pillar of his community. He is ceaselessly dedicated to providing social and medical assistance to those in need and a long-time member of the Club of Heroes. During the Infinite Crisis, he helped heal Bl&amp;uuml;dhaven&amp;rsquo;s wounded. With his son and sidekick &amp;ldquo;Raven Red&amp;rdquo;, he joins the Club of Heroes. Wanting to take his philanthropic actions a step further, he also became a member of Batman Inc. 
+Gameplay
+ He is a true support character. Helping others or sacrificing himself for them not to be wounded, he can recover, slowly, because of his knowledge in traditional and native American medicine. 
+ Chief Man-of-Bats owns two equipment cards. A tomahawk that can be used during melee fights, or than he can throw (but he then loses it). He also has a medicine man&amp;rsquo;s bag, with which he can go beyond his limits for a time. 
+Versus power
+Duo: Chief Man-of-Bats always works with his sidekick Raven Red, recruited as his lieutenant. They heal themselves (up to 2 lifepoints each) when the event tile is activated, and Raven Red performs his small attacks against opponents in his line of sight.
+
+Dark Ranger
+ As a member of Batman Inc., Dark Ranger battles crime in the &amp;lsquo;Land Down Under&amp;rsquo;. Originally, Australia had its own heroic duo similar to Batman and Robin known as Ranger and Scout. But when Ranger was killed, Scout (John Riley) took over lead duties and became Dark Ranger. After the death of his mentor, John Riley became violent, but Batman made sure to check the younger man&amp;rsquo;s direct and sometimes extreme methods. Dark Ranger is not only a formidable fighter but also an excellent tracker&amp;mdash;a useful skill to have when investigating crimes. 
+Gameplay
+ Always willing to save the widow and the orphan, never would he hesitate to sacrifice himself for others. Good investigator, he is always gifted with explosives. All he lacks he can find in his utility belt that he never gets rid of. 
+ The Dark Ranger is heavily equipped. He can carry a jet pack; therefore, he may move free like air. He also owns an electric gun that can stun his opponents. 
+Versus power
+Stun: Thanks to his weapon that generates electrical pulses, he can put a &amp;ldquo;stun&amp;rdquo; token on a villain&amp;rsquo;s tile. This tile will have a higher cost the next time it is played.
+
+El Gaucho
+Santiago Vargas is a man of mystery. He once worked for the covert operations agency known as Spyral, but eventually followed Batman&amp;rsquo;s example and joined the Club of Heroes, an international group of vigilantes. 
+ Though Santiago is without superpowers, he arms himself with knives, bolas and a grim determination. He occasionally teams up with others, but his operations are usually confined to Argentina and other parts of South America. 
+Gameplay 
+El Gaucho tends to be Batman&amp;rsquo;s equal. He&amp;rsquo;s a great fighter, would it be in melee or distance fight, he performs combos when fighting, and can counterattack. His past experiences granted him investigation and munition specialist skills. He is a true hero now. 
+ El Gaucho is a bolas master. He can throw them at a long distance and shackle any opponent. 
+Versus power
+Gaucho bolas: El Gaucho uses his favorite weapon and can inflict severe damages. If the target isn&amp;rsquo;t neutralized, they become immobilized.
+
+Nightrunner
+In the wake of a deadly riot in the Paris suburbs, a vigilante rose up to defend the weak and vulnerable. To accomplish this mission, Bilal Alsselah employed his mastery of parkour&amp;mdash;a means of traversing urban environments with spontaneous and dynamic acrobatics. The Dark Knight took notice of his exceptional skills and recruited him for Batman Incorporated. Bilal has since expanded his area of operations and has become Nightrunner, the dedicated protector of Paris, France. 
+Gameplay
+ The french Batman is the master of parkour. No heights can frighten him, no jump, nothing. He is unstoppable, too agile for anyone to catch him, and also difficult to target from a distance. 
+ The Nightrunner has a taser that grants him a higher power in hand-to-hand fights. 
+Versus power 
+Parkour master: The event tile doesn&amp;rsquo;t cost any Activation Potential Disk to activate and the Nightrunner performs a movement.
+
+Raven Red
+ Charles Great Eagle, aka Raven Red, son of Chief Great Eagle, leader of the Dakota Sioux. Charles is a member of both the Club of Heroes and Batman Inc. Being a young man, he is more impulsive than his father and longs to enter the big league by taking on the serious super-villains rather than assisting his community. He and his father were the targets of the evil organization known as Leviathan. They also helped fight the Black Glove. Regardless of these lofty ambitions, when it comes to trouble on the reservation, Charles passionately solves challenges with his two greatest weapons: his fists. Put a bow in his hands and he is an expert shot to boot. 
+Gameplay
+ Raven Red is out of anyone&amp;rsquo;s league when using his bow. But as impetuous as he is, he doesn&amp;rsquo;t hesitate to use his fists when the situation calls for it. 
+ He never goes without his bow and is quick to retaliate when taken by surprise. 
+Versus power 
+Duo: Raven Red is never far from his father, so Chief Man-of-Bats is recruited as lieutenant. When the event tile is activated, the Leader and his lieutenant regenerate (up to 1 lifepoint each), then Raven Red shoots the sharpest arrow he owns.
+
+The Knight
+Knight and Squire were English crime fighters similar to Batman and Robin. But unlike the Dynamic Duo, these two were inspired by the heraldry of the medieval era. Cyril Sheldrake is the modern version of Knight and a colleague of Batman. Being of a heroic dynasty, Sheldrake sometimes doubts Batman&amp;rsquo;s methods, but the two share a mutual trust. Regardless, he can always count on his trusted Squire to help him. Knight also has a tenacious set of armor for when he must endure the inevitable hard knocks that come with fighting crime.
+Gameplay
+ He is a living swiss army knife, adapting himself to every situation he bumps into. This athlete is capable of astonishing prowess despite his heavy armor that protects him. Just like Batman, he is a seasoned investigator.
+ Equipped with this gauntlet, lockpicking becomes easy for him, as well as hacking into computers. 
+Versus power 
+Squire support: Have you ever seen a knight without a squire? They are never apart. The event gives the hero player a token that grants one of their character the luck skill level 2 for an action, because of the Squire coming to the rescue.
+
+5 new bat gadgets
+ The 5 bat gadgets you will find in this expansion will offer you new gameplay possibilities: 
+Artificer Gel: This bat gadget is really helpful when it comes to disarming bombs or any explosives. 
+Adrenaline Shot: Need to perform more actions, to go further than what you were capable of? Push your limits with this one-use adrenaline shot.
+Sharp Batarang: This new batarang will always inflict damages&amp;hellip; as long as you don&amp;rsquo;t aim too far from your target.
+Electric Batarang: Another batarang, capable of neutralizing the most enduring opponents.
+Strenghtened Armor: A new piece of equipment made of a new alloy, more efficient in melee fights.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="40" />
+			<average value="8.23875" />
+			<bayesaverage value="5.54185" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54185" />
+												</ranks>
+
+			<stddev value="1.3007" />
+			<median value="0" />
+			<owned value="743" />
+			<trading value="1" />
+			<wanting value="13" />
+			<wishing value="33" />
+			<numcomments value="13" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307011">
+         <thumbnail>https://cf.geekdo-images.com/q7TFABGV3Dd56RbGhsyYEg__small/img/N7LiGIXBCMGG8cTKdR8YdZQk3xQ=/fit-in/200x150/filters:strip_icc()/pic8278200.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/q7TFABGV3Dd56RbGhsyYEg__original/img/2eG0ozxl26jXoKPfq3k1oq3R1JA=/0x0/filters:format(jpeg)/pic8278200.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Batman Rebirth" />
+			
+						                           
+						               													<description>This expansion adds Batman Rebirth to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423810" value="Batman: Gotham City Chronicles – Season 2 Hero Character Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="22" />
+			<average value="8.36364" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.58245" />
+			<median value="0" />
+			<owned value="468" />
+			<trading value="3" />
+			<wanting value="5" />
+			<wishing value="15" />
+			<numcomments value="10" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="422576">
+         <thumbnail>https://cf.geekdo-images.com/vKq03cZS6bL4yCk7ETBFAQ__small/img/wKBfSK-oNQZqwhQ9ANG0XMOl354=/fit-in/200x150/filters:strip_icc()/pic8278306.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vKq03cZS6bL4yCk7ETBFAQ__original/img/WwJl6jzPmenq8qEcT99P5tNMITM=/0x0/filters:format(jpeg)/pic8278306.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Batman Who Laughs" />
+			
+						                           
+						               													<description>The Batman Who Laughs is the villainous alternate version of Bruce Wayne from Earth-22 in the Dark Multiverse. He is a Batman who murdered the Joker only to be driven insane and adopt the Joker's sadistic anarcho-nihilistic personality for himself, obsessed with corrupting others into the worst version of themselves.
+
+This expansion adds the Batman Who Laughs to the game.
+
+Season 3 expansion
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="8.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.22202" />
+			<median value="0" />
+			<owned value="446" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="4" />
+			<numcomments value="8" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307016">
+         <thumbnail>https://cf.geekdo-images.com/tSbQQhCJMCzPpq7X5G7SgA__small/img/dG6I3kw7q6ChrImv_hmeZas4TYk=/fit-in/200x150/filters:strip_icc()/pic8278246.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tSbQQhCJMCzPpq7X5G7SgA__original/img/1DNcUTBKt5DqGoX-AkjlR97-BFk=/0x0/filters:format(jpeg)/pic8278246.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Carmine Falcone" />
+			
+						                           
+						               													<description>Falcone is a powerful Mafia chieftain nicknamed "The Roman", where his stranglehold over Gotham City's organized crime is referenced as "The Roman Empire".
+
+This expansion adds Carmine Falcone to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="7.89474" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.68256" />
+			<median value="0" />
+			<owned value="426" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="12" />
+			<numcomments value="11" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307013">
+         <thumbnail>https://cf.geekdo-images.com/e6vOcx1Oq9xYTrEMW9xUJQ__small/img/ovoS4VaiLlAO5MWK2cjZY_MGA5g=/fit-in/200x150/filters:strip_icc()/pic8278210.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/e6vOcx1Oq9xYTrEMW9xUJQ__original/img/c-vY2sPGzm2Z_a8rAQJ4l_ZeD4I=/0x0/filters:format(jpeg)/pic8278210.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Catwoman (Batman: Hush)" />
+			
+						                           
+						               													<description>Catwoman is a Gotham City burglar who typically wears a tight, one-piece outfit and uses a bullwhip for a weapon. She was originally characterized as a supervillain and adversary of Batman, but she has been featured in a series since the 1990s which portrays her as an antiheroine, often doing the wrong things for the right reasons.
+
+This expansion adds a new Catwoman to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="8.05263" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.79102" />
+			<median value="0" />
+			<owned value="463" />
+			<trading value="5" />
+			<wanting value="3" />
+			<wishing value="12" />
+			<numcomments value="12" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307020">
+         <thumbnail>https://cf.geekdo-images.com/rCIUifwqoANP_Pa0G8zQew__small/img/2quhUXwT_qUaIjy083bMRBI4GtE=/fit-in/200x150/filters:strip_icc()/pic8278682.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rCIUifwqoANP_Pa0G8zQew__original/img/lg_wL0iUmSRgArlCHr1rcUjIJxI=/0x0/filters:format(jpeg)/pic8278682.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Cluemaster" />
+			
+						                           
+						               													<description>Cluemaster was once a failed gameshow host who turned to crime and used game-show inspired clues and puzzles as his criminal calling cards.
+
+This expansion adds Cluemaster to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21" />
+			<average value="8.16667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.74119" />
+			<median value="0" />
+			<owned value="393" />
+			<trading value="1" />
+			<wanting value="7" />
+			<wishing value="12" />
+			<numcomments value="9" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307021">
+         <thumbnail>https://cf.geekdo-images.com/Y7v7qgYZAcXqqimawlPN4w__small/img/S1kOZboCfTAyTngoDepnd_AegWE=/fit-in/200x150/filters:strip_icc()/pic8278231.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Y7v7qgYZAcXqqimawlPN4w__original/img/HEAA1ArCF6PiF9bj7hsmsdcUEZY=/0x0/filters:format(jpeg)/pic8278231.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Deacon Blackfire" />
+			
+						                           
+						               													<description>Deacon Blackfire was a con-man and cult leader and over 100 years old at the time of his death, despite appearing much younger.
+
+This expansion adds Deacon Blackfire to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21" />
+			<average value="8.11905" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.71759" />
+			<median value="0" />
+			<owned value="406" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="12" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="306927">
+         <thumbnail>https://cf.geekdo-images.com/bcLb9BzyG3p_IbClwYju_g__small/img/mEPrOVnVxvj-OGQmIWfIQMVUaAM=/fit-in/200x150/filters:strip_icc()/pic8278183.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bcLb9BzyG3p_IbClwYju_g__original/img/avuAd0I0vdAi4w_oFS5ZP2YwUwE=/0x0/filters:format(jpeg)/pic8278183.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Etrigan (The Demon)" />
+			
+						                           
+						               													<description>Etrigan is a demon prince of Hell who was bound to the mortal, Jason Blood. They have walked the Earth (and the depths of Hell) together as both comrades and enemies for over a millennium.
+
+This expansion adds Etrigan (The Demon) to the game.
+
+Season 2 expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="8.125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.67239" />
+			<median value="0" />
+			<owned value="460" />
+			<trading value="3" />
+			<wanting value="5" />
+			<wishing value="13" />
+			<numcomments value="9" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="307012">
+         <thumbnail>https://cf.geekdo-images.com/mic0pQqFfY_MvUX7v4LZhg__small/img/flCZWEFvDNQTU0I37uXhqPRqJag=/fit-in/200x150/filters:strip_icc()/pic8278203.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mic0pQqFfY_MvUX7v4LZhg__original/img/bgm_CB6sJVZGaQ_luV-8TKRyLLs=/0x0/filters:format(jpeg)/pic8278203.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Gang of Robin" />
+			
+						                           
+						               													<description>This expansion adds the Gang of Robin to the game.
+
+Season 2 expansion
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="8.3421" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.53942" />
+			<median value="0" />
+			<owned value="404" />
+			<trading value="1" />
+			<wanting value="5" />
+			<wishing value="11" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="363851">
+         <thumbnail>https://cf.geekdo-images.com/BtGubcD8ffVP89CpL9pPMQ__small/img/8d12FiS8a4EcEHxgsAmuZN-G27c=/fit-in/200x150/filters:strip_icc()/pic8278292.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BtGubcD8ffVP89CpL9pPMQ__original/img/U3WN4H-hO2bsL6Kp32lBhtvnipk=/0x0/filters:format(jpeg)/pic8278292.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Ghost Dragons" />
+			
+						                           
+						               													<description>Shen Fang&amp;rsquo;s elite assassins are fearsome melee opponents, masters of the martial arts and ready to pounce at a moment&amp;rsquo;s notice.
+
+Flame skill greatly increases their havoc potential, but watch out, those flames can affect everyone, not just their opponents.
+
+These fiery dragons are swappable with elite characters in the following core box Adventure Mode missions: "To Sink a City", "Suicide Escape", and "Like Father Like Daughter".
+
+They are also fully recruitable in Versus Mode.
+
+&amp;mdash;description from the publisher
+
+References
+BAT19
+EAN : 3760271440802
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="7.45833" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.90895" />
+			<median value="0" />
+			<owned value="278" />
+			<trading value="0" />
+			<wanting value="5" />
+			<wishing value="7" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="377986">
+         <thumbnail>https://cf.geekdo-images.com/2QHpsF445qxtI_1NyPJ6uw__small/img/6DokWtod_PCEov9rDbHjVBnOfrU=/fit-in/200x150/filters:strip_icc()/pic8242835.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2QHpsF445qxtI_1NyPJ6uw__original/img/e7fHPgmLOgksAr-CFbiOmXnFqp0=/0x0/filters:format(jpeg)/pic8242835.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Gotham City in Flames" />
+			
+						                           
+						               													<description>The city&amp;rsquo;s Heroes set out in search of those working in the shadows, venturing deep into a burning Gotham City. Heroes from this expansion (and from the Core Game) will hit the streets in search of whoever is incinerating criminal organizations for their own personal gain.
+
+However, the enigma will remain unsolved as several miniatures will be placed in Mystery Boxes and only revealed in the final adventure of the campaign, which will offer several possible endings.
+
+This campaign features a multitude of branches and a different storyline based on three variables: victories, defeats, and the Heroes&amp;rsquo; choices. It also features optional scenarios using board maps from season 1 and 2 expansions.
+
+A progression system will enable each side to become stronger as they progress through the scenarios. Additionally, victory points will be won through the achievements of both teams, as well as by successful feats inherent to each adventure, rewarding the heroism of certain players and the deviousness of others.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="8.475" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.33674" />
+			<median value="0" />
+			<owned value="619" />
+			<trading value="4" />
+			<wanting value="12" />
+			<wishing value="19" />
+			<numcomments value="16" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="306425">
+         <thumbnail>https://cf.geekdo-images.com/Du3Nj0-6BdfzxbKM_hOCcw__small/img/9eSVvU40pGBHzLjkh2ewAGBRYlQ=/fit-in/200x150/filters:strip_icc()/pic8278136.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Du3Nj0-6BdfzxbKM_hOCcw__original/img/qEh1MVx9XDRbyeDkxThR4LsAfw0=/0x0/filters:format(jpeg)/pic8278136.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles – Hawkfire" />
+			
+						                           
+						               													<description>Bette Kane was the partner of the first Batwoman and also the first to carry the Bat-Girl code name. Her heroic efforts were partially motivated by her admiration and love of Dick Grayson. When the new Batwoman arrived on the scene, Bette was surprised to discover she was actually her cousin Kate&amp;mdash;a formidable fighter. Inspired by Kate&amp;rsquo;s example, Bette decided to reinvent herself. She took on the name Hawkfire and combined a pyrotechnic arsenal with her comprehensive martial arts skills.
+
+Batwoman&amp;rsquo;s sidekick, this ex-Olympian athlete created her own purpose-built armor that enables flight and comes with a fearsome array of scorching weaponry.
+
+Her training under Batwoman&amp;rsquo;s wings has given her a substantial skill foundation in explosives, investigation and tracking.
+
+She is recruit able in Versus Mode and can be substituted in the Wayne Manor Adventure Mode Mission "Jungle Madness".
+
+This figure expansion includes 1 Hawkfire Miniature, 1 Character Tile, 1 Lifepoint Token, and 1 Versus Power Card in both English and French
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222514" value="Batman: Gotham City Chronicles" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423810" value="Batman: Gotham City Chronicles – Season 2 Hero Character Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="423809" value="Batman: Gotham City Chronicles – Season 2 Picking Zone Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="8.075" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.62999" />
+			<median value="0" />
+			<owned value="411" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="12" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

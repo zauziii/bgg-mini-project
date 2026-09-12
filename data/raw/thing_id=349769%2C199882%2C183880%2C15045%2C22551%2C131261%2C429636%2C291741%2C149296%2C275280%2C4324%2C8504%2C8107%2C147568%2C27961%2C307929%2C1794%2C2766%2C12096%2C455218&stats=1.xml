@@ -1,0 +1,5472 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="349769">
+         <thumbnail>https://cf.geekdo-images.com/sSv4Nd0halL1vmzp7vMq9w__small/img/GSFruJZtVsT_ASSVpeHColqiGEg=/fit-in/200x150/filters:strip_icc()/pic6467141.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/sSv4Nd0halL1vmzp7vMq9w__original/img/z03_ZNdRe0dcR4h6W2zxE2WaI8A=/0x0/filters:format(jpeg)/pic6467141.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Shadow Forces" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: Shadow Forces" />
+			
+						               													<description>It is the year 2050, and the world is not as it should be. Tides lash the shorelines, smashing everything in their reach. Hurricanes whip down out of nowhere and destroy entire cities while uncontrollable firestorms tear across nearly every continent. Viruses rage out of control. Within this chaos, nefarious factions work from the shadows conducting disinformation campaigns and mobilizing mercenaries to collect a new mysterious energy resource of incalculable power. These factions, led by ruthless warlords, are fighting for power and control, but they are also simply battling for the destiny of humanity. The shadow conflict begins.
+
+Risk: Shadow Forces is a legacy-style game. You will write on your game, mark it, put stickers on it, and even throw away parts of it. Every game played will change every future game. All players shape how their world evolves: its history, its cities, even its factions and how they fight. Cards and stickers will come into play. Unlock new rules and watch events unfold with each game. No two games will ever be the same.
+
+More specifically, the game includes four sealed envelopes and one sealed container. You will be directed to open these envelopes as you play your campaign missions in order.
+
+Warlords have emerged to not only lead the various factions, but to also go on covert missions. Each of these covert missions is a squad-level skirmish game that will have a direct effect on the world map in certain undetermined secret locations.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1069" value="Modern Warfare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2824" value="Legacy Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25404" value="Mechanism: Legacy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="105134" value="Risk Legacy" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="262" value="Craig Van Ness" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4871" value="Avalon Hill" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="92" />
+			<average value="5.95304" />
+			<bayesaverage value="5.51255" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22285" bayesaverage="5.51255" />
+												</ranks>
+
+			<stddev value="1.91194" />
+			<median value="0" />
+			<owned value="604" />
+			<trading value="17" />
+			<wanting value="14" />
+			<wishing value="161" />
+			<numcomments value="38" />
+			<numweights value="2" />
+			<averageweight value="3.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="199882">
+         <thumbnail>https://cf.geekdo-images.com/JtHFXchYsXNABvwUgfxSQQ__small/img/bIs3WTsoJVbUy1CiHqA-AwB2Uf0=/fit-in/200x150/filters:strip_icc()/pic4915907.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JtHFXchYsXNABvwUgfxSQQ__original/img/-PQX3rZrac7VyTT3S1Ka5-OZQwA=/0x0/filters:format(jpeg)/pic4915907.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Star Trek 50th Anniversary Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko Star Trek Limitierte Edition" />
+			
+						               													<description>Star Trek 50th Anniversary Risk. Q has brought together Captains Kirk, Picard, Sisko, Janeway, and Archer to see which of them would be the best captain in Starfleet. Join the adventure as you take on the role of a captain, assemble your away team, command your ships, and complete quests in an epic journey across the galaxy.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2, 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7392" value="TV Shows: Star Trek (various)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="106" />
+			<average value="6.7583" />
+			<bayesaverage value="5.54397" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14295" bayesaverage="5.54397" />
+												</ranks>
+
+			<stddev value="1.66069" />
+			<median value="0" />
+			<owned value="471" />
+			<trading value="10" />
+			<wanting value="20" />
+			<wishing value="95" />
+			<numcomments value="35" />
+			<numweights value="3" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="183880">
+         <thumbnail>https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__small/img/akHr3vPigU1WlLxwruXseIKuuj8=/fit-in/200x150/filters:strip_icc()/pic4915114.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/K54XDlW9-vq8ozr1ye-PLg__original/img/QnG1h8_h__CtapJDRnUX1r992rQ=/0x0/filters:format(jpeg)/pic4915114.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Star Wars Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko Star Wars" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Star Wars" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars Rizikó" />
+			
+						               													<description>This Risk: Star Wars Edition game lets players re-create the dramatic final moments of Star Wars: Return of the Jedi. Featuring gameplay for 2 or 4 players across a TIE fighter-shaped gameboard, players can determine the fate of the Star Wars universe through 3 concurrent (yet distinct) battles. Choose to play as either the Rebel Alliance or the Galactic Empire, and use the classic Risk dice to control characters and ships. The object of the game is to defend or destroy the Death Star. Which side will win: the Galactic Empire or the Rebel Alliance?
+
+Rules Clarification
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="67">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="63" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="29">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5602" value="Movies: Star Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="83960" value="James D&#039;Aloisio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85840" value="Austin Rucker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="262" value="Craig Van Ness" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104099" value="Kevin Hill (II)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4522" />
+			<average value="6.9855" />
+			<bayesaverage value="6.44598" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1474" bayesaverage="6.44598" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="335" bayesaverage="6.6494" />
+												</ranks>
+
+			<stddev value="1.27316" />
+			<median value="0" />
+			<owned value="10524" />
+			<trading value="325" />
+			<wanting value="77" />
+			<wishing value="593" />
+			<numcomments value="1255" />
+			<numweights value="149" />
+			<averageweight value="1.8725" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="15045">
+         <thumbnail>https://cf.geekdo-images.com/qL0o8ParMNRkv7Y2i3ug5g__small/img/IXHMIw93Ndw9Saex5LK6EpwfGV0=/fit-in/200x150/filters:strip_icc()/pic4922578.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/qL0o8ParMNRkv7Y2i3ug5g__original/img/yYHYjeUKZIqYcTCDcp1MJNCDgCU=/0x0/filters:format(jpeg)/pic4922578.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Star Wars – Clone Wars Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: Star Wars – Die Klonkriege" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Star Wars – De Clone Wars" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Star Wars – Edición Guerras Clon" />
+			
+						               													<description>A year has passed since the start of the Clone Wars on Geonosis.  The Galactic Republic has since become engulfed with all-out warfare against the Confederacy of Independent Systems.  The effects of this galaxy-wide struggle have been felt in every facet of the Republic.  Take command of the Republic "Clone Trooper" Army or lead the Separatists in their universal conquest to topple the Old Republic as a players wage war on numerous planetary battlegrounds in the galaxy's most unforgettable conflict in the exciting Risk variant.
+
+Components:
+4 armies each containing:
+15 tanks
+35 transformers
+
+</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65172" value="Fictional Events: Clone Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5602" value="Movies: Star Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="442" value="Rob Daviau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4730" value="Dan Sanfilippo" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4653" value="Parker Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1804" />
+			<average value="6.00534" />
+			<bayesaverage value="5.65879" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7352" bayesaverage="5.65879" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1314" bayesaverage="5.66992" />
+												</ranks>
+
+			<stddev value="1.5128" />
+			<median value="0" />
+			<owned value="4580" />
+			<trading value="230" />
+			<wanting value="21" />
+			<wishing value="134" />
+			<numcomments value="537" />
+			<numweights value="166" />
+			<averageweight value="2.2048" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="22551">
+         <thumbnail>https://cf.geekdo-images.com/ht8IxOCol8yKXpjrhFkj-g__small/img/1KUH3C9y751hVJb8s_SRhs_1HWE=/fit-in/200x150/filters:strip_icc()/pic234167.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ht8IxOCol8yKXpjrhFkj-g__original/img/gLLmhmt77QkIm1QtVGU9fRKwVMY=/0x0/filters:format(jpeg)/pic234167.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Star Wars – Original Trilogy Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: Star Wars Die Original Trilogie" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Star Wars Edición Trilogía Original" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Star Wars Édition Trilogie" />
+			
+						               													<description>2 to 5 players    
+ ages 10 and up
+
+There are 3 factions in the game, each with its own victory conditions.
+
+&amp;bull;    The Rebellion must find and destroy the Emperor, who will be hiding at one of his Imperial Bases.   
+&amp;bull;    The Empire must eliminate all Rebel forces.  
+&amp;bull;    The Hutts must take control of 10 out of the 13 resource planets.
+
+Players choose to play as the Rebels, Empire, or Hutts and battle for domination of the Galaxy.  The Empire can use the Death Star to terrorize all and the Rebels can grow in the Force as the game goes on by attacking Imperial Bases.  Heroes and villains like Luke, Han, Darth Vader, and Boba Fett come into play on the many faction cards that can be played throughout the game. Each faction can enhance their attack with ships.
+
+The game includes 2 Death Stars and enough sculpted pieces representing the Rebels, Empire, and Hutt factions for 5 players.  The Risk game play has been updated and enhanced with cards, ships, and The Force to represent the Star Wars Original Trilogy.
+
+Re-implemented by:
+
+    Risk: Mass Effect – Galaxy at War Edition
+
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 3, 5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5602" value="Movies: Star Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="150049" value="Risk: Mass Effect – Galaxy at War Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="442" value="Rob Daviau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4730" value="Dan Sanfilippo" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9466" value="Winning Moves France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1182" />
+			<average value="6.83036" />
+			<bayesaverage value="5.89058" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3991" bayesaverage="5.89058" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="785" bayesaverage="6.06332" />
+												</ranks>
+
+			<stddev value="1.53281" />
+			<median value="0" />
+			<owned value="2769" />
+			<trading value="90" />
+			<wanting value="56" />
+			<wishing value="358" />
+			<numcomments value="400" />
+			<numweights value="105" />
+			<averageweight value="2.1143" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="131261">
+         <thumbnail>https://cf.geekdo-images.com/YucqNAlD0R6uG5CE59w03g__small/img/MOkVCnrpQcHaStNQhYgAxHn5N7g=/fit-in/200x150/filters:strip_icc()/pic1487287.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YucqNAlD0R6uG5CE59w03g__original/img/-F6NJ0S1-wZecCDHo8eJyLFjXqU=/0x0/filters:format(jpeg)/pic1487287.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: StarCraft Collector&#039;s Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: StarCraft Collector&#039;s Edition" />
+			
+						               													<description>From the website:
+
+WHO WANTS SOME?!
+
+The Koprulu Sector is being ravaged by war. You must stand against your enemies as one of the three powerful races. Will you choose the advanced and mysterious Protoss, the rugged and tenacious Terran, or lead the ravenous Zerg swarm? No matter which race you choose, you will fight for your very survival. The war for galactic supremacy begins NOW!
+
+In this version of Risk, players are controlling the three factions from the StarCraft video game, in a battle to control the sector. The players recruit and mobilize their units in order to gain control of the various areas on the board. Battle is resolved using dice as in regular Risk, but also with special power cards which are given to players who control certain areas on the board.  As in traditional Risk, players move troops and attack into territories on the board, and face off with opponents in dice battles where higher rolls eliminate opposing forces, with tied rolls favoring the defending troops.
+
+Includes 4 ways to play:
+
+    Basic Training (3-6 players) : the players start on a pre-set map and strive to collect three achievements (controlling certain areas, conquering 10 territories in one turn, etc').
+    Command Room (3-6 players) : similar to Basic Training, but the players get to set up the map  (e.g. placing mineral fields which make certain territories be worth more than others) and place their starting units by themselves.
+    Total Domination (2-6 players) : Closest to the original Risk. The players play until one player controls the entire map.
+    Team Play (4 or 6 players) : Variant of "Command Room" for playing 2v2 or 3v3.
+
+
+</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="119053" value="Video Game Theme: StarCraft" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="516" />
+			<average value="6.51899" />
+			<bayesaverage value="5.64124" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7862" bayesaverage="5.64124" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1253" bayesaverage="5.70872" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2323" bayesaverage="5.64684" />
+												</ranks>
+
+			<stddev value="1.62072" />
+			<median value="0" />
+			<owned value="1980" />
+			<trading value="46" />
+			<wanting value="21" />
+			<wishing value="125" />
+			<numcomments value="139" />
+			<numweights value="23" />
+			<averageweight value="2.2174" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="429636">
+         <thumbnail>https://cf.geekdo-images.com/ECRlNwDcFpTucXfauuEA5w__small/img/S341qVTgLW1fYqrkV5OvNjtOaXs=/fit-in/200x150/filters:strip_icc()/pic8447198.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ECRlNwDcFpTucXfauuEA5w__original/img/xCqFzALWn_h4wApQxWmslXGngGU=/0x0/filters:format(png)/pic8447198.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Stranger Things" />
+			
+						                           
+						               													<description>Experience the Upside Down in Risk: Stranger Things, collaboratively designed with the Duffer Brothers and using never-before-seen artwork from Kyle Lambert. Play as either good or evil forces, both sharing a common objective: stopping Vecna from reaching the Creel House. The game features custom-designed territories, iconic locations from the series, and includes bespoke tokens including Vecna himself.
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76151" value="TV Shows: Stranger Things" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32781" value="Winning Moves UK Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.787401" />
+			<median value="0" />
+			<owned value="34" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="11" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="291741">
+         <thumbnail>https://cf.geekdo-images.com/K-DapejrckMjJTRyxFbGwQ__small/img/0596JemoQm_y-BtLmxXyVC4mY6g=/fit-in/200x150/filters:strip_icc()/pic5002366.png</thumbnail>
+      <image>https://cf.geekdo-images.com/K-DapejrckMjJTRyxFbGwQ__original/img/gA5Iu6SPaleqvghvcNE8jmYd6pc=/0x0/filters:format(png)/pic5002366.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Battle for Medieval England" />
+			
+						                           
+						               													<description>England has faced many battles in the past; The Battle of Hastings in 1066, prompting the Norman Conquest; The Second Barons&amp;rsquo; War of the Roses in 1471, Securing the throne for Edward IV; Culminating in The Battle of Bosworth Field in 1485, where Richard III of the House of York was killed, heralding the end of the Plantagenet dynasty and the birth of the Tudor age.
+In our new Risk game it&amp;rsquo;s your turn to engage in combat never before seen on such a scale, attempting to conquer England and take the crown!
+Play as one of five different armies, as you try to capture England and take the throne. Only once all opposition has been wiped out can you lay your claim and become the true King or Queen of England.
+As you fight for supremacy, the opposing armies will do their best to stop you. If your army is not victorious by the end of the Middle Ages, then the battle is over and all armies must retreat as the king&amp;rsquo;s men regain control of the land. With special Power cards to boost your forces or destroy your plans, and special missions to capture strategic strongholds, this game of Risk is an epic battle for control of England.. and the royal throne.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 4 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32781" value="Winning Moves UK Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="6.4125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.21976" />
+			<median value="0" />
+			<owned value="71" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="35" />
+			<numcomments value="9" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="149296">
+         <thumbnail>https://cf.geekdo-images.com/4qkM2CjBDLulFp4nWthQdw__small/img/D0xG6bq2ZxfeRRmv7gV-s31T4Fo=/fit-in/200x150/filters:strip_icc()/pic2062206.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4qkM2CjBDLulFp4nWthQdw__original/img/E9DMQF5WHi6TTpuaF9_jdBb_ty0=/0x0/filters:format(jpeg)/pic2062206.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Dalek Invasion of Earth" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risk: Doctor Who" />
+			
+						               													<description>Game description from the publisher:
+
+Earth in the early 20th century: The planet has faced many invasions in the past, but never has mankind faced an assault like this, as multiple Dalek armies descend from the skies, seeking to destroy one another and conquer the world.
+
+Many years ago, an ancient artifact was hidden somewhere on the planet, an artifact that will enable the Daleks to reign supreme across the universe, defeating any who stand in their way. Such an object is so valuable that even the Daleks cannot agree how best to wield it, and have split into renegade armies, each as cunning and determined as the next.
+
+In Risk: The Dalek Invasion of Earth, you'll play as one of five different armies, either classic (black, bronze or silver) or New Dalek Paradigm (red or yellow) as you invade Earth seeking the ancient weapon. Only once all opposition has been wiped out can you begin the search. Will you be the last Dalek army left? Watch out for the TARDIS sweeping round the board to defend Earth!
+
+As you fight for supremacy, the Doctor will do his best to stop you, bringing peace to a different territory each turn, and if your army is not victorious by his eleventh regeneration, then the battle is over and all Daleks must retreat as the Oncoming Storm saves the Earth.
+
+With special power cards to boost your forces or destroy your opponents' plans, and special missions to defeat other invading forces, this game of Risk is an epic battle for control of the Earth...and the universe.
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62881" value="Region: The World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5705" value="TV Shows: Doctor Who" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="226" />
+			<average value="6.07655" />
+			<bayesaverage value="5.53995" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14927" bayesaverage="5.53995" />
+												</ranks>
+
+			<stddev value="1.44364" />
+			<median value="0" />
+			<owned value="1158" />
+			<trading value="29" />
+			<wanting value="10" />
+			<wishing value="81" />
+			<numcomments value="78" />
+			<numweights value="14" />
+			<averageweight value="2.2857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="275280">
+         <thumbnail>https://cf.geekdo-images.com/xvDJSyQbMlxWG7RYAiIB-w__small/img/FlcOo1smNLg0d78ErfgTwUGD4qI=/fit-in/200x150/filters:strip_icc()/pic5659635.png</thumbnail>
+      <image>https://cf.geekdo-images.com/xvDJSyQbMlxWG7RYAiIB-w__original/img/FccclJCljROlgAJZjIqFFbpGn1w=/0x0/filters:format(png)/pic5659635.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Elder Scrolls V – Skyrim" />
+			
+						                           
+						               													<description>The popular strategy board game heads to Tamriel in the Elder Scrolls V Skyrim Risk!
+It is the year 4E 201. High King Torygg has been murdered and Skyrim has been plunged into civil war. Some want to break away from the crumbling empire, while others want to remain a part of it. But when the kingdom splits, the prophecy of the Elder Scrolls comes to pass &amp;ndash; the dragons return! They terrorise the whole country, leaving nothing but chaos in their wake.
+
+Play with your favourite faction and show the others that you are the true Dovahkiin&amp;hellip;
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80400" value="Video Game Theme: The Elder Scrolls" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23872" value="Winning Moves Australia Pty Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="39" />
+			<average value="6.08718" />
+			<bayesaverage value="5.50558" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24734" bayesaverage="5.50558" />
+												</ranks>
+
+			<stddev value="1.94925" />
+			<median value="0" />
+			<owned value="139" />
+			<trading value="3" />
+			<wanting value="8" />
+			<wishing value="66" />
+			<numcomments value="5" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="4324">
+         <thumbnail>https://cf.geekdo-images.com/i8ryx8pqPonNNUXyRWjQaw__small/img/0-JW3OU-6XDoUKqhQudJIbRX0Bc=/fit-in/200x150/filters:strip_icc()/pic265703.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/i8ryx8pqPonNNUXyRWjQaw__original/img/jD6_3u-Z2e54Szi3I8p6Ma74Wc4=/0x0/filters:format(jpeg)/pic265703.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Lord of the Rings" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Lord of the Rings Risk" />
+			    				
+				<name type="alternate" sortindex="1" value="Ringenes Herre RISK" />
+			    				
+				<name type="alternate" sortindex="1" value="Risiko: Der Herr der Ringe" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: El Señor de los Anillos" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Le Seigneur des anneaux" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Ο Άρχοντας Των Δαχτυλιδιών" />
+			    				
+				<name type="alternate" sortindex="1" value="Sagan om ringen: Risk" />
+			
+						               													<description>A Lord-of-the-Rings-themed version of Risk, with the following differences:
+
+The map is of Middle Earth, and the tokens represent armies of that fictional world.
+(Note that in this "Two Towers edition", the first version of the game, the map is incomplete, unless you own the expansion. For the newer version with complete map, see the reimplementation of this, the "trilogy edition".)
+
+You play either good or evil.
+
+Leaders, missions and sites of power have been added.
+
+The One Ring acts as a timing mechanism, when it leaves the board, the game ends.
+
+Components for this "Two Towers edition":
+("trilogy edition" has 90 per army)
+
+40 Elven Archers/Orcs
+12 Riders of Rohan/Dark Riders
+6  Eagles/Cave Trolls
+2  shields per color
+
+
+     Gameboard
+     4 Complete armies in different colors: (60 per color)
+     42 Territory Cards (9 Good, 9 Evil, 24 Neutral)
+     2 Wild Cards
+     40 Adventure Cards
+     The One Ring
+     3 Red Dice
+     2 Black Dice
+
+
+</description>
+										      	               				<yearpublished value="2002" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4263" value="Authors: J.R.R. Tolkien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="8504" value="Risk: The Lord of the Rings Expansion Set (incl. Siege of Minas Tirith game)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="8107" value="Risk: The Lord of the Rings Trilogy Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1743" value="Stephen Baker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1778" value="Jean-René Vernes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="64856" value="Barry Yearsley" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32781" value="Winning Moves UK Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5100" />
+			<average value="5.94571" />
+			<bayesaverage value="5.74387" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5607" bayesaverage="5.74387" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1228" bayesaverage="5.72109" />
+												</ranks>
+
+			<stddev value="1.46069" />
+			<median value="0" />
+			<owned value="11655" />
+			<trading value="486" />
+			<wanting value="35" />
+			<wishing value="155" />
+			<numcomments value="1274" />
+			<numweights value="308" />
+			<averageweight value="2.2695" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="8504">
+         <thumbnail>https://cf.geekdo-images.com/MrmE-gb_7tJb10yhm0P_lg__small/img/1MR1PPKGMORkp7G94lt8z34Zmwo=/fit-in/200x150/filters:strip_icc()/pic212270.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/MrmE-gb_7tJb10yhm0P_lg__original/img/Y4dExKdywcwrSbwbbCapge0aYG8=/0x0/filters:format(jpeg)/pic212270.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Lord of the Rings Expansion Set (incl. Siege of Minas Tirith game)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Lord of the Rings Risk: Gondor &amp; Mordor" />
+			    				
+				<name type="alternate" sortindex="1" value="Lord of the Rings Risk: Gondor &amp; Mordor Expansion Set" />
+			    				
+				<name type="alternate" sortindex="5" value="The Lord of the Rings Risk: Gondor &amp; Mordor Uitbreidingsset" />
+			    				
+				<name type="alternate" sortindex="1" value="Risiko: Der Herr der Ringe – Gondor &amp; Mordor Spielerweiterung" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: El Señor de los Anillos. Extensión de Gondor y Mordor" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Le Seigneur des anneaux – Gondor &amp; Mordor (extension)" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Ringenes Herre – Gondor &amp; Mordor Udvidelsessaet" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Ο Άρχοντας των Δαχτυλιδιών - Σετ Επέκτασης: Γκόντορ και Μόρντορ" />
+			
+						               													<description>This is the expansion set for Risk: Lord of the Rings, which only covered the story through The Two Towers. This set adds a board with the remaining areas of the map to include Gondor, Mordor and Haradwaith along with additional units and cards for all 4 players (yellow, green, black and red). Also included is a bonus 2-player game centered on the siege of Minas Tirith with the play area for that on the reverse side of the board.
+
+This edition/release is so far only available in Europe and comes in English, German, French, Dutch, Spanish, Danish and Swedish editions.
+
+</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4263" value="Authors: J.R.R. Tolkien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109411" value="Theme: Medieval Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="4324" value="Risk: The Lord of the Rings" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1743" value="Stephen Baker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="25" value="Richard Borg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1778" value="Jean-René Vernes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="64856" value="Barry Yearsley" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="685" />
+			<average value="6.45127" />
+			<bayesaverage value="5.67422" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.67422" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.88017" />
+												</ranks>
+
+			<stddev value="1.39739" />
+			<median value="0" />
+			<owned value="1801" />
+			<trading value="25" />
+			<wanting value="67" />
+			<wishing value="169" />
+			<numcomments value="178" />
+			<numweights value="49" />
+			<averageweight value="2.5306" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="8107">
+         <thumbnail>https://cf.geekdo-images.com/uWhXkCi5we8neUrtRll1hQ__small/img/TqqfJMO45wxeSwPMZDLfDH5Mp0w=/fit-in/200x150/filters:strip_icc()/pic6196985.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uWhXkCi5we8neUrtRll1hQ__original/img/ZzmEZO2dkqbyJIo5Ruku1wVSjsw=/0x0/filters:format(jpeg)/pic6196985.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Lord of the Rings Trilogy Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: Der Herr der Ringe" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: El Señor de los Anillos" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Le Seigneur des Anneaux" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Le seigneur des anneaux (La trilogie)" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: The Lord of the Rings" />
+			
+						               													<description>From the publisher:
+
+In this expanded edition of RISK The Lord of the Rings Trilogy edition you will find: 
+
+     The detailed gameboard reflects a complete map of Middle-Earth including the Gondor, Mordor, and Haradwaith territories.
+     Includes materials from the entire Lord of the Rings film trilogy.
+     Additional Territory cards.
+     Additional Battalions.
+     Additional Adventure Cards.
+     Alternate ways to play including special rules for alliance team play.
+
+
+From BGG:
+ This game is essentially the regular Risk: LotR Edition with an additional board on the bottom and some new cards and revised rules.
+
+</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="48">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4263" value="Authors: J.R.R. Tolkien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4324" value="Risk: The Lord of the Rings" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1743" value="Stephen Baker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="64856" value="Barry Yearsley" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34108" value="Winning Moves International Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32781" value="Winning Moves UK Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4139" />
+			<average value="6.57887" />
+			<bayesaverage value="6.07759" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2802" bayesaverage="6.07759" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1016" bayesaverage="6.152" />
+											<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="749" bayesaverage="6.10001" />
+												</ranks>
+
+			<stddev value="1.51263" />
+			<median value="0" />
+			<owned value="9987" />
+			<trading value="429" />
+			<wanting value="79" />
+			<wishing value="454" />
+			<numcomments value="1272" />
+			<numweights value="268" />
+			<averageweight value="2.3619" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="147568">
+         <thumbnail>https://cf.geekdo-images.com/I9_wkh_jdbImOzy7jw879w__small/img/TMQ8kDGo0uon9LlpkpowVlVg_i0=/fit-in/200x150/filters:strip_icc()/pic4913462.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/I9_wkh_jdbImOzy7jw879w__original/img/-CpfXQ2qCVm9iEK2k-xBsDKBmHA=/0x0/filters:format(jpeg)/pic4913462.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: The Walking Dead – Survival Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko: The Walking Dead" />
+			
+						               													<description>In many ways, Risk: The Walking Dead - Survival Edition features the familiar Risk gameplay, with players facing off against one another in order to claim territories on a map, win bonuses, and eliminate the opponents.
+
+What differs with this game, though, is that players are battling on a map depicting the southeast region of the United States, the setting for The Walking Dead comic series, with the map featuring 32 territories and six zones. In addition to fending off attacks from and competing for resources with the other players, they must also maintain their self-preservation from the unrelenting hordes of the undead that spawn at the start of each player's turn and would love nothing better than to feast upon them.
+
+Risk: The Walking Dead includes a deck of event cards, with each player drawing one at the start of his turn. These cards refer to story events from The Walking Dead, with players facing various rewards and penalties depending on the situation.
+
+The game ends after a fixed number of turns, but players can also choose to battle until all but one player is eliminated.
+
+</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2481" value="Zombies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27069" value="Comic Books: The Walking Dead" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61897" value="Creatures: Zombies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="507" />
+			<average value="6.47616" />
+			<bayesaverage value="5.63132" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8174" bayesaverage="5.63132" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2160" bayesaverage="5.80737" />
+											<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1258" bayesaverage="5.70572" />
+												</ranks>
+
+			<stddev value="1.54668" />
+			<median value="0" />
+			<owned value="1662" />
+			<trading value="57" />
+			<wanting value="18" />
+			<wishing value="101" />
+			<numcomments value="131" />
+			<numweights value="25" />
+			<averageweight value="1.96" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="27961">
+         <thumbnail>https://cf.geekdo-images.com/ZutLQXvksn3QdKAoboVgag__small/img/_Aul6iGsZQdRcpISEt6lH5yE03o=/fit-in/200x150/filters:strip_icc()/pic4916685.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZutLQXvksn3QdKAoboVgag__original/img/aS6xNbMybmGcrRF5j_y-DPN6cjY=/0x0/filters:format(jpeg)/pic4916685.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Transformers – Cybertron Battle Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risiko Transformers" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk Transformers: Cybertron War Edition" />
+			
+						               													<description>The game of Global Domination takes a twist with this version set on Cybertron and based on the Transformers movie. Fight to gain control of the world on the side of the Autobots or the Decepticons! Choose your side, then play by either classic Risk rules or the Transformers variations!
+
+The game was released in two editions: "Cybertron Battle Edition" and "Cybertron war edition".
+
+</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22232" value="Theme: Robots" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5619" value="Toys: Transformers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9798" value="TV Shows: 80&#039;s Cartoons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="170408" value="Risk  Transformers: The Decepticon Invasion of Earth" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="181" value="Risk" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="520" />
+			<average value="5.4012" />
+			<bayesaverage value="5.4781" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29776" bayesaverage="5.4781" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="4524" bayesaverage="5.42297" />
+												</ranks>
+
+			<stddev value="1.55674" />
+			<median value="0" />
+			<owned value="1777" />
+			<trading value="106" />
+			<wanting value="6" />
+			<wishing value="47" />
+			<numcomments value="203" />
+			<numweights value="36" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="307929">
+         <thumbnail>https://cf.geekdo-images.com/G-flgZ_IAn8x0LIayKmdgA__small/img/WdfnPnegc7AoGvx8vmLBBuvE6gA=/fit-in/200x150/filters:strip_icc()/pic5714455.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/G-flgZ_IAn8x0LIayKmdgA__original/img/AebKFbYEPxVrr2sGGbXg1OhYqDk=/0x0/filters:format(jpeg)/pic5714455.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Warhammer 40,000" />
+			
+						                           
+						               													<description>Dominate your opponents in battles set during the War of Beasts across Vigilus and control the far future this fall with Risk: Warhammer 40,000!
+
+This meticulously detailed version of Risk is also based in the dark regions of space and set in the coveted territory nestled between the two halves of the Imperium. Vigilus is at the mercy of five warring factions: Ultramarines, Orks, Chaos Space Marines, Aeldari Craftworlds, and Genestealer Cults, each represented by tokens for their leaders and custom game pieces for their single and triple-threat units.
+
+To name a few, Marneus Calgar leads the Ultramarines with individual Primaris Intercessors and Repulsor battle tanks as their three-unit pieces. The Aeldari Craftworlds faction, led by an Autarch, has Guardians at attention with Falcons as their tanks. A Magus's Genestealer Cult boasts weapon-wielding Acolytes and heavily armored Goliath Rockgrinders. All five factions' leaders have various special abilities, while armies are deployed with daring attacks and defense at the roll of custom red and black dice. Players gain reward cards for completing objectives, allowing the acquisition of additional armies and providing strategic advantages. Conquer not only three objectives, but total control of all territories to win "Total Domination"!
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4329" value="Setting: Warhammer 40,000 Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="90" />
+			<average value="6.765" />
+			<bayesaverage value="5.53218" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16389" bayesaverage="5.53218" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="3687" bayesaverage="5.60798" />
+												</ranks>
+
+			<stddev value="1.73427" />
+			<median value="0" />
+			<owned value="393" />
+			<trading value="4" />
+			<wanting value="17" />
+			<wishing value="113" />
+			<numcomments value="32" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="1794">
+         <thumbnail>https://cf.geekdo-images.com/L60bzdJ7EO1TGQUwOQvhuw__small/img/pX8ycM2Zu5PtrkN0ImaVM9n5x24=/fit-in/200x150/filters:strip_icc()/pic213500.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/L60bzdJ7EO1TGQUwOQvhuw__original/img/ATCODl7NzTNo4mSBwVUwh5_cgkI=/0x0/filters:format(jpeg)/pic213500.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Risk: Édition Napoléon" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Risk Napoléon" />
+			    				
+				<name type="alternate" sortindex="1" value="Risk: Edición Batallas Napoleónicas" />
+			
+						               													<description>This very special version of Risk was published by Tilsit exclusively in France, as a numbered edition of 10 000 copies.  Hasbro's signature is very discreet, appearing in the copyright line as "(c) Hasbro International Inc. Under license of 3D Licensing France".
+
+In addition to standard Risk rules, advanced rules introduce fortress sieges, generals, maritime blockades, naval combat, alliances and personalities (Napol&amp;eacute;on, Wellington, Bl&amp;uuml;cher...).  An historical scenario reproduces the Napoleonic campaigns with fidelity.
+
+An extension was produced that introduces the Ottoman Empire as a sixth player.
+
+Online Play
+
+
+     http://www.denizengames.com
+
+
+Expanded by:
+
+    Risk Édition Napoléon: Extension Empire Ottoman
+
+
+</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5+ players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1051" value="Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56924" value="Game: Risk (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61118" value="History: Napoleonic Wars" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1795" value="Risk Édition Napoléon: Extension Empire Ottoman" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="53" value="Pascal Bernard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35650" value="Guillaume Gille-Naves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1813" value="Didier Jacobée" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116" value="Albert Lamorisse" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1279" value="Igor Polouchine" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42" value="Tilsit" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="327" />
+			<average value="6.61319" />
+			<bayesaverage value="5.6004" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9508" bayesaverage="5.6004" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1968" bayesaverage="5.84551" />
+												</ranks>
+
+			<stddev value="1.68108" />
+			<median value="0" />
+			<owned value="695" />
+			<trading value="23" />
+			<wanting value="48" />
+			<wishing value="103" />
+			<numcomments value="88" />
+			<numweights value="28" />
+			<averageweight value="2.2857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="2766">
+         <thumbnail>https://cf.geekdo-images.com/IQuIkOvcveeoes1Sl5pdUA__small/img/zekeZ8EzYGGnAtqvhe1xGlwzaNM=/fit-in/200x150/filters:strip_icc()/pic41984.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IQuIkOvcveeoes1Sl5pdUA__original/img/n7ZhdLUQhJvaDmv1Rs-0_KYVkv0=/0x0/filters:format(jpeg)/pic41984.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Jeopardy!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mindent vagy Semmit" />
+			    				
+				<name type="alternate" sortindex="1" value="Riskant!" />
+			    				
+				<name type="alternate" sortindex="1" value="Riskuj!" />
+			    				
+				<name type="alternate" sortindex="1" value="Waagstuk!" />
+			
+						               													<description>One player acts as "emcee" for two to four other players. In most editions, there are five categories. Each category has five dollar amounts. Behind each dollar amount is an "answer" or trivia clue having to do with the category. When a player thinks he or she knows the correct response to the clue, that person signals and responds in the form of a question. A player is rewarded with the amount associated with the statement if correct, and penalized the corresponding amount if incorrect.
+
+When the board is cleared, the process is repeated for "Double Jeopardy" with five new categories and double the stakes.
+
+One statement in the first round and two statements in the second round are designated as "Daily Doubles." Only the person who chose the statement may bet any or all of his or her winnings on giving the correct response.
+
+One of the highest valued statements in one of the Double Jeopardy categories is saved for the last round, "Final Jeopardy." In this phase, the players secretly bet any or all of their winnings and record their responses.
+
+The player with the most amount of money at the end of the game is the winner.
+
+The editions published by Parker Brothers and Outset Media are exceptional in that their gameplay features the same number of categories as the television series: six for the Jeopardy round, six for the Double Jeopardy round, and one for the Final Jeopardy round.
+
+Awards
+
+1996 Årets Voksenspil, Adult Game of the Year Denmark
+
+</description>
+										      	               				<yearpublished value="1964" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11394" value="TV Shows: Jeopardy!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44139" value="TV Shows: TV Game Shows" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18597" value="Gamestar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40728" value="Igloo Books" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34093" value="Imagination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8931" value="MB Jeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11366" value="Oliver Games (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1902" value="Outset Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4653" value="Parker Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="571" value="Tyco" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="293" />
+			<average value="5.30976" />
+			<bayesaverage value="5.4706" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30183" bayesaverage="5.4706" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3509" bayesaverage="5.45553" />
+												</ranks>
+
+			<stddev value="1.63289" />
+			<median value="0" />
+			<owned value="1115" />
+			<trading value="34" />
+			<wanting value="0" />
+			<wishing value="9" />
+			<numcomments value="174" />
+			<numweights value="18" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="12096">
+         <thumbnail>https://cf.geekdo-images.com/Ji9_n8ZKjIGSCj1gs4UYiw__small/img/lWDk28HyAIGVBzeOWruXil3MToM=/fit-in/200x150/filters:strip_icc()/pic96892.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ji9_n8ZKjIGSCj1gs4UYiw__original/img/O0DjukB3xEDkGYoZ51n7Pc4sY4Q=/0x0/filters:format(jpeg)/pic96892.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Riskier Was" />
+			
+						                           
+						               													<description>This game is based on a German TV Show. The TV show Riskier was not very successful.
+One player draws a card with 16 words on it. For example 16 different monkeys. But only 11 of those do really exist.
+The player next to him says the first word that is right and earns money. Now he can quit and keep the money or go on. If he goes on he gets double the money if he is right again. When he is wrong he looses everything.
+The player with the most money wins.
+
+</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1725" value="Braintrust Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2675" value="N&amp;W Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="455218">
+         <thumbnail>https://cf.geekdo-images.com/ACVPeI3nL5LYskM1p-7ovQ__small/img/40yovyq8NE5QixlDdFWCa27yJgQ=/fit-in/200x150/filters:strip_icc()/pic9130796.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ACVPeI3nL5LYskM1p-7ovQ__original/img/4yBfgDWFifIjwQdUXbd19f7vf2o=/0x0/filters:format(png)/pic9130796.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Riskit" />
+			
+						                           
+						               													<description>Welcome to the jungle, adventurers.
+
+Deep within lie rare and shiny treasures, just waiting to be claimed by those brave enough to reach for them.
+
+But beware! There are deadly dangers lurking in the shadows, ready to bite, poison and strangle you. Giving your competitors a chance to run off with your well deserved loot.
+
+So watch you step. But remember, no one ever got rich by playing it safe...
+
+- Dare to draw
+
+Players take quick turns drawing random threats from the draw pile. Their largest threat always enters the Danger Zone, a space shared with all the other players.
+
+- Will you chicken out?
+
+If any one threat gets too big... *SNAP* ... every player facing that threat is out of the round. 
+You can prevent this by chickening out before it happens, but doing so early will leave you with only 
+a meagre reward.
+
+- Bravery is rewarded
+
+Each round ends with the survivors distributing loot, with the biggest share going to the bravest (or most foolish) among you. Who will leave the jungle in one piece, carrying the biggest loot?
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50819" value="Joost Das" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50819" value="Joost Das" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22809" value="FableSmith" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="62753" value="Forjamundo Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47202" value="Neptuno Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="6.88" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.31666" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,6172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="29298">
+         <thumbnail>https://cf.geekdo-images.com/WajsvfvjFsU1X79V7fjxkA__small/img/wYU2kCOwQn48KtsAEENv19_rbsQ=/fit-in/200x150/filters:strip_icc()/pic316503.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WajsvfvjFsU1X79V7fjxkA__original/img/1cjjifJocdiKBKCoxGrD6MfAnJo=/0x0/filters:format(jpeg)/pic316503.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Descent: The Road to Legend" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Descent: Camino a la Leyenda" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Héros de légende" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: La via per la leggenda" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Wege zum Ruhm" />
+			
+						               													<description>In the dark and secret parts of the world, foul Overlords plot and scheme to unleash great evil and cover the world in suffering. Only those Heroes brave enough to journey into the dark and oppose them can save the known world from disaster.
+
+The Road to Legend represents a new way to play Descent with the introduction of campaign rules and an overland map of Terrinoth.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="69">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="30">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="26" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17226" value="Descent: Journeys in the Dark" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368085" value="Descent: Road to Legend Dice Sets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="72997" value="Descent: Road to Legend Lieutenants – Dar Hilzernod" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="73000" value="Descent: Road to Legend Lieutenants – Gata the White Death" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="72999" value="Descent: Road to Legend Lieutenants – Kar-Amag-Atoth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="80911" value="Descent: Road to Legend Lieutenants – Kratz the Plague" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="75831" value="Descent: Road to Legend Lieutenants – Krieg the Relentless" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="75830" value="Descent: Road to Legend Lieutenants – Lady Eliza Farrow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="73001" value="Descent: Road to Legend Lieutenants – Lord Merick Farrow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="72588" value="Descent: Road to Legend Lieutenants – Sir Alric Farrow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="80912" value="Descent: Road to Legend Lieutenants – Slaggorath" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="72996" value="Descent: Road to Legend Lieutenants – Thaadd the Destroyer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11257" value="Robert A. Kouba" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7483" value="John Goodenough" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17928" value="Frank Walls" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="504" value="Nexus Editrice" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2289" />
+			<average value="7.97879" />
+			<bayesaverage value="6.63664" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.63664" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="7.08178" />
+												</ranks>
+
+			<stddev value="1.48484" />
+			<median value="0" />
+			<owned value="5012" />
+			<trading value="134" />
+			<wanting value="108" />
+			<wishing value="420" />
+			<numcomments value="683" />
+			<numweights value="205" />
+			<averageweight value="3.6829" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="55150">
+         <thumbnail>https://cf.geekdo-images.com/6eBr6hySIxUUbSWkJ7H6iA__small/img/QdE6s5lxnWBUBJj3oeDQUvZKxYk=/fit-in/200x150/filters:strip_icc()/pic551015.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6eBr6hySIxUUbSWkJ7H6iA__original/img/D5AMIHSG1uDMXN0qFMQrVeOgtWo=/0x0/filters:format(jpeg)/pic551015.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Descent: The Sea of Blood" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Descent: El Mar de Sangre Expansion" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Mer de Sang" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Oceano di sangue" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Schrecken des Blutmeers" />
+			
+						               													<description>The Sea of Blood expansion allows players to take their Descent games to the high seas.
+
+New board sections include large expansive ocean tiles with scattered islands, as well as large ship decks with additional tiles featuring ships' cannons.
+
+The expansion includes an expansive overworld map featuring new sea areas and island locations to explore.
+
+The expansion also features new sea journey rules and adventures, as well as equipment and treasure cards and additional tuck boxes for packing the game away during longer campaigns.
+
+</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17226" value="Descent: Journeys in the Dark" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368085" value="Descent: Road to Legend Dice Sets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="81172" value="Descent: Sea of Blood Lieutenants – Darkwind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="81171" value="Descent: Sea of Blood Lieutenants – Soriss" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="81170" value="Descent: Sea of Blood Lieutenants – Sweetheart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="81169" value="Descent: Sea of Blood Lieutenants – The Kraken" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="80913" value="Descent: Sea of Blood Lieutenants – The Siren" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139597" value="Descent: The Sea of Blood – Ocean Map Board" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="29016" value="Sally Karkula" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11257" value="Robert A. Kouba" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30957" value="Alex Aparin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30958" value="Dimitri Bielak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29340" value="Yoann Boissonnet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21091" value="Jason Caffoe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12437" value="Felicia Cano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29343" value="Anna Christenson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24951" value="Raymond Gaustadnes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30960" value="Johannes Holm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30962" value="Chris Maldior" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18129" value="John Moriarty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12018" value="Andrew Navaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18354" value="Zoe Robinson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19691" value="Amanda Sartor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11989" value="Brian Schomburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12436" value="WiL Springer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17928" value="Frank Walls" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="784" />
+			<average value="7.42598" />
+			<bayesaverage value="5.91672" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.91672" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="6.22193" />
+												</ranks>
+
+			<stddev value="1.70333" />
+			<median value="0" />
+			<owned value="3523" />
+			<trading value="119" />
+			<wanting value="51" />
+			<wishing value="192" />
+			<numcomments value="263" />
+			<numweights value="35" />
+			<averageweight value="3.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="36722">
+         <thumbnail>https://cf.geekdo-images.com/QjJHeBC_2u3hoNkuROYouQ__small/img/Hv7dS5KZb0CFCUbePAu9aJ9EdS0=/fit-in/200x150/filters:strip_icc()/pic336357.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QjJHeBC_2u3hoNkuROYouQ__original/img/rZHiSlu_tWyIIHBc9G7MIfYp3XA=/0x0/filters:format(jpeg)/pic336357.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Descent: The Tomb of Ice" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Descent: Die Gruft aus Eis" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Le Tombeau de Glace" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Tumba de Hielo" />
+			
+						               													<description>From the Publisher:
+
+Far north of Terrinoth, past the Spires of Thunder, across the Sea of Weik, lies the icy realm of Isheim. Here, unquiet apparitions of a lost people are the harbingers of the age of frost that threatens to swallow the world. Day by day, this arctic blight encroaches further south.
+
+The Tomb of Ice is the fourth expansion for Descent: Journeys in the Dark. Included are more than two dozen new plastic figures representing spectral shades, volcanic lava beetles, petrifying medusas, stealthy wendigos, and gigantic ice wyrms - not to mention six new heroes. Along with new treasures and a new potion type, the heroes gain an entirely new weapon for their arsenal - Feat cards they can use to surprise the overlord.
+
+This product also introduces new features for the Road to Legend campaign games in the form of outdoor terrain and new Dungeon, Rumor, Location, and Incident cards.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17226" value="Descent: Journeys in the Dark" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10672" value="Jason Steinhurst" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7483" value="John Goodenough" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17928" value="Frank Walls" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1233" />
+			<average value="7.83712" />
+			<bayesaverage value="6.23747" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.23747" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="6.67707" />
+												</ranks>
+
+			<stddev value="1.19943" />
+			<median value="0" />
+			<owned value="3861" />
+			<trading value="85" />
+			<wanting value="96" />
+			<wishing value="286" />
+			<numcomments value="301" />
+			<numweights value="67" />
+			<averageweight value="3.4328" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="22361">
+         <thumbnail>https://cf.geekdo-images.com/u9tEJZzEOrtTfEIjYpKfGQ__small/img/hnKasKN3zbaZFVPJmcNDXv5QYWE=/fit-in/200x150/filters:strip_icc()/pic700845.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u9tEJZzEOrtTfEIjYpKfGQ__original/img/cVPs6a9Bs45VC2-55YYt872LPo0=/0x0/filters:format(jpeg)/pic700845.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Descent: The Well of Darkness" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Descent: Die Quelle der Finsternis" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: El Pozo de las Tinieblas" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Il Pozzo dell&#039;Oscurità" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Le puits des ténèbres" />
+			
+						               													<description>This is the first expansion for Descent.  It includes new monsters (with figures), heroes, treasures, effects, scenarios, props, and more!  It also features options for the Overlord player to customize his deck for each scenario.
+
+Deep in the bowels of the world, there lies a chasm that was sealed over a millennium ago. Within it lies a force of evil so great that, were it to be unleashed, it would plunge the world into a thousand years of darkness.
+
+Before you can face that challenge, however, you'll battle your way through dank tunnels, trapped temples, and even volcanoes to prove your worth. You'll face a host of new tricks, traps, and other lethal obstacles over the course of your quest, including scything blades, rolling boulders, and boiling hot lava.
+
+Descent: the Well of Darkness features six new heroes, tricky kobolds, bloodsucking ferrox, and unstoppable golems. Heroes will find more skill and treasures at their disposal, including six new relics and a new type of potion. The Overlord, on the other hand, gains the ability to customize his deck before every game, putting in devastating new trap, event, and spawn cards.
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17226" value="Descent: Journeys in the Dark" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7483" value="John Goodenough" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37721" value="Rafał Hrynkiewicz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17928" value="Frank Walls" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3446" value="Ubik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2156" />
+			<average value="7.70907" />
+			<bayesaverage value="6.48277" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.48277" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="6.89461" />
+												</ranks>
+
+			<stddev value="1.26717" />
+			<median value="0" />
+			<owned value="5643" />
+			<trading value="148" />
+			<wanting value="75" />
+			<wishing value="263" />
+			<numcomments value="542" />
+			<numweights value="174" />
+			<averageweight value="3.3966" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="466429">
+         <thumbnail>https://cf.geekdo-images.com/9ML--lZTEbcLejo7cO--eg__small/img/sbK9vfRTJFssIsUa6GGs1oH5C3g=/fit-in/200x150/filters:strip_icc()/pic9457535.png</thumbnail>
+      <image>https://cf.geekdo-images.com/9ML--lZTEbcLejo7cO--eg__original/img/BYOV-GOqDyN9nHUmMSx_HOnoKRQ=/0x0/filters:format(png)/pic9457535.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Divine Descent" />
+			
+						                           
+						               													<description>Divine Descent is a high-stakes, narrative-driven tactical skirmish game for 1&amp;ndash;3 players. You command a strike team of three powerful celestial warriors&amp;mdash;Angels of Might, Grace, and Zeal&amp;mdash;sent from the heavens to purge a demonic infestation and seal the Abyssal breach.
+
+This product is designed for the modern wargamer, combining the tactile satisfaction of tabletop miniatures with a Narrative Companion App that tracks your campaign, manages character progression, and handles the "bookkeeping" so you can focus on the battle.
+
+The Experience
+
+     Tactical Depth: Use a unique D10 Dice Pool System where the margin of success determines the lethality of your strikes.
+     Narrative Campaign: Fight through a continuous 12-scenario branching story.
+     Strategic Choices: Your decisions between battles&amp;mdash;whether to secure a perimeter or launch a surprise assault&amp;mdash;directly impact the rewards you earn and the challenges you face.
+     Zero-Friction Progression: No more messy character sheets; use the included Companion App to track XP, manage HP, and trigger powerful "Ascension" promotions as your Angels evolve into Tier 3 Seraphs and Cherubs.
+     Brutal Enemies: Face a diverse Demonic Horde, from skittering Imps and soaring Gargoyles to the reality-shattering Abyssal Worm.
+
+
+What&amp;rsquo;s Included?
+This digital package provides everything you need to transform your 3x3' table into a battlefield:
+
+     The Core Rulebook: A print-ready guide detailing the D10 system, alternating activations, winged movement, and terrain interactions.
+     The Narrative Companion App: A standalone, browser-based application (no installation required). It features:
+         Automated Campaign Tracking: Saves your progress across all 12 scenarios.
+         Digital Dice Roller: Integrated combat calculator vs. enemy Defense.
+         Party Management: Real-time tracking of HP, XP, and Level-Ups.
+         Inventory System: Manage consumables like Martyr&amp;rsquo;s Tears and Holy Grenades.
+         Save/Load Functionality: Export your campaign state to a JSON file to continue your war across different devices.
+    
+
+
+Coming Soon: The War Continues
+The battle for Earth is only the beginning. Future standalone expansions are currently in development to extend the Divine Descent universe:
+
+     New Narrative Arcs: Continue the crusade against the Abyss with all-new campaign chapters.
+     Expanded Bestiary: Face deadlier threats beyond the initial vanguard.
+     New Heavenly Ranks: Discover further paths of Ascension for your strike team.
+
+
+Technical Specifications
+
+     Players: 1&amp;ndash;3 (Solo or Co-op).
+     Playtime: 45&amp;ndash;60 minutes per scenario.
+     Space Required: 3x3' Table.
+     Required Materials: 3 Angel Miniatures, 10&amp;ndash;15 Demon Miniatures/Tokens, a pool of D10s, and any smartphone, tablet, or PC to run the Companion App.
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2949" value="Measurement Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="102625" value="Components: Miniature agnostic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="112812" value="Misc: Wargame Vault" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72739" value="Theme: Pulp" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="172692" value="Chad Robins" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="61683" value="Battle Logic Labs" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="9.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="4871">
+         <thumbnail>https://cf.geekdo-images.com/-WkHe5CsY8HhQA9cK58i0w__small/img/2yRPMolj4n-vkgIeylTsHIjHQ2w=/fit-in/200x150/filters:strip_icc()/pic89358.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-WkHe5CsY8HhQA9cK58i0w__original/img/P9sei_98nX4wbdznPzqaAVvmOAM=/0x0/filters:format(jpeg)/pic89358.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="How to Host a Murder: The Duke&#039;s Descent" />
+			
+						                           
+						               													<description>THE DUKE'S DESCENT 
+London Times
+June 11, 1931
+"Lofty" Aires, Duke of Airesborne, Killed In "Attack" Balloon Crash
+Lofton "Lofty" Aires, twelfth Duke of Airesborne, and his son, Lord Lightern Aires, were killed yesterday while testing the duke's prototype "attack" balloon. Observers report that the balloon plummeted out of a cloudy sky into thick woods close to Airesborne Castle, killing both the duke and his son. The duke's brother, Drafton, succeeds to the title. "Drafty," as he is popularly known, is in poor health and remains secluded at Airesborne Castle.
+Lofton received much attention several months ago when he presented a proposal to Parliament to defend the coast of England with an army of armored balloons, "constantly aloft, constantly alert, and threatening death to all intruders." Though the proposal was easily defeated, Lofton persisted in the study and development of the balloons, which he stated are "critical to the well-being and security of our nation."
+It was one such balloon that the duke and his son were testing on the morning of the crash. A spokesman for the Aires family declared, "The duke had developed an advanced version of his armored balloon and was in the process of testing it when the accident occurred. Whether the crash was caused by a malfunction in the balloon or its weapons systems is not presently known."
+Observers of matters concerning the nobility point out that it is not clear who will be Drafton's heir, since he has no children. In cases where the duke has no natural heir, he may nominate his heir from his immediate family, according to the Royal Grant of Privilege, bestowed by Queen Elizabeth when she created the Duchy of Airesborne in 1597. It is understood that the new duke has already made plans for a family council to invoke this privilege.
+
+CHARACTERS
+Spendwell P. Roppwash, Melissa C. Loudbanks, Lance Sallot, Damselyne D. Istresse, Rogan S. Coudrell, Gwendolyn O. Veere, Lonsford Glost Aires, Evonne B.N.Aires
+
+</description>
+										      	               				<yearpublished value="1990" />
+						               				<minplayers value="8" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4983" value="Series: How to Host ..." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="229" value="Decipher" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24" />
+			<average value="6.00417" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.82813" />
+			<median value="0" />
+			<owned value="90" />
+			<trading value="10" />
+			<wanting value="6" />
+			<wishing value="12" />
+			<numcomments value="18" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="31846">
+         <thumbnail>https://cf.geekdo-images.com/Oux6RiOdWInqqnudKhG39g__small/img/AXQFn4ywEu7Xm_NUvXEm3z1ti0k=/fit-in/200x150/filters:strip_icc()/pic413078.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Oux6RiOdWInqqnudKhG39g__original/img/rPH6ClGlvn769I0Ld4_0P8GUKVU=/0x0/filters:format(jpeg)/pic413078.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Liberia: Descent Into Hell – The Liberian Civil War 1989-1996" />
+			
+						                           
+						               													<description>Official Description from the Fiery Dragon website:
+
+Liberia: Descent into Hell is a simulation game on the Liberian civil war of 1989-1997. The game is for two players, one representing President Samuel Doe&amp;rsquo;s Armed Forces of Liberia and its allied factions (the Government player) and the other the insurgent forces of Charles Taylor and his allies (the Rebel player). The object of the game is to control enough territory and resources at the end of the game to win a post-war election and become the undisputed President of Liberia.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="300" />
+						               				<minplaytime value="300" />
+						               				<maxplaytime value="300" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1069" value="Modern Warfare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13247" value="Country: Liberia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18194" value="Decades: The 1990&#039;s" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4151" value="Ben Madison" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14632" value="Ed Bourelle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15291" value="Claudio Pozas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17864" value="David Sourwine" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2537" value="Platinum Dragon Productions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="42" />
+			<average value="7.08571" />
+			<bayesaverage value="5.52675" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17723" bayesaverage="5.52675" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2795" bayesaverage="5.71652" />
+												</ranks>
+
+			<stddev value="2.23794" />
+			<median value="0" />
+			<owned value="178" />
+			<trading value="1" />
+			<wanting value="32" />
+			<wishing value="83" />
+			<numcomments value="40" />
+			<numweights value="12" />
+			<averageweight value="3.0833" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="270604">
+         <thumbnail>https://cf.geekdo-images.com/gUDtVqq-7JjP1J_ssdvMYw__small/img/t6-xQw-RJkt9jvEbrYPqPEmP1P8=/fit-in/200x150/filters:strip_icc()/pic4694630.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gUDtVqq-7JjP1J_ssdvMYw__original/img/Jfb7VEVIEp_4B0w1FixUGEgsw0c=/0x0/filters:format(jpeg)/pic4694630.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Mortals: Descent of the Gods" />
+			
+						                           
+						               													<description>Mortals: Descent of the Gods is a cooperative battle-arena board game set in a museum in modern times. You and your friends play as Greek, Norse, and Egyptian gods that have been made Mortal by Death himself. Now, with the world coming to an end, you and your fellow once-gods are being called out of ambiguity to fight Death and unlock his secrets within the walls of this museum. Can you halt the engine of Earth's destruction?
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="7.92857" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.56818" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="6813">
+         <thumbnail>https://cf.geekdo-images.com/aQIVMVh9gE46s6tp_DRwAQ__small/img/KEdeYyHnYsW5w1Hwr5wSM9YxQfY=/fit-in/200x150/filters:strip_icc()/pic8716996.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aQIVMVh9gE46s6tp_DRwAQ__original/img/0XQAPmHu6c7RLGd_l04tweiRuNU=/0x0/filters:format(jpeg)/pic8716996.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Operation Market Garden: Descent Into Hell" />
+			
+						                           
+						               													<description>Operation Market Garden is a "double-blind" game focusing on the failed Allied airborne offensive of September 1944.  It was one of three "double-blind" land warfare wargames released by GDW in the eighties.  The game system used two maps so that both players were "in the dark" as to the disposition of the opposing forces at the start of the game.  The game system does not require a referee, but instead relies on the honor system.
+
+Operation Market Garden  is in the same series with The Normandy Campaign and 8th Army: Operation Crusader – The Winter Battles for Tobruk, 1941, and was republished in #115 of Command magazine Japan in 2014.
+
+</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2974" value="Zone of Control" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17056" value="Country: United Kingdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56938" value="Mechanism: Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3213" value="Series: Double Blind (GDW)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28947" value="Theme: Weather" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="335" value="Frank Chadwick" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13589" value="David R. Deitrick" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="181" value="Game Designers&#039; Workshop (GDW Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="103" />
+			<average value="6.82903" />
+			<bayesaverage value="5.54319" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14416" bayesaverage="5.54319" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2268" bayesaverage="5.78729" />
+												</ranks>
+
+			<stddev value="1.38911" />
+			<median value="0" />
+			<owned value="403" />
+			<trading value="17" />
+			<wanting value="16" />
+			<wishing value="34" />
+			<numcomments value="78" />
+			<numweights value="27" />
+			<averageweight value="2.8889" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="447831">
+         <thumbnail>https://cf.geekdo-images.com/8jUAbjKw_qKDztmY819pOQ__small/img/B64mvKM3rii71lcnGpFVwMVSJQQ=/fit-in/200x150/filters:strip_icc()/pic9159949.png</thumbnail>
+      <image>https://cf.geekdo-images.com/8jUAbjKw_qKDztmY819pOQ__original/img/8l-5UC0IHfRvkOzWv0K0pcZKGGo=/0x0/filters:format(png)/pic9159949.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Penguins Can&#039;t Fly: Squishy&#039;s Descent" />
+			
+						                           
+						               													<description>The expansion to Penguins' Can't Fly adds a new character, 3 new action cards, 3 new direction cards and expands the game to 5 players.
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61990" value="Players: Expansions Changing Player Count" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="446268" value="Penguins Can&#039;t Fly" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57484" value="Burning Fish Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3" />
+			<median value="0" />
+			<owned value="44" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="294712">
+         <thumbnail>https://cf.geekdo-images.com/oQmnaz-1XkbMelAWTaFPfQ__small/img/8P27O8uxBXoSVouk_RaLITXBc_E=/fit-in/200x150/filters:strip_icc()/pic6652062.png</thumbnail>
+      <image>https://cf.geekdo-images.com/oQmnaz-1XkbMelAWTaFPfQ__original/img/U1Z_K__BzyP-JaVZUB2Ep9501O0=/0x0/filters:format(png)/pic6652062.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Prelude to Revolution: Russia&#039;s Descent into Anarchy 1905 - 1917" />
+			
+						                           
+						               													<description>Prelude to Revolution lets the players experience the drama and chaos of the years leading up to the Russian Revolutions in February and October 1917.
+
+This 2-player CDG allows players to take the role of Revolutionary or Government and attempt to address the urgent and competing social, political and military issues of the time. Play proceeds through historical eras: The Years of Turmoil (1905-1913), The Great War (1914-1916), and The Collapse (1917).
+
+This game builds upon and expands the outstanding system introduced in Prelude to Rebellion (Compass Games 2018), adding a multi-party Duma (parliament), Key Personalities, the influence of the Tsar, and more.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1065" value="World War I" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2840" value="Action / Event" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="32025" value="History: Russian Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5013" value="Mike Willner" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11322" value="Knut Grünitz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3929" value="Compass Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="56" />
+			<average value="7.86161" />
+			<bayesaverage value="5.55467" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12885" bayesaverage="5.55467" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1739" bayesaverage="5.89497" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2855" bayesaverage="5.5788" />
+												</ranks>
+
+			<stddev value="1.13121" />
+			<median value="0" />
+			<owned value="191" />
+			<trading value="7" />
+			<wanting value="20" />
+			<wishing value="109" />
+			<numcomments value="26" />
+			<numweights value="8" />
+			<averageweight value="3.125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="70626">
+         <thumbnail>https://cf.geekdo-images.com/Kgb-Uo5YKRWonxkzwpPAgw__small/img/xI7p6RXTNRTRZ5GkVyhIqdKypLI=/fit-in/200x150/filters:strip_icc()/pic743618.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Kgb-Uo5YKRWonxkzwpPAgw__original/img/PXFab94vSl7GkcSOLwa_6Nt0D_A=/0x0/filters:format(jpeg)/pic743618.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Realms of Terrinoth: Descent / Runewars Scenarios" />
+			
+						                           
+						               													<description>At the Fantasy Flight Games event center, they held an event titled "The Realms of Terrinoth Event" which was a collection of gaming events for Descent, Runebound, and Runewars.
+ As a promo item handed out to attendees, they received this 24-page booklet which is a Scenario Guide promo for Descent and Runewars.
+
+Inside are three scenarios for Descent and one for Runewars.
+
+Descent Scenarios :
+
+
+    1 : Snitty State of the Invincible Overlords
+
+
+This quest pits one overlord against another -- Red versus Blue -- in a low stakes battle of dungeon mastery. Requires only the base game of Descent Journeys in the Dark to play.
+
+This is a double-overlord race game between two players, or two teams of players. Each side takes a turn being overlord over the opposing side, trying to do their best to make sure their heroes reach the inner guildhall sanctum first.
+
+
+    2 : The Dark Grove
+
+
+This is a standard scenario, like all others. This quest uses the outdoor map tiles, therefore the base game of Descent Journeys in the Dark and Road to Legend are required.
+
+
+    3 : A Knight's Tale
+
+
+This quest involves two teams of heroes attempting to outdo one another by taking the most gold and treasure from the Ice Wyrm's lair. This quest requires both Descent Journeys in the Dark and Tomb of Ice to play.
+
+Two teams of two players each, form up as a Knight and a Squire. The Overlord can kill the squire of each team multiple times, but if ever the Knight goes down, it's game over. It's a race to stay alive and bank more treasure than your opposing team.
+
+Runewars Scenario :
+
+
+    1 : Battle of the Ru Steppes
+
+
+This is a preset Runewars map for 4 players following normal play rules involving Dragon Rune conquest.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17226" value="Descent: Journeys in the Dark" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="59294" value="Runewars" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="32" />
+			<average value="6.625" />
+			<bayesaverage value="5.5106" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5106" />
+												</ranks>
+
+			<stddev value="1.96055" />
+			<median value="0" />
+			<owned value="144" />
+			<trading value="8" />
+			<wanting value="36" />
+			<wishing value="87" />
+			<numcomments value="27" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="456564">
+         <thumbnail>https://cf.geekdo-images.com/M-GVSY2ZAgwIyHZPamfQqw__small/img/i_AGf-QGw5XZzOZViIB-UNh7hYo=/fit-in/200x150/filters:strip_icc()/pic9167819.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/M-GVSY2ZAgwIyHZPamfQqw__original/img/viyl1IHEPZIaBM0ExidLBlK_eJ4=/0x0/filters:format(jpeg)/pic9167819.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Red Descent: The Air and Ground Assault for Vyamza 1942" />
+			
+						                           
+						               													<description>Red Descent covers the epic large paratroop drop and ground offensive by the Russians in Feb. 1942.
+
+It would be one of the largest use of paratroops to drop far behind front lines and cutoff the key German held city of Vyamza, a hub for German supply. 
+Once dropped, the Russian offensive began against an already weakened German force. Within days, the Russians managed to breakthrough to within a few miles of Vyamza only to be pushed back. The chaotic and seesaw battles were difficult for both sides in winter. As time wore on, the stalled Russian offensive struck again from a different direction cutting the main German supply route. For either side, victory was always a step away.
+
+This game has two 11x17" maps and 280 counters, rulebook.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73775" value="History: World War II (Eastern Front)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="112812" value="Misc: Wargame Vault" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1257" value="Perry Moore" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4366" value="Firefight Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="368622">
+         <thumbnail>https://cf.geekdo-images.com/GYxvj28pq3yZkSbiPjdc2g__small/img/sYiqqZxSrSlj1iU-uRLhCL9LEnQ=/fit-in/200x150/filters:strip_icc()/pic7009404.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GYxvj28pq3yZkSbiPjdc2g__original/img/jC1e-jzqu19qVMasApMly-cp-7o=/0x0/filters:format(jpeg)/pic7009404.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Shadows of Brimstone: Descent into Madness Promo" />
+			
+						                           
+						               													<description>A promo card sent out through website orders of $100 during the GenCon sale.
+
+Descent Into Madness:
+Darkness - Insanity
+Whenever a hero posse marker moves forward a space on the depth track, a random hero takes Voices In The Dark (D6 horror hits), even within the lantern's light.
+Remains in play.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146791" value="Shadows of Brimstone: City of the Ancients" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212346" value="Shadows of Brimstone: Forbidden Fortress" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150997" value="Shadows of Brimstone: Swamps of Death" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6846" value="Flying Frog Productions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="9.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.866025" />
+			<median value="0" />
+			<owned value="41" />
+			<trading value="0" />
+			<wanting value="7" />
+			<wishing value="17" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="440176">
+         <thumbnail>https://cf.geekdo-images.com/-MicgbPPPbgUg_ClJwywJA__small/img/7q-is-6KOQ9w33uqG06AbvFGWsg=/fit-in/200x150/filters:strip_icc()/pic8739136.png</thumbnail>
+      <image>https://cf.geekdo-images.com/-MicgbPPPbgUg_ClJwywJA__original/img/KjKqFOOqYxFiI0I0PX5TFwWeD3w=/0x0/filters:format(png)/pic8739136.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Stellar Descent" />
+			
+						                           
+						               													<description>Stellar Descent is a space themed solo TTPRG board game.
+
+Embark on a thrilling solo adventure set in a science fiction universe with this card-driven boardgame. You find yourself aboard an invaded starship, exploring new locations, engaging with enemies, and uncovering hidden loot. As you delve deeper into the ship, you'll investigate mysterious clues while battling to survive. Your ultimate goal? To discover the key that will allow you to navigate the starship back to Earth. Every choice you make will shape your journey in this tense, strategic space odyssey.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="25" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="25" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="99223" value="Peter Vincze" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7.4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="440447">
+         <thumbnail>https://cf.geekdo-images.com/wE0Hg2wgKNnDr-NCkREAfw__small/img/xR61WPCcIYGzF8SMUBi15BTEMo8=/fit-in/200x150/filters:strip_icc()/pic8777614.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wE0Hg2wgKNnDr-NCkREAfw__original/img/nVAiuIcdP-zzMJERn7j9YzA4jOI=/0x0/filters:format(jpeg)/pic8777614.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Tranquility: The Descent" />
+			
+						                           
+						               													<description>In Tranquility: The Descent players work together to descend into the depths in search of Tranquility.
+
+Players take turns placing cards to pave the way for their teammates. Journey together through glittering caverns and underground glades in this exploration of the earth. Like all games in the Tranquility series, The Descent is played in silence. Deep underground you will need to find new ways to cooperate in order to overcome the perils that lurk beneath the surface.
+
+Players must complete the full grid of 40 cards. Starting at the surface players must descend through 5 layers of 8 underground caverns in order to complete The Descent. Rows are completed in order and cards may be freely played anywhere within the row you are working on. Each row must be completed with numbers ascending from left to right before a new row can be started.
+
+The goal of the game is for the team to complete the grid before any player runs out of available actions.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1, 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109982" value="Series: Tranquility (James Emmerson)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="288513" value="Tranquility" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120660" value="James Emmerson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113914" value="Tristam Rossin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56491" value="Wayfarer Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="8.625" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.19242" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="11" />
+			<wishing value="111" />
+			<numcomments value="12" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="319327">
+         <thumbnail>https://cf.geekdo-images.com/HMby9V5H0U1w7x5jFtkORw__small/img/vzKtXamsC3k2aNqxY4T0SXmM4Jk=/fit-in/200x150/filters:strip_icc()/pic5695798.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HMby9V5H0U1w7x5jFtkORw__original/img/yqEK1zT0o0XSCll_VkpvmPbSlEQ=/0x0/filters:format(jpeg)/pic5695798.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Wyrd: The Descent" />
+			
+						                           
+						               													<description>It is a Dark Age in Wyrd: The Descent, and you are Wyrd now.
+
+Magik has cursed you with demonic possession.
+
+The only escape from possession is death.
+
+But your demon will not let you go quietly. You must seek your release from the Horrors that infest this world, the same Horrors you once fought to destroy.
+
+Venture into the Hollows, the ancient and forgotten places of the world, lure out dark Horrors, and take as many of them with you as you can before they drag you to your grave. For you are Wyrd now.
+
+Wyrd: The Descent is a Grimdark, solo, pen and paper dungeon crawl. All you need is the rules, a standard set of RPG dice, a pen and some paper.
+
+Roll the dice to determine what Hollows you find, how many Horrors await you there, how you destroy them and if there is anything you can Scavenge from their cursed remains. The game will only end when you have succumbed to your fate and destroyed as many Horrors as you possibly can.
+
+&amp;mdash;description from the designer
+
+Full rules available for free from the files section here on BGG.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2854" value="Critical Hits and Failures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19564" value="Contests: Solitaire Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336716" value="Wyrd: The Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340253" value="Wyrd: The Old Path" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130199" value="E.J. Taylor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="130199" value="E.J. Taylor" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46573" value="The Dark Age" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="7.91667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.33593" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="40" />
+			<numcomments value="8" />
+			<numweights value="3" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="83330">
+         <thumbnail>https://cf.geekdo-images.com/JtjGOgkaIxnLUeoV56cWFQ__small/img/eaj13E1FPWuVbXyBNBpewxXlVD0=/fit-in/200x150/filters:strip_icc()/pic814011.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JtjGOgkaIxnLUeoV56cWFQ__original/img/47Cef6w56t2Vomn6bO8aT5p1ZiI=/0x0/filters:format(jpeg)/pic814011.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Mansions of Madness" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Le Case della Follia" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Demeures de l&#039;Épouvante" />
+			    				
+				<name type="alternate" sortindex="5" value="Las Mansiones de la Locura" />
+			    				
+				<name type="alternate" sortindex="1" value="Posiadłość Szaleństwa" />
+			    				
+				<name type="alternate" sortindex="1" value="Villen des Wahnsinns" />
+			    				
+				<name type="alternate" sortindex="1" value="マンション・オブ・マッドネス" />
+			    				
+				<name type="alternate" sortindex="1" value="疯狂诡宅" />
+			    				
+				<name type="alternate" sortindex="1" value="瘋狂詭宅" />
+			
+						               													<description>Description from the publisher:
+
+Horrific monsters and spectral presences lurk in manors, crypts, schools, monasteries, and derelict buildings near Arkham, Massachusetts. Some spin dark conspiracies while others wait for hapless victims to devour or drive insane. It&amp;rsquo;s up to a handful of brave investigators to explore these cursed places and uncover the truth about the living nightmares within.
+
+Designed by Corey Konieczka, Mansions of Madness is a macabre game of horror, insanity, and mystery for two to five players. Each game takes place within a pre-designed story that provides players with a unique map and several combinations of plot threads. These threads affect the monsters that investigators may encounter, the clues they need to find, and which climactic story ending they will ultimately experience. One player takes on the role of the keeper, controlling the monsters and other malicious powers within the story. The other players take on the roles of investigators, searching for answers while struggling to survive with their minds intact.
+
+Do you dare enter the Mansions of Madness?
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="250">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="146" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="79" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="144" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="71" />
+					<result value="Recommended" numvotes="129" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="154" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="94" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="180" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="87">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="17" />
+					<result value="14" numvotes="41" />
+					<result value="16" numvotes="23" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="123">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="101" />
+					<result level="5" value="Unplayable in another language" numvotes="17" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104481" value="Components: Player Screens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77169" value="Game: Mansions of Madness (First Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4311" value="Series: Arkham Horror Files (Fantasy Flight Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57505" value="Series: Mansions of Madness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73290" value="Theme: Mad Science / Mad Scientist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61993" value="Theme: Spooky Old Houses" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110699" value="Mansions of Madness: ‘Til Death Do Us Part" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131751" value="Mansions of Madness: Call of the Wild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="108150" value="Mansions of Madness: Forbidden Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="124640" value="Mansions of Madness: House of Fears" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101921" value="Mansions of Madness: Season of the Witch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150915" value="Mansions of Madness: The Laboratory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104356" value="Mansions of Madness: The Silver Tablet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131339" value="Mansions of Madness: The Yellow Sign" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="205059" value="Mansions of Madness: Second Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206547" value="Mansions of Madness: Second Edition – Recurring Nightmares: Figure and Tile Collection" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6651" value="Corey Konieczka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19411" value="Christopher Burdett" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14596" value="Anders Finér" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="14059" />
+			<average value="7.24972" />
+			<bayesaverage value="6.89997" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="630" bayesaverage="6.89997" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="170" bayesaverage="6.99951" />
+												</ranks>
+
+			<stddev value="1.56831" />
+			<median value="0" />
+			<owned value="20609" />
+			<trading value="393" />
+			<wanting value="302" />
+			<wishing value="3025" />
+			<numcomments value="2526" />
+			<numweights value="762" />
+			<averageweight value="3.2428" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="131751">
+         <thumbnail>https://cf.geekdo-images.com/8nOXWkLq7GkK0vh1mHIOrg__small/img/erWgLpdoxJkDOZHyhw6SPxHHsqE=/fit-in/200x150/filters:strip_icc()/pic1473795.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8nOXWkLq7GkK0vh1mHIOrg__original/img/9XV74aMFaRW2caEEHEaj_kGIr44=/0x0/filters:format(jpeg)/pic1473795.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Mansions of Madness: Call of the Wild" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Le Case della Follia: Il Richiamo della Foresta" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Demeures de l&#039;Epouvante: L&#039;Appel de la Forêt" />
+			    				
+				<name type="alternate" sortindex="5" value="Las mansiones de la Locura: La Llamada de lo Salvaje." />
+			    				
+				<name type="alternate" sortindex="1" value="Posiadłość Szaleństwa: Zew Dziczy" />
+			    				
+				<name type="alternate" sortindex="1" value="Villen des Wahnsinns: Ruf der Wildnis" />
+			    				
+				<name type="alternate" sortindex="1" value="マンション・オブ・マッドネス：野生の呼び声" />
+			    				
+				<name type="alternate" sortindex="1" value="瘋狂詭宅：荒野之呼喚" />
+			
+						               													<description>Game description from the publisher:
+
+"Briefly summarized, it hinted at a hidden race of monstrous beings which lurked somewhere among the remoter hills &amp;ndash; in the deep woods of the highest peaks, and the dark valleys where streams trickle from unknown sources. These beings were seldom glimpsed, but evidences of their presence were reported by those who had ventured farther than usual up the slopes of certain mountains or into certain deep, steep-sided gorges that even the wolves shunned." &amp;ndash;H.P. Lovecraft, "The Whisperer in Darkness"
+
+Venture into the unknown with Mansions of Madness: Call of the Wild! Five new scenarios and eleven double-sided board tiles plunge investigators into the mysterious backwoods, shaking the foundations of what players have come to expect. The keeper has even more surprises at his disposal, and at times must solve ritual puzzles and seek out clues. A focus on outdoor maps encourages non-linear exploration, and new Allies assist in combat while driving the macabre narrative. Survive the wilderness in Call of the Wild!
+
+</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="180" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77169" value="Game: Mansions of Madness (First Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4311" value="Series: Arkham Horror Files (Fantasy Flight Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57505" value="Series: Mansions of Madness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73290" value="Theme: Mad Science / Mad Scientist" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="83330" value="Mansions of Madness" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206548" value="Mansions of Madness: Second Edition – Suppressed Memories: Figure and Tile Collection" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6651" value="Corey Konieczka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19411" value="Christopher Burdett" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1173" />
+			<average value="8.12593" />
+			<bayesaverage value="6.30702" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.30702" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="6.78861" />
+												</ranks>
+
+			<stddev value="1.28041" />
+			<median value="0" />
+			<owned value="4593" />
+			<trading value="33" />
+			<wanting value="122" />
+			<wishing value="483" />
+			<numcomments value="238" />
+			<numweights value="45" />
+			<averageweight value="3.4222" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="108150">
+         <thumbnail>https://cf.geekdo-images.com/3v06cF8VLCv25hY3uYoKsQ__small/img/A-IyqMHvwsySffK5AnAg_IyiZT4=/fit-in/200x150/filters:strip_icc()/pic1097393.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3v06cF8VLCv25hY3uYoKsQ__original/img/NElYmozebZPg5zFmaLXHDNF_ylY=/0x0/filters:format(jpeg)/pic1097393.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Mansions of Madness: Forbidden Alchemy" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Le Case della Follia: Alchimia Proibita" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Demeures de L&#039;Epouvante: Expériences Interdites" />
+			    				
+				<name type="alternate" sortindex="1" value="Mansiones de la Locura: Alquimia Prohibida" />
+			    				
+				<name type="alternate" sortindex="1" value="Posiadłość Szaleństwa: Zakazana Alchemia" />
+			    				
+				<name type="alternate" sortindex="1" value="Villen des Wahnsinns: Verbotene Alchemie" />
+			    				
+				<name type="alternate" sortindex="1" value="マンション・オブ・マッドネス：禁断の錬金術" />
+			
+						               													<description>Game description from the publisher:
+
+Inside abandoned hospitals, secret laboratories, and forgotten cellars, scientists are conducting depraved experiments that will drag humanity to the brink of the abyss. Only a small group of investigators can discover the truth and put an end to these mad plots before it's too late...
+
+Mansions of Madness: Forbidden Alchemy provides players with new investigators for the Mansions of Madness base game, as well as new Trauma, Mythos, and Combat cards for use in any story. Forbidden Alchemy also includes three new scenarios, in which investigators will encounter new rooms, monsters, items, clues, locks, and obstacles:
+
+
+    In "Return of the Reanimator", the investigators are tasked with entering a vermin-infested manor to seek the whereabouts of Doctor Herbert West, a reportedly insane scientist whose legendary experiments in reanimation led to his untimely demise.
+
+
+
+    "Yellow Matter" tells the grim tale of research into strange extraterrestrial beings. But who is the experimenter, and who is the subject?
+
+
+
+    "Lost in Time and Space" takes your Mansions of Madness experience to mind-bending new heights with the introduction of time travel! Travel back to the mid-nineteenth century or ahead to the mid-twenty-first in your search for the truth behind a strange and dangerous device.
+
+
+With four new investigators, two monster types, nearly 250 new cards, 40 tokens and markers, and six detailed map tiles, Forbidden Alchemy introduces a host of new enhancements to your Mansions of Madness experience.
+
+The revised printing of Mansions of Madness: Forbidden Alchemy, scheduled for release in May 2012, includes corrected cards and map set-ups for all three scenarios.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="180" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77169" value="Game: Mansions of Madness (First Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4311" value="Series: Arkham Horror Files (Fantasy Flight Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57505" value="Series: Mansions of Madness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73290" value="Theme: Mad Science / Mad Scientist" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150915" value="Mansions of Madness: The Laboratory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="83330" value="Mansions of Madness" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206548" value="Mansions of Madness: Second Edition – Suppressed Memories: Figure and Tile Collection" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6651" value="Corey Konieczka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19411" value="Christopher Burdett" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1287" />
+			<average value="7.73788" />
+			<bayesaverage value="6.21823" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.21823" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="6.63366" />
+												</ranks>
+
+			<stddev value="1.35189" />
+			<median value="0" />
+			<owned value="5269" />
+			<trading value="40" />
+			<wanting value="102" />
+			<wishing value="451" />
+			<numcomments value="252" />
+			<numweights value="64" />
+			<averageweight value="3.0938" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,5840 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="166463">
+         <thumbnail>https://cf.geekdo-images.com/1PIvcrwnUjoAs-ivzXS7tQ__small/img/x9hEQoMLLk59QY0u8cVyEvm5-Jc=/fit-in/200x150/filters:strip_icc()/pic2257039.png</thumbnail>
+      <image>https://cf.geekdo-images.com/1PIvcrwnUjoAs-ivzXS7tQ__original/img/vkiT-9VjFVrPEAl_Si7ZkFd8Iq4=/0x0/filters:format(png)/pic2257039.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: France Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Extension France" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Frankreich-Deck" />
+			
+						               													<description>Agricola: France Deck is a theme deck for Agricola of 120 occupation and minor improvement cards that are all related to the history, culture, politics, sports and science of France.
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42247" value="Chris Deotte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="220" />
+			<average value="7.64205" />
+			<bayesaverage value="5.67066" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.67066" />
+												</ranks>
+
+			<stddev value="1.47453" />
+			<median value="0" />
+			<owned value="1369" />
+			<trading value="15" />
+			<wanting value="65" />
+			<wishing value="149" />
+			<numcomments value="89" />
+			<numweights value="7" />
+			<averageweight value="3.4286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="85704">
+         <thumbnail>https://cf.geekdo-images.com/2mK9Sm9LL3dBa1tOZlP_qg__small/img/M5DnR1TfzUGfhmdhqPiL7J0-574=/fit-in/200x150/filters:strip_icc()/pic832734.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2mK9Sm9LL3dBa1tOZlP_qg__original/img/QMAqzDUz9gvLFmomgjhCCMEkgr4=/0x0/filters:format(jpeg)/pic832734.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Gamers&#039; Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Talia Graczy" />
+			
+						               													<description>The Agricola: Gamers' Deck is a medium-sized expansion that includes 59 minor improvement cards and 60 occupation cards. The deck is playable alone but it is best when mixed with EIK.  The cards were developed and tested by users of Play-Agricola (aka Lookout Games' online test group) to fill in gaps in game play that had developed since Agricola first released.
+
+It was designed for use only with the base game. It has enough cards to play with 5 players.
+
+The artwork on the cards is entirely 100% drawn by the original Agricola/Le Havre artist.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42247" value="Chris Deotte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="46210" value="Ira Fay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="907" />
+			<average value="7.78434" />
+			<bayesaverage value="6.10903" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.10903" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.28985" />
+												</ranks>
+
+			<stddev value="1.43808" />
+			<median value="0" />
+			<owned value="3461" />
+			<trading value="47" />
+			<wanting value="100" />
+			<wishing value="266" />
+			<numcomments value="368" />
+			<numweights value="42" />
+			<averageweight value="3.381" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="183316">
+         <thumbnail>https://cf.geekdo-images.com/A6-iKYirWWSM0JVLrkBfQg__small/img/2WCkrVB_A-JLhMptqVoZM_ItvRk=/fit-in/200x150/filters:strip_icc()/pic2657931.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/A6-iKYirWWSM0JVLrkBfQg__original/img/AzjObFaTKoybI6jrwxZSKh0pHVU=/0x0/filters:format(jpeg)/pic2657931.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Glon­na­cker" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Campo di Glonn" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Glonnakker" />
+			    				
+				<name type="alternate" sortindex="1" value="Glonnacker für Agricola" />
+			
+						               													<description>A mini expansion for Agricola, to honor the 90th birthday of Erwin Glonnegger.
+
+It is a special field, costing extra food to build. But on seeding grain here, one puts 1 grain and 1 vegetable instead of two grain on it.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="166187" value="Caverna: Mini Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="40" />
+			<average value="6.8125" />
+			<bayesaverage value="5.51682" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51682" />
+												</ranks>
+
+			<stddev value="1.72369" />
+			<median value="0" />
+			<owned value="288" />
+			<trading value="14" />
+			<wanting value="45" />
+			<wishing value="84" />
+			<numcomments value="23" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="242388">
+         <thumbnail>https://cf.geekdo-images.com/TucjbixmgZv-9XyEuQ0J-Q__small/img/8h-MRh6rPWWOI2r-OkqzVyZ4xiE=/fit-in/200x150/filters:strip_icc()/pic3977170.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TucjbixmgZv-9XyEuQ0J-Q__original/img/cLDL_1mxqWYmH8750z_RZUh1sEA=/0x0/filters:format(jpeg)/pic3977170.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Guildmaster" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Maestro de cofradía" />
+			
+						               													<description>Promo card on Lookout spiel website
+
+You receive 4 Wood when you acquire the Joinery or play the Cabinetmaker. When you acquire the Pottery or play the Potter, you receive 4 Clay. When you acquire the Basketmaker's Workshop or play the Basketmaker, you receive 3 Reed. If you have already played any of these cards when you play the Guildmaster, you receive 2 building resource of the appropriate type for each existing card.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.67332" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="0" />
+			<wanting value="15" />
+			<wishing value="36" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="39090">
+         <thumbnail>https://cf.geekdo-images.com/-xa9ObmPlcI1pxbCKj9TQA__small/img/qnluuZhpEs0QOdpNjLNboE5iq8U=/fit-in/200x150/filters:strip_icc()/pic549787.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-xa9ObmPlcI1pxbCKj9TQA__original/img/FL5IxflDy6snR23q2vbaKN9yXdA=/0x0/filters:format(jpeg)/pic549787.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: L-Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Aggro-Koala" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – AgriCola" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Altfischer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Anthropologist" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Asmodaeus" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Azubine" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bär" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bärenfalle" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bärenjäger" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bärenpark" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bärtiger" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bean Farmer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bearded One" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bibliothekarin" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Bohnenbauer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Brandroder" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Broch" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Chief" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – City Planner" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Community Leader" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Corruptionist" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Covert Advertiser" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Demonstrant" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Der Hüne" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Der Verstecker" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Dispatcher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Dithmarscher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Drudgeflayer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Dudelsack" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Ehefrauen" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Eisenbahner" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Elder Fisher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Feldmann" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Franz" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Fruit Tree" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Garten des Vorsitzenden" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Geo-Graf" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Goddess-in-waiting" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Gondolier" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Gondoliere" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Gourmet" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Güteseegelhund" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Hafenlogistiker" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Hafenverwalter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Handaufhalter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Hängematte" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Herr der Karten" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Highlandrind" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Hochdreckreiniger" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Holzabstauber" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Hütehund" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kammer players" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kammerspieler" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Karnickel-Stall" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kleine Hexe" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Knechteschinder" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kolonisierer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kornbrenner" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Krawattenbrecher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kreditnehmer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kriegsspieler" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Kulturforscher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Laienbruder" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Lassie" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Lay Brother" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Liedermacher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Lookout-Larry" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Lord of the Cards" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Malermeister" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Man with a Shed" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Mann mit Hütte" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Master Artist" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Miscutodon" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Nonnenmacher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Obstbaum" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Old Sea Dog" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Online Shop" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Partybody" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Pferdeknecht" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Pink Goddess" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Playing Card Factory" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Praktikantin" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Prototype tester" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Prototypentester" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Quilter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Quilterin" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Raddampfer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Rumtrinker" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Schatztruhe" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Schleichwerber" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Schnellrednerin" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Schreihals" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Seal of Approval" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Seebär" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Sheepdog" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Simplifier" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Songwriter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Spieleabend-Organisator" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Spielkartenfabrik" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Stadtplaner" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Storekeepers" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Streckziege" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Stretch Goat" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Teetrinker" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – The Game Doctor" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – The Hider" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – The Hülk" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Tie-Breaker" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Treasure Chest" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Turnierausrichter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Übergeeks" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Vereinfacher" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Versandhandel" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Verschacherer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Verschacherer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Versenderin" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Verstanzungsmonster" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Vielspieler" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wanderer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wanderkumpel" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wargamer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wer-Klon" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wer-Klone" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Were-Clone" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Whiskyfässer" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wives" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Wood Scrounger" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Yeager, not Hunter" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: L-Deck – Z-Man" />
+			
+						               													<description>The L-Deck is a promo card expansion for Agricola.  It is comprised mostly of cards given away at Spiele Essen.  Each year, the new set of promo cards are included in the L-Deck and continue the numbering from the previous years' release.
+
+For Essen 2008, eight of the cards were printed in a 12 card set&amp;mdash;some were included more than once&amp;mdash;and handed out as promotional items by the people depicted on the cards.
+For Essen 2009, fifteen new cards were printed in a 24 card set&amp;mdash;some in German, some in English&amp;mdash;and handed out as promotional items by the people depicted on the cards.
+
+Most of 2008 and 2009 promos are included in Agricola: The Goodies Expansion.
+
+Expands:
+
+     Agricola
+
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71212" value="Food &amp; Drink: Fruit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="200680" value="Agricola (Revised Edition)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359999" value="Agricola 15" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="302" />
+			<average value="5.88563" />
+			<bayesaverage value="5.52979" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.52979" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="5.53848" />
+												</ranks>
+
+			<stddev value="2.07093" />
+			<median value="0" />
+			<owned value="3310" />
+			<trading value="484" />
+			<wanting value="162" />
+			<wishing value="390" />
+			<numcomments value="664" />
+			<numweights value="19" />
+			<averageweight value="2.3158" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="103182">
+         <thumbnail>https://cf.geekdo-images.com/r1BURqxicbZ7izV7P5QopA__small/img/QpsWXXG54R5GrUW3g6ntlrHeQyY=/fit-in/200x150/filters:strip_icc()/pic1216378.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/r1BURqxicbZ7izV7P5QopA__original/img/kET3qutxxqrVlRlZDUDKbIASHoE=/0x0/filters:format(jpeg)/pic1216378.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: NL-Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Netherlands Deck" />
+			
+						               													<description>Game description from the publisher:
+
+Play Agricola with a new thematic setting! Discover the Netherlands &amp;ndash; a small country with more than just the stereotypical windmills, cheese, and tulips. The 60 Minor Improvements and 60 Occupations in the 120-card Agricola: NL-Deck expansion can be played as a stand-alone deck or shuffled into other decks.
+
+The Dutch version of this deck is included in Agricola: De Lage Landen from 999 Games.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="109012" value="Agricola: De Lage Landen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42276" value="Pieter de Hooch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18567" value="Hieronymous" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44020" value="Vincent van Gogh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25412" value="Rembrandt van Rijn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42868" value="Johannes Vermeer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="401" />
+			<average value="7.22723" />
+			<bayesaverage value="5.73437" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.73437" />
+												</ranks>
+
+			<stddev value="1.5233" />
+			<median value="0" />
+			<owned value="1960" />
+			<trading value="26" />
+			<wanting value="67" />
+			<wishing value="142" />
+			<numcomments value="153" />
+			<numweights value="20" />
+			<averageweight value="3.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="242389">
+         <thumbnail>https://cf.geekdo-images.com/OdBxtNGn0Yxe48RWM1wVtw__small/img/iul-Rw5GVpiS-h0TsIkPKC-lunU=/fit-in/200x150/filters:strip_icc()/pic3977171.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OdBxtNGn0Yxe48RWM1wVtw__original/img/qfEh0tA2J07qLWMpGuSTZR-LI3g=/0x0/filters:format(jpeg)/pic3977171.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Pelts" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Pieles" />
+			
+						               													<description>Promo card on Lookout spiel website
+
+For each animal that you slaughter and return to the general supply, you may place 1 Food from your personal supply in 1 of your rooms. You may have a maximum of 1 Food in each room. You cannot use these Food any more, but each is worth 1 Bonus point at the end of the game.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="32" />
+			<trading value="0" />
+			<wanting value="16" />
+			<wishing value="36" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="130847">
+         <thumbnail>https://cf.geekdo-images.com/G-znRksdyo171tYreuKBdg__small/img/H10hJ3cgKAU_0bOoYKBzcFnA0ZI=/fit-in/200x150/filters:strip_icc()/pic1461537.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/G-znRksdyo171tYreuKBdg__original/img/8x41Lw-UrNyRAyDl0QkPwBngUQI=/0x0/filters:format(jpeg)/pic1461537.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Pi-Deck" />
+			
+						                           
+						               													<description>Agricola: Pi-Deck adds 24 new cards&amp;mdash;12 Minor Improvements and 12 Occupations&amp;mdash;to Agricola.
+
+This card set was designed and tested by users at Play-Agricola.com as part of the website's second large Agricola expansion, which consists of 139 cards (and is nicknamed G2). These 24 cards (nicknamed G2x) are the most unconventional of the group. The other 115 cards were released earlier in 2011 as the WM-Deck.
+
+</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42247" value="Chris Deotte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="46210" value="Ira Fay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="152" />
+			<average value="7.05921" />
+			<bayesaverage value="5.58516" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58516" />
+												</ranks>
+
+			<stddev value="1.68097" />
+			<median value="0" />
+			<owned value="1051" />
+			<trading value="23" />
+			<wanting value="50" />
+			<wishing value="120" />
+			<numcomments value="94" />
+			<numweights value="7" />
+			<averageweight value="3.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="242350">
+         <thumbnail>https://cf.geekdo-images.com/M_RNekm1c3euY9jXJtx1Zg__small/img/doiCWyrmvd6NQVSr_hStIXcsQCY=/fit-in/200x150/filters:strip_icc()/pic3977173.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/M_RNekm1c3euY9jXJtx1Zg__original/img/hyFW3SX0OHkDbrO8WdLXSw_b9oU=/0x0/filters:format(jpeg)/pic3977173.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Rancher" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Hacendado" />
+			
+						               													<description>Promo card on Lookout spiel website
+
+Whenever, at the start of a round, you are using more farmyard spaces that any of the other players, you receive 1 Wood. (If there is a tie, you get nothing).
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="8.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.78536" />
+			<median value="0" />
+			<owned value="31" />
+			<trading value="0" />
+			<wanting value="16" />
+			<wishing value="38" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="197633">
+         <thumbnail>https://cf.geekdo-images.com/P3N8UEVGYUgrM7Ona9zEyA__small/img/VokBnriZGsbw4nbks6JsiBAdbpY=/fit-in/200x150/filters:strip_icc()/pic3189976.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/P3N8UEVGYUgrM7Ona9zEyA__original/img/zkwUyfLQqE1mPtQB6B8mkdAiQ1Q=/0x0/filters:format(jpeg)/pic3189976.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Roman Campaign in Britain, AD 82-84" />
+			
+						                           
+						               													<description>Agricola: Roman Campaign in Britain, AD 82-84 is a wargame reflecting the campaign fought by Gnaeus Julius Agricola, the Roman governor of Britain (AD 77-85) to conquer northern Britannia (modern Britain). There are two players, the Roman and the Caledonian (the latter actually representing various northern British tribes).
+
+Cardboard chits are used to represent units &amp;mdash; military formations or tribal warbands. Each player has a set of Stratagem markers. Players use these markers to recruit new units, move their forces on the map, take special actions, and enhance operations.
+
+Components: One 22" x 34" map &amp; 117 counters
+
+(Strategy and Tactics Magazine #306) Sep-Oct, 2017
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99251" value="History: Roman Britain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58534" value="History: Roman Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="337" value="Joseph Miranda" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12425" value="Nadir Elfarra" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="102" value="Decision Games (I)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="55" />
+			<average value="6.72364" />
+			<bayesaverage value="5.52458" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18290" bayesaverage="5.52458" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="3340" bayesaverage="5.64948" />
+												</ranks>
+
+			<stddev value="1.68058" />
+			<median value="0" />
+			<owned value="240" />
+			<trading value="3" />
+			<wanting value="12" />
+			<wishing value="43" />
+			<numcomments value="50" />
+			<numweights value="4" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="240737">
+         <thumbnail>https://cf.geekdo-images.com/ZCjzK-SDAwze7cnO76AuDg__small/img/wlodA2NQRrXL4c-zX3XyTX_8LZc=/fit-in/200x150/filters:strip_icc()/pic3888409.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZCjzK-SDAwze7cnO76AuDg__original/img/jtqhdFxf28URQbflxA_PBDiqfHo=/0x0/filters:format(jpeg)/pic3888409.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Rozšíření" />
+			
+						                           
+						               													<description>The Czech version of Agricola was published without Minor Improvement and Profession cards. This expansion adds them.
+
+&amp;mdash;user summary
+
+This expansion brings to Agricola more other options to play. Improve your economy by new equipment and learn your family new job assignment. Game will be more fun.
+
+E-Deck for basic play
+I-Deck for interactive play
+K-Deck for complex play
+
+&amp;mdash;description from the pulisher (translated)
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21" />
+			<average value="8.2381" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.971242" />
+			<median value="0" />
+			<owned value="95" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="15" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="440147">
+         <thumbnail>https://cf.geekdo-images.com/xjKHDCMXRs7LyKneFV3bxQ__small/img/CIPuvNXlDjnlUSVEUiWrw5O5Fk4=/fit-in/200x150/filters:strip_icc()/pic9782075.png</thumbnail>
+      <image>https://cf.geekdo-images.com/xjKHDCMXRs7LyKneFV3bxQ__original/img/BAfK7hGonulsvCwIaNixR_ulN8c=/0x0/filters:format(png)/pic9782075.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Special Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Edycja Specjalna" />
+			
+						               													<description>The cycle of farming is eternal &amp;mdash; plowing, sowing, harvesting, and ensuring that every mouth is fed. Life on the farm is simple yet demanding, requiring both strategy and resilience to thrive.
+
+Agricola: Special Edition revitalizes Uwe Rosenberg&amp;rsquo;s iconic board game, bringing it to life with new artwork and refined usability. This special edition includes all previously released expansions and introduces Irrigations, a brand-new expansion that challenges players to manage water resources to sustain and grow their farms.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7523" value="Animals: Horses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7379" value="Animals: Pigs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79006" value="Components:  Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80703" value="Components: AI Generated Illustrations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66335" value="Components: Standees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3866" value="Series: Harvest (Uwe Rosenberg)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="453623" value="Agricola: Special Edition – Acrylic Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="447394" value="Agricola: Special Edition – Miniatures Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="200680" value="Agricola (Revised Edition)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="292850" value="Agricola: Agricola Meets Newdale" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242392" value="Agricola: Animal trainer" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="234218" value="Agricola: Artifex Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131403" value="Agricola: Belgium Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="150732" value="Agricola: Bielefeld Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="132592" value="Agricola: Brakelhühner Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="247720" value="Agricola: Bubulcus Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="263965" value="Agricola: Changelings" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242391" value="Agricola: Clay deposit" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329847" value="Agricola: Consul Dirigens Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="271144" value="Agricola: Corbarius Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="59158" value="Agricola: CZ-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="311545" value="Agricola: Dulcinaria Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="393922" value="Agricola: Ephipparius Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="257344" value="Agricola: Farmers of the Moor" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242390" value="Agricola: Feed pellets" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="166463" value="Agricola: France Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="85704" value="Agricola: Gamers&#039; Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="183316" value="Agricola: Glon­na­cker" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242388" value="Agricola: Guildmaster" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="39090" value="Agricola: L-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="103182" value="Agricola: NL-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="39256" value="Agricola: Ö-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242389" value="Agricola: Pelts" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="130847" value="Agricola: Pi-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="242350" value="Agricola: Rancher" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="83697" value="Agricola: The Legen*dairy Forest-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38641" value="Agricola: Through the Seasons" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="279703" value="Agricola: Times they are a-changing" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="103183" value="Agricola: World Championship Deck – 2011" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38733" value="Agricola: X-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="37235" value="Agricola: Z-Deck" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114786" value="Ewa Labak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="154973" value="Pamela Łuniewska" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="350" />
+			<average value="6.45769" />
+			<bayesaverage value="5.57436" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.57436" />
+												</ranks>
+
+			<stddev value="4.05122" />
+			<median value="0" />
+			<owned value="570" />
+			<trading value="2" />
+			<wanting value="26" />
+			<wishing value="527" />
+			<numcomments value="333" />
+			<numweights value="10" />
+			<averageweight value="3.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="73833">
+         <thumbnail>https://cf.geekdo-images.com/8qYrgDG5pOo0fS7OTWeiQg__small/img/YAcnw12fKOC3g0lLR6BnbiqO3Vg=/fit-in/200x150/filters:strip_icc()/pic1101233.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8qYrgDG5pOo0fS7OTWeiQg__original/img/9t0mR9IXV0jRvuXq4PmUUqhHPs8=/0x0/filters:format(jpeg)/pic1101233.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: The Goodies Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola Tuning" />
+			    				
+				<name type="alternate" sortindex="1" value="アグリコラ：プレミアムグッズ" />
+			
+						               													<description>From Lookout Games:
+
+This is not a complete game. You need AGRICOLA to play this expansion set.
+
+Over the past years, many small expansions for Agricola were released, mostly in German language. Lookout Games, the publisher, also introduced deluxe wooden pieces to complement the game. The Goodies Expansion contains:
+
+
+     Agricola: X-Deck -- 24 cards with alien encounters all over the farm. Every time a player visits a stone quarry, a card is drawn from the pile. And then? Resistance is futile!
+
+
+
+     Agricola: Ö-Deck -- 12 new Occupations and 12 new Minor Improvements including a wunderkind, the guy with the couch, the singing family from the Alps, and of course that one specific Governor.
+
+
+
+     Agricola: CZ-Deck -- 12 Occupations and 12 Improvements.  Based on famous people, places, and historic events from the Czech Republic. Illustrated in the spirit of the artist Josef Lada, this expansion was initiated by the Czech Publisher of Agricola-Mindok.
+
+
+
+     Agricola: L-Deck -- Nobody knows exactly what the L stands for. Some tend to believe Lookout, others insist on Looneys. Decide for yourself; but don't take it too seriously. Contains L1-L15, minus L11 and L13.
+
+
+
+     5 double-sided theme boards -- Western, Spring, Autumn, Winter, and Mars.
+
+
+
+     Sticker Sheet (70 stickers) -- 35 adults, 33 children, 1 alien, and 1 werewolf.
+
+
+
+     Wooden Meeples -- Veggiemeeples, Animeeples, and Resourceeples.
+
+
+Since these items have been generally available in Germany, Agricola: The Goodies will be released only in English and Spanish.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="59158" value="Agricola: CZ-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="39256" value="Agricola: Ö-Deck" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38733" value="Agricola: X-Deck" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="974" />
+			<average value="7.43381" />
+			<bayesaverage value="6.05365" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.05365" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.2063" />
+												</ranks>
+
+			<stddev value="1.49984" />
+			<median value="0" />
+			<owned value="3255" />
+			<trading value="44" />
+			<wanting value="162" />
+			<wishing value="477" />
+			<numcomments value="366" />
+			<numweights value="30" />
+			<averageweight value="3.2333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="86457">
+         <thumbnail>https://cf.geekdo-images.com/bH_aHZOtmxWoriF2TOSiUQ__small/img/6KGqVTgBuBnou_8l5s71MBWqVI8=/fit-in/200x150/filters:strip_icc()/pic845988.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bH_aHZOtmxWoriF2TOSiUQ__original/img/kbLpXVDgKJDM9Gv3vsIGHZdK39Q=/0x0/filters:format(jpeg)/pic845988.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: The Legen*dairy Forest Deck – Chuck the Wood Chuck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Das legendäre Forst-Deck – Horst der Holzhacker" />
+			
+						               													<description>Chuck the Wood Chuck is a special promo card from the SPIEL 10 in Essen and expands the Agricola The Legen*dary Forest Deck.
+
+Description of the card:
+
+Whenever Chuck the Wood Chuck would chuck wood, Chuck chucks more wood.
+
+If an action gives you wood as the only resource, you get 1 more wood.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="83697" value="Agricola: The Legen*dairy Forest-Deck" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359999" value="Agricola 15" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="54" />
+			<average value="6.53796" />
+			<bayesaverage value="5.5176" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5176" />
+												</ranks>
+
+			<stddev value="1.86252" />
+			<median value="0" />
+			<owned value="378" />
+			<trading value="22" />
+			<wanting value="52" />
+			<wishing value="91" />
+			<numcomments value="38" />
+			<numweights value="2" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="132590">
+         <thumbnail>https://cf.geekdo-images.com/wobZGasQBO8fjZxLVZb2IQ__small/img/3Cq26n2yGENGWsC7XP8XRFTsqNM=/fit-in/200x150/filters:strip_icc()/pic1453944.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wobZGasQBO8fjZxLVZb2IQ__original/img/__BVLRhbl7Hz2IBtVFr6vgAKnp4=/0x0/filters:format(jpeg)/pic1453944.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: The Legen*dairy Forest Deck – Peruvian Inquisition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Das legendäre Forst-Deck – Peruanische Inquisition" />
+			
+						               													<description>The Peruvian Inquisition is a special promo card given out at SPIEL 2012 in Essen and expands the Agricola The Legen*dary Forest Deck.
+
+Description of the card:
+
+"Nobody expects the Peruvian Inquisition"
+
+Replace all sheep on your farm with llamas. At the end of the game, llamas are scored for all players, using the same values as for sheep.
+
+</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="83697" value="Agricola: The Legen*dairy Forest-Deck" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359999" value="Agricola 15" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="27" />
+			<average value="6.87407" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.78296" />
+			<median value="0" />
+			<owned value="296" />
+			<trading value="23" />
+			<wanting value="31" />
+			<wishing value="69" />
+			<numcomments value="34" />
+			<numweights value="2" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="83697">
+         <thumbnail>https://cf.geekdo-images.com/ekMqcbfnw6QEqqkN01_RAg__small/img/-4nZXF1T4nM6g0sea1zkh5BZJis=/fit-in/200x150/filters:strip_icc()/pic855092.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ekMqcbfnw6QEqqkN01_RAg__original/img/HtOJbdtsy4UTEE_pHbZ3DBm3Mhc=/0x0/filters:format(jpeg)/pic855092.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: The Legen*dairy Forest-Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola Das legendäre Forst-Deck" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola im Forst" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola Tannenbäumchendeck" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Das legendäre Tannenbäumchen-Deck" />
+			
+						               													<description>Released as part of Lookout Games' 10th anniversary celebration, Agricola: The Legen*dairy Forest Deck (German: Agricola: Tannenb&amp;auml;umchendeck) is a 24-card expansion deck that acts as a sequel to the earlier Agricola: X-Deck, released at Spiel 2008. The game takes a lighthearted look at fairy tales, movies, and books that involve the forest and applies those story ideas to the Agricola universe. The expansion is expected to be released widely in German and English and was first released at Spiel 2010.
+
+This expansion has 24 cards that will add a new dimension to your games of Agricola, and it is incorporated into the game in a similar fashion to the X-Deck. Shuffle the cards together at the start of the game to form the Forest Deck; whenever any player claims three or more wood in a single action&amp;mdash;whether by taking the 3 Wood/4 Wood action space or by taking wood that's accumulated on other spaces&amp;mdash;you draw a card from the deck and use it. Many of the cards in the expansion will have an immediate effect on the game, though there are some Minor Improvements, Occupations, and new Action Spaces that may be drawn as well. There may even be other surprises lurking amongst the cards&amp;mdash;after all, nobody expects the Spanish Inquisition (nor Gisem&amp;uuml;ck the dragon)!
+
+From the box:  "When farmers are done with their daily tasks and gather around the warmth of their hearth, stories are told of revenants and werewolves, unicorns, witches, faeries, and other creatures of the wood. And those who have to go into the forest the next day to fell some trees might remember some of the old stories... and shudder."
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19299" value="Creatures: Fairies / Elves / Pixies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86457" value="Agricola: The Legen*dairy Forest Deck – Chuck the Wood Chuck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132590" value="Agricola: The Legen*dairy Forest Deck – Peruvian Inquisition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359999" value="Agricola 15" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41078" value="Geoff Burkman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="427" value="Hanno Girke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41076" value="Felix Girke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11225" value="John Kennard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41077" value="Eugene van der Pijll" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11222" value="Dale Yu" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="546" />
+			<average value="6.39004" />
+			<bayesaverage value="5.64828" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.64828" />
+												</ranks>
+
+			<stddev value="1.86048" />
+			<median value="0" />
+			<owned value="2477" />
+			<trading value="57" />
+			<wanting value="48" />
+			<wishing value="116" />
+			<numcomments value="245" />
+			<numweights value="30" />
+			<averageweight value="2.5667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="38641">
+         <thumbnail>https://cf.geekdo-images.com/RnoPB3L-QvvDOWN7m1q-xw__small/img/qJp41n_GaPN48KZzlU-QSY2bMMs=/fit-in/200x150/filters:strip_icc()/pic386022.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RnoPB3L-QvvDOWN7m1q-xw__original/img/yVkBs5Ziu-DuWPw22vD_uq0t55s=/0x0/filters:format(jpeg)/pic386022.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Through the Seasons" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: A Través de las Estaciones" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: A través de las estaciones" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Im Wandel der Jahreszeiten" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Seizoenen" />
+			    				
+				<name type="alternate" sortindex="1" value="Négy évszak" />
+			    				
+				<name type="alternate" sortindex="1" value="아그리콜라: 사계절" />
+			
+						               													<description>Im Wandel der Jahreszeiten (Through the Seasons) is a mini expansion that was available at Essen 2008 as a giveaway.
+
+It's a postcard that shows the four seasons of a year aligned in a circle. Each season comes with an additional action field and some minor tweaks to the resource fields and some actions. The seasons are assigned to the rounds - one round, one season. You cycle through the seasons starting with a random one until the game ends.
+
+Spring comes with an additional sow/breed action, summer with vacation (extra victory points), fall with harvest/vegetable and winter with family growth without space (for 2 wood and 3 food). The resource tweaks are usual +/- one wood/clay/reed/stone/fish and the action tweaks are usually freebies you get when taking the tweaked action (e.g. two free fences if taking fence action etc.).
+
+Expands:
+
+     Agricola
+
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3, 5 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359999" value="Agricola 15" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="109012" value="Agricola: De Lage Landen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11202" value="Julian Steindorfer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="925" />
+			<average value="7.10897" />
+			<bayesaverage value="5.93178" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.93178" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.05829" />
+												</ranks>
+
+			<stddev value="1.43403" />
+			<median value="0" />
+			<owned value="3043" />
+			<trading value="74" />
+			<wanting value="87" />
+			<wishing value="285" />
+			<numcomments value="474" />
+			<numweights value="68" />
+			<averageweight value="3.1029" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="279703">
+         <thumbnail>https://cf.geekdo-images.com/HWK1pMyq7qZIFtUhwAsjdA__small/img/KQeCXe2b_orubYxyrCIqnjnPcS0=/fit-in/200x150/filters:strip_icc()/pic5480508.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HWK1pMyq7qZIFtUhwAsjdA__original/img/jg6g0kKJOGcdtD0QeiX_dmROJb0=/0x0/filters:format(jpeg)/pic5480508.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: Times they are a-changing" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Die Hippies kommen" />
+			
+						               													<description>Thus far the only card to be released in Agricola's H-Deck is H00: Times they are a-changing, a Minor Improvement card, which obliges players to remove their previously played Occupation cards.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.41421" />
+			<median value="0" />
+			<owned value="36" />
+			<trading value="6" />
+			<wanting value="19" />
+			<wishing value="41" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="103183">
+         <thumbnail>https://cf.geekdo-images.com/J4yVTt1J-kpx4nDHwPl7ug__small/img/8HLmEeTeOMQFVXVMWp0ZFowynGg=/fit-in/200x150/filters:strip_icc()/pic1216379.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/J4yVTt1J-kpx4nDHwPl7ug__original/img/YXuYMXJqVd5BIUlVlgruadTjXRE=/0x0/filters:format(jpeg)/pic1216379.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: World Championship Deck – 2011" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola: Championnat Mondial 2011 Deck" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: Weltmeisterschaftsdeck" />
+			    				
+				<name type="alternate" sortindex="1" value="Agricola: WM-Deck" />
+			    				
+				<name type="alternate" sortindex="1" value="アグリコラ世界選手権デッキ" />
+			
+						               													<description>The WM-Deck for Agricola is a new set of cards for Uwe Rosenberg&amp;rsquo;s boardgame hit. The 60 Minor Improvements and 55 Occupations are divided into 5 Mini-Decks and were created for the first Agricola World Championship 2011 in Vienna. The card set was designed and tested by users of the internet portal Play-Agricola. Play there and create your own cards!
+
+
+The five mini-decks can be shuffled together to form a single deck that can be played by itself or mixed into some or all of the EGIK decks. Or, you can play the mini-decks.
+
+How to play the Mini-Decks
+There are several ways to play the minidecks (labelled alpha, beta, gamma, delta and epsilon)
+
+     To learn to utilize the decks: each player gets one deck and discards down to 7 occupations and 7 minor improvements.
+
+
+Either randomize who's getting what deck or (for experienced players) let players bid for the decks they want to play.
+
+
+     Or: Play a Booster Draft. Each player gets a deck. First, draft Occupations in clockwise direction until everyone has 7. Then, draft Improvements counter-clockwise until everyone has 7.
+
+
+
+     Or: play any other draft format where you need boosters.
+
+
+courtesy of Hanno Girke (Lookout Games)
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42247" value="Chris Deotte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="46210" value="Ira Fay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="453" />
+			<average value="7.86391" />
+			<bayesaverage value="5.86566" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.86566" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.00012" />
+												</ranks>
+
+			<stddev value="1.52362" />
+			<median value="0" />
+			<owned value="2173" />
+			<trading value="22" />
+			<wanting value="100" />
+			<wishing value="207" />
+			<numcomments value="186" />
+			<numweights value="20" />
+			<averageweight value="3.65" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="38733">
+         <thumbnail>https://cf.geekdo-images.com/gzB86jTjCmoRdW16X75FvQ__small/img/gaFeMZcRU7tqcbgZf1CqU2r9APM=/fit-in/200x150/filters:strip_icc()/pic445726.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gzB86jTjCmoRdW16X75FvQ__original/img/VK2WMFQwmnrBry8Ki2cjrZV1BIw=/0x0/filters:format(jpeg)/pic445726.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Agricola: X-Deck" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="農家樂：X-外星人入侵擴充" />
+			
+						               													<description>The Aliens are coming!
+
+The X Deck is a not-entirely-serious expansion for Uwe Rosenberg's Agricola, to be released through Spielbox magazine in German and through Lookout Games in English.
+
+The October 15, 2008, issue of Spielbox magazine includes a standalone add-on deck (in German) for Agricola that&amp;rsquo;s been dubbed the &amp;ldquo;X-deck.&amp;rdquo; The deck includes 24 cards of 5 different types (Alien Actions, Merchants from Outer Space, Alien Artifacts, Alien Events, and Alien Occupations). Art for this expansion is by Klemens Franz, the same artist who did the work for Agricola.
+
+The aliens arrive when the players create a Quarry; that is, when the "1 Stone" card from Stage II of the game (Rounds 5-7) is revealed. Whenever a player takes this action, they also draw the top card from the Alien Encounter Deck (X Deck). (Note that this does not apply to the "1 Stone" card that appears during Stage IV (Rounds 10-11).) Of course, you also take any Stone that is on the space.
+
+An English edition of this expansion has been available directly from Lookout Games and can be obtained by donating to a fundraiser via PayPal. It is also available via Agricola: The Goodies Expansion.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–5 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3865" value="Game: Agricola" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="135" value="Magazine: Spielbox" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31260" value="Agricola" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="359999" value="Agricola 15" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="440147" value="Agricola: Special Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="73833" value="Agricola: The Goodies Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11223" value="David Fair" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="427" value="Hanno Girke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11225" value="John Kennard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1222" value="Larry Levy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11224" value="Fraser McHarg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11226" value="Melissa Rogerson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11222" value="Dale Yu" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3001" value="W. Nostheide Verlag GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="701" />
+			<average value="6.21691" />
+			<bayesaverage value="5.64462" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.64462" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="5.6836" />
+												</ranks>
+
+			<stddev value="1.84847" />
+			<median value="0" />
+			<owned value="3110" />
+			<trading value="97" />
+			<wanting value="61" />
+			<wishing value="141" />
+			<numcomments value="358" />
+			<numweights value="46" />
+			<averageweight value="2.5217" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,4158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34855">
+         <thumbnail>https://cf.geekdo-images.com/FShRvwa0PejJ8Vzym9NYTg__small/img/k4ajflcduT1RXRvZ8NddhLSVtDY=/fit-in/200x150/filters:strip_icc()/pic720841.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FShRvwa0PejJ8Vzym9NYTg__original/img/tdTD8ORfy62xIyXsBslm3lwS6sk=/0x0/filters:format(jpeg)/pic720841.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Circular Chess" />
+			
+						                           
+						               													<description>This chess variant follows the basic rules of chess, but adapts them to a unique, circular board.  (The board layout was patented in the U.S. by the designers.)  The pieces are set up identically to normal chess.  A ninth diameter (file) is added, but with unplayable spaces in the first two circles (ranks).  This prevents the pieces in the first rank from directly attacking each other.  The rules also include castling and capturing en passant.
+
+This game is distinctly different from Byzantine Chess and Circular Chess (the latter developed by David Reynolds), using a different board layout, set-up, and rules.
+
+</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10217" value="Martin Mattlage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10218" value="Alan Mattlage" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="34856">
+         <thumbnail>https://cf.geekdo-images.com/VLOyP0-Ww62y3gVcDl9AQg__small/img/E7HhLxmdAut3DwR35oQv4tg2YNY=/fit-in/200x150/filters:strip_icc()/pic8691001.png</thumbnail>
+      <image>https://cf.geekdo-images.com/VLOyP0-Ww62y3gVcDl9AQg__original/img/Nyy1u9Z0f7Ksq5Ataw0MeY9H0m8=/0x0/filters:format(png)/pic8691001.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Circular Chess" />
+			
+						                           
+						               													<description>This chess variant was developed by David Reynolds after reading a reference to chess being played on a circular board in medieval times.  Imagining how it might have played, he developed such a version.
+
+His board consists of four rings (files) and sixteen radii (ranks) with a large, unplayable center circle.  Mr. Reynolds would often adorn the center with the crest of the city of Lincoln, U.K., thus the design is often referred to as a "Lincoln board".
+
+A standard set of chess pieces is used.  However, each player gets two ranks of pieces surrounded by two ranks of pawns.  The king and queen are placed on the innermost file (ring).  Movement mimics standard chess, allowing the rooks and queen to move fully around a ring.  Castling and en passant capturing are not allowed.
+
+This variant is distinctly different from the Circular Chess variant designed by Alan and Martin Mattlage, in board layout, starting set-up, and rules.
+
+This variant does use the same board as Byzantine Chess, but there are rule differences.
+
+</description>
+										      	               				<yearpublished value="1983" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="111963" value="Components: Cloth Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="444240" value="Kanare_Abstract Special Wood Base" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4312" value="David B. Reynolds" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="130246" value="Kanare Kato" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50098" value="Kanare_Abstract" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="5.6625" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.09423" />
+			<median value="0" />
+			<owned value="23" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="7" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="4656">
+         <thumbnail>https://cf.geekdo-images.com/JuiTmfwzkF0rsWvo2f7-Mw__small/img/UgHPFLQ4yuN_3xLh_D7E7Lr2soU=/fit-in/200x150/filters:strip_icc()/pic15172.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JuiTmfwzkF0rsWvo2f7-Mw__original/img/Sngf0-3oObvAuScx47mdWVrZOVk=/0x0/filters:format(jpeg)/pic15172.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The Classified Encyclopedia of Chess Variants" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Encyclopedia of Chess Variants" />
+			
+						               													<description>A book containing about 1400 Chess Variants and Chess-related games. Rules of non-proprietary games are described in detail.
+
+From the book cover: "The Encyclopedia of Chess Variants is a compilation of board and table game related to, derived from or inspired by chess. The games ranges through the ages and across continents and from the brilliant to the bizarre. Most can be played with an ordinary chess set. Established variants are treated in depth. The main aim of The Encyclopedia of Chess Variants is to entertain, but it also offers some remarkable yet little-known variants for the keen games player and is a source of reference for the student. An essential book for every games library."
+
+Expands
+
+    Chess
+
+
+</description>
+										      	               				<yearpublished value="1994" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="153759" value="Angel Chess" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1840" value="David B. Pritchard" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1094" value="Games &amp; Puzzles Publications" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="28" />
+			<average value="8.075" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.88843" />
+			<median value="0" />
+			<owned value="52" />
+			<trading value="0" />
+			<wanting value="15" />
+			<wishing value="27" />
+			<numcomments value="19" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="466935">
+   	                                  				
+				<name type="primary" sortindex="1" value="Coalition Chess" />
+			
+						                           
+						               													<description>Coalition Chess is a four-player chess variant devised in the early 1920s by Austrian composer Arnold Schoenberg, better known for his contributions to modernist music.
+
+Rule
+
+Four players sit around a 10&amp;times;10 board: Yellow (bottom), Black (top), Red (left), and Green (right).
+
+Yellow and Black are the greater powers and each has a King, representing the land forces. Red and Green are the lesser powers, representing the air force and navy respectively.
+
+During the first three rounds, each lesser power may form a coalition with either greater power.
+
+The King is the same, but its shape is elongated vertically.
+The Machine-gun is an expendable King-and-Pawn compound piece.
+The Guard moves as a Pawn.
+The Motorcyclist moves as a Bishop.
+The Engineer moves as a Knight.
+The Artillery moves as a Rook.
+The Tank moves as a Queen.
+The Submarine moves as a Queen or a Knight.
+The Plane makes two successive Knight moves (thus remaining on the same color), and may not return to its starting square.
+
+Yellow has the first move and may freely arrange its pieces within its designated setup area, while the other players begin with fixed initial placements.
+Turn order proceeds as Yellow, Black, Red, and Green.If two coalitions are formed, the game proceeds as a contest between alliances; the coalition that eliminates the king of opposing coalition wins.
+
+Coalitions may be formed during the first three rounds. A coalition can be declared by verbal agreement, by giving check to the King of a greater power, or by capturing a piece belonging to the opposing greater power.
+
+If one coalition is declared and the opposing lesser power does not form a coalition within the first three rounds, each player in the declared coalition receives 1 point, while players who did not form a coalition receive no points.
+
+If two coalitions are formed, victory yields 6 points, a draw yields 2 points, and defeat yields 0 points.
+
+During the first three rounds, Black, Red, and Green may, instead of making a move, rearrange their pieces within their designated setup areas.
+
+</description>
+										      	               				<yearpublished value="1925" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2861" value="Static Capture" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78567" value="Components: 10 x 10 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="174064" value="Arnold Schoenberg" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="251614">
+         <thumbnail>https://cf.geekdo-images.com/m7meU1tFObAoeskMB7tQ_Q__small/img/Sc7q-RvV0cVI5KMXRvGyOreSiBQ=/fit-in/200x150/filters:strip_icc()/pic4174439.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/m7meU1tFObAoeskMB7tQ_Q__original/img/tQ-jXkB9MemAapjIGkDU39I8fh8=/0x0/filters:format(jpeg)/pic4174439.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Code Geass: Knightmare Chess" />
+			
+						                           
+						               													<description>Face off in a chaotic version of Chess in a Fan Game inspired by the Code Geass anime.
+
+Play as either Lelouch or Schneizel during the Chinese Federation Arc and out wit your opponents by bending the rules of Chess to your advantage with unique cards and abilities.
+
+Using the game's two decks of cards, as well as a regular chess set, player play the standard game of chess with 1 exception:
+
+Each turn, a player draws back up to 4 cards from their unique Lelouch or Schneizel deck. Then, a player plays up to a single card from their hand, before moving their piece for the turn.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171" value="Chess" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="104638" value="MingYang Lu" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="4.83333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.79327" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="15" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="217977">
+         <thumbnail>https://cf.geekdo-images.com/tQB-l38CenwhM989fqdaxA__small/img/voP2-9bFKYExpGWymkEjrQ_hJeg=/fit-in/200x150/filters:strip_icc()/pic3737186.png</thumbnail>
+      <image>https://cf.geekdo-images.com/tQB-l38CenwhM989fqdaxA__original/img/Pvq-vSXLom5saRmn6z8RDPns5wc=/0x0/filters:format(png)/pic3737186.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Colour Chess + Lure" />
+			
+						                           
+						               													<description>An abstract strategy game that sees you not only controlling your own pieces, but also determining a lot of your opponent's piece movements through the control of colors.
+
+Colour Chess + Lure are played on the same board but with different pieces and goals. Or you can combine the two!
+
+Lure is a game of blocking, manipulation and capture that can be played with a different combination of pieces to change up the strategy.
+
+Colour Chess keeps the standard rules of chess but adds a second layer of strategy based on the board's colors. This removes a lot of the standard openings of chess and means you have to adapt your strategy to the board each time you play.
+
+Colour Chess won a Family and Education Award from Imagination Gaming and has an annual World Championships as part of the Mind Sports Olympiad in London. There is also a free mobile app available.
+
+Chess Grandmaster Matthew Sadler on Colour Chess:
+"Loving it! Very interesting problem to get your pieces developed efficiently while trying to inconvenience your opponent! Lots of fun!"
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2946" value="Pattern Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68724" value="Tom Norfolk" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68724" value="Tom Norfolk" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25284" value="DogEared Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="43" />
+			<average value="7.38953" />
+			<bayesaverage value="5.5324" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16342" bayesaverage="5.5324" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="672" bayesaverage="5.66031" />
+												</ranks>
+
+			<stddev value="1.40421" />
+			<median value="0" />
+			<owned value="76" />
+			<trading value="5" />
+			<wanting value="7" />
+			<wishing value="17" />
+			<numcomments value="17" />
+			<numweights value="4" />
+			<averageweight value="3.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="191203">
+         <thumbnail>https://cf.geekdo-images.com/560a9csT1UKyg2xpgbZvFA__small/img/rUVxlY9p6G1saY8s3psYpYXFriI=/fit-in/200x150/filters:strip_icc()/pic4724450.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/560a9csT1UKyg2xpgbZvFA__original/img/Mh6uysMLwD0clf9Z_OUz0U0HqTg=/0x0/filters:format(jpeg)/pic4724450.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Commander Chess" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cờ Tư Lệnh" />
+			
+						               													<description>Commander Chess, or Cờ tư lệnh (literally "Chess Command") is a xiangqi variant created by Hải Qu&amp;yacute; Nguyễn.
+
+Cờ tư lệnh is played with 38 pieces (19 per player)    on a board that is 11 lines wide and 12 lines long. As in xiangqi, it is played on the vertices of the grid. The board is divided into two lang territories by a river in the middle of the board. The three files on one side of the board form the sea. The object of the game is to capture the opponent's Commander, or all units of a single division of the opponent's army.
+
+The pieces on both sides, with their abbreviations, movements, and rules, are:
+
+
+     1 Commander (C): moves any distance orthogonally; captures 1 point orthogonally; may occupy Headquarters; may not "see" the opposing Commander on an open file
+     2 Infantry (I): 1 point orthogonally
+     2 Tanks (T): 2 points orthogonally; may capture on sea squares it cannot enter, remaining stationary; carries C, In, or M
+     1 Militia (M): 1 point orthogonally
+     2 Engineer (E): 1 point orthogonally; carries all pieces, only across river; controls airspace 1 point any direction
+     2 Artillery (A): 1&amp;ndash;3 points any direction; crosses river only at reefs, by attacking, or carried
+     2 Anti-aircraft gun (AA): 1 point orthogonally; may capture on sea squares it cannot enter; controls airspace 1 point any direction
+     1 Missile Rocket (R): 1&amp;ndash;2 points orthogonally or 1 point diagonally; controls airspace as it moves
+     2 Air force (AF): 1&amp;ndash;4 points any direction; may return to its departing point after capturing or carrying, unless capturing opposing Af; carries C, In, or M; destroyed immediately on passing through opposing airspace
+     2 Navy (N): 1-4 points any direction on sea, sea banks, and river banks; captures as it moves at sea; shoots 1&amp;ndash;3 in any direction at land targets; controls airspace 1 point any direction
+     2 Commander Base (B): stationary and does not capture; may house only C; protects C, but not itself, from In, M, Aa, and Ms
+
+
+General rules:
+
+     Pieces capture as they move, and never jump, unless noted.
+     Pieces can cross the river but not occupy sea points unless noted.
+     Pieces which check the opposing Commander are promoted, gaining special abilities.
+
+
+The Chinese xiangqi has generally been the most popular form of chess played in Vietnam. In fact, there is no traditional distinctively-Vietnamese chess game; which is partly what inspired Cờ tư lệnh.
+
+Cờ tư lệnh is played on the vertices of an 11x12 "geographic" board similar to the 9x10 xiangqi board, with the addition of an ocean occupying files A&amp;ndash;C and two "reefs" allowing all pieces to ford the river. It shares many features with wargames, including area denial, ranged attack, and unit cooperation.
+
+Besides the fact that Vietnam has never had a distinctive regional form of chess, Nguyễn noted four complaints with xiangqi influenced the creation of Cờ tư lệnh:
+
+1. Xiangqi promotes individualism and class conflict, particularly in the willingness of players to sacrifice low-level pieces to succeed.
+2. Winning xiangqi is due more to luck than to intellect.
+3. Xiangqi does not reflect the geography and history of Vietnam.
+4. Xiangqi has many rule variantions, none of which are accepted by the entire community.
+
+Each of these points is answered in Cờ tư lệnh:
+
+1. Pieces cooperate through a "carrying" and area denial mechanics. As well, losing an entire class of piece loses the game, forcing protection of and cooperation among all classes.
+2. Nguyễn believes the interactions between pieces and influence of geography necessitate more strategy and reduce the role of luck.
+3. Besides the single river of xiangqi, there is an ocean, as well as "reefs" across the river, all of which interact with special piece rules. Besides the Vietnam-like geography, the pieces modern rather than ancient military structure.
+4. By promoting Cờ tư lệnh educational programs, Nguyễn hopes to ensure that a single authoritative set of rules is used by all players.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1–2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78597" value="Components: 11 x 12 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="96042" value="Nguyễn Quý Hải" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="47" />
+			<average value="5.75532" />
+			<bayesaverage value="5.49483" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="27614" bayesaverage="5.49483" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1322" bayesaverage="5.46411" />
+												</ranks>
+
+			<stddev value="2.18766" />
+			<median value="0" />
+			<owned value="27" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="10" />
+			<numcomments value="16" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="21271">
+         <thumbnail>https://cf.geekdo-images.com/SLLmdzR16KG_ukWo1dAcWw__small/img/dr1-5uyN-2CrBxZibCPysKHy_cY=/fit-in/200x150/filters:strip_icc()/pic107628.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/SLLmdzR16KG_ukWo1dAcWw__original/img/qzyEpEeEgxjf_pPDHIiHuc3oSn4=/0x0/filters:format(jpeg)/pic107628.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Commando Chess" />
+			
+						                           
+						               													<description>A chess variant using pieces based off of modern military units. There are seven types of pieces: infantry, calvary tanks, armor tanks, fighter planes, attack helicopters, bomber squadrons and a HQ Flag acting as the king.
+The pieces have different movements from the standard chess game. The number of pieces is the same, 16 on each side, and the board is a standard 8x8. However, in living up to its name the game board has a camouflage background.
+The ground units move and capture similar to chess pieces, but the three air unit types may jump over other pieces like the knights in chess. The bomber is a partial exception to this rule, it can only jump over pieces on its own side.
+
+</description>
+										      	               				<yearpublished value="1994" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1069" value="Modern Warfare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6433" value="Michael King (I)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4905" value="King Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="4.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.47902" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="2" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="107873">
+         <thumbnail>https://cf.geekdo-images.com/0VzxHyQt7gP0QGxaHM7i_A__small/img/ZFb-6sU41-KjyOOJ-YH04Z2FeNk=/fit-in/200x150/filters:strip_icc()/pic7271423.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0VzxHyQt7gP0QGxaHM7i_A__original/img/Qf1mEjGrNgt9lPrJIQgLKYpip3g=/0x0/filters:format(jpeg)/pic7271423.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Corner Chess" />
+			
+						                           
+						               													<description>Corner Chess is a variant of chess for 2 or 4 players, on an 8x8 board with pieces of increased power (increased mobility for pawns and knight move for minor pieces), with piece starting in the corner.  In the base game a player wins game by capturing any enemy king.  In an advanced variant, players can win by getting their king across the board.
+
+</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8933" value="Richard Hutnik" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="21265">
+         <thumbnail>https://cf.geekdo-images.com/XA7q64j1nCzQIzPHwZ0AeQ__small/img/ihzN_2p_xemq-yNZFyz7TmiujzY=/fit-in/200x150/filters:strip_icc()/pic2040777.png</thumbnail>
+      <image>https://cf.geekdo-images.com/XA7q64j1nCzQIzPHwZ0AeQ__original/img/z3GTqflmBo_7c-3CZxUIRlB2U8A=/0x0/filters:format(png)/pic2040777.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Courier Chess" />
+			
+						                           
+						               													<description>A popular chess variant with a 12 X 8 board.  Pieces are arrayed in four columns.  New pieces are added including a Counselor and Spy.  Couriers and Bishops are similar but move slightly differently.  The Queen starts in an open position in front of most pawns.
+
+</description>
+										      	               				<yearpublished value="1202" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78581" value="Components: 8 x 12 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="97245" value="Digital Implementations: Ai Ai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="5.67506" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.89972" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="5" />
+			<wishing value="16" />
+			<numcomments value="16" />
+			<numweights value="2" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="477759">
+         <thumbnail>https://cf.geekdo-images.com/Whh9As8UA9a_L8gGwtgtdA__small/img/SLeXqez_dCO5P37lgGQlDq1Ie10=/fit-in/200x150/filters:strip_icc()/pic9766195.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Whh9As8UA9a_L8gGwtgtdA__original/img/htOqnDxIPUImHPoE4vpjjfzVkkI=/0x0/filters:format(png)/pic9766195.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Covenant Chess" />
+			
+						                           
+						               													<description>Covenant Chess is an original two-player strategy board game on a 14&amp;times;14 field. Designer David Shiguang Zhu created it first as a physical board game &amp;mdash; 3D-printed armies that pack into carrying boxes &amp;mdash; played at the table with family and friends, and later gave it a home on the web so more people could play.
+
+Each side commands an army drawn from 23 kinds of units in three tiers: a royal court, soldiers of the line, and seven legendary figures that must be earned in play rather than owned from the start. The goal is to capture the enemy King &amp;mdash; though a kingdom with an Heir on the board crowns its successor and fights on. Victory flows through the Holy Grail economy: Grails won on the field recruit new units mid-game, so every battle bends toward a different army than it began with. Formation matters &amp;mdash; shield walls protect, bands march under a leader, and facing is real. Openings are chosen from a book of named historical set-ups, each one proven to be its own 180&amp;deg; rotation so no field ever favours a side; a Free Play mode lets both sides build secret armies around Holy Cities instead.
+
+The complete Rule Book and Game Cards are free PDFs at the official site, where the full game is also playable free in any browser &amp;mdash; hot-seat, against the computer, or online in the Gaming Hall &amp;mdash; in nine languages. The 3D-printing files for the physical edition are being prepared for publication.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="120" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1115" value="Religious" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3101" value="Ordering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3113" value="Spelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="177139" value="David Shiguang Zhu" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="177139" value="David Shiguang Zhu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="96074">
+         <thumbnail>https://cf.geekdo-images.com/PHgu5131XJhQl-W4qnpcSw__small/img/u_dhNcq6TKcfoZrj9h4Fxz0BEzU=/fit-in/200x150/filters:strip_icc()/pic963014.png</thumbnail>
+      <image>https://cf.geekdo-images.com/PHgu5131XJhQl-W4qnpcSw__original/img/EXYua2C-ZSlD6EPw1BIBTU9yxks=/0x0/filters:format(png)/pic963014.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Crazyhouse" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Crazyhouse Chess" />
+			
+						               													<description>Crazyhouse is a chess variant very similar to bughouse chess, but with only two players. It effectively incorporates a rule in shogi (Japanese chess), in which a player can introduce a captured piece back to the board as his own.
+
+* A captured piece reverses color (useful to have 2 sets on hand for this variant) and goes to the capturing player's 'reserve', or 'pocket'. At any time, instead of making a move with a piece on a board, a player can 'drop' a piece, in his reserve, onto an empty square on the board.
+    * Promoted but captured pawns are dropped as pawns.
+    * Pawns must not be dropped on the 1st or 8th ranks.
+    * Drops which cause immediate checkmate are allowed. Unlike in shogi, this includes pawn drops.
+    * A check that would cause checkmate, in regular chess, can be answered if the defender can make a legal drop which blocks the check.
+
+</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="97245" value="Digital Implementations: Ai Ai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="118944" value="Digital Implementations: GrandGamesArena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79508" value="Digital Implementations: Little Golem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109504" value="Digital Implementations: PlayStrategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="119019" value="Digital Implementations: Pychess" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11305" value="Traditional Games: Shogi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="6.95968" />
+			<bayesaverage value="5.51806" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="20351" bayesaverage="5.51806" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="774" bayesaverage="5.61753" />
+												</ranks>
+
+			<stddev value="1.66735" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="11" />
+			<numweights value="7" />
+			<averageweight value="3.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="22310">
+         <thumbnail>https://cf.geekdo-images.com/xLq-05phC9sVtOA5kKeS4g__small/img/4cpZVoJojFdBYLw7B1Cn7knv3_A=/fit-in/200x150/filters:strip_icc()/pic1517687.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xLq-05phC9sVtOA5kKeS4g__original/img/1kIWtzeYwRGl7noK3x8x_zYy9dA=/0x0/filters:format(jpeg)/pic1517687.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Crescendo Chess" />
+			
+						                           
+						               													<description>From the box:
+
+"An introduction to an ageless game with a 20th century pace. The game of chess is simple. It is difficult only if you make it so. And Crescendo Chess is as simple as regular chess. It is played by the same rules. The chess men move the same. A full set of rules and instructions that completely cover Crescendo Chess are included. After several moves, you then enter into the exciting world of mobility, power, and cunning. Compounding the power and mobility of the chess pieces accelerates the game and sharpens one's perception of the effects of combining different pieces. Thus one gains a broader insight and a better appreciation of this game. Because of this, Crescendo Chess enhances regular chess.
+
+"Crescendo Chess is a new experience for any chess player. By following the rather simple rules, one can soon learn to think in terms of stacking, capturing and position playing. One important feature in Crescendo Chess is that the chess men have a hole on top and one on the bottom that permits pegging one piece atop another. When this is done, it is called "stacking." A stack of chess men can then move across the board together. One soon learns not to exhaust the stack ineffectively. Experience teaches how to take advantage of the best stacking arrangements for certain types of attack and defense."
+
+In one turn the stack moves first as the bottom piece normally would move as in regular chess, then continues as the next piece up would move, etc. It costs one turn to place a piece on a stack. On the next turn, the stack can make its move (see rule8). To give an example, a Knight can be placed atop a Bishop in one turn. Then, on a later turn, the two together would move the permissible diagonal move of the Bishop and the two together could continue, one - one, two, as the Knight would move."
+
+"It is important that in stacking, the pieces are moved into the stack using their regular move, - that is, a Bishop diagonally, a Rook forward or sideways, etc. Each piece must be free to make its move as in regular chess rules."
+
+"Crescendo Chess is so called because it starts as regular chess and then increases in intensity. As stated, the first two moves by each player are made on a regular basis. After that, the next four moves by each player may be made where one piece is stacked on top of another to a two level height.Max. (L2). NOTE: See Glossary &amp; Game Notations at end of rules. It is not necessary to stack the pieces if the player does not wish to do so.
+
+Upon completion of a total of six moves by each player, the pieces may be stacked to a three level height. Max. (L3). This is the stacking limit for the rest of the game. The three can move first as the bottom piece, which then remains, then as the other two would move as a two piece stack."
+
+</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72463" value="Walter J. Dykoski" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5181" value="Strato-Various Products" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="337216">
+   	                                  				
+				<name type="primary" sortindex="1" value="Cronk Chess" />
+			
+						                           
+						               													<description>This is a mashup of chess and checkers.  Set up a normal chess game but with 8 checkers on each side where the 8 pawns normally go.
+
+The chess pieces move, attack, and capture as they normally do, including castling.  The checkers move and capture (jump) as they normally do, diagonally.  Checkers that reach the other side get kinged.  If a checker can jump another checker or chess piece (or double or triple jump etc.), it must jump those pieces.  If your checker must jump your opponent's piece(s), but you're also in check, you must get out of check instead of jumping with the checker.
+
+The game is won by checkmating the opponent's king either by an attack from a chess piece just like in chess, or threat of being jumped by a checker piece that the king can't avoid.
+
+I invented this game and the first time I tried playing it (about 15 years ago), I didn't think it would be any fun, but I was pleasantly surprised.  It broke my brain as I mixed the two games in my head.  I had to play chess while making sure my chess pieces weren't lined up in such a way that they could get double jumped!  I also liked the fact that I could force moves on my opponent by placing pieces in position to be jumped by one of their checkers.  Let me know if you find any rule collisions that I have missed.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="137317" value="Robert Cronk" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="123447">
+         <thumbnail>https://cf.geekdo-images.com/YCEvoyzqkTPIxw6-ocwttQ__small/img/D-GKBffkUL2xZNk-k7j-nyQYbb8=/fit-in/200x150/filters:strip_icc()/pic1481375.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YCEvoyzqkTPIxw6-ocwttQ__original/img/2awYgPGuPM99tQRdySxPm-Usxns=/0x0/filters:format(jpeg)/pic1481375.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Cross Chess" />
+			
+						                           
+						               													<description>Australian Chess variant played on a chequered board in the shape of a cross. Each side has 16 pieces but four pawns are larger than the other four. This designates them as either King's pawns or Queen's pawns. Bishops only play on black squares. Almost all other rules are standard chess rules and objectives.
+
+</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78567" value="Components: 10 x 10 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61015" value="Leigh Miller" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22417" value="Cross Chess" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.995" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.995" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="123820">
+         <thumbnail>https://cf.geekdo-images.com/9PtNUkUTpo2z-0cXvCgTUw__small/img/3cgpF3pi5eibfYpcjvf7Ztx7A58=/fit-in/200x150/filters:strip_icc()/pic1293047.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9PtNUkUTpo2z-0cXvCgTUw__original/img/gcPX5VsRQWHi7Nq840qsR1PPuro=/0x0/filters:format(jpeg)/pic1293047.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Crown Chess" />
+			
+						                           
+						               													<description>Review by John Humphries in Games and Puzzles #30:
+
+Crown Chess is an unfortunate choice of name for this interesting and original game, as it bears no resemblance to chess. Perhaps Crown Prince may be a more apt name.
+
+The game is played on a large, circular, wooden board on which are printed five concentric rings which are radially divided into eight sections, giving forty spaces or panels in total. The outermost ring or band is gold in colour, the remainder being black or white, in a pattern such that each adjacent pair of sections are of a similar colour and each panel is surrounded on three sides by panels of like colour.
+
+Four sets of playing pieces are supplied. Each set consists of a Prince, two Barons (elephants) and two Viscounts (horses). The pieces are well moulded from resin, each set being in a distinguishing pastel colour. In addition there is a Crown, resembling an up-turned vase. The rules are simple and easy to follow.
+
+The Crown is worn by one of the Princes, who is thus elevated to King. The object of the game is to promote your Prince and then manouevre him to the gold (outer) band. All pieces may be moved in or out one panel, the Prince can be moved an unlimited number of panels in a clockwise or anti-clockwise direction, the Baron only clockwise and the Viscount only anti-clockwise. No diagonal moves are permitted and the only piece allowed to move onto a panel already occupied is the King, and this only to capture. The King is the only piece able to capture other pieces. The Crown is gained by moving a piece onto a panel of the same colour and adjacent to the King, who is then demoted and the new Prince is crowned.
+
+Although not a difficult game to play, Crown Chess does require thought and planning. However, it is rather difficult to formulate strategy because the situation changes so rapidly with four players. The Hints on Play provided advice that the main objective should not be to take the Crown, which should only be done to prevent another player from winning, to prevent possible capture of your pieces or to win the game. As pieces cannot jump over one another, there is a certain amount of aimless movement. and blocks can occur. Princes may not be captured, thus there is no way of forcing them to move. One of the best winning strategies seems to be to move one's Prince onto a panel adjacent to a Gold, keep it protected and wait for other players to blunder, then take the Crown at the opportune moment and make the winning move.
+
+The game does have many unique concepts and apart from the box is extremely well presented. It is also most decorative though probably beyond the means of most games players (this game cost 18 pounds at the time of release).
+
+</description>
+										      	               				<yearpublished value="1974" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78497" value="Components: 5 x 8 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10072" value="John Adams (IDEAL)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="358829">
+         <thumbnail>https://cf.geekdo-images.com/xYcnoQ9npJ9i5Lm97_ee0g__small/img/h6VPi4AsU3pckPmFTfaZZ0ad6JA=/fit-in/200x150/filters:strip_icc()/pic6970597.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xYcnoQ9npJ9i5Lm97_ee0g__original/img/rcjHrHkJC3vKt9NehcVEONtGzN0=/0x0/filters:format(jpeg)/pic6970597.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="DaG Eight Chess (ダグエイトチェス)" />
+			
+						                           
+						               													<description>ダグエイトチェス (DaG Eight Chess) is a two player abstract game from Japan, a mix of Chess and Stratego on a smaller 5*5 chequer board.
+
+Players have a small Chess army that move across the board, but as face-down tokens. The pieces are one each of King, Queen, Rook, Knight and Bishop, and three Pawns. These pieces all move and attack as in normal Chess.
+
+But if a player can deduce which piece is which, they can declare a piece's identity instead of moving. If correct, that piece is eliminated. A player wins by getting the eight army pieces, or by getting the King.
+user summary
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2861" value="Static Capture" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="144453" value="Namiki (ナミキ)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="144452" value="Soma (ソーマ)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="144453" value="Namiki (ナミキ)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51068" value="ウェーブルーズ (Wablues)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="356929">
+         <thumbnail>https://cf.geekdo-images.com/LS0rE15tBSpd_qrxrGEFXw__small/img/7HuIZMKEBk20ruW3IxbaIx5sA3M=/fit-in/200x150/filters:strip_icc()/pic6707973.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LS0rE15tBSpd_qrxrGEFXw__original/img/c8BJNGp_lCQwP2MekDd3Nu-Xl3k=/0x0/filters:format(jpeg)/pic6707973.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dead Man&#039;s Chess" />
+			
+						                           
+						               													<description>In Dead Man's Curse, 2-4 players can battle individually, or as teams, to conquer their opponents. Magic, specialty powers unique to your faction, and the ability to defend against incoming attacks are only a few of the powerful mechanics that augment the classic title into something completely different and exciting; Dead Man's Curse! 30+ unique factions exist in the game so far with more to come!
+
+Players on their turn will roll a D6 to see if they can draw a boost card (attaches to a figure and changes how it moves or plays), Draw an Epic Card (these are powerful game-changing events), or in some cases use their factions ability.  Regardless of what they do they move to the Battlefield phase where they draw a card that will allow them to move up to 2 pieces if not more plus they also can make a normal move with any piece. All figures move just like normal chess figures would but that is the only tie to Chess. Don't fear getting your King into the battle as they are your most powerful fighter and can devastate the foe and losing it doesn't lose you the game.
+
+Throw out any pre-conceptions you know about classic Chess, because new moves, accelerated gameplay, and the ability to defend against incoming attacks on each and every combat sets Dead Man's Chess far apart from its predecessor. Strategy is not enough; Luck is not enough&amp;hellip; you will need both to win!
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="143974" value="John Brannan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="143973" value="Virgilio &#039;V&#039; San Andres" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="149435" value="HIIDRA Studios" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51273" value="JD &amp; C Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="304216">
+         <thumbnail>https://cf.geekdo-images.com/jlXbQXWjpk1fJWa9xhgCKg__small/img/odfXRCrYZyAlL5Qt4U8SD6DmrDc=/fit-in/200x150/filters:strip_icc()/pic5283800.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jlXbQXWjpk1fJWa9xhgCKg__original/img/9u0at9RERVCMJhqSnhlZC0cpCfE=/0x0/filters:format(jpeg)/pic5283800.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Devil&#039;s Chess" />
+			
+						                           
+						               													<description>Devil's Chess is a deck of cards that compliments traditional chess.  It is easy to learn, infinitely re-playable, and is wildly addictive.  Devil's Chess brings modern board game mechanics to an old classic.  With Devil's Chess you get a bit of randomness, new mechanics and card combos, and a whole lot of new tricks to surprise your opponent. Devil's Chess brings Chess out of the 6th century and into the 21st!
+
+Setting up the game is easy.  Shuffle both decks, and set them to the left and right of the chessboard.  Each player is dealt a hand of three Playable Cards. To begin the game flip over one Rule Card.  Players then take turns playing cards and moving pieces.  When a player draws a &amp;ldquo;Devil&amp;rsquo;s Chess&amp;rdquo; card, another new Rule Card is flipped over.
+
+
+     At the beginning of your turn, draw a Playable card if you do not have three
+     You may use or discard one Playable Card
+     Your turn ends after you move a chess piece
+
+
+The game is over when a King is put into checkmate or when a &amp;ldquo;More Ways to Win!&amp;rdquo; condition is met by a player.
+
+With 30 unique Rule Cards and 90 Playable Cards, Devil&amp;rsquo;s Chess is unbelievably re-playable.  We know you&amp;rsquo;ll make it a mainstay in your game library.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171" value="Chess" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="125159" value="Cody Cisneros" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="125160" value="Matthew Porcaro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="125162" value="Daniel Carlin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="125161" value="Rachelle Reyes" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49723" value="Something Good Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="7.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.92029" />
+			<median value="0" />
+			<owned value="27" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="11" />
+			<numcomments value="5" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="18962">
+         <thumbnail>https://cf.geekdo-images.com/KY09OI_WdcksYYOkBK5uLw__small/img/c2Zdo6grXZSeP5ofMyB6qZrr5Uk=/fit-in/200x150/filters:strip_icc()/pic464299.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KY09OI_WdcksYYOkBK5uLw__original/img/1l4tntbozQqrKy7VjlJCdsqvZHI=/0x0/filters:format(jpeg)/pic464299.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Diamond Chess" />
+			
+						                           
+						               													<description>Diamond Chess is an elegant variation of the classic game.  The playing surface is composed of 98 alternating black and white triangles, a shape that provides for new and intriguing movements.  The pieces move analogous with their counterparts in conventional chess, although familiarity with that game is not necessary to understand and enjoy Diamond Chess.
+
+</description>
+										      	               				<yearpublished value="1991" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5730" value="J. Greg Chapman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5731" value="Bart D. Follis" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4320" value="Mind Force Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4319" value="Think Tank Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,8554 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="425005">
+         <thumbnail>https://cf.geekdo-images.com/RRBAoLAweDVP3iJ7qeqQKw__small/img/zvhVpbsSBXoLr-vJLVExn7K_Cg0=/fit-in/200x150/filters:strip_icc()/pic8317636.png</thumbnail>
+      <image>https://cf.geekdo-images.com/RRBAoLAweDVP3iJ7qeqQKw__original/img/S8TYShAi-xEaF0c3DjbDmspR2xc=/0x0/filters:format(png)/pic8317636.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell Duo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell Duó" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Дуэт" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델 듀오" />
+			
+						               													<description>In Everdell Duo, you either compete against your single opponent or play co-operatively with another player to earn the most points. You accomplish this by placing workers to gather resources, then use those resources to play cards face up in front of you, creating your own woodland city.
+
+Cards may be played from your hand or from the face-up area on the board called the meadow. However, only cards touching the sun or moon token may be played from the meadow, and players move these tokens each time they perform a turn. Therefore, planning for and timing which cards you play is critical.
+
+Each game you try to achieve various events, the requirements of which differ from game to game, making certain cards and combinations more important to pursue.
+
+The game lasts for four seasons, then players add their scores to determine the winner. If you're playing co-operatively, check the requirements for the chapter you are playing to see whether you have won.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="39">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–2 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6507" value="Animals: Rabbits / Hares" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58093" value="Animals: Raccoons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7366" value="Animals: Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62276" value="Versions &amp; Editions: Two-Player Versions of More-Player Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435717" value="Everdell Duo: PolandGames Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129062" value="Clarissa A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59978" value="Enggar Adirasa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40244" value="Delight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2594" />
+			<average value="7.6298" />
+			<bayesaverage value="6.57568" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1166" bayesaverage="6.57568" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="648" bayesaverage="6.72397" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="268" bayesaverage="6.76273" />
+												</ranks>
+
+			<stddev value="1.20785" />
+			<median value="0" />
+			<owned value="10124" />
+			<trading value="81" />
+			<wanting value="176" />
+			<wishing value="2026" />
+			<numcomments value="515" />
+			<numweights value="67" />
+			<averageweight value="2.7164" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="455843">
+         <thumbnail>https://cf.geekdo-images.com/STqVmYxIZOKIYwDJ4CJkFg__small/img/LBwX41YPpQn6NDjheVMbDl9iebM=/fit-in/200x150/filters:strip_icc()/pic9149394.png</thumbnail>
+      <image>https://cf.geekdo-images.com/STqVmYxIZOKIYwDJ4CJkFg__original/img/RNG4x1cxNnsd0cO6A4YnPBlJWkc=/0x0/filters:format(png)/pic9149394.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell Emerland" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Emerland: Ein Spiel in der Welt von Everdell" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Smaragdföld" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델 에머랜드" />
+			
+						               													<description>Deep in the tropical jungle to the west of the Everdell Valley lies the country of Emerland, a vibrant land known for its artistic and musical culture, and for its abundance of natural resources, including valuable gems mined from its many underground caverns. Tiny critters found here &amp;mdash; mostly insects &amp;mdash; are fastidious and clever Helpers, often assisting the larger critters in their work and in optimizing or bringing beauty to their cities and homes.
+
+The jungles are vast and dense, and expeditions into the further realms of the land are undertaken often. There was once a mysterious civilization that dwelt here, long lost to history, but archaeological discoveries are beginning to shed a light on the ancients.
+
+In Emerland, you send critter Workers to various locations on the board to gather resources. You use these resources to play cards face-up in front of you, forming your jungle city and helping you to score points. Each turn, you take one of 6 possible actions: Place a Worker (with or without Helpers), Place a Helper, Play a Card, Use an Artisan Card, Excavate with your Archaeologist or Prepare for Season.
+
+The game ends when all players have reached the end of Spring and can no longer make any actions.  The player with the most points wins.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="469111" value="Everdell Emerland: 3D Resource tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="469107" value="Everdell Emerland: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="469110" value="Everdell Emerland: Printed Archeologist Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="473543" value="Everdell Emerland: Wooden Jungle Ruin" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129062" value="Clarissa A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70571" value="Lina Cossette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70568" value="David Forest" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40244" value="Delight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="519" />
+			<average value="8.44028" />
+			<bayesaverage value="5.99245" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3259" bayesaverage="5.99245" />
+												</ranks>
+
+			<stddev value="1.24762" />
+			<median value="0" />
+			<owned value="2106" />
+			<trading value="5" />
+			<wanting value="84" />
+			<wishing value="902" />
+			<numcomments value="149" />
+			<numweights value="20" />
+			<averageweight value="3.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="394106">
+         <thumbnail>https://cf.geekdo-images.com/JDXU1SebJFXBsP4qT79oYg__small/img/wzgfJrJBnw51mfA8YhmnHXolWkM=/fit-in/200x150/filters:strip_icc()/pic7605937.png</thumbnail>
+      <image>https://cf.geekdo-images.com/JDXU1SebJFXBsP4qT79oYg__original/img/FA-F9atfdMqdnH281BMchBNpaRs=/0x0/filters:format(png)/pic7605937.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell Farshore" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Dálava" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell Farshore: Essentials Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Dalekobrzeg" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Örökpart" />
+			    				
+				<name type="alternate" sortindex="1" value="Farshore: Ein Spiel in der Welt von Everdell" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Дальний берег" />
+			    				
+				<name type="alternate" sortindex="1" value="ファーショア" />
+			    				
+				<name type="alternate" sortindex="1" value="遠方海岸" />
+			
+						               													<description>The Forever Sea is calling...
+
+The rugged coast north of Everdell Valley is a land brimming with adventure and mystery. Stalwart sailors search for bountiful islands and valuable treasures. Dutiful monks inhabit abbeys and scriptoriums, meticulously translating and illuminating. Hard-working folk gather resources and build their cities in unison with the ever-changing waves of the mighty ocean.
+
+Welcome to Everdell Farshore, a standalone game set in the country of Farshore. Through each season, you lead a crew of critter workers to build up a prosperous city and to explore the enchanting ocean beyond. You must plan your actions carefully in order to build and to sail, for only by adapting to the winds of change will you succeed.
+
+The wind is high. The sun is breaking the horizon. It is time to set sail for adventure!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18983" value="Animals: Badgers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14694" value="Animals: Beavers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17635" value="Animals: Crabs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17634" value="Animals: Dolphins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7306" value="Animals: Ducks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6994" value="Animals: Frogs / Toads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7760" value="Animals: Hedgehogs / Porcupines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21462" value="Animals: Lizards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104840" value="Animals: Otters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18588" value="Animals: Owls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23890" value="Animals: Pigeons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18981" value="Animals: Snails" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7366" value="Animals: Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="111324" value="Theme: Seashells" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="430821" value="Everdell Farshore: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432923" value="Everdell Farshore: Essentials Edition – Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="417631" value="Everdell Farshore: Giving Day" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475695" value="Everdell Farshore: Lighthouse Reminder Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435718" value="Everdell Farshore: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475768" value="Everdell Farshore: Premium Sticker Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="411715" value="Everdell Farshore: Wooden Lighthouse" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129062" value="Clarissa A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65633" value="Jacqui Davis" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51375" value="Tabletop Tycoon Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3213" />
+			<average value="7.80196" />
+			<bayesaverage value="6.7617" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="824" bayesaverage="6.7617" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="479" bayesaverage="6.90233" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="157" bayesaverage="6.95486" />
+												</ranks>
+
+			<stddev value="1.28315" />
+			<median value="0" />
+			<owned value="8893" />
+			<trading value="87" />
+			<wanting value="220" />
+			<wishing value="2196" />
+			<numcomments value="610" />
+			<numweights value="87" />
+			<averageweight value="2.8276" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="436821">
+         <thumbnail>https://cf.geekdo-images.com/a3_h5VVlWvedrfofmYkKDg__small/img/BDCcf875m651x2MWfdT8Gxdvt04=/fit-in/200x150/filters:strip_icc()/pic8646704.png</thumbnail>
+      <image>https://cf.geekdo-images.com/a3_h5VVlWvedrfofmYkKDg__original/img/tja1NhehggzMa-vVZL75l-x_Sow=/0x0/filters:format(png)/pic8646704.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell Silverfrost" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell: Dérvidék" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Srebrnoszrony" />
+			    				
+				<name type="alternate" sortindex="1" value="Silverfrost: Ein Spiel in der Welt von Everdell" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Морозный край" />
+			    				
+				<name type="alternate" sortindex="1" value="仙境幽谷：银霜国度 典藏版" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델 은빛 서리" />
+			
+						               													<description>Silverfrost is the next standalone edge of the map series of Everdell.  Beyond the snow-capped Spirecrest mountains to the south of Everdell Valley, lies the bold country of Silverfrost. It is your task to build and maintain a city in this challenging landscape. You must clear the piling snow, burn the fires to keep your citizens warm and prosperous, and complete important quests for the Ranger&amp;rsquo;s Guild.
+
+In Silverfrost, you send critter workers to various Locations on the board, cards, or the mountain to gather resources and activate unique effects. You use these resources to play cards face up in front of you, forming your own city. Each turn, you take 1 of 3 possible actions &amp;mdash; Place a worker, Play a card, or Prepare for the next season. You may place 1 of your workers on any Basic Location, Red Destination card in your city or opponent&amp;rsquo;s cities, the Forge, the Hot Springs, or a mountaintop Beacon, so long as it is not blocked by Snow or another worker. You then claim the  listed resources or perform the action. If there is Snow at the location, you must first spend a Fire resource to clear the snow pile. If you use your unique Ranger worker, you can visit an occupied location, or gain a Fire resource if visiting a location alone.
+
+To play a card, you must pay the listed cost of resources. If it is a Critter, you may instead play it for free by using 1 of your 2 Chimneys, so long as you have the necessary Fire to light it. Cards may be played either from your hand, or from the area of face-up cards on the board known as the Valley. Nearly all of the cards in Silverfrost feature new and powerful abilities, offering a huge variety of strategic depth and combos to explore.
+
+If all of your workers are deployed, you may prepare for the next season by bringing back all of your workers, gaining a new worker, and performing the action described for the following season, introducing new snowfall to the board and to your city, as well as other challenges. A player is finished when they have played through the last season (Spring) and cannot perform any more actions. After all players have finished, the player with the most points is the winner.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="451763" value="Everdell Silverfrost: 12 Days of Bellsong Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437210" value="Everdell Silverfrost: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437212" value="Everdell Silverfrost: Deluxe Wooden Mountain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="469669" value="Everdell Silverfrost: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437387" value="Everdell Silverfrost: Essentials Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="452035" value="Everdell Silverfrost: Lightning Ranger Promo Card" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129062" value="Clarissa A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59978" value="Enggar Adirasa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105660" value="Lukas Siegmon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51375" value="Tabletop Tycoon Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40244" value="Delight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1409" />
+			<average value="8.11912" />
+			<bayesaverage value="6.42289" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1536" bayesaverage="6.42289" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="784" bayesaverage="6.6006" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="356" bayesaverage="6.64002" />
+												</ranks>
+
+			<stddev value="1.26932" />
+			<median value="0" />
+			<owned value="4877" />
+			<trading value="36" />
+			<wanting value="131" />
+			<wishing value="1378" />
+			<numcomments value="327" />
+			<numweights value="49" />
+			<averageweight value="3.2449" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="289057">
+         <thumbnail>https://cf.geekdo-images.com/3hQslNpNF7-UammLravx7w__small/img/95yxNskqjTVPDGPYTtFffw8NMtQ=/fit-in/200x150/filters:strip_icc()/pic4950729.png</thumbnail>
+      <image>https://cf.geekdo-images.com/3hQslNpNF7-UammLravx7w__original/img/crWO6Cx_0ycHXOgce196H4KJ1i0=/0x0/filters:format(png)/pic4950729.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Bellfaire" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Zvonkobraní" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdel: Belfer" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Święto Lata" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Virágfesztivál" />
+			    				
+				<name type="alternate" sortindex="1" value="Евердел. Дзвінограй" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Фестиваль" />
+			    				
+				<name type="alternate" sortindex="1" value="เอเวอร์เดล: งานเฉลิมฉลองแห่งศตวรรษ" />
+			
+						               													<description>The king is throwing an unprecedented year-long event to commemorate the 100th year since Everdell's founding. Come one, come all, to the Bellfaire!
+
+Bellfaire is a new expansion for Everdell that offers several different gameplay modules, including:
+
+
+     Components and rules for 5-6 players
+     Player powers and resource boards
+     A Bellfaire board with a new Market location
+     Garland Awards, which are shared endgame goals
+     New Special Event cards
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="50">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7544" value="Animals: Foxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6994" value="Animals: Frogs / Toads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7760" value="Animals: Hedgehogs / Porcupines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7835" value="Animals: Moles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18588" value="Animals: Owls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7520" value="Animals: Rats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7668" value="Animals: Squirrels / Chipmunks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7366" value="Animals: Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61990" value="Players: Expansions Changing Player Count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312895" value="Everdell: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306518" value="Everdell: LaserLand Event Card Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385706" value="Everdell: The GiftForge Season board with small Ever Tree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365825" value="Everdell: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5126" />
+			<average value="8.01217" />
+			<bayesaverage value="7.1541" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.1541" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.29359" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="7.33924" />
+												</ranks>
+
+			<stddev value="1.19374" />
+			<median value="0" />
+			<owned value="21405" />
+			<trading value="110" />
+			<wanting value="199" />
+			<wishing value="1544" />
+			<numcomments value="932" />
+			<numweights value="80" />
+			<averageweight value="2.8125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="476125">
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Card Expansion – Legends, Extra! Extra! &amp; Rugwort" />
+			
+						                           
+						               													<description>Includes all 3 Mini-Expansions in one Box:
+NO alternate art cards!
+
+10 Legends Cards: Unique heroes and locations from tales of bravery and wonder.
+
+15 Extra! Extra! Cards: More complex cards and interactions for more experienced players
+
+3 Rugwort Cards: A cantankerous old rival sticks his nose in your business
+
+Expansion Content: Requires Everdell Core Game to play.
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297973" value="Everdell: Extra! Extra!" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297972" value="Everdell: Legends" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261142" value="Everdell: Rugwort Pack" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51375" value="Tabletop Tycoon Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="319422">
+         <thumbnail>https://cf.geekdo-images.com/VSRIOSCQNys8hyFrfn5dtw__small/img/9mScFFzgAkNEQiF_9dMEfE9VZXc=/fit-in/200x150/filters:strip_icc()/pic9265878.png</thumbnail>
+      <image>https://cf.geekdo-images.com/VSRIOSCQNys8hyFrfn5dtw__original/img/PwxulpLHJ6qxG9tewXi3tfeGbGo=/0x0/filters:format(png)/pic9265878.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Collector&#039;s Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell: Edición de Coleccionista" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Edition collector" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델: 콜렉터스 에디션" />
+			
+						               													<description>The Collector's Edition of Everdell includes everything in the standard edition, plus the 10 card Legends expansion, 15 Extra! Extra! cards, 30 metal tokens, and an upgraded 8-sided die. This is all contained in a UV spot-coated box and a Gallery slipcase.
+
+Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host&amp;mdash;you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
+
+Everdell is a game of dynamic tableau building and worker placement.
+
+On their turn a player can take one of three actions:
+
+a) Place a Worker: Each player has a collection of Worker pieces. These are placed on the board locations, events, and on Destination cards. Workers perform various actions to further the development of a player's tableau: gathering resources, drawing cards, and taking other special actions.
+
+b) Play a Card: Each player is building and populating a city; a tableau of up to 15 Construction and Critter cards. There are five types of cards: Travelers, Production, Destination, Governance, and Prosperity. Cards generate resources (twigs, resin, pebbles, and berries), grant abilities, and ultimately score points. The interactions of the cards reveal numerous strategies and a near infinite variety of working cities.
+
+c) Prepare for the next Season: Workers are returned to the players supply and new workers are added. The game is played from Winter through to the onset of the following winter, at which point the player with the city with the most points wins.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113768" value="Players: Games with expansions that change player count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289057" value="Everdell: Bellfaire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382190" value="Everdell: Kindergarten Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332397" value="Everdell: Mistwood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332390" value="Everdell: Newleaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259996" value="Everdell: Pearlbrook" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319420" value="Everdell: Pearlbrook – Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="437203" value="Everdell: Promo Compilation Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289056" value="Everdell: Spirecrest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319419" value="Everdell: Spirecrest – Collector&#039;s Edition" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="357969" value="Everdell: 3 Minute Library Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="359324" value="Everdell: Berlin Brettspiel Con Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336655" value="Everdell: Big Ol&#039; Box of Storage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="357725" value="Everdell: Court of Approval Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333825" value="Everdell: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391158" value="Everdell: Eurohell 3D golden occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391159" value="Everdell: Eurohell 3D open/closed signs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391157" value="Everdell: Eurohell occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271285" value="Everdell: Ever Tree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="353226" value="Everdell: Everdell for Everyone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347397" value="Everdell: Expo Hall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312895" value="Everdell: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348594" value="Everdell: Game Boy Geek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="352844" value="Everdell: House of Peace Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306518" value="Everdell: LaserLand Event Card Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306519" value="Everdell: Laserland Walnut Resource Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="353225" value="Everdell: Lincoln and Nikki Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330418" value="Everdell: Man vs Meeple Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432111" value="Everdell: Oversized Cards for Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="433888" value="Everdell: Ryan Schoon Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325823" value="Everdell: The Wanderer&#039;s Guide Alternate Art Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297973" value="Everdell: Extra! Extra!" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297972" value="Everdell: Legends" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261142" value="Everdell: Rugwort Pack" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22701" value="Game Salute" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2744" />
+			<average value="8.48326" />
+			<bayesaverage value="7.02328" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.02328" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="7.26312" />
+												</ranks>
+
+			<stddev value="1.12416" />
+			<median value="0" />
+			<owned value="7745" />
+			<trading value="84" />
+			<wanting value="69" />
+			<wishing value="346" />
+			<numcomments value="493" />
+			<numweights value="65" />
+			<averageweight value="2.8615" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="297973">
+         <thumbnail>https://cf.geekdo-images.com/-alREZH_R_TzzlepSw4Z-A__small/img/LcwxyFKkuofld1WYjPhBe0DJCk0=/fit-in/200x150/filters:strip_icc()/pic5243949.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-alREZH_R_TzzlepSw4Z-A__original/img/b9pERR7BDqfO1X8LKoOhalhxBnI=/0x0/filters:format(jpeg)/pic5243949.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Extra! Extra!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Slyšte! Slyšte!" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Więcej! Więcej!" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델: 호외요! 호외!" />
+			
+						               													<description>This expansion was released by polish publisher Rebel. It contains 15 Extra! Extra! Cards that can be found in Collector's Edition and Glimmergold Pack. In Poland it is a regular expansion, which you can buy in store.
+
+Official Polish description:
+
+Rozszerzenie Więcej! Więcej! to 15 zupełnie nowych kart, kt&amp;oacute;re, wtasowane do talii, pozwolą na jeszcze lepszą zabawę przy Everdell. Ich działanie przyniesie więcej możliwości i kolejne decyzje do podjęcia! W zestawie znajdziemy nowe stworzenia oraz konstrukcje.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="476125" value="Everdell: Card Expansion – Legends, Extra! Extra! &amp; Rugwort" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319422" value="Everdell: Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="289405" value="Everdell: Glimmergold Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42875" value="Abraxas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1109" />
+			<average value="7.94297" />
+			<bayesaverage value="6.23076" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.23076" />
+												</ranks>
+
+			<stddev value="1.29613" />
+			<median value="0" />
+			<owned value="4394" />
+			<trading value="24" />
+			<wanting value="45" />
+			<wishing value="271" />
+			<numcomments value="187" />
+			<numweights value="11" />
+			<averageweight value="2.6364" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="289405">
+         <thumbnail>https://cf.geekdo-images.com/gC6tGd00qmSZpwriO3Znhg__small/img/UitDRbo7L3KbUOe8KLwGMYQ_ijs=/fit-in/200x150/filters:strip_icc()/pic5010549.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gC6tGd00qmSZpwriO3Znhg__original/img/FO2txFEmb-QI5FyHc7h0gTLptX4=/0x0/filters:format(jpeg)/pic5010549.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Glimmergold Pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Эверделл: Золото долины." />
+			
+						               													<description>This upgrade pack allows owners of the Standard Edition to essentially upgrade their copy of the game to a Collector's Edition.
+
+Components include:
+
+     Extra! Extra! Cards (15 cards)
+     Legendary Cards (10 cards)
+     Rules for Collector's Edition cards
+     Rat Workers (6 wooden meeples)
+     Upgraded Victory Point Token Set (30 metal coins (20x1-point, 10x3-point))
+     Upgraded "Occupied" tokens (20 wooden tokens &amp; stickers)
+     Upgraded 8-sided die (1 deluxe die)
+
+
+Components only included in the 2nd Edition:
+
+     Rugwort Cards (3 cards)
+     Upgraded twig components (30 wooden twigs with flattened sides to prevent rolling)
+
+
+It does NOT contain:
+
+
+     Collector's Edition Box (with spot UV)
+     Collector's Edition Box Sleeve (with spot gold foil)
+
+
+First introduced as part of the Everdell: Pearlbrook Kickstarter as the "Everdell Upgrade Pack" (which did not include the 3 Rugwort cards or the 2nd edition twigs).
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297973" value="Everdell: Extra! Extra!" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="297972" value="Everdell: Legends" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="261142" value="Everdell: Rugwort Pack" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="623" />
+			<average value="8.10589" />
+			<bayesaverage value="6.01174" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.01174" />
+												</ranks>
+
+			<stddev value="1.4066" />
+			<median value="0" />
+			<owned value="2768" />
+			<trading value="11" />
+			<wanting value="87" />
+			<wishing value="446" />
+			<numcomments value="110" />
+			<numweights value="5" />
+			<averageweight value="2.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="382190">
+         <thumbnail>https://cf.geekdo-images.com/ZVavtgiqfOv60mHEyDwbSQ__small/img/yFrJ1SBU9QCfjM2vbAglinT08tI=/fit-in/200x150/filters:strip_icc()/pic7397878.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ZVavtgiqfOv60mHEyDwbSQ__original/img/-uWSQdxyezRT5xPF9mcXq2UMQWQ=/0x0/filters:format(png)/pic7397878.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Kindergarten Promo Cards" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell: Kindergarten-Erweiterung" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Kleuterschool promokaarten" />
+			    				
+				<name type="alternate" sortindex="1" value="Moje małe Everdell: Przedszkole Promo" />
+			
+						               													<description>Everdell Kindergarten Promo cards :
+
+This pack contains 6 cards that may be played with the original Everdell base game.
+
+4X kids (critter card)
+2X kindergarten (building card)
+
+These cards are not meant for play with My lil' Everdell.
+
+The Kindergarten card allows you to use an occupied token to play a Kids card for free, and you may do this twice during the game. If playing with Newleaf, you may not use two Golden occupied tokens on this card, though you may use one Golden occupied token and one normal occupied token.
+
+Also contains 4 cards for my lil' everdell
+
+2x My Lil' Everdell Main Deck Critter Cards* (Teacher and Coach)
+2x My Lil' Everdell Main Deck Location Cards* (Kindergarten and Playground)
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332390" value="Everdell: Newleaf" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332398" value="Everdell: The Complete Collection" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375852" value="Welcome to Everdell" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="437203" value="Everdell: Promo Compilation Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="105" />
+			<average value="7.96476" />
+			<bayesaverage value="5.59408" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59408" />
+												</ranks>
+
+			<stddev value="1.51833" />
+			<median value="0" />
+			<owned value="773" />
+			<trading value="6" />
+			<wanting value="48" />
+			<wishing value="137" />
+			<numcomments value="29" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="297972">
+         <thumbnail>https://cf.geekdo-images.com/pj4km1s2s0_zm-3ts5XVdA__small/img/dnBuaqT9m8VnFJJkzYTWCH1JA-w=/fit-in/200x150/filters:strip_icc()/pic5243931.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pj4km1s2s0_zm-3ts5XVdA__original/img/BWNdhAaXzWeTKpkiBfjKPe_o6qc=/0x0/filters:format(jpeg)/pic5243931.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Legends" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Legendy" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Legendy" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델: 전설" />
+			
+						               													<description>This expansion was released by Polish publisher Rebel. It contains 10 Legendary Cards that can be found in Collector's Edition and Glimmergold Pack. In Poland it is a regular expansion, which you can buy in store.
+
+Official Polish description:
+
+Rozszerzenie Legendy to 10 zupełnie nowych kart, kt&amp;oacute;re dodajemy do podstawowej talii. Zawierają one unikalne, bohaterskie stworzenia oraz legendarne budowle, kt&amp;oacute;re wspomogą rozw&amp;oacute;j Twojego miasta. To postaci i miejsca znane z legend, powtarzanych od pokoleń w dolinie Everdell.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348594" value="Everdell: Game Boy Geek" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="476125" value="Everdell: Card Expansion – Legends, Extra! Extra! &amp; Rugwort" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319422" value="Everdell: Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="289405" value="Everdell: Glimmergold Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42875" value="Abraxas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1089" />
+			<average value="8.00421" />
+			<bayesaverage value="6.24134" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.24134" />
+												</ranks>
+
+			<stddev value="1.38108" />
+			<median value="0" />
+			<owned value="4325" />
+			<trading value="25" />
+			<wanting value="41" />
+			<wishing value="288" />
+			<numcomments value="214" />
+			<numweights value="13" />
+			<averageweight value="2.5385" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="332397">
+         <thumbnail>https://cf.geekdo-images.com/6idBdV7k5jGCB_5FQS70yg__small/img/vKJBvkUNrNm35OpFy0fTkVAMp-U=/fit-in/200x150/filters:strip_icc()/pic6024465.png</thumbnail>
+      <image>https://cf.geekdo-images.com/6idBdV7k5jGCB_5FQS70yg__original/img/Ch0t9lPTZRuj6kJbZC3vLXdszuY=/0x0/filters:format(png)/pic6024465.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Mistwood" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Mlžný les" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Ködrengeteg" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Mgielny Las" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Туманный лес" />
+			    				
+				<name type="alternate" sortindex="1" value="仙境幽谷：薄雾林" />
+			
+						               													<description>Lurking in the depths of Mistwood, the cunning and villainous Nightweave plots to take over Everdell with the aid of her spiderlings. Pit your wits against Nightweave and her sticky schemes in solo or two-player games, and recruit heroes of yore from the More Legends and Corrin Evertail expansion packs as well as transform your farms with our new Through Every Season expansion pack!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1–2 players" />
+</poll-summary> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="134577" value="Rob R. Bell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="134576" value="Chrissy Peske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="149284" value="Natalie Johnson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59283" value="Naomi Robinson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1131" />
+			<average value="7.98795" />
+			<bayesaverage value="6.2595" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.2595" />
+												</ranks>
+
+			<stddev value="1.37428" />
+			<median value="0" />
+			<owned value="9065" />
+			<trading value="45" />
+			<wanting value="145" />
+			<wishing value="1305" />
+			<numcomments value="409" />
+			<numweights value="19" />
+			<averageweight value="2.8947" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="332390">
+         <thumbnail>https://cf.geekdo-images.com/ISf4EWo9-f2XFhYNi6MAvQ__small/img/HlM2dBsL9-oSa1vGrojGVtk-Z6o=/fit-in/200x150/filters:strip_icc()/pic6010431.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ISf4EWo9-f2XFhYNi6MAvQ__original/img/uFL_hz1MiS39gpK3wAyt4484qh0=/0x0/filters:format(png)/pic6010431.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Newleaf" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Nový Lístkovec" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Stacja Nowoliść" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Stacja Nowoliść" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Újliget" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Лесной экспресс" />
+			    				
+				<name type="alternate" sortindex="1" value="仙境幽谷：新叶城" />
+			
+						               													<description>Everdell&amp;rsquo;s bustling city Newleaf has just opened its first train station, and many new critters and big ideas are rolling in. Newleaf introduces brand new critters, constructions, and exciting events to draw Visitor cards to your blossoming city! It also features the Train Station Board, resource-delivering Train Cars, travel-worthy Tickets, and Reservation Tokens!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19070" value="Animals: Bats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7564" value="Animals: Bees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18981" value="Animals: Snails" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382190" value="Everdell: Kindergarten Promo Cards" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="357969" value="Everdell: 3 Minute Library Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391158" value="Everdell: Eurohell 3D golden occupied Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391160" value="Everdell: Eurohell 3D spiderwebs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="149284" value="Natalie Johnson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59283" value="Naomi Robinson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2552" />
+			<average value="8.50604" />
+			<bayesaverage value="6.98689" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.98689" />
+												</ranks>
+
+			<stddev value="1.13575" />
+			<median value="0" />
+			<owned value="12228" />
+			<trading value="29" />
+			<wanting value="155" />
+			<wishing value="1566" />
+			<numcomments value="560" />
+			<numweights value="53" />
+			<averageweight value="3.0943" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="259996">
+         <thumbnail>https://cf.geekdo-images.com/vg4eDYz27RMPdvU5tjRCzQ__small/img/6tAdHHH1JvwttrppgDoZRCVsBiI=/fit-in/200x150/filters:strip_icc()/pic4299282.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vg4eDYz27RMPdvU5tjRCzQ__original/img/jo894zE2dhfeAW_Le8mPUNBGXOw=/0x0/filters:format(jpeg)/pic4299282.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Pearlbrook" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Perlava" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Gyöngypatak" />
+			    				
+				<name type="alternate" sortindex="1" value="Евердел. Перловоддя" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Жемчужный ручей" />
+			    				
+				<name type="alternate" sortindex="1" value="เอเวอร์เดล: สายธารแห่งไข่มุก" />
+			
+						               													<description>Explore a new underwater society in Pearlbrook, the first expansion for Everdell!
+
+Pearlbrook introduces a new side board, the river board, where you'll send your frog ambassador to gather a new resource: pearls. You'll also encounter new aquatic critters and constructions! Collect enough pearls and you can construct fabulous wonders and adornments, to make your city the pride of Everdell!
+
+&amp;mdash;description from publisher
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="44">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="8" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6994" value="Animals: Frogs / Toads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104840" value="Animals: Otters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391159" value="Everdell: Eurohell 3D open/closed signs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312895" value="Everdell: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306519" value="Everdell: Laserland Walnut Resource Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="339367" value="Everdell: Pearlbrook – Pearls Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="359554" value="Everdell: Pearlbrook – Rahdo Runs Through Alternate Art Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="440132" value="Everdell: The GiftForge wonders standee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365825" value="Everdell: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319420" value="Everdell: Pearlbrook – Collector&#039;s Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4875" />
+			<average value="7.60284" />
+			<bayesaverage value="6.85267" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.85267" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.9683" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="6.99995" />
+												</ranks>
+
+			<stddev value="1.39202" />
+			<median value="0" />
+			<owned value="17843" />
+			<trading value="118" />
+			<wanting value="169" />
+			<wishing value="1323" />
+			<numcomments value="885" />
+			<numweights value="81" />
+			<averageweight value="2.8765" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="319420">
+         <thumbnail>https://cf.geekdo-images.com/Cv7qdzMP6OfSratYOQaXGA__small/img/WKlRUrk_tM1mDK8Amq8jorEJx8c=/fit-in/200x150/filters:strip_icc()/pic6029262.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Cv7qdzMP6OfSratYOQaXGA__original/img/oU_srqOIixtBsPV52bS0s_B_hSY=/0x0/filters:format(jpeg)/pic6029262.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Pearlbrook – Collector&#039;s Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell: Pearlbrook – Edición de Coleccionista" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Pearlbrook – Second Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Pearlbrook – Seconda Edizione" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Pearlbrook – Seconde édition" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Perłowy potok (edycja kolekcjonerska)" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Жемчужный ручей. Делюкс" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델: 진주개울" />
+			
+						               													<description>The collector's edition comes with game play content not included in the retail edition: 4 additional adornment cards, 6 event cards, and 4 forest cards. Some additional components as well: 18 additional meeples, 3 additional frog ambassadors, 6 open/closed 3D signs, and a scorepad.
+
+
+Explore a new underwater society in Pearlbrook, the first expansion for Everdell!Pearlbrook introduces a new side board, the river board, where you'll send your frog ambassador to gather a new resource: pearls. You'll also encounter new aquatic critters and constructions! Collect enough pearls and you can construct fabulous wonders and adornments, to make your city the pride of Everdell!
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6994" value="Animals: Frogs / Toads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391159" value="Everdell: Eurohell 3D open/closed signs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="259996" value="Everdell: Pearlbrook" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="292794" value="Everdell: Pearlbrook – Freshwater Pack" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1105" />
+			<average value="7.86147" />
+			<bayesaverage value="6.20477" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.20477" />
+												</ranks>
+
+			<stddev value="1.29664" />
+			<median value="0" />
+			<owned value="5073" />
+			<trading value="49" />
+			<wanting value="42" />
+			<wishing value="230" />
+			<numcomments value="229" />
+			<numweights value="16" />
+			<averageweight value="2.875" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="292794">
+         <thumbnail>https://cf.geekdo-images.com/KAhzUCj1YS0xfB39jfAjdQ__small/img/HeTfETgz_syb_t4uI5ziWhqn0cM=/fit-in/200x150/filters:strip_icc()/pic5516087.png</thumbnail>
+      <image>https://cf.geekdo-images.com/KAhzUCj1YS0xfB39jfAjdQ__original/img/Zzga-Dy8PWtRFjgXgTSfFotF40Y=/0x0/filters:format(png)/pic5516087.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Pearlbrook – Freshwater Pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Эверделл: Жемчужный ручей." />
+			
+						               													<description>Upgrades the Standard Edition of Pearlbrook with the Collector's Edition content.
+
+This item includes: 6 axolotl meeples with Frog Ambassador, 6 platypus meeples with Frog Ambassador, 6 starling meeples with Frog Ambassador, 25 glass pearls, punchboard including open &amp; closed signs and 3D Wonders, scorepad, 4 Adornment cards, 6 Special Event cards, 4 Forest cards.
+
+Do you own the Collector's Edition Pearlbrook or are purchasing it through this campaign? Then you already have these!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319420" value="Everdell: Pearlbrook – Collector&#039;s Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="315" />
+			<average value="7.76112" />
+			<bayesaverage value="5.74914" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.74914" />
+												</ranks>
+
+			<stddev value="1.52145" />
+			<median value="0" />
+			<owned value="1703" />
+			<trading value="12" />
+			<wanting value="40" />
+			<wishing value="238" />
+			<numcomments value="82" />
+			<numweights value="2" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="437203">
+         <thumbnail>https://cf.geekdo-images.com/t3pE9FJvS5qZsg72GKXPzQ__small/img/P4JZMLzlfs1vZrSzh9VNfGSQrKY=/fit-in/200x150/filters:strip_icc()/pic8853704.png</thumbnail>
+      <image>https://cf.geekdo-images.com/t3pE9FJvS5qZsg72GKXPzQ__original/img/j3lQOdQZp1HXshpXxOuGtVB3drU=/0x0/filters:format(png)/pic8853704.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Promo Compilation Pack" />
+			
+						                           
+						               													<description>Over 100 (standard size or oversized) promo cards, including special limited edition holiday cards, convention releases, tournament releases, and the Kindergarten Promo (originally released inside My Lil' Everdell)! This set features alternate art and/or name promo cards, plus never-before-released stained glass promos!
+
+Note: Only the Kindergarten promo cards are gameplay related. The rest are alternate artwork cards. Full list in Community Wiki.
+
+"Kids" &amp;bull; (Kids) &amp;bull; My Lil Everdell Launch 2022
+"Kindergarten" &amp;bull; (Kindergarten) &amp;bull; My Lil Everdell Launch 2022
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332398" value="Everdell: The Complete Collection" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="382190" value="Everdell: Kindergarten Promo Cards" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="26" />
+			<average value="8.53846" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.33678" />
+			<median value="0" />
+			<owned value="352" />
+			<trading value="3" />
+			<wanting value="10" />
+			<wishing value="77" />
+			<numcomments value="19" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="261142">
+         <thumbnail>https://cf.geekdo-images.com/HkEvENgMO3_-xTJO3xTrPw__small/img/QXNigqmOLk4TrUGNO_CvXQBZ15E=/fit-in/200x150/filters:strip_icc()/pic4800111.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HkEvENgMO3_-xTJO3xTrPw__original/img/yhI-TMgkM-SyFOG2Ut1HLJxZbxs=/0x0/filters:format(jpeg)/pic4800111.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Rugwort Pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Břitva" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Krostawiec" />
+			    				
+				<name type="alternate" sortindex="1" value="에버델: 루그워트" />
+			
+						               													<description>The Rugwort Pack adds 3 new cards that feature the solo mode opponent, Rugwort! Shuffle them in with the Everdell deck to add a little more 'take-that' to your game. Includes Rugwort the Robber, Rugwort the Ruler, and Rugwort the Rowdy. Not recommend for beginning players! These cards come with the Everdell: Collector's Edition.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1, 4 players" />
+  <result name="recommmendedwith" value="Recommended with 4 players" />
+</poll-summary> 			               				<playingtime value="80" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="80" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="476125" value="Everdell: Card Expansion – Legends, Extra! Extra! &amp; Rugwort" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319422" value="Everdell: Collector&#039;s Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="289405" value="Everdell: Glimmergold Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42875" value="Abraxas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="785" />
+			<average value="6.74555" />
+			<bayesaverage value="5.77095" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.77095" />
+												</ranks>
+
+			<stddev value="1.91108" />
+			<median value="0" />
+			<owned value="4136" />
+			<trading value="75" />
+			<wanting value="36" />
+			<wishing value="256" />
+			<numcomments value="244" />
+			<numweights value="4" />
+			<averageweight value="2.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="289056">
+         <thumbnail>https://cf.geekdo-images.com/ZshJNf6B9Cui1lLf-S-FcA__small/img/jZl43KKGTNbrBvPHsnhMG_V1Oe0=/fit-in/200x150/filters:strip_icc()/pic4950750.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZshJNf6B9Cui1lLf-S-FcA__original/img/-YZRWsW-Rs4UGsJNTnBCOlOAa9k=/0x0/filters:format(jpeg)/pic4950750.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Spirecrest" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Divukraj: Skalověží" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Fagybérc" />
+			    				
+				<name type="alternate" sortindex="1" value="Евердел: Стрімкошир" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Острые хребты" />
+			
+						               													<description>Far beyond the comfortable borders of the Everdell Valley, deep in the mysterious and uncharted lands, adventure is waiting to be discovered. Spirecrest adds several exciting and challenging new mechanics and features to the Everdell base game, including:
+
+
+     Weather cards that impose challenging limitations to overcome.
+     Discovery cards let players encounter intrepid new critters and locations on their journey, providing unique new strategies and abilities. 
+     Big Critters are unique workers with interesting and helpful abilities, who also serve as trusty mounts. 
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28947" value="Theme: Weather" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="334946" value="Everdell: Spirecrest – Trailblazers Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348633" value="Everdell: Everdell &amp; Spirecrest GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312895" value="Everdell: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435721" value="Everdell: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365825" value="Everdell: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="319419" value="Everdell: Spirecrest – Collector&#039;s Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="Rexhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59869" value="Tycoon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4317" />
+			<average value="8.26348" />
+			<bayesaverage value="7.21852" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.21852" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.39078" />
+												</ranks>
+
+			<stddev value="1.15857" />
+			<median value="0" />
+			<owned value="16051" />
+			<trading value="85" />
+			<wanting value="198" />
+			<wishing value="1556" />
+			<numcomments value="759" />
+			<numweights value="97" />
+			<averageweight value="3.0722" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="319419">
+         <thumbnail>https://cf.geekdo-images.com/RkybuZwqvGho3bmile6qFQ__small/img/Pxb7s4T1z0QfRNrUCRwnpwNjfQw=/fit-in/200x150/filters:strip_icc()/pic4950749.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RkybuZwqvGho3bmile6qFQ__original/img/c-MXOo0zv09p3-FZQc4fIvk8S7g=/0x0/filters:format(jpeg)/pic4950749.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Everdell: Spirecrest – Collector&#039;s Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Everdell: Spirecrest – Edición de Coleccionista" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Spirecrest – Second Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Spirecrest – Seconda edizione" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Spirecrest – Seconde édition" />
+			    				
+				<name type="alternate" sortindex="1" value="Everdell: Zimowy szczyt (edycja kolekcjonerska)" />
+			    				
+				<name type="alternate" sortindex="1" value="Эверделл: Острые хребты. Делюкс" />
+			
+						               													<description>The Collector's Edition includes:
+
++ 9 Discovery Cards
+
++3 Big Critter Meeples
+
++ 3 Critter Types (Lizard, Mole, Owl)
+
++4 Plastic Saddles
+
+This edition is direct-only, which means it will not be sold in stores. It will only be available through Kickstarter, Starling Games webstore, and from their booth at conventions. It will not be available through normal retail channels.
+
+Far beyond the comfortable borders of the Everdell Valley, deep in the mysterious and uncharted lands, adventure is waiting to be discovered. Spirecrest adds several exciting and challenging new mechanics and features to the Everdell base game, including:
+
+Weather cards that impose challenging limitations to overcome.
+
+Discovery cards let players encounter intrepid new critters and locations on their journey, providing unique new strategies and abilities.
+
+Big Critters are unique workers with interesting and helpful abilities, who also serve as trusty mounts.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57493" value="Game: Everdell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28947" value="Theme: Weather" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199792" value="Everdell" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319422" value="Everdell: Collector&#039;s Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332119" value="Everdell: BGInserts Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367828" value="Everdell: Card Sleeve Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333825" value="Everdell: Deluxe Resource Vessels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="391156" value="Everdell: Eurohell 3D-Token Point-Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428097" value="Everdell: Oversized Cards for all Everdell Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435724" value="Everdell: PolandGames Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="289056" value="Everdell: Spirecrest" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="334946" value="Everdell: Spirecrest – Trailblazers Pack" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332398" value="Everdell: The Complete Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91302" value="James A. Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23943" value="Dann May" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38298" value="Starling Games (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1150" />
+			<average value="8.36184" />
+			<bayesaverage value="6.37967" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.37967" />
+												</ranks>
+
+			<stddev value="1.26477" />
+			<median value="0" />
+			<owned value="5233" />
+			<trading value="34" />
+			<wanting value="63" />
+			<wishing value="256" />
+			<numcomments value="246" />
+			<numweights value="22" />
+			<averageweight value="3.0909" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

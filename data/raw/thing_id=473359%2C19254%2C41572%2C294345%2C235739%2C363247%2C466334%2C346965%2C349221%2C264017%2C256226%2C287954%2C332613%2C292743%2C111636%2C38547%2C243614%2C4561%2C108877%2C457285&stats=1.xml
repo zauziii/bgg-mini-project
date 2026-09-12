@@ -1,0 +1,5730 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="473359">
+         <thumbnail>https://cf.geekdo-images.com/NaxlZwZ2R_cavIsWdTeAZg__small/img/fNvNcQ3P1CI4iCwdJewU_Gx17vo=/fit-in/200x150/filters:strip_icc()/pic9651188.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/NaxlZwZ2R_cavIsWdTeAZg__original/img/_kCOLOoE0j9NEyLW8dlii6ChGug=/0x0/filters:format(jpeg)/pic9651188.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul Kids" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul. Діти" />
+			
+						               													<description>Welcome to the mosaic workshop! Sit down at your workbench and choose a mosaic you'd like to create.  Collect pieces from the bowls and place them on your board. The winner is the first player to complete their mosaic!
+
+MY FIRST MOSAIC WORKSHOP: Welcome young artists to their very own workbench! Azul Kids introduces children to the world of strategy as they choose a mosaic to create and collect colorful pieces to fill their personal boards.
+COMPLETE COLORFUL GAME SET: This comprehensive set includes 120 vibrant mosaic pieces, 1 high-quality cloth bag for easy drawing and cleanup, 6 individual mosaic boards, 1 central supply hub, and an easy-to-follow rulebook.
+ENGAGING SKILL DEVELOPMENT: Designed to help children develop essential skills like pattern recognition, fine motor control, and tactical thinking; players learn to plan their moves to be the first to complete their masterpiece.
+IDEAL FOR FAMILY GAME NIGHTS: A perfect choice for afternoon playdates, weekend gatherings, or birthday parties; its fast-paced nature makes it a great activity for rainy winter days or sunny summer holidays.
+DESIGNED FOR YOUNG EXPLORERS: A wonderful gift for preschool and elementary-aged children who love art and puzzles; perfect for use in home playrooms, classrooms, or during family travel for portable fun.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="174491" value="Iris Wincker (Lemonjuiceday)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41877" value="Space Cow" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="25" />
+			<average value="7.36" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.41789" />
+			<median value="0" />
+			<owned value="117" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="57" />
+			<numcomments value="9" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="19254">
+         <thumbnail>https://cf.geekdo-images.com/HuNHalxx1iLEDID94UhvGg__small/img/hT8Ku3bSBFO2UdXcwXdncwp2zmk=/fit-in/200x150/filters:strip_icc()/pic1525635.png</thumbnail>
+      <image>https://cf.geekdo-images.com/HuNHalxx1iLEDID94UhvGg__original/img/ofu-zrSHnTcJDZjbNg67t3zqxgU=/0x0/filters:format(png)/pic1525635.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Blue and Gray" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul y Gris" />
+			    				
+				<name type="alternate" sortindex="1" value="Blau und Grau" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Blauen und die Grauen" />
+			    				
+				<name type="alternate" sortindex="1" value="Blues and Greys" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Blues et les Gris" />
+			    				
+				<name type="alternate" sortindex="1" value="Capitaine et soldats" />
+			    				
+				<name type="alternate" sortindex="1" value="Captain and Soldiers" />
+			    				
+				<name type="alternate" sortindex="1" value="Cats and Dogs" />
+			    				
+				<name type="alternate" sortindex="1" value="Thump&#039;s Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Thumps Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Wild West" />
+			
+						               													<description>Blue and Gray was granted a patent in 1903, but possibly was not published until Sid Sackson included it in A Gamut of Games
+
+In Blue and Gray, each player begins with 17 guards and one captain set up on the line intersections of a 9 &amp;times; 9 grid board. The object of the game is to advance the captain to the center of the board following an outlined path of 17 steps. However, the captain can only advance if the next step along the path is unoccupied by friendly or opposing guards. Guards can move along lines in any direction (except over the central point) and can capture each other by jumping, as in checkers.
+
+Super Blue and Gray took this game one step further
+
+</description>
+										      	               				<yearpublished value="1903" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1048" value="American Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7349" value="Animals: Dogs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78574" value="Components: 9 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2883" value="The Book of Classic Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="4385" value="A Gamut of Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5823" value="Henry Busch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5822" value="Arthur Jaeger" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7628" value="David McCord" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="660" value="Dover Publications" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5855" value="dtv (Deutscher Taschenbuch Verlag)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1195" value="House of Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="595" value="Hugendubel Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="621" value="Hutchinson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5915" value="NewVenture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="823" value="Random House, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7474" value="RBA Libros S.A." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="33" />
+			<average value="6.09242" />
+			<bayesaverage value="5.50521" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24844" bayesaverage="5.50521" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1090" bayesaverage="5.53035" />
+												</ranks>
+
+			<stddev value="1.38313" />
+			<median value="0" />
+			<owned value="71" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="36" />
+			<numweights value="5" />
+			<averageweight value="1.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="41572">
+         <thumbnail>https://cf.geekdo-images.com/uUzaRTFiOerJJ-vIVtD3Tg__small/img/CYG2_Wt_RamOs4lAi4Hol1b1Bc0=/fit-in/200x150/filters:strip_icc()/pic560783.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uUzaRTFiOerJJ-vIVtD3Tg__original/img/99M-hrLI6xrOM8g1B3Exgq4gMYQ=/0x0/filters:format(jpeg)/pic560783.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul y Rojo" />
+			
+						                           
+						               													<description>Azul y Rojo: La Guerra Civil en el Mar, 1936-1939 is a Tactical level Nautical board-wargame featuring naval battles of the Spanish Civil War (1936-1939).
+Presented with 12 different scenarios, representing different sea battles of the Civil War, it simulates naval action including mines, naval aviation and torpedoes. 
+Each side deploys his units according to the rules of each scenario, playing on turns and applying the different special rules. 
+Each ship has an individual hit table, on which damage is recorded.
+
+</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="32906" value="History: Spanish Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44377" value="Interwar period (Nov. 1918 - Aug. 1939)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="106809" value="War Level of Command: Tactical" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3912" value="Enric Martí" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11857" value="Nicolás Eskubi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="835" value="Ludopress" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.428174" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="10" />
+			<numcomments value="5" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="294345">
+         <thumbnail>https://cf.geekdo-images.com/bwrDcuyGu29R4G5Vtr9cOg__small/img/ZMUFZdbN7HRFTcFRaSqC6hUfUZ8=/fit-in/200x150/filters:strip_icc()/pic7274243.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bwrDcuyGu29R4G5Vtr9cOg__original/img/sIuvlM6-5mgNN1-Q5-n3seTLAKE=/0x0/filters:format(jpeg)/pic7274243.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Crystal Mosaic" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: Das gläserne Mosaik" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Erweiterung – Das gläserne Mosaik" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Kristal Mozaïek" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Křišťálová mozaika – rozšíření" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Kristálymozaik" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Kryształowa Mozaika" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mosaico de Cristal" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mosaïque Éclatante" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mozaicul de Cristal" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：クリスタルモザイク拡張セット" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語: 馬賽克水晶" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄: 크리스탈 모자이크" />
+			
+						               													<description>Azul: Crystal Mosaic contains double-sided player boards, with each board offering new challenges and exciting new strategic opportunities.
+
+The "Crystal Mosaic" of the title is actually a plastic overlay that provides a recess to keep tiles from being accidentally bumped out of place. Four overlays are included in this expansion.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230802" value="Azul" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363247" value="Azul: Master Chocolatier" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2461" />
+			<average value="7.25733" />
+			<bayesaverage value="6.36465" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.36465" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="6.89294" />
+												</ranks>
+
+			<stddev value="1.45231" />
+			<median value="0" />
+			<owned value="12086" />
+			<trading value="76" />
+			<wanting value="88" />
+			<wishing value="770" />
+			<numcomments value="599" />
+			<numweights value="27" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="235739">
+         <thumbnail>https://cf.geekdo-images.com/cVQIC7qeXw9gfh6jL6dqIg__small/img/rOyPcCpDsxduJIuAwiSH-HPnueU=/fit-in/200x150/filters:strip_icc()/pic3780015.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cVQIC7qeXw9gfh6jL6dqIg__original/img/x03gQabnoLaWYjeoOfWI3DaXSsw=/0x0/filters:format(jpeg)/pic3780015.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Joker Tiles" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: Dodatek Joker" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Piastrelle Joker" />
+			
+						               													<description>Azul: Joker Tiles is a set of ten promotional tiles that can be used with the Azul base game. Complementing the castle's aesthetics, these special tiles also provide more depth in decision-making as they can serve as a proxy for any of the other tiles. However, their beauty comes at a price as players won't be able to score them for end of game color bonuses!
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230802" value="Azul" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363247" value="Azul: Master Chocolatier" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="802" />
+			<average value="7.32076" />
+			<bayesaverage value="5.94553" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.94553" />
+												</ranks>
+
+			<stddev value="1.34327" />
+			<median value="0" />
+			<owned value="3782" />
+			<trading value="46" />
+			<wanting value="204" />
+			<wishing value="592" />
+			<numcomments value="257" />
+			<numweights value="12" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="363247">
+         <thumbnail>https://cf.geekdo-images.com/CHIy1KMWI-LCkiux4q81Fg__small/img/ibEjwlnZixyeVXYcS_793Cgtrdw=/fit-in/200x150/filters:strip_icc()/pic6871709.png</thumbnail>
+      <image>https://cf.geekdo-images.com/CHIy1KMWI-LCkiux4q81Fg__original/img/cWe3u0UaHUWOWmFRGFAQYlFuYW4=/0x0/filters:format(png)/pic6871709.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Master Chocolatier" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: Csokoládéműhely" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Maître Chocolatier" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Majstor Čokolatijer" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Meister-Chocolatier" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mestre Chocolatier" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mistři čokolády" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Mistrz Czekolady" />
+			    				
+				<name type="alternate" sortindex="1" value="Азул: Шоколатье" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：マスターショコラティエ" />
+			    				
+				<name type="alternate" sortindex="1" value="花砖物语：巧夺天工" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語 巧奪天工" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄: 마스터 쇼콜라티에" />
+			
+						               													<description>In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.
+
+Azul: Master Chocolatier includes double-sided factory boards, with these tiles being placed on these boards at the start of each round. One side of the factories is blank, and when using this side the game plays exactly like Azul. The other side of each factory tile has a special effect on it that modifies play in one way or another, putting a twist on the normal game. Additionally, the tiles are modeled to look like chocolates and other treats, despite remaining as inedible as the tiles in the original game.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="59">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="11" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80969" value="Food &amp; Drink: Chocolate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294345" value="Azul: Crystal Mosaic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235739" value="Azul: Joker Tiles" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145185" value="Nina Allen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3490" />
+			<average value="7.85259" />
+			<bayesaverage value="6.83486" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="720" bayesaverage="6.83486" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="10" bayesaverage="7.3328" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="128" bayesaverage="7.01531" />
+												</ranks>
+
+			<stddev value="1.17109" />
+			<median value="0" />
+			<owned value="8395" />
+			<trading value="45" />
+			<wanting value="108" />
+			<wishing value="1051" />
+			<numcomments value="527" />
+			<numweights value="90" />
+			<averageweight value="1.7889" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="466334">
+         <thumbnail>https://cf.geekdo-images.com/Un9Tz5RiVrZ-LJFSyIZw7g__small/img/1Mtu89qAQ-JJ6T2ge4bhO5lSnCA=/fit-in/200x150/filters:strip_icc()/pic9454825.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Un9Tz5RiVrZ-LJFSyIZw7g__original/img/LnU2F2DZUR98L0f-fdFF91XE5s8=/0x0/filters:format(jpeg)/pic9454825.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Promo Collection 1" />
+			
+						                           
+						               													<description>Promo Collection 1 is a promotional mini-expansion for Azul.
+
+It introduces two special Factory tiles that replace two of the standard Factory displays during setup. These alternative factories add small variations to the tile-drafting phase and provide a different dynamic compared to the standard factories.
+
+Components
+
+2 double-sided special Factory tiles
+
+Rainbow Factory
+
+Grand Factory - At the beginning of each round, place 6 tiles on this factory instead of 4. Tiles can be taken from this factory only when other factories have no tiles.
+
+1 rules sheet
+
+Setup and Gameplay
+
+During setup, remove two standard Factory displays from the game and replace them with the special Factory tiles included in this promo.
+
+The special factories modify how tiles can be drafted from those factories, adding a small twist to the base game rules.
+
+Notes
+
+Requires the base game Azul to play.
+
+Promotional mini-expansion distributed as part of a promo collection.
+
+</description>
+										      	               				<yearpublished value="2026" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="14" />
+			<wishing value="38" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="346965">
+         <thumbnail>https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__small/img/kvxUPoBvCzjV5r6poE29LFUQnSM=/fit-in/200x150/filters:strip_icc()/pic6389125.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__original/img/VaPUWBlEE3Wg_QGYAsHxKV8mBkw=/0x0/filters:format(jpeg)/pic6389125.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Queen&#039;s Garden" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: A királyné kertje" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Die Gärten der Königin" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Il Giardino della Regina" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Jardim da Rainha" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Jardín de la Reina" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Kraljičin Vrt" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Le Jardin de la Reine" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Ogród Królowej" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Tuin van de koningin" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Zahrady pro královnu" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Кралска Градина" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul. Сад Королевы" />
+			    				
+				<name type="alternate" sortindex="1" value="Азул: Сад королеви" />
+			    				
+				<name type="alternate" sortindex="1" value="อาซูล สวนพฤกษาราชินี" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：王妃の庭園" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語 花園宮殿" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄: 왕비의 정원" />
+			
+						               													<description>Welcome back to the palace of Sintra! King Manuel I has commissioned the best garden designers of Portugal to construct the most extraordinary garden for his wife, Queen Maria of Aragon.
+
+In Azul: Queen's Garden, players are tasked with arranging a magnificent garden for the King's lovely wife by arranging beautiful plants, trees, and ornamental features.
+
+Using an innovative drafting mechanism, the signature of the Azul series, players must carefully select colorful tiles to decorate their garden. Only the most incredible garden designers will flourish and win the Queen's blessing.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="101">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="51" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="64" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="10" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349221" value="Azul: Queen&#039;s Garden – Bonus Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475642" value="Azul: Queen’s Garden – Tower / Tile Bin Upgrade" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29085" value="Paladium Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6627" />
+			<average value="7.41003" />
+			<bayesaverage value="6.8548" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="681" bayesaverage="6.8548" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="20" bayesaverage="7.12094" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="153" bayesaverage="6.96462" />
+												</ranks>
+
+			<stddev value="1.43545" />
+			<median value="0" />
+			<owned value="14229" />
+			<trading value="120" />
+			<wanting value="168" />
+			<wishing value="2071" />
+			<numcomments value="995" />
+			<numweights value="237" />
+			<averageweight value="2.9198" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="349221">
+         <thumbnail>https://cf.geekdo-images.com/_l721OpDhAaHAB68X8BmnA__small/img/wk3wS4gxCgPLpqkc0MR_zh6_n4E=/fit-in/200x150/filters:strip_icc()/pic6621291.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_l721OpDhAaHAB68X8BmnA__original/img/cxoNksGc0o2xexiRPOdiq-PiaY0=/0x0/filters:format(jpeg)/pic6621291.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Queen&#039;s Garden – Bonus Cards" />
+			
+						                           
+						               													<description>Mini expansion with bonus cards for Azul: Queen's Garden that was available at Spiel 2021.
+
+The expansion consists of:
+16 bonus cards
+8 jokers
+1 bag
+1 rules sheet
+
+The 16 bonus cards offer you the opportunity to get additional points and additional jokers during the game. If you are the first player to fulfill the requirement of a bonus card, take the corresponding card and place it next to your garden board. At any time during your turn, you may discard these bonus cards to immediately score points and/or gain a joker.
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346965" value="Azul: Queen&#039;s Garden" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="50" />
+			<average value="7.4558" />
+			<bayesaverage value="5.53705" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.53705" />
+												</ranks>
+
+			<stddev value="1.43326" />
+			<median value="0" />
+			<owned value="294" />
+			<trading value="1" />
+			<wanting value="41" />
+			<wishing value="144" />
+			<numcomments value="18" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="264017">
+         <thumbnail>https://cf.geekdo-images.com/a-dQsR_og-0DSYsEy3MT8g__small/img/m0W-RpSvqkRWQmexJmu6VMef0Z8=/fit-in/200x150/filters:strip_icc()/pic4384053.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/a-dQsR_og-0DSYsEy3MT8g__original/img/CmZcxpBVwbCfi9otIsMS-n-OFhQ=/0x0/filters:format(jpeg)/pic4384053.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Special Factories Promo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: Sonder-Manufaktur-Promo" />
+			
+						               													<description>2 Special Factory Displays and 5 Double score markers, contained in "Deutscher Spielepreis 2018 Goodie Box".
+The Deutscher Spielepreis 2018 Goodie Box is a product to support the Deutscher Spielepreis, the second biggest German board game prize, for which thousands of players vote each year between May and July for their favorite game.
+
+2 Special Factory Displays
+When setting up a game of Azul, return two of the usual Factory displays to the box and use the two new Special Factory displays in their place.
+The game is played as usual. However, when picking tiles from a Special Factory display during the Factory offer phase, bear the new rules in mind.
+
+5 Double Score Markers
+When setting up a game of Azul place the 5 double score markers next to the Factory displays as a supply.
+The game is played as usual. However, in this promo, carry out the Wall-tilling phase in player order, rather than simultaneously, starting with the first player and going clockwise.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="257590" value="Deutscher Spielepreis 2018 Goodie Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74074" value="Philippe Guérin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="263" />
+			<average value="7.41778" />
+			<bayesaverage value="5.6883" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.6883" />
+												</ranks>
+
+			<stddev value="1.27425" />
+			<median value="0" />
+			<owned value="1317" />
+			<trading value="11" />
+			<wanting value="168" />
+			<wishing value="373" />
+			<numcomments value="99" />
+			<numweights value="6" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="256226">
+         <thumbnail>https://cf.geekdo-images.com/RrYR1xB8H7D1B5GwNV8jgQ__small/img/vUGmS3mniayuyVOG-1ulrVGnjSg=/fit-in/200x150/filters:strip_icc()/pic4212417.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RrYR1xB8H7D1B5GwNV8jgQ__original/img/unI8OEWp9Fdv3D_dLahPPdLG1qc=/0x0/filters:format(jpeg)/pic4212417.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Stained Glass of Sintra" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: De ramen van Sintra / Les vitraux de Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Die Buntglasfenster von Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: le Vetrate di Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Les Vitraux de Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Sintra üvegcsodái" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Stained glass of Sintra / Les vitraux de Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Vitrais de Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Vitrales de Sintra" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Vitráže Sintry" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Witraże Sintry" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Вітражі Сінтри" />
+			    				
+				<name type="alternate" sortindex="1" value="Азул: Витражи Синтры" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：シントラのステンドグラス" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語：琉璃之光" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄: 신트라의 스테인드글라스" />
+			
+						               													<description>Azul: Stained Glass of Sintra challenges players to carefully select glass panes to complete their windows while being careful not to damage or waste supplies in the process. The window panels are double-sided, providing players with a dynamic player board that affords nearly infinite variability!
+
+Gameplay is similar to Azul.  Players draft colored glass tiles to their player board. Later in the round, players score points based on how they've placed their window pane pieces pieces. Extra points are scored for specific patterns and completing sets.  There's also a new Colour Bonus mechanic at the end of every round for additional scoring strategy. The game will come to an end after 6 rounds. The player with the most points at the end of the game wins.
+
+Azul: Stained Glass of Sintra has new components including translucent window pane pieces, a tower to hold discarded glass panes, and double-sided player boards and window pane panels.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="159">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="87" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="83" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="88" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="71" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="23" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="20" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="110914" value="Theme: Stained Glass" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475641" value="Azul: Stain Glass of Sintra – Tower / Tile Bin Upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343443" value="Azul: Stained Glass of Sintra – Custom Glass Tower" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15264" />
+			<average value="7.28088" />
+			<bayesaverage value="6.99193" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="517" bayesaverage="6.99193" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="22" bayesaverage="7.11119" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="117" bayesaverage="7.05517" />
+												</ranks>
+
+			<stddev value="1.19354" />
+			<median value="0" />
+			<owned value="25634" />
+			<trading value="241" />
+			<wanting value="344" />
+			<wishing value="3132" />
+			<numcomments value="2085" />
+			<numweights value="314" />
+			<averageweight value="2.0127" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="287954">
+         <thumbnail>https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__small/img/sOiQSPo_DM7G1Om0PF1T2Z8ACcA=/fit-in/200x150/filters:strip_icc()/pic4930887.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__original/img/VtYGvhy_YCSw14FpV8FGzv0eMe4=/0x0/filters:format(jpeg)/pic4930887.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Summer Pavilion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul Letnji Paviljon Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Mini: A királyi pavilon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Pavilhão de Verão: Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: A királyi pavilon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Der Sommerpavillon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Der Sommerpavillon Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Letni Pawilon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Letohrádek" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Pabellón de verano" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: pabelloón de verano" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Pavilhão de Verão" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Pavillon d&#039;été" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Pavillon d&#039;été Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Summer Pavilion Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Zomerpaviljoen" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Zomerpaviljoen mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Летний дворец" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Летний дворец. Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Літній палац" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Літній палац міні" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：サマーパビリオン" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：サマーパビリオン ミニ" />
+			    				
+				<name type="alternate" sortindex="1" value="花磚物語: 夏日行宮" />
+			    				
+				<name type="alternate" sortindex="1" value="아줄: 여름 별장" />
+			
+						               													<description>At the turn of the 16th Century, King Manuel I commissioned Portugal's greatest artisans to construct grandiose buildings. After completing the Palaces of Evora and Sintra, the king sought to build a summer pavilion to honor the most famous members of the royal family. This construction was intended for the most talented artisans &amp;mdash; whose skills meet the splendor that the royal family deserves. Sadly, King Manuel I died before construction ever began.
+
+In Azul: Summer Pavilion, players return to Portugal to accomplish the task that never began. As a master artisan, you must use the finest materials to create the summer pavilion while carefully avoiding wasting supplies. Only the best will rise to the challenge to honor the Portuguese royal family.
+
+Azul: Summer Pavilion lasts six rounds, and in each round players draft tiles, then place them on their individual player board to score points. Each of the six colors of tiles is wild during one of the rounds.
+
+At the start of each round, draw tiles at random from the bag to refill each of the five, seven, or nine factories with four tiles each. Draw tiles as needed to refill the ten supply spaces on the central scoring board. Players then take turns drafting tiles. You can choose to take all of the tiles of a non-wild color on a factory and place them next to your board; if any wild tiles are on this factory, you must take one of them. Place all remaining tiles in the center of the table. Alternatively, you can take all tiles of a non-wild color from the center of play; you must also take one wild tile, if present.
+
+After all tiles have been claimed, players then take turns placing tiles on their individual boards. Each board depicts seven stars that would be composed of six tiles; each space on a star shows a number from 1-6, and six of the stars are for tiles of a single color while the seventh will be composed of one tile of each color. To place a tile on the blue 5, for example, you must discard five blue or wild tiles from next to your player board (with at least one blue being required), placing one blue tile in the blue 5 space and the rest in the discard tower. You score 1 point for this tile and 1 point for each tile within this star connected to the newly placed tile.
+
+If you completely surround a pillar, statue, or window on your game board with tiles, you get an immediate bonus, taking 1-3 tiles from the central supply spaces and placing them next to your board. At the end of the round, you can carry over at most four tiles to the next round; discard any others, losing 1 point for each such tile.
+
+After six rounds, you score a bonus for each of the seven stars that you've filled completely. Additionally, you score a bonus for having covered all seven spaces of value 1, 2, 3 or 4. You lose 1 point for each remaining tile unused, then whoever has the most points wins.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="234">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="133" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="120" />
+					<result value="Recommended" numvotes="81" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="115" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="112" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="56">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="39" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="26">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="26" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62270" value="Versions &amp; Editions: Travel Versions of Non-Travel Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332613" value="Azul: Summer Pavilion – Glazed Pavilion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292743" value="Azul: Summer Pavilion – Objective Tiles Mini Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="475636" value="Azul: Summer Pavilion – Tower / Tile Bin Upgrade" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="230802" value="Azul" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40415" value="Divercentro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19755" />
+			<average value="7.55832" />
+			<bayesaverage value="7.29008" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="246" bayesaverage="7.29008" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="9" bayesaverage="7.38895" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="38" bayesaverage="7.35153" />
+												</ranks>
+
+			<stddev value="1.19357" />
+			<median value="0" />
+			<owned value="34100" />
+			<trading value="273" />
+			<wanting value="409" />
+			<wishing value="3786" />
+			<numcomments value="2605" />
+			<numweights value="428" />
+			<averageweight value="2.0771" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="332613">
+         <thumbnail>https://cf.geekdo-images.com/7mqndDu6640rrGt7zLM_Qg__small/img/OQC1bukjh3pjXUt61moB2pmFIhQ=/fit-in/200x150/filters:strip_icc()/pic6113541.png</thumbnail>
+      <image>https://cf.geekdo-images.com/7mqndDu6640rrGt7zLM_Qg__original/img/OeyMDFwEzN5JWlm5g6317aoZd5I=/0x0/filters:format(png)/pic6113541.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Summer Pavilion – Glazed Pavilion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul Pabellón Acristalado" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Pavillon d&#039;été: Pavillon Etincelant" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Sommer Pavillon: Der gläserne Pavillon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul Zomerpaviljoen: Glanzend Paviljoen" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Lśniący Pawilon" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Pavilhão de Verão – Pavilhão Envidraçado" />
+			    				
+				<name type="alternate" sortindex="1" value="Azul: Színpompás pavilon" />
+			    				
+				<name type="alternate" sortindex="1" value="アズール：サマーパビリオン グレイズ拡張セット" />
+			
+						               													<description>A brand new floor!
+
+Azul: Glazed Pavilion offers players 2 newly designed player boards and matching scoring boards to compete over and a set of 4 overlays to keep Azul Glazed Pavilion tiles neatly organized. Offering the best of both worlds &amp;mdash; beauty and new game elements &amp;mdash; Glazed Pavilion is a must-have expansion for Azul fans!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287954" value="Azul: Summer Pavilion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="740" />
+			<average value="7.58004" />
+			<bayesaverage value="5.96101" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.96101" />
+												</ranks>
+
+			<stddev value="1.35803" />
+			<median value="0" />
+			<owned value="4582" />
+			<trading value="36" />
+			<wanting value="37" />
+			<wishing value="333" />
+			<numcomments value="190" />
+			<numweights value="11" />
+			<averageweight value="2.1818" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="292743">
+         <thumbnail>https://cf.geekdo-images.com/bfRgs12X531oqsW0HV_Yzw__small/img/zYogsRadC8-k53JNBRO8hhFHwWY=/fit-in/200x150/filters:strip_icc()/pic5322144.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bfRgs12X531oqsW0HV_Yzw__original/img/8xsZD8XRouHDuopHUwDanCAoils=/0x0/filters:format(jpeg)/pic5322144.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azul: Summer Pavilion – Objective Tiles Mini Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Azul: Letni Pawilon – Żetony Celu" />
+			
+						               													<description>Set up the original game as described, then place the 16 bonus cards face up next to the game board.
+
+The 16 bonus cards offer you the opportunity to get additional tiles from the supply during the game. 
+If you have fulfilled the requirements for receiving a bonus card, take the corresponding bonus card. Then choose immediately any tile as your reward from the supply of the game board and place it next to your playing board.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57039" value="Game: Azul" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287954" value="Azul: Summer Pavilion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38363" value="Next Move Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="129" />
+			<average value="7.68171" />
+			<bayesaverage value="5.60406" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.60406" />
+												</ranks>
+
+			<stddev value="1.26549" />
+			<median value="0" />
+			<owned value="879" />
+			<trading value="7" />
+			<wanting value="68" />
+			<wishing value="252" />
+			<numcomments value="61" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="111636">
+         <thumbnail>https://cf.geekdo-images.com/mqeOwCUXhWMiqjSL-V3NzA__small/img/geO01dT091rdYWYM2kUcE2BM8W8=/fit-in/200x150/filters:strip_icc()/pic1135569.png</thumbnail>
+      <image>https://cf.geekdo-images.com/mqeOwCUXhWMiqjSL-V3NzA__original/img/Wh80vbuAF9jnggwppYl4GQL5D98=/0x0/filters:format(png)/pic1135569.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azuleo" />
+			
+						                           
+						               													<description>Objective: Try to form as many valuable colour combinations as possible
+Azuleo has its origin from the Portuguese word &amp;bdquo;azulejo&amp;ldquo; for &amp;bdquo;tile&amp;ldquo;.
+Starting the game a player draws/places two tiles (crosses) which determine the colour-combinations you can score. During your turn you should place a tile out of your personal supply (max. 2) which fits into. The allowed combination shows a square consisting of max. two colours. 
+You may change the colour tiles for other combinations, too and you can also score points for placing blockade crosses where no colour cross can fit.
+
+</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3017" value="Clemens Helldörfer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53475" value="Claudia Grundies" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="10" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="38547">
+         <thumbnail>https://cf.geekdo-images.com/c0vYQGWKIpRnqeMZdKW1kw__small/img/nsc9J_XOmthGjpdd7UEUA_JpzgE=/fit-in/200x150/filters:strip_icc()/pic374270.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/c0vYQGWKIpRnqeMZdKW1kw__original/img/5iShBO-juJHDWdwbS-QLVXYYOmw=/0x0/filters:format(jpeg)/pic374270.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Azules y grises" />
+			
+						                           
+						               													<description>"Super Juegos" was a pioneer Spanish magazine about both, board and computer games, which was published between 1984-1985. Every issue included a board game inside (two in issues 7 and 8), with rules and cut-out counters. As far as I know only eight numbers were published, at least in its first epoch (another publication with the same name would appear years later, this time focusing on computer games only).
+
+One of the games included in issue 8 was "Azules y grises - La batalla de Bull Run", set in the American Civil War. It was a straightforward, 3 pages rules wargame in the usual line of the magazine.
+
+</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1048" value="American Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11186" value="Grupo de diseño CSR" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8762" value="Super Juegos" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="243614">
+         <thumbnail>https://cf.geekdo-images.com/q_cnmRpX1qvLn9kFK2zZFQ__small/img/njnPQirSsZinQWoKgJqqahu_wWI=/fit-in/200x150/filters:strip_icc()/pic3923656.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/q_cnmRpX1qvLn9kFK2zZFQ__original/img/_7MHWF6C7rok08SrN9weepzveKU=/0x0/filters:format(jpeg)/pic3923656.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Blobbiemundo: Mazo Azul" />
+			
+						                           
+						               													<description>The Blue Deck contains shapes of higher Perception values in average.
+Each Introductory Sructure contains 50 Cards (1 Refractive), 15 Vitality Counters, 1 Environment Counter, 1 Playmat, and 1 Rulebook.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="243607" value="Blobbiemundo" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106175" value="Jorge" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106175" value="Jorge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106176" value="Christoffer Edson Pineda Wong" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38295" value="Pers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="4561">
+         <thumbnail>https://cf.geekdo-images.com/nRHm3YQA5A5CV41mRrPIIg__small/img/aXZvzhFc1bbEUv3rzeabwfSsx3M=/fit-in/200x150/filters:strip_icc()/pic4414917.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nRHm3YQA5A5CV41mRrPIIg__original/img/aT5_VceSm3DCx-1wd6qaHeCgeFs=/0x0/filters:format(jpeg)/pic4414917.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Carrera de Mente" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Aniversario" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Azul" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Cosmos" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Décadas" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Educational" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Familiar" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Genios" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Platinum" />
+			    				
+				<name type="alternate" sortindex="1" value="Carrera de Mente: Superstar" />
+			    				
+				<name type="alternate" sortindex="1" value="Turista de Mente" />
+			
+						               													<description>The game consists of a race through a board with coloured spaces and 6 books with questions of 6 categories (Science, entertainment, history / geography, sports, art and trade). The player / team roll the dice to get 3 numbers, for example 3-1-6. Then, from the book with the color of the space landed, other player reads the question number 316. If the player answers correctly, he can continue playing, otherwise the next player continues. When a player guesses the answer of a space with a star, he receives a token of the color associated with the topic answered correctly. The first to get a token from each category wins!
+
+</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="20" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="13">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="14">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="15">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="16">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="17">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="18">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="19">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="20">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="20+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269052" value="Carrera de Mente: Décadas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269054" value="Carrera de Mente: Para Genios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="348276" value="Carrera de Mente: Cartas" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1808" value="Jaime Poniachik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1809" value="Daniel Samoilovich" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114769" value="Pablo Bernasconi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="154593" value="Pablo Gamba" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="148787" value="Lisandro Poncielli" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1060" value="Ediciones de Mente" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1061" value="Ruibal Hermanos S.A." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="116" />
+			<average value="5.44052" />
+			<bayesaverage value="5.48946" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28573" bayesaverage="5.48946" />
+												</ranks>
+
+			<stddev value="1.65097" />
+			<median value="0" />
+			<owned value="233" />
+			<trading value="3" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="18" />
+			<numweights value="6" />
+			<averageweight value="1.1667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="108877">
+         <thumbnail>https://cf.geekdo-images.com/Tqlweereh9UxSrD4w4n16A__small/img/dGMtnajO53wc23QI4jB8TBimALk=/fit-in/200x150/filters:strip_icc()/pic650570.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Tqlweereh9UxSrD4w4n16A__original/img/4TX-zypRtuigXe6_K_8qyH6hNE8=/0x0/filters:format(jpeg)/pic650570.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Detetive Júnior Turma da Mônica" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Detetive Jr: Detetives Do Prédio Azul" />
+			    				
+				<name type="alternate" sortindex="1" value="Detetive Júnior D.P.A." />
+			
+						               													<description>Based on the Detetive (Cluedo) I.P. but with very different mechanics. Players have to discover who is the secret character, based on four characteristics: male/female, child/adult, dark hair/light hair, with hat/without hat. Simple rules, aimed at children.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71" value="Game: Cluedo / Clue (Parker Brothers, et al)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4183" value="Mauricio Vismona Gibrin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4185" value="Fabiano Onça" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="169781" value="Mauricio de Souza" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1731" value="Estrela" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="6.6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.35647" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="3" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="457285">
+         <thumbnail>https://cf.geekdo-images.com/yTehQ8LryU9rHyp3i3O2vw__small/img/Sgtj1zDmc58fTp-1ws6WroZ1KiE=/fit-in/200x150/filters:strip_icc()/pic9200963.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yTehQ8LryU9rHyp3i3O2vw__original/img/_r4xGIgxc-cRqw1n0EhLm-pOU1Y=/0x0/filters:format(jpeg)/pic9200963.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Forest Shuffle: Arara-Azul / Guaraná Promo Card" />
+			
+						                           
+						               													<description>Promotional card distributed at Gal&amp;aacute;pagos Spoiler Fest during the game's launch in Brazil.
+
+It is the Promo #P020
+
+The tesxt of the card says the following:
+Arara-Azul (upper part):
+costs 2 cards
+red (maple)
+bird
+7 points
+Bonus: draw 3 cards from your cave
+
+Guaran&amp;aacute; (lower part):
+costs 1 card
+yellow
+plant
+draw 1 card
+2 points
+Bonus: draw 2 cards
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="106865" value="Game: Forest Shuffle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="391163" value="Forest Shuffle" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.83333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.85287" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="25" />
+			<wishing value="36" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

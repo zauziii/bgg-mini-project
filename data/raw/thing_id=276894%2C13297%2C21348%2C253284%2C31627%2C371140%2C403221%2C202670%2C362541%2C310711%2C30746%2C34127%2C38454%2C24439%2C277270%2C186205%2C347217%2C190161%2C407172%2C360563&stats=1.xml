@@ -1,0 +1,7055 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="276894">
+         <thumbnail>https://cf.geekdo-images.com/gJq8JOmOmmZSFpbrWGQMDQ__small/img/kjppa8fi_pMWlWpMVfC6xAMgec8=/fit-in/200x150/filters:strip_icc()/pic4666620.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gJq8JOmOmmZSFpbrWGQMDQ__original/img/nrik6K05TtQl7RSfCD-syaOnBoU=/0x0/filters:format(png)/pic4666620.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: London" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Londres" />
+			    				
+				<name type="alternate" sortindex="1" value="Jízdenky, prosím!: Londýn" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Londra" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Londres" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Londyn" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: London" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド: ロンドン" />
+			
+						               													<description>Ticket to Ride: London features the familiar gameplay from the Ticket to Ride game series &amp;mdash; collect cards, claim routes, draw tickets &amp;mdash; but on a scaled-down map of 1970s London that allows you to complete a game in no more than 15 minutes.
+
+Each player starts with a supply of 17 double-decker buses, two transportation cards in hand, and one or two destination tickets that show locations in London. On a turn, you either draw two transportation cards from the deck or the display of five face-up cards (or you take one face-up bus, which counts as all six colors in the game); or you claim a route on the board by discarding cards that match the color of the route being claimed (with any set of cards allowing you to claim a gray route); or you draw two destination tickets and keep at least one of them.
+
+Players take turns until someone has no more than two buses in their supply, then each player takes one final turn, including the player who triggered the end of the game. Players then sum their points, scoring points for (1) the routes that they've claimed during the game, (2) the destination tickets that they've completed (by connecting the two locations on a ticket by a continuous line of their buses), and (3) the districts that they've connected. (A district consists of 2-4 locations, and you score 1-5 points for a district if you link all of its locations to one another with your buses.) You lose points for any uncompleted destination tickets, then whoever has the high score wins!
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="77">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="48" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="27">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="12" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17446" value="Cities: London (England, UK)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17056" value="Country: United Kingdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109858" value="Series: Ticket to Ride Cities (Days of Wonder)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407172" value="Tåg till Rydberg (fan expedition for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5901" />
+			<average value="7.04135" />
+			<bayesaverage value="6.56787" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1178" bayesaverage="6.56787" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="329" bayesaverage="6.67105" />
+												</ranks>
+
+			<stddev value="1.13303" />
+			<median value="0" />
+			<owned value="16079" />
+			<trading value="223" />
+			<wanting value="69" />
+			<wishing value="628" />
+			<numcomments value="1058" />
+			<numweights value="118" />
+			<averageweight value="1.3475" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="13297">
+         <thumbnail>https://cf.geekdo-images.com/TcG0cIg0myecxfq3Fi3RwA__small/img/2cJ_RLT52A7VCypnPbX6sd7T9rY=/fit-in/200x150/filters:strip_icc()/pic56050.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TcG0cIg0myecxfq3Fi3RwA__original/img/c0eCiDpoWpzF5SEfMc0IDfdCI4w=/0x0/filters:format(jpeg)/pic56050.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Mystery Train Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Mystery Train" />
+			
+						               													<description>Mystery Train - A Ticket to Ride Expansion adds some cards to the Ticket deck. Four of these are routes the other  additions aren't actual tickets, though. Instead, they are special cards that allow you to get bonus points at the end of the game, with the exception of one card that allows you to, in lieu of a turn, look through the entire deck of tickets and take any card you want.
+
+One card lets you double the value of any ticket that you make (only for cards worth 10 or less), one gives you bonus points for making a cross-country route, one gives you bonus points for a west coast route and one gives you bonus points for connecting to the most cities.
+
+This expansion is available as a free giveaway at Essen in October '04, and in the December '04 Game Trade Magazine. It should also be available to distributors, retailers, and through the daysofwonder web site when it's in print.
+
+8 to 10 cards.
+
+Part of Ticket to Ride series.
+
+</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="24439" value="Ticket to Ride: USA 1910" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3001" value="W. Nostheide Verlag GmbH" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="950" />
+			<average value="6.64213" />
+			<bayesaverage value="5.8188" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.8188" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="5.90252" />
+												</ranks>
+
+			<stddev value="1.53014" />
+			<median value="0" />
+			<owned value="2276" />
+			<trading value="72" />
+			<wanting value="176" />
+			<wishing value="533" />
+			<numcomments value="465" />
+			<numweights value="106" />
+			<averageweight value="1.8113" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="21348">
+         <thumbnail>https://cf.geekdo-images.com/hmjtcaumdyjW_Ncj1duAdw__small/img/94pMbGixwPxQamFIUyhhSydS9RY=/fit-in/200x150/filters:strip_icc()/pic162026.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/hmjtcaumdyjW_Ncj1duAdw__original/img/xC_2Mn2Q9qVh4WPTcRT9MRTfSts=/0x0/filters:format(jpeg)/pic162026.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Märklin" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Édition Märklin" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Maerklin Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Märklin" />
+			
+						               													<description>Ticket to Ride: M&amp;auml;rklin is the third installment in Days of Wonder's best-selling Ticket to Ride series.  The board for M&amp;auml;rklin is based on a map of Germany and each individual card in the deck depicts a different M&amp;auml;rklin Trains model.  A DVD introducing players to the M&amp;auml;rklin line of model trains is included [Edit: DVD no longer included in recent runs.]
+
+M&amp;auml;rklin is a heavier version in the TTR series, allowing players to not only travel from city to city but also from cities to countries. A new mechanic is also introduced in the form of passengers and merchandise tokens. When the game is set-up a series of merchandise values worth victory points are placed on nominated cities. The values of these tokens diminish when multiple tokens are present within a single city, requiring players to move quickly to capture the higher valued tokens.
+
+These tokens can be collected by the players by placing their Passengers (3 per player), which can be achieved at the end of a turn in which a player lays trains to enter the city in question. Once a passenger is in play a player can forfeit their regular turn to move a passenger. Moving along a player's own train network comes at no cost and allows a player to take the top merchandise token from each city that is passed through. A passenger can also move along sections of track featuring other players trains but a passenger card must be paid each time this occurs to do so.
+
+The player who completes the most destination tickets receives a 10 point bonus (instead of the base game's longest route bonus).
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="110">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="64" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="75" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="51" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="31" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120037" value="Alsace (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130397" value="Austria (fan expansion of Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="108422" value="Les Aventuriers du Rail: à Lyon (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120034" value="Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130427" value="Bretagne (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="114528" value="Britain &amp; Ireland (fan expansion for Ticket to Ride: Europe)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="70712" value="Castilla y León (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123217" value="Extension France (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289599" value="Göteborg (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130183" value="Holland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130483" value="Holland Express (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130484" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130399" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130485" value="Italy (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127364" value="Komorów (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134118" value="Lietuva (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="140727" value="London Underground (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339602" value="Norrköping/Linköping (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130421" value="North-Africa (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406558" value="Øresund Runt (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130423" value="Portugal (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153997" value="Russian Empire 1912 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130422" value="Scandinavia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360563" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130398" value="Ticket to Finland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106645" value="Ticket to Ride Map Collection 2: India &amp; Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147938" value="Ticket to Ride Map Collection 4: Nederland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182078" value="Ticket to Ride Map Collection 5: United Kingdom &amp; Pennsylvania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="414268" value="Ticket to Ride Map Collection 8: Iberia &amp; South Korea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89848" value="Ticket to Ride: Alvin &amp; Dexter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="53383" value="Ticket to Ride: Europa 1912" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38454" value="Ticket to Ride: The Dice Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119897" value="UK (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130481" value="UK (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130482" value="UK Cynical Edition (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137427" value="UK version 2.0 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142110" value="Ukraine (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="115070" value="USSR (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139598" value="Miscellaneous: Premium Wooden Train Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139656" value="Miscellaneous: Wooden Train Token Set (50 Pack)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="238031" value="Ticket to Ride: Deluxe Train Set – Milk Tanker Cars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138370" value="Ticket to Ride: Halloween Freighter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="119637" value="Zug um Zug: Deutschland" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9393" />
+			<average value="7.40903" />
+			<bayesaverage value="6.98944" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="520" bayesaverage="6.98944" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="360" bayesaverage="7.0593" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="109" bayesaverage="7.08267" />
+												</ranks>
+
+			<stddev value="1.24841" />
+			<median value="0" />
+			<owned value="12262" />
+			<trading value="180" />
+			<wanting value="463" />
+			<wishing value="1766" />
+			<numcomments value="2261" />
+			<numweights value="864" />
+			<averageweight value="2.2431" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="253284">
+         <thumbnail>https://cf.geekdo-images.com/v0YHI6x4g8dJdtSqaxMdiA__small/img/wqM16CzK9QcarS8s6X6iAxvFe3Q=/fit-in/200x150/filters:strip_icc()/pic4132194.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/v0YHI6x4g8dJdtSqaxMdiA__original/img/U0g-dhZFasfDloAJDxP1NT5ruDI=/0x0/filters:format(jpeg)/pic4132194.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: New York" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren!: New York" />
+			    				
+				<name type="alternate" sortindex="5" value="Les aventuriers du Rail: New York" />
+			    				
+				<name type="alternate" sortindex="1" value="Jízdenky, prosím!: New York" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Nowy Jork" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: New York" />
+			    				
+				<name type="alternate" sortindex="1" value="เกมต่อรถตะลุยนิวยอร์ก" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 뉴욕" />
+			
+						               													<description>Ticket to Ride: New York features the familiar gameplay from the Ticket to Ride game series &amp;mdash; collect cards, claim routes, draw tickets &amp;mdash; but on a scaled-down map of Manhattan that allows you to complete a game in no more than 15 minutes.
+
+Each player starts with a supply of 15 taxis, two transportation cards in hand, and one or two destination tickets that show locations in Manhattan (and Brooklyn). On a turn, you either draw two transportation cards from the deck or the display of five face-up cards (or you take one face-up taxi, which counts as all six colors in the game); or you claim a route on the board by discarding cards that match the color of the route being claimed (with any set of cards allowing you to claim a gray route); or you draw two destination tickets and keep at least one of them.
+
+Players take turns until someone has no more than two taxis in their supply, then each player takes one final turn, including the player who triggered the end of the game. Players then sum their points, scoring points for the routes that they've claimed during the game, the destination tickets that they've completed (by connecting the two locations on a ticket by a continuous line of their taxis), and the tourist attractions that they've reached with their taxis. You lose points for any uncompleted destination tickets, then whoever has the high score wins!
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="88">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="33">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="14" />
+					<result value="8" numvotes="16" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="11" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13111" value="Cities: New York (New York, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109858" value="Series: Ticket to Ride Cities (Days of Wonder)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407172" value="Tåg till Rydberg (fan expedition for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437529" value="Ticket to Ride: New York – Braille Accessibility Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48895" value="Games Unplugged LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7818" />
+			<average value="6.87882" />
+			<bayesaverage value="6.52288" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1286" bayesaverage="6.52288" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="392" bayesaverage="6.60164" />
+												</ranks>
+
+			<stddev value="1.18198" />
+			<median value="0" />
+			<owned value="18330" />
+			<trading value="285" />
+			<wanting value="79" />
+			<wishing value="606" />
+			<numcomments value="1369" />
+			<numweights value="137" />
+			<averageweight value="1.2701" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="31627">
+         <thumbnail>https://cf.geekdo-images.com/bCdjNIu-O_SzVCfMLZY_KQ__small/img/YYhnkc5JxY3qmg-_2w_Tb2rMeXE=/fit-in/200x150/filters:strip_icc()/pic7634498.png</thumbnail>
+      <image>https://cf.geekdo-images.com/bCdjNIu-O_SzVCfMLZY_KQ__original/img/GhYRV-yJmYEiTaZsZcnEA04YucA=/0x0/filters:format(png)/pic7634498.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Nordic Countries" />
+			
+						                               				
+				<name type="alternate" sortindex="2" value="¡Aventureros al Tren! Paises Nórdicos" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Scandinavie" />
+			    				
+				<name type="alternate" sortindex="1" value="Menolippu Pohjoismaat" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride Norðurlönd" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Paesi Nordici" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Países Nórdicos" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket To Ride: Северные страны" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Kraje Północy" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Skandynawia" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Skandinavien" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド：北欧の国々" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 노르딕" />
+			
+						               													<description>Ticket to Ride: Nordic Countries takes you on a Nordic adventure through Denmark, Finland, Norway, and Sweden as you travel to the great northern cities of Copenhagen, Oslo, Helsinki, and Stockholm. This version was initially available only in the Nordic Countries of Denmark, Norway, Sweden, and Finland; a worldwide limited-edition release occurred in August 2008 and it has since been kept in print again by Days of Wonder.
+
+The goal in "Nordic" remains the same as base Ticket to Ride: collect and play cards to place your trains on the board, attempting to connect the different cities on your ticket cards. The map incorporates tunnels from Europe and also has routes containing ferries. Ferries will require a certain number of Locomotives to be played, as well as other cards, in order to be claimed. Locomotives are handled a bit differently as well. On your turn you may take 2 Locomotives if you want, but you can only use them on ferries, tunnels, or the special 9 length route.
+
+Unlike the USA or Europe maps, Nordic is designed for 2-3 players only and has a heavier focus on blocking your opponent and more aggressive play.
+
+Although not an official expansion for this set, Ticket to Ride Map Collection 5: United Kingdom &amp; Pennsylvania can be used as an expansion for Nordic Countries, although limited to the three players included in this set.  Nordic Countries includes three sets of 40 trains, with 5 spare for each colour; the UK map in Ticket to Ride Map Collection 5: United Kingdom &amp; Pennsylvania requires 35 trains and the Pennsylvania map requires 45 trains.
+
+Part of the Ticket to Ride series.
+
+</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="249">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="153" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="92" />
+					<result value="Recommended" numvotes="136" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="178" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="125" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–3 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="52">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="32" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="47">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="46" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19551" value="Cities: Copenhagen (Denmark)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18620" value="Cities: Stockholm (Sweden)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10315" value="Country: Denmark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16882" value="Country: Estonia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10316" value="Country: Finland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10312" value="Country: Norway" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10313" value="Country: Sweden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402987" value="Baltic Sea (Östersjön) (fan expansion for Ticket to Ride: Rails &amp; Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="185208" value="Greenland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="185210" value="Iceland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339602" value="Norrköping/Linköping (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402985" value="Östergötland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="134079" value="Östergötland in the 1930&#039;s (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153997" value="Russian Empire 1912 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130422" value="Scandinavia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215212" value="Scandinavia (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="345789" value="Skåne (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159347" value="South-East Sweden 1925 (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130182" value="Sweden (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360563" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130398" value="Ticket to Finland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106645" value="Ticket to Ride Map Collection 2: India &amp; Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89848" value="Ticket to Ride: Alvin &amp; Dexter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="53383" value="Ticket to Ride: Europa 1912" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310711" value="Ticket to Ride: Stay at Home" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38454" value="Ticket to Ride: The Dice Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="115070" value="USSR (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139598" value="Miscellaneous: Premium Wooden Train Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139656" value="Miscellaneous: Wooden Train Token Set (50 Pack)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="238031" value="Ticket to Ride: Deluxe Train Set – Milk Tanker Cars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138370" value="Ticket to Ride: Halloween Freighter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="371140" value="Ticket to Ride: Northern Lights" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15270" />
+			<average value="7.61954" />
+			<bayesaverage value="7.29576" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="242" bayesaverage="7.29576" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="35" bayesaverage="7.374" />
+												</ranks>
+
+			<stddev value="1.22235" />
+			<median value="0" />
+			<owned value="24885" />
+			<trading value="192" />
+			<wanting value="664" />
+			<wishing value="3377" />
+			<numcomments value="2781" />
+			<numweights value="634" />
+			<averageweight value="1.9669" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="371140">
+         <thumbnail>https://cf.geekdo-images.com/orv7QCi6tv8mXo40pDmypg__small/img/p0vvYFPRrQ5O_UbQ18Z3jfsK7eo=/fit-in/200x150/filters:strip_icc()/pic7084455.png</thumbnail>
+      <image>https://cf.geekdo-images.com/orv7QCi6tv8mXo40pDmypg__original/img/0AAFjQP6DfZEuHAVosesj7cnNmY=/0x0/filters:format(png)/pic7084455.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Northern Lights" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren! Aurora Boreal" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Aurores Boréales" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Zorza polarna" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Polarlichter" />
+			
+						               													<description>Welcome to the North! While traveling through Finland, Sweden, Norway and Denmark, you will get to know the most beautiful places in the Nordic countries.  Relax in the bustle of the countries' port cities or be charmed by the wonderful fjords on the north side of the Arctic Circle.  Build railways through the forests, countryside and fells that mark the region.  Establish ferry lines between the picturesque Turku archipelago and the colorful city of Bergen. Create the greatest transport network in Pohjola!
+
+Ticket to Ride: Northern Lights is standalone game in Ticket to Ride series. It's designed for 2&amp;ndash;5 players and introduces various end game bonus cards &amp;ndash; 4 of 11 are selected every game, so now there are games where, for example, longest route gives extra points, but in other games you will score some extra, if most unused trains are in your supply.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19551" value="Cities: Copenhagen (Denmark)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27515" value="Cities: Gdańsk (Poland)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27530" value="Cities: Göteborg (Sweden)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63347" value="Cities: Helsinki (Finland)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68436" value="Cities: Murmansk (Russia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67908" value="Cities: Narvik (Norway)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73733" value="Cities: Norrköping (Sweden)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56514" value="Cities: Riga (Latvia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18620" value="Cities: Stockholm (Sweden)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="38692" value="Cities: Tallinn (Estonia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10315" value="Country: Denmark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16882" value="Country: Estonia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10316" value="Country: Finland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17052" value="Country: Latvia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17053" value="Country: Lithuania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10312" value="Country: Norway" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10313" value="Country: Sweden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402987" value="Baltic Sea (Östersjön) (fan expansion for Ticket to Ride: Rails &amp; Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289599" value="Göteborg (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339602" value="Norrköping/Linköping (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406558" value="Øresund Runt (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402985" value="Östergötland (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360563" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="238031" value="Ticket to Ride: Deluxe Train Set – Milk Tanker Cars" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31627" value="Ticket to Ride: Nordic Countries" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="611" />
+			<average value="7.80666" />
+			<bayesaverage value="5.94409" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3572" bayesaverage="5.94409" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1058" bayesaverage="6.08946" />
+												</ranks>
+
+			<stddev value="1.24975" />
+			<median value="0" />
+			<owned value="1897" />
+			<trading value="4" />
+			<wanting value="103" />
+			<wishing value="507" />
+			<numcomments value="137" />
+			<numweights value="14" />
+			<averageweight value="1.6429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="403221">
+         <thumbnail>https://cf.geekdo-images.com/6hLMSDvAPpt4rdNqBnJ1yw__small/img/7VhY-zR2yoWvzdW6HnOdzjAdQDE=/fit-in/200x150/filters:strip_icc()/pic8006476.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6hLMSDvAPpt4rdNqBnJ1yw__original/img/ydnjWsMWv0zCR1FObWp6VTELDfw=/0x0/filters:format(jpeg)/pic8006476.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Paris" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren! París" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Paris" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket To Ride: Parijs" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Párizs" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket To Ride: Париж" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Paryż" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Paris" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 파리" />
+			
+						               													<description>Welcome to the city of light! Find yourself transported to the glamorous Paris of the roaring twenties. Jump aboard an open platform bus, cruise down Champs-Elys&amp;eacute;es Avenue, admire the Eiffel Tower, and conclude your day by enjoying a picturesque sunset from a charming terrace in Montmartre &amp;mdash; all without leaving your table.
+
+Ticket To Ride: Paris, part of the "Cities" line of Ticket to Ride games, has gameplay similar to the original game, but with a playing time of only fifteen minutes. On a turn, you either collect transportation cards, spend these cards to claim a route on the game board, or draw tickets that show two locations you need to connect with routes.
+
+In Paris, when you claim a blue, white, or red route, you keep a transportation card of this color in front of you instead of discarding all of the cards. When you collect a card of each color, you've made a French flag, then you discard these cards and score bonus points. Vive la France!
+
+When a player has two or fewer buses left to place on routes, each player takes one final turn, then they score points for the tickets they've completed and lose points for those unfulfilled.
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17520" value="Cities: Paris (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="112709" value="History: Roaring Twenties (1920-1929)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109858" value="Series: Ticket to Ride Cities (Days of Wonder)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="480" />
+			<average value="6.97964" />
+			<bayesaverage value="5.73575" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5738" bayesaverage="5.73575" />
+												</ranks>
+
+			<stddev value="1.15666" />
+			<median value="0" />
+			<owned value="1837" />
+			<trading value="9" />
+			<wanting value="38" />
+			<wishing value="194" />
+			<numcomments value="99" />
+			<numweights value="14" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="202670">
+         <thumbnail>https://cf.geekdo-images.com/KaTRZHY0XpW-ZSgjaRNzmg__small/img/gGMP1QhYWoI6w3Y1p3BarUNuwRg=/fit-in/200x150/filters:strip_icc()/pic3066862.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KaTRZHY0XpW-ZSgjaRNzmg__original/img/3XLzbo_56PB-0PVjHlCn4YLq1d8=/0x0/filters:format(jpeg)/pic3066862.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Rails &amp; Sails" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren! La Vuelta al Mundo" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Autour du Monde" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Trilhos e Velas" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Vagoni &amp; Velieri" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: Dookoła Świata" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Weltreise" />
+			    				
+				<name type="alternate" sortindex="1" value="Квиток на потяг: Рейки та вітрила" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド：レイル＆セイル" />
+			
+						               													<description>Ticket to Ride: Rails &amp; Sails takes the familiar gameplay of Ticket to Ride and expands it across the globe &amp;mdash; which means that you'll be moving across water, of course, and that's where the sails come in.
+
+As in other Ticket to Ride games, in Ticket to Ride: Rails &amp; Sails players start with tickets in hand that show two cities, and over the course of the game they try to collect colored cards, then claim routes on the game board with their colored train and ship tokens, scoring points while doing so. When any player has six or fewer tokens in their supply, each player takes two more turns, then the game ends. At that point, if they've created a continuous path between the two cities on a ticket, then they score the points on that ticket; if not, then they lose points instead.
+
+Ticket to Ride: Rails &amp; Sails puts a few twists on the TtR formula, starting with split card decks of trains and ships (with all of the wild cards going in the train deck). Three cards of each type are revealed at the start of the game, and when you draw cards, you replace them with a card from whichever deck you like. (Shuffle the card types separately to form new decks when needed.)
+
+Similarly, players choose their own mix of train and ship tokens at the start of the game. To claim a train route (rectangular spaces), you must play train cards (or wilds) and cover those spaces with train tokens, and to claim a ship route (oval spaces), you must play ship cards (or wilds) and cover those spaces with ship tokens. Ship cards depict one or two ships on them, and when you play a double-ship card, you can cover one or two ship spaces. You can take an action during play to swap train tokens for ships (or vice versa), and you lose one point for each token you swap.
+
+Some tickets show tour routes with multiple cities instead of simply two cities. If you build a network that matches the tour exactly, you score more points than if you simply include all of those cities in your network.
+
+Each player also starts the game with three harbors. If you have built a route to a port city, you can take an action during the game to place a harbor in that city (with a limit of one harbor per port). To place the harbor, you must discard two train cards and two ship cards of the same color, all of which must bear the harbor symbol (an anchor). At the end of the game, you lose four points for each harbor not placed, and you gain 10-40 points for each placed harbor depending on how many of your completed tickets show that port city.
+
+Ticket to Ride: Rails &amp; Sails includes a double-sided game board, with one side showing the world and the other side showing the Great Lakes of North America. Players start with a differing number of cards and tokens depending on which side they play, and each side has a few differences in gameplay.
+
+Part of Ticket to Ride series.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="55">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64952" value="Components: Map (Global Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64973" value="Region: Great Lakes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402987" value="Baltic Sea (Östersjön) (fan expansion for Ticket to Ride: Rails &amp; Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224473" value="Bay of Bengal (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="220770" value="Black Sea (fan expansion for Ticket to Ride: Rails &amp; Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="427552" value="Caribbean (fan expansion for Ticket to Ride: Rails and Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219506" value="Mediterranean (fan expansion for Ticket to Ride: Rails and Sails)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360563" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89848" value="Ticket to Ride: Alvin &amp; Dexter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="53383" value="Ticket to Ride: Europa 1912" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225114" value="Yellow Sea (fan expansion for Ticket to Ride: Rails and Sails)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5496" />
+			<average value="7.42942" />
+			<bayesaverage value="6.76133" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="825" bayesaverage="6.76133" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="190" bayesaverage="6.88657" />
+												</ranks>
+
+			<stddev value="1.41698" />
+			<median value="0" />
+			<owned value="13773" />
+			<trading value="112" />
+			<wanting value="225" />
+			<wishing value="1640" />
+			<numcomments value="937" />
+			<numweights value="112" />
+			<averageweight value="2.4821" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="362541">
+         <thumbnail>https://cf.geekdo-images.com/pIwUHxze-vcbThTE9JrRgg__small/img/gs6tv4k2kkOAQvwKWxwi0nJOWMQ=/fit-in/200x150/filters:strip_icc()/pic6850090.png</thumbnail>
+      <image>https://cf.geekdo-images.com/pIwUHxze-vcbThTE9JrRgg__original/img/_mmaFQnlTqZ6bdmFsAQwMyHXomo=/0x0/filters:format(png)/pic6850090.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: San Francisco" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren!: San Francisco" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Jízdenky, prosím! San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド：サンフランシスコ" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 샌프란시스코" />
+			
+						               													<description>Ticket to Ride: San Francisco features the familiar gameplay from the Ticket to Ride game series &amp;mdash; collect cards, claim routes, draw tickets &amp;mdash; but on a map of 1960s San Francisco that allows you to complete a game in no more than 15 minutes.
+
+Each player starts with a supply of 20 cable cars, two transportation cards in hand, and one or two destination tickets that show locations in San Francisco. On a turn, you either draw two transportation cards from the deck or the display of five face-up cards (or you take one face-up ferry, which counts as all six colors in the game); or you claim a route on the board by discarding cards that match the color of the route being claimed (with any set of cards allowing you to claim a gray route, although some require ferries); or you draw two destination tickets and keep at least one of them.
+
+When you build a line that connects to a souvenir location, such as Lombard Street, the Embarcadero, or the Golden Gate Bridge, you take a souvenir token from that location.
+
+Players take turns until someone has no more than two cable cars in their supply, then each player takes one final turn, including the player who triggered the end of the game. Players then sum their points, scoring points for (1) the routes that they've claimed during the game, (2) the destination tickets that they've completed (by connecting the two locations on a ticket by a continuous line of their cable cars), and (3) the souvenirs that they've collected, with a full set of seven souvenirs being worth 12 points. You lose points for any uncompleted destination tickets, then whoever has the high score wins!
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18233" value="Cities: San Francisco (California, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109858" value="Series: Ticket to Ride Cities (Days of Wonder)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407172" value="Tåg till Rydberg (fan expedition for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369877" value="Ticket To Ride: San Francisco – Custom Cable Cars Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1555" />
+			<average value="7.12381" />
+			<bayesaverage value="6.11935" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2595" bayesaverage="6.11935" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="768" bayesaverage="6.26423" />
+												</ranks>
+
+			<stddev value="1.14271" />
+			<median value="0" />
+			<owned value="6010" />
+			<trading value="77" />
+			<wanting value="43" />
+			<wishing value="277" />
+			<numcomments value="312" />
+			<numweights value="27" />
+			<averageweight value="1.6296" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="310711">
+         <thumbnail>https://cf.geekdo-images.com/CRRXOsYZ_GPbXuBX0vrDgA__small/img/jJTkroZRIDfa81g_EBuqvh1erS4=/fit-in/200x150/filters:strip_icc()/pic5443700.png</thumbnail>
+      <image>https://cf.geekdo-images.com/CRRXOsYZ_GPbXuBX0vrDgA__original/img/TMYg4VuwOyjln-MKnTMo6qI8gsU=/0x0/filters:format(png)/pic5443700.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Stay at Home" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren!: Quédate en Casa" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Coincés à la maison" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Blijf Thuis" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Bleibt zu Hause" />
+			
+						               													<description>Designed during the great lockdown of 2020, Ticket to Ride: Stay at Home is a new version of the classic Ticket to Ride game that will have you scoring points by connecting routes between different parts of the house.
+
+This game is an expansion and requires you to use game parts from Ticket to Ride, Ticket to Ride: Europe, Ticket to Ride: Germany or Ticket to Ride: Nordic Countries.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2960" value="Map Reduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61252" value="Series: Free PnP during 2019-2020 COVID-19 Pandemic (Asmodee)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225244" value="Ticket to Ride: Germany" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31627" value="Ticket to Ride: Nordic Countries" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="200" />
+			<average value="7.12171" />
+			<bayesaverage value="5.6193" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.6193" />
+												</ranks>
+
+			<stddev value="1.4489" />
+			<median value="0" />
+			<owned value="658" />
+			<trading value="2" />
+			<wanting value="8" />
+			<wishing value="98" />
+			<numcomments value="102" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="30746">
+         <thumbnail>https://cf.geekdo-images.com/NGuzKhH_fRZkUlT11Sef7Q__small/img/oUHv4vSWjSJYgb9vCh7-kEId1v0=/fit-in/200x150/filters:strip_icc()/pic620078.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/NGuzKhH_fRZkUlT11Sef7Q__original/img/xcJxl3clJmjVDKhXy1qZNT-OpQs=/0x0/filters:format(jpeg)/pic620078.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: Switzerland" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Aventureros al Tren: Suiza" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Suisse" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug Schweiz" />
+			
+						               													<description>Officially an expansion that works with either Ticket to Ride or Ticket to Ride: Europe, Ticket to Ride: Switzerland requires the train pieces and train cards from the above mentioned original games to work. It comes with a new board, 46 new destination cards and a set of rules (in several languages) to create a new game. The Ticket to Ride: Switzerland map and rules first appeared as an exclusive map for the Ticket to Ride computer game. In addition to being specifically designed for a smaller numbers of players the map has several new features. Locomotive cards are used exclusively for tunnels (which work as they do in Ticket to Ride: Europe). Some destination cards have an end point inside Switzerland and other possible ends in adjacent countries (the value of the completed card is based on the farthest possible connection completed). There are also destination cards for connections between adjacent countries.
+
+Although not officially sanctioned, it works fine with Ticket to Ride: Nordic Countries also. Due to Ticket to Ride: Märklin's different distribution of train cards, Ticket to Ride: Switzerland is not considered to be compatible.
+
+Part of Ticket to Ride series.
+
+Re-implemented / Re-printed in:
+
+    Ticket to Ride Map Collection 2: India &amp; Switzerland
+
+
+</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="95">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–3 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="19" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="32">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="30" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12981" value="Country: Austria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11515" value="Country: Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66182" value="Country: Liechtenstein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10311" value="Country: Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61990" value="Players: Expansions Changing Player Count" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="89848" value="Ticket to Ride: Alvin &amp; Dexter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="53383" value="Ticket to Ride: Europa 1912" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38454" value="Ticket to Ride: The Dice Expansion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225244" value="Ticket to Ride: Germany" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119637" value="Zug um Zug: Deutschland" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139598" value="Miscellaneous: Premium Wooden Train Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139656" value="Miscellaneous: Wooden Train Token Set (50 Pack)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138370" value="Ticket to Ride: Halloween Freighter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="445016" value="Ticket to Ride: Switzerland – Replacement Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="106645" value="Ticket to Ride Map Collection 2: India &amp; Switzerland" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5097" />
+			<average value="7.47853" />
+			<bayesaverage value="6.81032" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.81032" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="6.95363" />
+												</ranks>
+
+			<stddev value="1.16581" />
+			<median value="0" />
+			<owned value="7471" />
+			<trading value="104" />
+			<wanting value="159" />
+			<wishing value="745" />
+			<numcomments value="1405" />
+			<numweights value="422" />
+			<averageweight value="1.9479" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="34127">
+         <thumbnail>https://cf.geekdo-images.com/bKFVRwLthb0DspBw3dYgwg__small/img/axILAqNSfZ06eQ-2rca68_18JCU=/fit-in/200x150/filters:strip_icc()/pic306342.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bKFVRwLthb0DspBw3dYgwg__original/img/DiG3hn5yvi5Pk90eMjNd0IZ8uoQ=/0x0/filters:format(jpeg)/pic306342.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: The Card Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren! El Juego de Cartas" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Le Jeu de Cartes" />
+			    				
+				<name type="alternate" sortindex="1" value="Menolippu Korttipeli" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to Ride: Het kaartspel" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Das Kartenspiel" />
+			
+						               													<description>A New Train Adventure Begins!
+
+The Ticket to Ride Card Game delivers all of the excitement, fun, and nail-biting tension of the original Ticket to Ride board game, but with several unique game-play twists in a new stand-alone, card game format.
+
+Players collect sets of illustrated Train cards, which are then used to complete Destination Tickets - routes between two cities depicted on each ticket. But before their Train cards can be used, players must face the risk of "train robbing," where another player may force them to lose their hard-earned cards.
+
+Contains 96 illustrated train car cards, 46 destination tickets, 6 big city prize cards, and a rulebook.
+
+Part of the Ticket to Ride series.
+
+To begin the game, each player is dealt train car cards and destination ticket cards.  All these cards are kept secret from the other players until played or scored.  Each player may keep all his ticket cards, just one or any number in between.  A player's turn has two parts: first the player moves face up train car cards from his Railyard to his face down, On-the-Track stack; second the player may perform one of the following actions: 1) draw more train car cards, 2) place train car cards in his Railyard, or 3) draw destination tickets.  Like the original Ticket to Ride board game, when a player chooses to draw train car cards, he may choose from the five face up cards or draw from the top of the face down deck.  When placing cards in the Railyard, a player may place two or more cards of the same color including locomotives which are wild, or three cards, each of a different color.  Also when placing cards in the Railyard, a player may not play cards of the same color as those currently present in his Railyard nor of the same color as those present in any opponent's Railyard unless he plays more of that color than are present in the opponent's Railyard.  If the player plays more, then the opponent must discard his cards of that color.  This is called "Train robbing."  When drawing destination tickets, a player draws four and may keep any number of them including none.
+
+When the train car card deck is exhausted in a two or three player game, each player gets one more turn and the game ends.  In a four player game, completed tickets are scored and discarded train car cards are reshuffled into a new draw deck.  When that deck is exhausted, each player gets one more turn and the game ends.  At the end of the game all tickets not previously scored are scored.  The point values of completed tickets are added to a players score while those of tickets not completed are subtracted.  To complete tickets, players match train car cards in their On-the-Track stack by color and quantity with their tickets.  Each big city bonus is awarded to the player with the most completed tickets having that city.  These bonus points are added to the player's score.  The player scoring the most total points wins.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="93">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="28">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="25" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4141" />
+			<average value="6.12212" />
+			<bayesaverage value="5.87496" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4130" bayesaverage="5.87496" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1432" bayesaverage="5.91812" />
+												</ranks>
+
+			<stddev value="1.44588" />
+			<median value="0" />
+			<owned value="6911" />
+			<trading value="243" />
+			<wanting value="72" />
+			<wishing value="390" />
+			<numcomments value="1151" />
+			<numweights value="340" />
+			<averageweight value="1.8794" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="38454">
+         <thumbnail>https://cf.geekdo-images.com/SK8y0CtOXpsTrE9rajpjvQ__small/img/iq_aoHX6IeOpJ1Kj4ukdy7DS4wE=/fit-in/200x150/filters:strip_icc()/pic372893.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/SK8y0CtOXpsTrE9rajpjvQ__original/img/Q9DHcPp67ven0DzYIsEhythCE3M=/0x0/filters:format(jpeg)/pic372893.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: The Dice Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: Jeu de Dés" />
+			    				
+				<name type="alternate" sortindex="1" value="Menolippu Noppalaajennus" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: Die Würfel-Erweiterung" />
+			
+						               													<description>In this expansion for the Ticket to Ride series, players still attempt to complete their Destination Tickets and claim routes and block each other on the map. But rather than draw and collect Train cards, they roll five custom Train dice each turn.
+
+Depending on the outcome they can re-roll some or all, then use the dice to claim routes on the board; grab Route Tokens for future use; or draw more Destination Tickets.
+
+For board maps that feature Tunnel routes, such as Ticket to Ride: Europe, 3 Tunnel dice are also included.
+
+This expansion requires trains, Destination Tickets and a board map from any of the Ticket to Ride series.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="50" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="50" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21348" value="Ticket to Ride: Märklin" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31627" value="Ticket to Ride: Nordic Countries" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30746" value="Ticket to Ride: Switzerland" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119637" value="Zug um Zug: Deutschland" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="869" />
+			<average value="5.69384" />
+			<bayesaverage value="5.5407" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5407" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="5.55271" />
+												</ranks>
+
+			<stddev value="1.76369" />
+			<median value="0" />
+			<owned value="2765" />
+			<trading value="67" />
+			<wanting value="112" />
+			<wishing value="445" />
+			<numcomments value="303" />
+			<numweights value="63" />
+			<averageweight value="1.5238" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="24439">
+         <thumbnail>https://cf.geekdo-images.com/JMC_eP625nO1t_uI9HoQ7g__small/img/3_K2lD007FGiRNsD7qvhOXO1roM=/fit-in/200x150/filters:strip_icc()/pic144599.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JMC_eP625nO1t_uI9HoQ7g__original/img/j7HTQ3Ijy8mr9kYsY9nZ5WLt26I=/0x0/filters:format(jpeg)/pic144599.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ride: USA 1910" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="¡Aventureros al tren! USA 1910" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: USA 1910" />
+			    				
+				<name type="alternate" sortindex="1" value="Menolippu: USA 1910" />
+			    				
+				<name type="alternate" sortindex="1" value="Ticket to ride: Америка 1910" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: USA 1910" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: USA 1910" />
+			
+						               													<description>Ticket to Ride: USA 1910 is a card expansion for the original Ticket to Ride boardgame, winner of the 2004 Spiel des Jahres. It contains 181 large format cards (the same size as Ticket to Ride: Europe and Ticket to Ride: Märklin).  This includes 35 new 1910 Destination Tickets, a GlobeTrotter Bonus card for completing the most tickets, 4 Mystery Train Destination Tickets originally provided in the Ticket to Ride: Mystery Train Expansion, and a complete replacement deck of the 141 cards from the original game deck (30 Destination Tickets (4 cards have a reduced value from Ticket to Ride), 110 Train Cards, and 1 Longest Route Bonus Card (Trans America Express)).
+
+The rulebook is from the original game designer Alan R. Moon that gives you three additional different ways to play the game:
+
+     The 1910 Rules: Played as the standard Ticket to Ride, but using only the 1910 Destination Tickets, and GlobeTrotter Bonus card.
+     The Big Cities Rules: Played with only the newly identified 35 "Big City" Destination Tickets (15 Standard Tickets, 19 1910 Tickets, and 1 Mystery Train Ticket).
+     The Mega Game: featuring all of the game's Destination Tickets and Bonus Cards (30 Standard Tickets, 35 1910 Tickets, 4 Mystery Train Tickets, and both Bonus cards).
+
+
+Part of Ticket to Ride series.
+
+</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="105">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="78" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="67" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="20" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="36">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="35" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="114241" value="Theme: Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="197697" value="Netherlands (fan expansion for Ticket to Ride)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298058" value="New York State (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="402117" value="Ticket to Ride: Trans America Express Ingot" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="160069" value="Ticket to Ride: 10th Anniversary" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13297" value="Ticket to Ride: Mystery Train Expansion" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11585" />
+			<average value="7.9926" />
+			<bayesaverage value="7.52517" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.52517" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="7.63652" />
+												</ranks>
+
+			<stddev value="1.16132" />
+			<median value="0" />
+			<owned value="28802" />
+			<trading value="170" />
+			<wanting value="224" />
+			<wishing value="1153" />
+			<numcomments value="3182" />
+			<numweights value="653" />
+			<averageweight value="1.8882" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="277270">
+         <thumbnail>https://cf.geekdo-images.com/TdASl4NShGlw-pBZk0QSYg__small/img/_-NxLSBVDVI5wYUyJnctFt3CJw4=/fit-in/200x150/filters:strip_icc()/pic4709612.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TdASl4NShGlw-pBZk0QSYg__original/img/Em_MS50Si0ZGPpJn71zziiV0eaM=/0x0/filters:format(jpeg)/pic4709612.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Ticket to Ryde: The Game (fan expansion for Ticket to Ride)" />
+			
+						                           
+						               													<description>This map is an unofficial, fan-made expansion. Produced with permission of Days of Wonder, for non-commercial use only.
+
+
+Ticket to Ryde: The Game is a fan expansion of Ticket to Ride, set in the Ryde area of Sydney, Australia.
+
+This expansion follows the principles of the Ticket to Ride games on a special board with special cards and rules.  The object of the game is to gain the most points by travelling various routes and outwitting other players.
+
+&amp;mdash;description from the designer
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="55863" value="Cities: Sydney (Australia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72046" value="Game: Ticket to Ride (fan expansions)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116899" value="birdsong703" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116898" value="JordsAU" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="116898" value="JordsAU" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="4.02768" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="186205">
+         <thumbnail>https://cf.geekdo-images.com/8rDc_9VCyVo_d5Ny3X6EdQ__small/img/Cs3V9m2z4OGbGVdIsLT9fU3L2dE=/fit-in/200x150/filters:strip_icc()/pic2716174.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8rDc_9VCyVo_d5Ny3X6EdQ__original/img/m8e-Le2xYayTGjs8nYftR8UM2gw=/0x0/filters:format(jpeg)/pic2716174.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Transylvania (fan expansion for Ticket to Ride)" />
+			
+						                           
+						               													<description>This map is an unofficial Fan made expansion. Symbols &amp; Graphics Copyright &amp;copy; 2004-2015 Days of Wonder, Inc. Produced with permission of Days of Wonder, for non-commercial use only.
+
+
+This follows the principles of the basic Ticket to Ride game with a vampire theme and the option to visit Dracula's castle. The object of the game is to gain the most points by travelling various routes (detailed in coffins instead of rail spaces)and outwitting other players. You will need the train pieces and the train cards from either the US or Europe base games (or you can buy them from the Days of Wonder shop). You can use stations if you wish.
+
+There is an extra set of cards for the cities, each with a value to be earned by visiting that city. These cards are dealt/picked up alongwith tickets in the same quantity and with the same 'keep/dispose' rules. Some of the cards give you extra facilities to complete your tickets. There are also up to 9 bonuses for the end-of-game scoring.
+
+The board does not have any grey tracks or parallel tracks, though there are limited selective options for the latter. Engines are wild cards but only for the central red and black routes.
+
+The main new rule is the option to discard 5 cards and pick up 5 new ones, as your turn. This is very useful if you are desperate for engines or a particular colour card. You can also call time when your wagon stock reaches 3, if you want, giving you the advantage of stopping other players completing tickets.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10637" value="Country: Romania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72046" value="Game: Ticket to Ride (fan expansions)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="84197" value="Jeremy Laurie" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="84197" value="Jeremy Laurie" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="347217">
+         <thumbnail>https://cf.geekdo-images.com/TLdmyzmQdUUvCFbtpB5oCA__small/img/Wrl0thzYQHfYRPutoVNC-2J4JCs=/fit-in/200x150/filters:strip_icc()/pic6397056.png</thumbnail>
+      <image>https://cf.geekdo-images.com/TLdmyzmQdUUvCFbtpB5oCA__original/img/A9LUAqy3UZw_gmUSwcI7oMDIR0w=/0x0/filters:format(png)/pic6397056.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Triveneto (fan expansion for Ticket to Ride)" />
+			
+						                           
+						               													<description>"This map is an unofficial Fan made expansion. Symbols &amp; Graphics Copyright &amp;copy; 2004-2015 Days of Wonder, Inc. Produced with permission of Days of Wonder, for non-commercial use only."
+
+Ticket to Ride Triveneto is a fan-produced map of Triveneto (the land of Venice) by Giovanni Salamon (Gh48). The map can be played with the original rules of TtR Europe or with the TtR Triveneto's custom rules.
+
+TtR Triveneto is designed by Gh48 and the digital version was made by Gh48 and Natascia Torres with the help of RDN_ROXAS
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17740" value="Cities: Venice (Veneto, Italy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72046" value="Game: Ticket to Ride (fan expansions)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="11" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="190161">
+         <thumbnail>https://cf.geekdo-images.com/2OMDmyXfrk9BFOoAZrmBbA__small/img/E1HW-7NrSSFw98bqqrrdMEGy2zQ=/fit-in/200x150/filters:strip_icc()/pic2821400.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2OMDmyXfrk9BFOoAZrmBbA__original/img/GKT2flxVoXD0Pp02pQT9PHRie40=/0x0/filters:format(jpeg)/pic2821400.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Turkey (fan expansion for Ticket to Ride)" />
+			
+						                           
+						               													<description>This map is an unofficial fan made expansion. Symbols &amp; Graphics Copyright &amp;copy; 2004-2015 Days of Wonder, Inc. Produced with permission of Days of Wonder, for non-commercial use only.
+
+This follows the principles of the basic Ticket to Ride game on a special board with special cards and rules. The object of the game is to gain the most points by travelling various routes and outwitting other players. You will need the train pieces and the train cards from either the US or Europe base games (or you can buy them from the Days of Wonder shop. You can use stations if you wish.
+
+There is an extra set of Chance cards: some are for the cities, each with a value to be earned by visiting that city:others give you extra facilities to complete your tickets. These cards are dealt/picked up alongwith tickets in the same quantity and with the same 'keep/dispose' rules. Crossing borders require extra attention.There are also up to 9 bonuses for the end-of-game scoring.  Anti-terrorist device cards are needed to travel to Syria and Iraq!
+
+The board does not have any grey tracks or parallel tracks, though there are limited selective options for these.
+
+There are many new options in the rules: exchange all your cards at the start but keep all the new ones: discard 5 cards and pick up 5 new ones, as your turn: earn double or triple points: and many more. You can also call time when your wagon stock reaches 3, if you want, giving you the advantage of stopping other players completing tickets.
+
+
+Bu harita resmi olmayan bir fan genişleme yapılmış. Wonder Semboller ve Grafik Copyright &amp;copy; 2004-2015 G&amp;uuml;n, Inc. sadece ticari olmayan kullanım i&amp;ccedil;in Wonder G&amp;uuml;nleri izni ile &amp;uuml;retilmiştir.
+
+Bu &amp;ouml;zel kartları ve kuralları ile &amp;ouml;zel bir gemide oyun Ride temel Bilet ilkelerini izler. Oyunun amacı, &amp;ccedil;eşitli yolları seyahat ve diğer oyuncular outwitting tarafından en &amp;ccedil;ok puan elde etmektir. Ya ABD ya da Avrupa baz oyunları tren par&amp;ccedil;aları ve tren kartları ihtiyacınız olacak (veya Wonder d&amp;uuml;kkandan G&amp;uuml;nleri onları satın alabilirsiniz. İsterseniz istasyonları kullanabilirsiniz.
+
+Bazı değerine sahip her o kenti ziyaret ederek elde edeceği, şehirler i&amp;ccedil;indir: Başkalarının size bilet tamamlamak i&amp;ccedil;in ekstra imkanlar vermek Şans kartları ekstra seti vardır. Bu kartlar dağıtılır / aynı miktarda ve aynı 'tutmak / atma' kuralları ile bilet alongwith toplanır. Ge&amp;ccedil;iş sınırları ekstra attention.There yukarı-sonu oyun puanlama i&amp;ccedil;in 9 ikramiye de vardır gerektirir. Anti-ter&amp;ouml;r cihaz kartları Suriye ve Irak'a seyahat i&amp;ccedil;in gerekli!
+
+Bu sınırlı se&amp;ccedil;ici se&amp;ccedil;enekleri olsa pansiyon, herhangi bir gri par&amp;ccedil;a veya paralel par&amp;ccedil;a yoktur.
+
+Kurallara bir&amp;ccedil;ok yeni se&amp;ccedil;enek vardır: başında t&amp;uuml;m kartları alışverişinde ama t&amp;uuml;m yenilerini tutmak: 5 kartları atmak ve 5 yenilerini almak, sizde olduğu gibi: ikili ya da &amp;uuml;&amp;ccedil;l&amp;uuml; puan kazanmak: ve &amp;ccedil;ok daha fazlası. Eğer isterseniz vagon stoku size bilet tamamlayarak diğer oyuncuları durdurma avantajı vererek, 3 ulaştığında da zaman &amp;ccedil;ağırabilirsiniz.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–3 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11570" value="Country: Turkey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72046" value="Game: Ticket to Ride (fan expansions)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="84197" value="Jeremy Laurie" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="84197" value="Jeremy Laurie" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="6.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.65513" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="8" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="407172">
+         <thumbnail>https://cf.geekdo-images.com/u1SpKvnYJiveKY4YWauiLw__small/img/my6DN9A4p1E_sc0j5Q4c6otEEPo=/fit-in/200x150/filters:strip_icc()/pic7879393.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u1SpKvnYJiveKY4YWauiLw__original/img/cqiyn24HGIOoAiOIPIzF_1Ze-fg=/0x0/filters:format(jpeg)/pic7879393.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Tåg till Rydberg (fan expedition for Ticket to Ride)" />
+			
+						                           
+						               													<description>T&amp;aring;g till Rydberg ("Train to Rydberg") is a fan expansion for the small box Ticket to Ride games (e.g. New York, London, San Francisco).
+
+T&amp;aring;g till Rydberg is a joint celebration of the brilliant Alan R. MOON designed board game series, and a lot of fantastic fiction that has made its mark on us over the years. All the stations in T&amp;aring;g till Rydberg (except Rydberg itself) are based on fictional moonbases from books, TV or film.
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10166" value="Space: Earth&#039;s Moon" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="276894" value="Ticket to Ride: London" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253284" value="Ticket to Ride: New York" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362541" value="Ticket to Ride: San Francisco" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="147826" value="Petter Duvander" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="360563">
+         <thumbnail>https://cf.geekdo-images.com/Gd9K8e_TpYETDGRSzjokwQ__small/img/4azgdgRm1LvCP1fGxhW-tVgiCgU=/fit-in/200x150/filters:strip_icc()/pic6961148.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Gd9K8e_TpYETDGRSzjokwQ__original/img/1k8zU0azblsB0Z3MlcsBryz-KUQ=/0x0/filters:format(jpeg)/pic6961148.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Tåg till Rydsgård (fan expansion for Ticket to Ride)" />
+			
+						                           
+						               													<description>T&amp;aring;g till Rydsg&amp;aring;rd, Sk&amp;aring;ne is a fan-made expansion for the Days of Wonder board game Ticket to Ride. It is a partially almost entirely correct reproduction of existing, or previously existing, train lines in the southern-most part of Sweden (Scania and its closest neighbours).
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2687" value="Fan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19551" value="Cities: Copenhagen (Denmark)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69724" value="Cities: Malmö (Sweden)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81601" value="Components: Map (Regional scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10315" value="Country: Denmark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10313" value="Country: Sweden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72046" value="Game: Ticket to Ride (fan expansions)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14996" value="Ticket to Ride: Europe" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225244" value="Ticket to Ride: Germany" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21348" value="Ticket to Ride: Märklin" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31627" value="Ticket to Ride: Nordic Countries" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371140" value="Ticket to Ride: Northern Lights" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202670" value="Ticket to Ride: Rails &amp; Sails" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119637" value="Zug um Zug: Deutschland" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="419536" value="Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="147824" value="Magnus Bodin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="147826" value="Petter Duvander" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11999" value="Peter Svärd" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="36" />
+			<average value="7.64167" />
+			<bayesaverage value="5.52448" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.52448" />
+												</ranks>
+
+			<stddev value="1.39431" />
+			<median value="0" />
+			<owned value="115" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="10" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

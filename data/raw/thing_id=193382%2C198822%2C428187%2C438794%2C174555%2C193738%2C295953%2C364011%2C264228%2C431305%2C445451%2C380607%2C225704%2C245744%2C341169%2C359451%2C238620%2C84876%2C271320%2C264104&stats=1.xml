@@ -1,0 +1,7385 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="193382">
+         <thumbnail>https://cf.geekdo-images.com/SvyvVh63TA6Iofy2Cj3mUA__small/img/wcaHn9lXhPWfJ6PzmqBt-CH3bk8=/fit-in/200x150/filters:strip_icc()/pic2891934.png</thumbnail>
+      <image>https://cf.geekdo-images.com/SvyvVh63TA6Iofy2Cj3mUA__original/img/DDnAVmfyLYiWO31ioOAvVc9yiAQ=/0x0/filters:format(png)/pic2891934.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Iron &amp; Brass" />
+			
+						                           
+						               													<description>Welcome to the colony of Dugbirch - not a sprawling city of splendor and spires and airships, but an almost forgotten place too far away from civilization and with not enough gold to attract the city dwellers.  But, just enough gold to battle over.
+
+Two rival towns are mining gold and hiring the able bodied to build their towns into cities and their militias into capable armies.
+
+Iron &amp; Brass (like its inspiration, the Warcraft PC games) challenges players to select the right strategy, then execute that strategy to defeat your opponent.  Hoard resources, build up defenses, build up an army, or some of each - all while your opponent is doing the same.
+
+Iron &amp; Brass is a Print and Play game played on a 10x10 to 16x16 square grid game board.  Each player has 14 structures and 24 military units available to build.
+
+Each player starts with a Headquarters, Barracks, 8 Gold, 1 Crew, and 8 "Advantage" tokens which can each be used as an Attack, Range, Movement, or Heal bonus.
+
+Each turn, a player may take up to 4 actions, any combination of: Mine Gold, Hire Crew, Move, Attack, Train Infantry, Build Structures or Vehicles.
+
+Because of limited Gold in the game, players will need to decide how to balance gathering resources with building up defensive structures and building their army.  In addition, their army can be built quickly with Infantry units, or more slowly by first building structures such as Foundries, Arsenals, and Steam Works to build up armored units, artillery, and tanks.
+
+Attacks are resolved by comparing Attack Strength + dice roll (+ Surge "Advantage" if played) to Defense Strength + dice roll (+ Surge "Advantage" if played).  Defending units may be destroyed, disabled, or sustain no damage.
+
+A player wins the game by destroying their opponent's Headquarters or all of their opponent's army.
+
+Cover art was created by Todd Sanders, winning the cover art design contest for this game.  Some of the game piece art was created by BGG user "Skoll".  He created images for: "Skirmisher Patrol" and "Iron Infantry", and because of those, really helped create the look and feel of the rest of the game piece images.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–2 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="75" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="198822" value="Iron &amp; Brass: Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="215755" value="Iron Infantry" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85262" value="Scott Allen Czysz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42166" value="Todd Sanders" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="8.31667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.09608" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="12" />
+			<numcomments value="4" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="198822">
+         <thumbnail>https://cf.geekdo-images.com/IbSGp38n5pW6xjMWfdOnwA__small/img/BLk0fiK94f_n7Qn1SC0FNUu7tOc=/fit-in/200x150/filters:strip_icc()/pic2997588.png</thumbnail>
+      <image>https://cf.geekdo-images.com/IbSGp38n5pW6xjMWfdOnwA__original/img/dEcLoFHn_iUelUxfh0OrKmfBFlw=/0x0/filters:format(png)/pic2997588.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Iron &amp; Brass: Duel" />
+			
+						                           
+						               													<description>Iron &amp; Brass: Duel is a 2 player, 9 card "nano-game" originally created for the 2016 9 card nano game contest.  The game is an infantry skirmish card game.  Each round of the game is a 3 vs 3 infantry encounter.
+
+Each player will have 6 soldiers - 1 on each side of the 3 cards. These soldiers are labeled A, B, C, D, E, and F for clarity. Each soldier (card face) is also named alphabetically to give it more of a human touch.
+
+Each soldier card has 2 actions per side, for a total of 12 actions per player.
+
+All battle resolutions are: 
+1) Determine # of dice to roll: Attacker's dice +/- Defender's modifiers
+2)Roll the determined number of dice, 1 or more "6" = opponent card side (not the entire card) is defeated. So, in effect, the game will play as if each player has 6 1-sided soldier cards, but in reality, each will have 3 2-sided soldier cards. Hope that makes sense.
+
+The game challenges each player to decide which soldier actions to play, where to play them, and when to attack.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52917" value="Contests: 9 Card Nanogame PnP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62276" value="Versions &amp; Editions: Two-Player Versions of More-Player Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="193382" value="Iron &amp; Brass" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85262" value="Scott Allen Czysz" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="4.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="428187">
+         <thumbnail>https://cf.geekdo-images.com/zbsTit0yMr9DRjPjMz8LlA__small/img/I8hBoOIPelmSEBXgtdXDuexXB7k=/fit-in/200x150/filters:strip_icc()/pic8404798.png</thumbnail>
+      <image>https://cf.geekdo-images.com/zbsTit0yMr9DRjPjMz8LlA__original/img/sGiw34YDNZ0X48AKBA3WLwtgNoI=/0x0/filters:format(png)/pic8404798.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Rolling Realms: Brass Birmingham Promo Pack" />
+			
+						                           
+						               													<description>Expand your copy of Rolling Realms with this set of 6 promo cards, inspired by Brass: Birmingham.
+
+To play this realm you use dice to mark checkboxes on routes. Canals can only be checked in the first half of the game, and railroads in the second half. You score resources and stars for connected cities. Can you build the best network?
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="112374" value="Game: Rolling Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="305682" value="Rolling Realms" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="393892" value="Rolling Realms Redux" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="136907" value="Karel Titeca" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70571" value="Lina Cossette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="137729" value="Marius Petrescu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23202" value="Stonemaier Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="50" />
+			<average value="7.256" />
+			<bayesaverage value="5.53554" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.53554" />
+												</ranks>
+
+			<stddev value="1.8198" />
+			<median value="0" />
+			<owned value="763" />
+			<trading value="1" />
+			<wanting value="9" />
+			<wishing value="50" />
+			<numcomments value="13" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="438794">
+   	                                  				
+				<name type="primary" sortindex="1" value="Top Brass" />
+			
+						                           
+						               													<description>Setup
+1. Deal each player 3 face down reserve cards.
+2. Deal each player 3 face up reserve cards, placed on top of the face down reserves.
+3. Deal each player 3 cards for their hand.
+4. The remaining cards are placed into the centre to form a draw pile.
+Swapping Reserves
+Before starting players may swap any number of their face-up reserve cards with cards from their hand.
+
+Your Turn
+On your turn you need to play a card from your hand that matches or outranks the top card on the play pile.
+A card may only be played onto any card with a higher rank than its own.
+If there are still cards in the draw pile you need to pick up a card to maintain a minimum of 3 cards.
+If you are unable to play a card then you must pick up the play pile.
+
+Once you have played all your hand cards and there are no draw cards left in the pile you can play your face up reserve cards.
+
+Once you have played all you hand cards and face up reserve cards you must now blindly play your face down reserve cards.
+Winning
+No cards left to play? Congratulations soldier! You've won! Consider yourself one of the Top Brass.
+
+Be aware of Direct Order cards, they have the power to drastically change the dynamic of the game, so use them wisely!
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58337" value="Worgan Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="174555">
+         <thumbnail>https://cf.geekdo-images.com/9-AgXWySd1cPhQL4TDw9oQ__small/img/0hVQRGI7Ni8bJDCuofi9iPTCqgI=/fit-in/200x150/filters:strip_icc()/pic2777276.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9-AgXWySd1cPhQL4TDw9oQ__original/img/6SS7Y5_WNHusmZYAxcRKtIFIFrI=/0x0/filters:format(jpeg)/pic2777276.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Vault Wars: Brass Lamp Promo Card" />
+			
+						                           
+						               													<description>Promo card that was first available during the Kickstarter campaign for Vault Wars.
+
+The card says:
+Auction Master
+After revealing Items, select 3 players. Starting clockwise from the Auction Master, each selected player Peeks at all remaining items, places one face-down on the Item Pile, then passes the rest to the next selected player. After the third item is placed, shuffle the Item Pile.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169704" value="Vault Wars" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21756" value="Floodgate Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44" />
+			<average value="6.56818" />
+			<bayesaverage value="5.51871" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51871" />
+												</ranks>
+
+			<stddev value="1.28625" />
+			<median value="0" />
+			<owned value="254" />
+			<trading value="30" />
+			<wanting value="2" />
+			<wishing value="2" />
+			<numcomments value="18" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="193738">
+         <thumbnail>https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__small/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__original/img/2zv_XMQoPFWk9Dn0oS4JY1IeFzw=/0x0/filters:format(jpeg)/pic4887376.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Aventură prin Vestul Sălbatic" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: La Gran Ruta del Oeste" />
+			    				
+				<name type="alternate" sortindex="3" value="A nagy western utazás" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий западный путь" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート ウエスタン トレイル" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部之路" />
+			    				
+				<name type="alternate" sortindex="1" value="大西鐵路" />
+			    				
+				<name type="alternate" sortindex="1" value="그레이트 웨스턴 트레일" />
+			
+						               													<description>America in the 19th century: You are a rancher and repeatedly herd your cattle from Texas to Kansas City, where you send them off by train. This earns you money and victory points. Needless to say, each time you arrive in Kansas City, you want to have your most valuable cattle in tow. However, the "Great Western Trail" not only requires that you keep your herd in good shape, but also that you wisely use the various buildings along the trail. Also, it might be a good idea to hire capable staff: cowboys to improve your herd, craftsmen to build your very own buildings, or engineers for the important railroad line.
+
+If you cleverly manage your herd and navigate the opportunities and pitfalls of Great Western Trail, you surely will gain the most victory points and win the game.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="910">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="453" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="146" />
+					<result value="Recommended" numvotes="559" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="571" />
+					<result value="Recommended" numvotes="199" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="208" />
+					<result value="Recommended" numvotes="419" />
+					<result value="Not Recommended" numvotes="102" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="417" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="143">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="64" />
+					<result value="14" numvotes="50" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="47">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="45" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19132" value="Cities: Kansas City (Missouri, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81601" value="Components: Map (Regional scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37838" value="Series: The Great Designers (Stronghold Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43676" value="States: Texas" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232298" value="Deutscher Spielepreis 2017 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295953" value="Great Western Trail: 13th Building Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264228" value="Great Western Trail: At the Poker Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225704" value="Great Western Trail: Promo Station Master Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245744" value="Great Western Trail: Rails to the North" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238620" value="Great Western Trail: The Eleventh Building Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380322" value="Great Western Trail: BoardGameBoost Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="328776" value="Great Western Trail: Coin-Cases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243360" value="Great Western Trail: Drawstring Bags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309434" value="Great Western Trail: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309604" value="Great Western Trail: e-Raptor Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="267350" value="Great Western Trail: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="464170" value="Great Western Trail: InMyBox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334746" value="Great Western Trail: Kolej na Północ – reDrewno Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366935" value="Great Western Trail: Laserox Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326824" value="Great Western Trail: Laserox Western Vault insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369237" value="Great Western Trail: Moedas &amp; Co. Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="216277" value="Great Western Trail: Player Mat Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="232365" value="Great Western Trail: Player Overlay with Backing Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380324" value="Great Western Trail: Rails to the North – BoardGameBoost Overlay w/Backboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366936" value="Great Western Trail: Rails to the North – Laserox Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334736" value="Great Western Trail: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334747" value="Great Western Trail: reDrewno Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382561" value="Great Western Trail: Sloyca Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="268418" value="Great Western Trail: The Game Doctors Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348638" value="Great Western Trail: The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341169" value="Great Western Trail: Second Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30399" value="Ludicus Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34188" value="Plan B Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44132" />
+			<average value="8.14286" />
+			<bayesaverage value="7.9669" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21" bayesaverage="7.9669" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.98892" />
+												</ranks>
+
+			<stddev value="1.32479" />
+			<median value="0" />
+			<owned value="47272" />
+			<trading value="667" />
+			<wanting value="1071" />
+			<wishing value="10098" />
+			<numcomments value="5648" />
+			<numweights value="1696" />
+			<averageweight value="3.6963" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="295953">
+         <thumbnail>https://cf.geekdo-images.com/4I_7VY9pzbkwlb_vkivYiQ__small/img/g8WpBg3aSQjaygUwgAjB2QVXVZU=/fit-in/200x150/filters:strip_icc()/pic5101048.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4I_7VY9pzbkwlb_vkivYiQ__original/img/YoULl-bKYNca4rIX8wDHoUuaaMU=/0x0/filters:format(jpeg)/pic5101048.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: 13th Building Tile" />
+			
+						                           
+						               													<description>Add each new building tile to the existing building tiles of its color.  This promo comes with four identical 13a/b building tiles, one in each player color.
+
+13a: Discard exactly one gray cattle ("Jersey") and perform one single auxiliary action. Perform the action "Place one of your private buildings onto a building space on the trail". For each craftsman needed for that building tile, you must pay 1 dollar.
+
+13b: Gain twice as many dollars as you have discs on train stations. Perform one single or one double auxiliary action.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78817" value="Promotional: Item" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="175" />
+			<average value="7.87983" />
+			<bayesaverage value="5.66109" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.66109" />
+												</ranks>
+
+			<stddev value="1.43144" />
+			<median value="0" />
+			<owned value="1070" />
+			<trading value="26" />
+			<wanting value="36" />
+			<wishing value="99" />
+			<numcomments value="72" />
+			<numweights value="3" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="364011">
+         <thumbnail>https://cf.geekdo-images.com/qPNWng17gy-ghltZfNcBwA__small/img/gTiEnEHt4zbNFftaB0NSXz42jNA=/fit-in/200x150/filters:strip_icc()/pic6893215.png</thumbnail>
+      <image>https://cf.geekdo-images.com/qPNWng17gy-ghltZfNcBwA__original/img/mPJnr0qY9uAap4HKmwBoURzzaZ0=/0x0/filters:format(png)/pic6893215.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: Argentina" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Argentine" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Argentinien" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Argentyna" />
+			    				
+				<name type="alternate" sortindex="3" value="A nagy western utazás: Argentína" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий Западный Путь. Аргентина" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート・ウエスタン・トレイル：アルゼンチン" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部开拓者：阿根廷开拓史" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部開拓者：阿根廷開拓史" />
+			
+						               													<description>In Great Western Trail: Argentina, you own a vast estancia in Argentina at the end of the 19th century, and you will need to travel the plains of the Pampas with your cattle to deliver them to the main train station in Buenos Aires.
+
+Great Western Trail: Argentina features gameplay elements similar to Great Western Trail such as deck management, the rondel mechanism, and the ability to upgrade your player board, along with twists on these elements and new features.
+
+The player board features a new type of worker &amp;mdash; farmers &amp;mdash; and different paths await on the game board to confront you with more choices. Will you take the road with buildings or a path past farmers? Maybe you'll have the chance to use your cows &amp;mdash; well, the strength on your cow cards &amp;mdash; to help farmers, getting them on your side and adding grain, a new type of resource, to your income, with grain being used for boat and city tiles.
+
+Perhaps you can unlock shortcuts that allow you to deliver your herd to Buenos Aires more quickly. Sure, you'll forfeit the use of action buildings, but maybe you can catch others unaware, with the ships leaving before they deliver. The timing of reaching the central train station to deliver your herd has never been so crucial, and valuable bonuses await on the city's port tiles.
+
+Money is easier to get in Great Western Trail: Argentina, but you have more to manage in terms of action options, shortcuts, and cards (including the new exhaustion cards), so the challenges won't let up.
+
+Great Western Trail: Argentina also includes a solitaire challenge in which Pedro is waiting for you to try to beat his score.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="129">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="76" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="57" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="28">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="15" />
+					<result value="14" numvotes="10" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10645" value="Country: Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400170" value="Great Western Trail (Second Edition): Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400650" value="Great Western Trail: Argentina – Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="418041" value="Great Western Trail: Argentina – Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="440114" value="Great Western Trail: Argentina – The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341169" value="Great Western Trail: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42760" value="Yayoi The Dreamer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5680" />
+			<average value="8.19165" />
+			<bayesaverage value="7.3633" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="199" bayesaverage="7.3633" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="110" bayesaverage="7.53798" />
+												</ranks>
+
+			<stddev value="1.25321" />
+			<median value="0" />
+			<owned value="9936" />
+			<trading value="131" />
+			<wanting value="246" />
+			<wishing value="1527" />
+			<numcomments value="776" />
+			<numweights value="227" />
+			<averageweight value="3.9031" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="264228">
+         <thumbnail>https://cf.geekdo-images.com/yk9LFFyBzo6c4iZ0xc2y7w__small/img/0CB5kbd3jxiQvI69-Baz6qw5ymo=/fit-in/200x150/filters:strip_icc()/pic7105527.png</thumbnail>
+      <image>https://cf.geekdo-images.com/yk9LFFyBzo6c4iZ0xc2y7w__original/img/b2XUvJ_FewkFVb5MXpTsBHpLnoQ=/0x0/filters:format(png)/pic7105527.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: At the Poker Table" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="그레이트 웨스턴 트레일: 포커 테이블" />
+			
+						               													<description>Brettspiel Adventskalender 2018 Promo.
+
+Setup:
+Set the game up as usual.
+Afterward, place the poker table next to the game and leave some room around it.
+Depending on the player count, take the bonus markers shown below and stack them in one corner of the poker table in ascending order so that the 6-point bonus marker lies on top.
+
+Playing the game
+The game is played as usual. However, the neutral building tiles D and G provide one more local action each that a player can perform when she stops on them with her cattleman.
+
+End of the game and final scoring are carried out as usual with these additions: Cards that are still next to a player's poker player at game end are ignored for the final scoring and each player who has a bonus marker in front of her gains its points in step 8 of the final scoring.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43236" value="Promotional: Brettspiel Adventskalender" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341169" value="Great Western Trail: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="116" />
+			<average value="7.50099" />
+			<bayesaverage value="5.58516" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58516" />
+												</ranks>
+
+			<stddev value="1.67372" />
+			<median value="0" />
+			<owned value="731" />
+			<trading value="15" />
+			<wanting value="91" />
+			<wishing value="181" />
+			<numcomments value="62" />
+			<numweights value="4" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="431305">
+         <thumbnail>https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__small/img/bRPBjc1ca-Br8ld3wFiGEkVNzO4=/fit-in/200x150/filters:strip_icc()/pic8522248.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/R1kmXnKY2XNTibnw0mfUYQ__original/img/7jhfw-BFquzxgRy3zrIfQAVcM6A=/0x0/filters:format(jpeg)/pic8522248.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: El Paso" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Великий Западный Путь: Эль-Пасо" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート　ウエスタン　トレイル　エルパソ" />
+			
+						               													<description>El Paso at the end of the 19th century: Five railroad companies have connected the Sun City to their network and made it a major hub for the cattle trade. Ranchers from the surrounding parts of Texas and Mexico drive their cattle into the city to send them on their long journey to the north, east, and west of the United States.
+
+In Great Western Trail: El Paso, you take on the role of the ranchers of that time and bring your best cattle to El Paso to earn money and victory points. Hire more cowboys, builders, and engineers to get closer to your goals:
+
+
+     Buy cattle to increase the value of your herd!
+     Construct buildings to unlock more actions!
+     Participate in the expansion of the railroad and secure the most attractive contracts!
+
+
+El Paso is mechanically based on its predecessors in the Great Western Trail trilogy. It can serve as an introduction to the series and is the perfect game for game nights when there is not enough time for its big brothers!
+
+Manufactured from FSC-certified material.
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="42">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="111374" value="Series: Greenline (Lookout Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="445451" value="Great Western Trail: El Paso – Los Olvidados Promo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341169" value="Great Western Trail: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42380" value="Johannes Krenner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1910" />
+			<average value="7.06689" />
+			<bayesaverage value="6.18885" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2301" bayesaverage="6.18885" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1137" bayesaverage="6.32767" />
+												</ranks>
+
+			<stddev value="1.32589" />
+			<median value="0" />
+			<owned value="3012" />
+			<trading value="62" />
+			<wanting value="90" />
+			<wishing value="590" />
+			<numcomments value="401" />
+			<numweights value="62" />
+			<averageweight value="2.8065" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="445451">
+         <thumbnail>https://cf.geekdo-images.com/W_7dGW3vNlgYwznlPxi13Q__small/img/epn-n1mxgOkm64ovmQpanYFQ_j8=/fit-in/200x150/filters:strip_icc()/pic8874002.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/W_7dGW3vNlgYwznlPxi13Q__original/img/MTkaGuatefjL1qhy7CGa4qJHNnE=/0x0/filters:format(jpeg)/pic8874002.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: El Paso – Los Olvidados Promo" />
+			
+						                           
+						               													<description>A promo provided free to early buyers of the retail release of the base game in April 2025.
+
+COMPONENTS: 6 brown Bonus tiles (2x each of 3 new types):
+
+     Permanently increase the value of Simmental cattle by 1 for you. 
+     Immediately remove any disk from your player board, paying any associated cost and gaining any bonus. 
+     Hire 1 Worker (if it&amp;rsquo;s Wild, pay $4). 
+
+
+</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78817" value="Promotional: Item" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="431305" value="Great Western Trail: El Paso" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42380" value="Johannes Krenner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="7.73333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.12349" />
+			<median value="0" />
+			<owned value="162" />
+			<trading value="3" />
+			<wanting value="15" />
+			<wishing value="23" />
+			<numcomments value="9" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="380607">
+         <thumbnail>https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__small/img/iCWpe4ydO3Rtu6yBjn01eQ97xLc=/fit-in/200x150/filters:strip_icc()/pic7350809.png</thumbnail>
+      <image>https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__original/img/HhxsLMIsz6Te567qXEbRBen4Sm8=/0x0/filters:format(png)/pic7350809.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: New Zealand" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Neuseeland" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Nouvelle-Zélande" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Nova Zelândia" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Nowa Zelandia" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Nueva Zelanda" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Nuova Zelanda" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Új-Zéland" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий Западный Путь: Новая Зеландия" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート・ウエスタン・トレイル：ニュージーランド" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部开拓者：新西兰开拓史" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部開拓者：紐西蘭開拓史" />
+			
+						               													<description>Kia ora, and welcome to Great Western Trail New Zealand!
+
+Towards the end of the 19th century, you established yourself as a runholder (owner of a sheep station) on the South Island of New Zealand. Recent years have seen your family farm prosper by diversifying your breeds of sheep and increasing the value of your wool. With the dawn of the new century, difficult challenges have arisen. You must acquire improved and valuable breeds of sheep to ensure the prosperity of your family business and the labourers who work for you. Decide whether to focus on your past strengths or to diversify into new ventures. Will the beginning of the 20th century be as rewarding as earlier years, or will the efforts of others surpass your strategy? Good luck, and kia kaha!
+
+In Great Western Trail New Zealand, you move your runholder along a trail that winds and forks from the lower left corner of the game board to Wellington in the upper right. Along your path, you perform actions that provide you with various ways to earn victory points.  Each time your runholder reaches Wellington, you deliver sheep to a local or foreign trading post, which may also be worth victory points. Afterwards, your runholder continues its movement again.  In an average game, your runholder will usually reach Wellington 5 or 6 times.
+
+All victory points are awarded at the end of the game. The player with the most victory points wins the game.
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="178">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="91" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="105" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="78" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="11" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="13" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10308" value="Country: New Zealand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400170" value="Great Western Trail (Second Edition): Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="409327" value="Great Western Trail: Nowa Zelandia – reDrewno Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341169" value="Great Western Trail: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42760" value="Yayoi The Dreamer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7388" />
+			<average value="8.44563" />
+			<bayesaverage value="7.69206" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="73" bayesaverage="7.69206" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="35" bayesaverage="7.86028" />
+												</ranks>
+
+			<stddev value="1.23759" />
+			<median value="0" />
+			<owned value="12515" />
+			<trading value="70" />
+			<wanting value="396" />
+			<wishing value="2474" />
+			<numcomments value="933" />
+			<numweights value="343" />
+			<averageweight value="3.9913" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="225704">
+         <thumbnail>https://cf.geekdo-images.com/k9mM9mTaMRA9UaM5S0u3YA__small/img/nWgi1sxGWuzO3ZEGbip6Ejko1x0=/fit-in/200x150/filters:strip_icc()/pic3723741.png</thumbnail>
+      <image>https://cf.geekdo-images.com/k9mM9mTaMRA9UaM5S0u3YA__original/img/WzzgMD_f0AzlD1600dbttu_m9Eo=/0x0/filters:format(png)/pic3723741.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: Promo Station Master Tiles" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Promo &quot;2 Neue Bahnhofsvorsteher&quot;" />
+			
+						               													<description>Included in Great Western Trail: Rails to the North expansion
+
+
+Two promotional Station Master Tiles enclosed to the French "Plato Magazine #95". 
+(Note: A Dutch version also exists, provided by 999games. However, to date, the Dutch version has not been made available for purchase, it is only provided to the owners of the Dutch first edition of the base game.)Gameplay instructions:
+Shuffle these new Station Master Tiles together with those of the base game. In step 2 of the setup, draw five Station Master Tiles from the seven randomly and allocate them onto the five station master places. The unused tiles are put back into the box.
+
+Effects:
+- Immediate action: Gain 12 dollars
+- Two permanent certificates
+These two tiles do not provide any victory points at the end of the game.
+
+This promo is jointly offered by Gigamic and Plato Magazine.
+
+
+Instructions de jeu:
+M&amp;eacute;langez ces tuiles Gare avec celles du jeu de base. Lors de la phase 2 de la mise en place, piochez cinq tuiles Gare parmi les sept et r&amp;eacute;partissez-les sur les cinq emplacements d&amp;eacute;di&amp;eacute;s. Les tuiles &amp;eacute;cart&amp;eacute;es sont remises dans la boite.Effets:
+- Action immediate: gain de 12 dollars
+- Deux certificats permanents
+Ces deux tuiles ne rapportent pas de points de victoire.
+
+Ce goodie vous est conjointement offert par Gigamic et Plato.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="245744" value="Great Western Trail: Rails to the North" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22019" value="Plato Magazine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="301" />
+			<average value="7.95098" />
+			<bayesaverage value="5.7762" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.7762" />
+												</ranks>
+
+			<stddev value="1.44647" />
+			<median value="0" />
+			<owned value="1542" />
+			<trading value="56" />
+			<wanting value="39" />
+			<wishing value="117" />
+			<numcomments value="121" />
+			<numweights value="6" />
+			<averageweight value="2.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="245744">
+         <thumbnail>https://cf.geekdo-images.com/5p3A6CNiScrt8JWgU1a48g__small/img/zfvAEo44RkFnRh-35Sie4RZq2dU=/fit-in/200x150/filters:strip_icc()/pic4039881.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5p3A6CNiScrt8JWgU1a48g__original/img/IuhBP8gvKZVcdpDjs--jAQgQ-qI=/0x0/filters:format(jpeg)/pic4039881.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: Rails to the North" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Kolej na Północ" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Rieles hacia el norte" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Ruée vers le nord" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий западный путь: Дорога на Север" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート・ウエスタン・トレイル拡張　 北部への道" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部之路：北方铁路" />
+			    				
+				<name type="alternate" sortindex="1" value="그레이트 웨스턴 트레일: 북부행 철도" />
+			
+						               													<description>Great Western Trail: Rails to the North introduces a new railway system for players to compete on as they grow their cow herding businesses.
+
+With this expansion, players deliver their herds to northeast United States with stops in Chicago, Detroit, and New York City, amongst other cities, in an effort to become the most successful cow rancher this side of the Mississippi. Be advised that business is much more difficult on this rail, so players will want to take advantage of friendly hospitality by establishing branchlets and helping form towns. In addition to the new railway system, players will also discover new station master tiles, private buildings, and an expanded player board to offer more strategic depth in their decision making.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="57">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334746" value="Great Western Trail: Kolej na Północ – reDrewno Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="267350" value="Great Western Trail: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="464170" value="Great Western Trail: InMyBox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326824" value="Great Western Trail: Laserox Western Vault insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380324" value="Great Western Trail: Rails to the North – BoardGameBoost Overlay w/Backboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366936" value="Great Western Trail: Rails to the North – Laserox Overlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334736" value="Great Western Trail: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382561" value="Great Western Trail: Sloyca Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="268418" value="Great Western Trail: The Game Doctors Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348638" value="Great Western Trail: The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="225704" value="Great Western Trail: Promo Station Master Tiles" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="238620" value="Great Western Trail: The Eleventh Building Tile" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="359451" value="Great Western Trail: Second Edition – Rails To The North" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4086" />
+			<average value="8.41166" />
+			<bayesaverage value="7.32262" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.32262" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.54819" />
+												</ranks>
+
+			<stddev value="1.21681" />
+			<median value="0" />
+			<owned value="12431" />
+			<trading value="168" />
+			<wanting value="100" />
+			<wishing value="709" />
+			<numcomments value="847" />
+			<numweights value="90" />
+			<averageweight value="3.7889" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="341169">
+         <thumbnail>https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__small/img/0pt6XrFHTXpNetwMo9rdY7PdhfQ=/fit-in/200x150/filters:strip_icc()/pic5988511.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__original/img/yecB1xO32nnjBAyskVOTq9LBuLo=/0x0/filters:format(jpeg)/pic5988511.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: Second Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Drugie wydanie" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Drugo izdanje" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Seconda Edizione" />
+			    				
+				<name type="alternate" sortindex="3" value="A nagy western utazás: Második kiadás" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий Западный Путь: Второе издание" />
+			    				
+				<name type="alternate" sortindex="1" value="グレート・ウエスタン・トレイル第2版" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部開拓者" />
+			    				
+				<name type="alternate" sortindex="1" value="그레이트 웨스턴 트레일 (2판)" />
+			
+						               													<description>America in the 19th century: You are a rancher and repeatedly herd your cattle from Texas to Kansas City, where you send them off by train. This earns you money and victory points. Needless to say, each time you arrive in Kansas City, you want to have your most valuable cattle in tow. However, the "Great Western Trail" not only requires that you keep your herd in good shape, but also that you wisely use the various buildings along the trail. Also, it might be a good idea to hire capable staff: cowboys to improve your herd, craftsmen to build your very own buildings, or engineers for the important railroad line.
+
+If you cleverly manage your herd and navigate the opportunities and pitfalls of Great Western Trail, you surely will gain the most victory points and win the game.
+
+The changes in the Second edition:
+
+
+     Brand New Artwork by Chris Quilliams
+     Solo Mode: A New Challenger in the West
+     Dual-Layered Player Boards
+     Addition of a new breed of cows: The Simmental breed
+     Two new reversible buildings (#11 &amp; 12)
+     Twelve Exchange Tokens, First introduced in the Rails of North Expansion, for more interaction with other players
+     Four new Master Tiles added for more strategy, replayability, and challenges
+
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="343">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="146" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="195" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="225" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="61" />
+					<result value="Recommended" numvotes="157" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="145" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="53">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="26" />
+					<result value="14" numvotes="20" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="11" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19132" value="Cities: Kansas City (Missouri, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43676" value="States: Texas" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264228" value="Great Western Trail: At the Poker Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359451" value="Great Western Trail: Second Edition – Rails To The North" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="458767" value="Great Western Trail (Second Edition) + Expansion: e-Raptor UV Print Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382325" value="Great Western Trail (Second Edition): Board Bento Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400170" value="Great Western Trail (Second Edition): Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377288" value="Great Western Trail (Second Edition): LevityGames Meeple Sticker Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363145" value="Great Western Trail (Second Edition): The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="417468" value="Great Western Trail: Second Edition – Laserox Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="364011" value="Great Western Trail: Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="431305" value="Great Western Trail: El Paso" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="380607" value="Great Western Trail: New Zealand" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="238620" value="Great Western Trail: The Eleventh Building Tile" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42760" value="Yayoi The Dreamer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56861" value="本长文化" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18601" />
+			<average value="8.26008" />
+			<bayesaverage value="7.90513" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="31" bayesaverage="7.90513" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="22" bayesaverage="7.97007" />
+												</ranks>
+
+			<stddev value="1.2826" />
+			<median value="0" />
+			<owned value="26248" />
+			<trading value="209" />
+			<wanting value="544" />
+			<wishing value="5491" />
+			<numcomments value="1963" />
+			<numweights value="577" />
+			<averageweight value="3.7019" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="359451">
+         <thumbnail>https://cf.geekdo-images.com/Hif5xp81bi9XZVu-qkYkIw__small/img/Yp89lb6Nf3-RveQEPi3VoUpIm-E=/fit-in/200x150/filters:strip_icc()/pic6767298.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Hif5xp81bi9XZVu-qkYkIw__original/img/eNARi3I3k_LEpGCHgmLRSr64Bx8=/0x0/filters:format(png)/pic6767298.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: Second Edition – Rails To The North" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Drugie wydanie – Kolej na Północ" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Seconde Édition – Extension Ruée vers le Nord" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Segunda Edição – Trilhos para o Norte" />
+			    				
+				<name type="alternate" sortindex="1" value="Great Western Trail: Segunda edición – Raíles hacia el Norte" />
+			    				
+				<name type="alternate" sortindex="3" value="A nagy western utazás: Második kiadás – Északi vasutak" />
+			    				
+				<name type="alternate" sortindex="1" value="Великий Западный Путь: Второе издание – Дорога на север" />
+			    				
+				<name type="alternate" sortindex="1" value="大西部開拓者:邁向北方" />
+			
+						               													<description>The rails have progressed further to the north, which opens new opportunities for you to deliver your cattle farther than before, even to cities outside American borders. Those locations can be highly advantageous, but they require more work and effort, such as constructing branchlets to give you more opportunities to deliver and gain different rewards.
+
+Much of the content in Great Western Trail: Rails to the North (Second Edition) was included in the original Rails to the North expansion, but it has been reworked and upgraded, with the player boards being dual-layered, a game board extension that features different rail paths, and the medium town tiles being modified. Other elements included in this expansion are new objective cards, a revised building 13a-13b, new solo-mode materials for Sam, and a new breed of orange cows.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="23">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341169" value="Great Western Trail: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="458767" value="Great Western Trail (Second Edition) + Expansion: e-Raptor UV Print Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382325" value="Great Western Trail (Second Edition): Board Bento Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="400170" value="Great Western Trail (Second Edition): Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="417468" value="Great Western Trail: Second Edition – Laserox Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245744" value="Great Western Trail: Rails to the North" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42760" value="Yayoi The Dreamer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1071" />
+			<average value="8.61495" />
+			<bayesaverage value="6.4277" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.4277" />
+												</ranks>
+
+			<stddev value="1.1506" />
+			<median value="0" />
+			<owned value="4987" />
+			<trading value="23" />
+			<wanting value="92" />
+			<wishing value="564" />
+			<numcomments value="195" />
+			<numweights value="33" />
+			<averageweight value="3.7879" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="238620">
+         <thumbnail>https://cf.geekdo-images.com/-FCDPWnU0l1eYRnjJkTTzg__small/img/X0qc6976SPfIrL7m1Gx0jkavZUk=/fit-in/200x150/filters:strip_icc()/pic3851368.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-FCDPWnU0l1eYRnjJkTTzg__original/img/g4wKFLLIth3GBRWMUUE28Ry5050=/0x0/filters:format(jpeg)/pic3851368.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Great Western Trail: The Eleventh Building Tile" />
+			
+						                           
+						               													<description>Included in Great Western Trail: Rails to the North expansion
+
+
+Originally part of the Deutscher Spielepreis 2017 Goodie Box.Great Western Trail: The Eleventh Bulding Tile adds four new double sided building tiles (one for each colour).
+
+Front side: Perform the action "Remove a hazard".
+
+Back side: Move your engine up to as many spaces forward as you have hazard tiles in front of you.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="150" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54030" value="Game: Great Western Trail" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78817" value="Promotional: Item" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193738" value="Great Western Trail" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="232298" value="Deutscher Spielepreis 2017 Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="245744" value="Great Western Trail: Rails to the North" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341169" value="Great Western Trail: Second Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="214" />
+			<average value="7.95834" />
+			<bayesaverage value="5.70205" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.70205" />
+												</ranks>
+
+			<stddev value="1.3257" />
+			<median value="0" />
+			<owned value="1111" />
+			<trading value="55" />
+			<wanting value="41" />
+			<wishing value="126" />
+			<numcomments value="100" />
+			<numweights value="4" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="84876">
+         <thumbnail>https://cf.geekdo-images.com/sH2YTQ10dHj1ibfS-KKtGA__small/img/f5zFXdTcH9RNY0iMNBppd8D-_r0=/fit-in/200x150/filters:strip_icc()/pic8745814.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/sH2YTQ10dHj1ibfS-KKtGA__original/img/L_gsMsuhbAe0kyq1QLAmyeKOeSs=/0x0/filters:format(jpeg)/pic8745814.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The Castles of Burgundy" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die Burgen von Burgund" />
+			    				
+				<name type="alternate" sortindex="3" value="I Castelli della Borgogna" />
+			    				
+				<name type="alternate" sortindex="5" value="Los Castillos de Borgoña" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Châteaux de Bourgogne" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamki Burgundii" />
+			    				
+				<name type="alternate" sortindex="1" value="Замки Бургундии" />
+			    				
+				<name type="alternate" sortindex="1" value="ブルゴーニュ" />
+			    				
+				<name type="alternate" sortindex="1" value="ブルゴーニュの城" />
+			    				
+				<name type="alternate" sortindex="1" value="勃根地城堡" />
+			    				
+				<name type="alternate" sortindex="1" value="버건디의 성" />
+			
+						               													<description>The game is set in the Burgundy region of High Medieval France. Each player takes on the role of an aristocrat, originally controlling a small princedom. While playing they aim to build settlements and powerful castles, practice trade along the river, exploit silver mines, and use the knowledge of travelers. The game is about players taking settlement tiles from the game board and placing them into their princedom which is represented by the player board. Every tile has a function that starts when the tile is placed in the princedom. The princedom itself consists of several regions, each of which demands its own type of settlement tile.
+
+The game is played in five phases, each consisting of five rounds.  Each phase begins with the game board stocked with settlement tiles and goods tiles.  At the beginning of each round all players roll their two dice, and the player who is currently first in turn order rolls a goods placement die.  A goods tile is made available on the game board according to the roll of the goods die.
+
+During each round, a player may perform any two of the four possible types of actions:
+
+    take a settlement tile and place it in the staging area on their player board
+    take a settlement tile from the staging area and place in the corresponding region for the type of tile and adjacent to a previously placed settlement tile, 
+    deliver goods with a number matching one of their dice
+    take worker tokens which allow the player to adjust the roll of their dice.  
+
+
+In addition to these actions a player may buy a settlement tile and place it in the staging area on their player board.
+
+The game ends after the fifth phase is played to completion.  Victory points are awarded for unused money and workers, and undelivered goods.  Bonus victory points from certain settlement tiles are awarded at the end of the game. The player with the most victory points wins.
+
+The rules include basic and advanced versions.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1686">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="100" />
+					<result value="Not Recommended" numvotes="815" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1093" />
+					<result value="Recommended" numvotes="439" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="504" />
+					<result value="Recommended" numvotes="856" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="294" />
+					<result value="Recommended" numvotes="696" />
+					<result value="Not Recommended" numvotes="367" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="752" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="235">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="23" />
+					<result value="10" numvotes="63" />
+					<result value="12" numvotes="110" />
+					<result value="14" numvotes="34" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="160">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="140" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="17" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7535" value="Animals: Chickens / Roosters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7379" value="Animals: Pigs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="113664" value="Components: Coloured Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57501" value="Game: The Castles of Burgundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109134" value="Misc: BGG Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57997" value="Region: Burgundy (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58" value="Series: Alea Big Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178656" value="Brettspiel Adventskalender 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231506" value="Brettspiel Adventskalender 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264104" value="The Castles of Burgundy: 10th Expansion – Solo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110926" value="The Castles of Burgundy: 1st Expansion – New Player Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132477" value="The Castles of Burgundy: 2nd Expansion – New Hex Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="139160" value="The Castles of Burgundy: 3rd Expansion – German Board Game Championship Board 2013" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150083" value="The Castles of Burgundy: 4th Expansion – Monastery Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166589" value="The Castles of Burgundy: 5th Expansion – Pleasure Garden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="190225" value="The Castles of Burgundy: 6th Expansion – The Cloisters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193585" value="The Castles of Burgundy: 7th Expansion – German Board Game Championship Board 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214005" value="The Castles of Burgundy: 8th Expansion – Trade Routes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234163" value="The Castles of Burgundy: 9th Expansion – The Team Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179205" value="Stadt Land Spielt Limitierter Sonderdruck Tag des Gesellschaftsspiels" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273035" value="The Castles of Burgundy: Basically Wooden Organiser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="315061" value="The Castles of Burgundy: Deluxe Token Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306391" value="The Castles of Burgundy: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326373" value="The Castles of Burgundy: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="241127" value="The Castles of Burgundy: GeekUp Bag Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271939" value="The Castles of Burgundy: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272500" value="The Castles of Burgundy: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270740" value="The Castles of Burgundy: Quick-Start Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348624" value="The Castles of Burgundy: The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="271320" value="The Castles of Burgundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="363622" value="The Castles of Burgundy: Special Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="191977" value="The Castles of Burgundy: The Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="232988" value="The Castles of Burgundy: The Dice Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="433382" value="The Sandcastles of Burgundy" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9" value="alea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger AG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="70513" />
+			<average value="8.16311" />
+			<bayesaverage value="8.03263" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17" bayesaverage="8.03263" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="16" bayesaverage="8.03306" />
+												</ranks>
+
+			<stddev value="1.2559" />
+			<median value="0" />
+			<owned value="85179" />
+			<trading value="922" />
+			<wanting value="1136" />
+			<wishing value="14494" />
+			<numcomments value="10514" />
+			<numweights value="3184" />
+			<averageweight value="2.9702" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="271320">
+         <thumbnail>https://cf.geekdo-images.com/VrNrk7XVU1hN0j1ZFhjcjw__small/img/6XPO0XNGGw3V77NjWR0K7Y33fqc=/fit-in/200x150/filters:strip_icc()/pic4934938.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VrNrk7XVU1hN0j1ZFhjcjw__original/img/IYxnn0KV56lDy18_0e23DSLcMso=/0x0/filters:format(jpeg)/pic4934938.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The Castles of Burgundy" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Châteaux de Bourgogne" />
+			    				
+				<name type="alternate" sortindex="1" value="Hrady v Burgundsku" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamki Burgundii" />
+			    				
+				<name type="alternate" sortindex="1" value="勃根地城堡豪華版" />
+			    				
+				<name type="alternate" sortindex="1" value="버건디의 성" />
+			
+						               													<description>The Castles of Burgundy is set in the Burgundy region of High Medieval France. Each player takes on the role of an aristocrat, originally controlling a small princedom. While playing, they aim to build settlements and powerful castles, practice trade along the river, exploit silver mines, and use the knowledge of travelers.
+
+The game is about players taking settlement tiles from the game board and placing them into their princedom, which is represented by the player board. Every tile has a function that starts when the tile is placed in the princedom. The princedom itself consists of several regions, each of which demands its own type of settlement tile.
+
+The game is played in five phases, each consisting of five rounds. Each phase begins with the game board stocked with settlement tiles and goods tiles. During each round, players take their turns in the current turn order. During their turn, a player may perform any two of the four possible types of actions:
+
+
+    Place a settlement tile in the staging area on their player board.
+    Place a settlement tile from the staging area of their player board to a space on their player board.
+    Deliver goods with a number matching one of their dice.
+    Take worker tokens that allow the player to adjust the roll of their dice.
+
+
+Each settlement tile offers a benefit: additional actions, additional money, advancement on the turn order track, more goods tiles, die roll adjustment or victory points. Bonus victory points are awarded for filling a region with settlement tiles.
+
+The game ends when the last player finishes their turn of the fifth round of the fifth phase. Victory points are awarded for unused money and workers and for undelivered goods. Bonus victory points from certain settlement tiles are awarded at the end of the game. The player with the most victory points wins.
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="411">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="146" />
+					<result value="Not Recommended" numvotes="110" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="274" />
+					<result value="Recommended" numvotes="97" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="120" />
+					<result value="Recommended" numvotes="198" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="57" />
+					<result value="Recommended" numvotes="185" />
+					<result value="Not Recommended" numvotes="68" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="200" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="70" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="76">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="37" />
+					<result value="14" numvotes="12" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="22">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="22" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7535" value="Animals: Chickens / Roosters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7379" value="Animals: Pigs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57501" value="Game: The Castles of Burgundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57997" value="Region: Burgundy (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64921" value="Series: Alea Revised Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110926" value="The Castles of Burgundy: 1st Expansion – New Player Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="139160" value="The Castles of Burgundy: 3rd Expansion – German Board Game Championship Board 2013" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193585" value="The Castles of Burgundy: 7th Expansion – German Board Game Championship Board 2016" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="449932" value="The Castles of Burgundy: Board Bento Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="315061" value="The Castles of Burgundy: Deluxe Token Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326373" value="The Castles of Burgundy: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="241127" value="The Castles of Burgundy: GeekUp Bag Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="464186" value="The Castles of Burgundy: InMyBox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346993" value="The Castles of Burgundy: Laserox Burgundy Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="462117" value="The Castles of Burgundy: PolandGames Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373845" value="The Castles of Burgundy: Spike Craft Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348624" value="The Castles of Burgundy: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365813" value="The Castles of Burgundy: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="84876" value="The Castles of Burgundy" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="264104" value="The Castles of Burgundy: 10th Expansion – Solo" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="132477" value="The Castles of Burgundy: 2nd Expansion – New Hex Tiles" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="166589" value="The Castles of Burgundy: 5th Expansion – Pleasure Garden" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="190225" value="The Castles of Burgundy: 6th Expansion – The Cloisters" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="214005" value="The Castles of Burgundy: 8th Expansion – Trade Routes" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="234163" value="The Castles of Burgundy: 9th Expansion – The Team Game" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72917" value="Antje Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9" value="alea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger AG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49985" value="Lelekan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15574" />
+			<average value="8.45492" />
+			<bayesaverage value="8.0188" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="8.0188" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="8.08676" />
+												</ranks>
+
+			<stddev value="1.08827" />
+			<median value="0" />
+			<owned value="31604" />
+			<trading value="289" />
+			<wanting value="320" />
+			<wishing value="4644" />
+			<numcomments value="2349" />
+			<numweights value="573" />
+			<averageweight value="2.9092" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="264104">
+         <thumbnail>https://cf.geekdo-images.com/npnXy_rZv4zbFqlKPUB3sQ__small/img/5gqTkRBjii-MbgE9st31VsXUGQ8=/fit-in/200x150/filters:strip_icc()/pic4416071.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/npnXy_rZv4zbFqlKPUB3sQ__original/img/lXg7BHRqtTjzaeufwKcc_GKWmxc=/0x0/filters:format(jpeg)/pic4416071.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The Castles of Burgundy: 10th Expansion – Solo" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die Burgen von Burgund: 10. Erweiterung – Solo-Spiel" />
+			
+						               													<description>Brettspiel Adventskalender 2018 Promo for day 25.
+
+Castles of Burgundy "Solo" is a mini expansion including 1 double sided board.
+
+All rules of the base game apply, except for the following exceptions and additions:
+
+GAME SETUP
+Take one Silverling and 2 worker tiles, plus a starting castle. Place the castle on any castle space on your player board (The A side is better for beginners, the B side for advanced players). Take 3 random goods and put them next to the board. In solo game there is no restriction for the number of different types (= colors) of goods that you can collect.
+
+Choose a color and take both playing pieces and dice of that color, plus the white die. Place one of your pieces on space 0 of the victory point track as a victory point counter and the other piece on the 50 as target marker. Continue setting up the game as usual for a 2-player game (hex tiles, goods, etc.)
+
+PLAYING THE GAME
+You are playing 25 rounds. At the beginning of each round, throw all 3 dice:
+
+- First, take the topmost goods tile and place it on the depot indicated by the white die.
+
+- Then remove a hex tile from that depot from the game, starting from the top to bottom (depots 2, 3, 5 and 6) or left to right (depots 1 and 4) respectively. If a depot is empty, remove a hex tile from the next depot in clockwise order etc.
+
+Next, perform your 2 dice actions as usual, with the same effects and victory point gains as in the base game, except for the following restrictions and changes:
+
+- You can only expand to other territories via the rivers.
+
+- Whenever you place a ship, take all goods from a depot of your choice, then immediately remove all other goods from all other depots from the game.
+
+In addition, you now (and only now!) have the option to exchange any 5 of your goods for a single tile from the black depot (the 5 goods tiles are removed from the game). Place that tile face down (i.e. its black side up) on one of your three storage spaces. A "black tile" can be placed on any color space on your board, as long as you follow the base game placement rules. Placing a black tile helps you to complete a region (to gain victory points, a color bonus and for winning the game) but has no other effects.
+
+For example: a "black mine" won't generate Silverlings at the beginning of the phase. A "black ship" gains neither goods nor the option to exchange 5 goods for a "black tile".
+
+- Victory points from a yellow Knowledge tile are added immediately after placing it (instead of at the end of the game).
+
+- You won't gain victory points as color bonus when completing a color. Instead, choose a tile from the black depot and place it directly on the board, with all its effects, following the base game placement rules. If that completes another color, take an additional tile from the black depot (if available), place it on your board, etc.
+
+- Whenever you gain victory points, move your victory point counter that many spaces. In addition you may buy now further victory points. Each victory point costs 1 Silverling.
+
+When your victory point counter reaches the target victory point marker, put it back on space 0 (any remaining victory points are lost), then move the target marker down 5 space (e.g. from 50 to 45, next time to 40 etc).
+Immediately after resetting the victory point counter you may carry out a dice action of your choice (just as if you had added a castle to your estate).
+
+END OF THE GAME
+You win the game if you manage to occupy all 37 hex spaces of your estate within 25 rounds.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57501" value="Game: The Castles of Burgundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61989" value="Players: Expansions Adding Solo Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43236" value="Promotional: Brettspiel Adventskalender" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="84876" value="The Castles of Burgundy" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306391" value="The Castles of Burgundy: Folded Space Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="256951" value="Brettspiel Adventskalender 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="271320" value="The Castles of Burgundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="363622" value="The Castles of Burgundy: Special Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87620" value="Matthias Nagy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9" value="alea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger AG" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="233" />
+			<average value="7.72803" />
+			<bayesaverage value="5.69807" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.69807" />
+												</ranks>
+
+			<stddev value="1.46241" />
+			<median value="0" />
+			<owned value="1223" />
+			<trading value="30" />
+			<wanting value="67" />
+			<wishing value="162" />
+			<numcomments value="97" />
+			<numweights value="4" />
+			<averageweight value="3.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

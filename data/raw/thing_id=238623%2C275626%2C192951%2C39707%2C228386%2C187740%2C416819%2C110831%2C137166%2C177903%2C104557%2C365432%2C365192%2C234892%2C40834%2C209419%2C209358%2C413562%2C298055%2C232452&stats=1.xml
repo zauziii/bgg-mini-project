@@ -1,0 +1,8571 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="238623">
+         <thumbnail>https://cf.geekdo-images.com/WhH3cvtGVCDqsBuAchDYVA__small/img/kySqlWZekctzyrsNwKLbfSKIwG8=/fit-in/200x150/filters:strip_icc()/pic3861015.png</thumbnail>
+      <image>https://cf.geekdo-images.com/WhH3cvtGVCDqsBuAchDYVA__original/img/FNuQQSnSc2wNgiiIJHzwmR-Ho_o=/0x0/filters:format(png)/pic3861015.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Dismantle Promo Card" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Abbruch" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Abbruch Promokarte" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Dismantle" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Ontmantelen" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Ontmantelen Promokaart" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 해체 프로모 카드" />
+			
+						               													<description>Promotional Card, distributed with Spielbox 06/17
+
+Text:
+
+
+
+
+    
+        Dismantle (Action - Cost 4 [coin])
+
+    
+    
+        Trash a card from your hand. If it costs 1 [coin] or more, gain a cheaper card and a Gold.
+
+    
+
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82878" value="Elisa Cella" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3001" value="W. Nostheide Verlag GmbH" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="326" />
+			<average value="7.66214" />
+			<bayesaverage value="5.75269" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.75269" />
+												</ranks>
+
+			<stddev value="1.38999" />
+			<median value="0" />
+			<owned value="2138" />
+			<trading value="72" />
+			<wanting value="51" />
+			<wishing value="165" />
+			<numcomments value="139" />
+			<numweights value="7" />
+			<averageweight value="2.1429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="275626">
+         <thumbnail>https://cf.geekdo-images.com/Rtbc_sFdyCORTj2Kq22E7g__small/img/T1HPKry2zO9U5hzNJPm2e-nGVsA=/fit-in/200x150/filters:strip_icc()/pic7259059.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Rtbc_sFdyCORTj2Kq22E7g__original/img/t0EpYBO-T3jOXuTcVY2P_LoZ0Bg=/0x0/filters:format(jpeg)/pic7259059.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Einsteiger-Bigbox" />
+			
+						                           
+						               													<description>This BigBox for Dominion newcomers includes the basic game (2nd edition), the 3 small expansions, 3 promotional cards and 2 kingdom cards from other expansions.
+
+Details:
+- Basisspiel 2. Edition (Dominion 2nd Edition)
+
+- Gilden (Guilds)
+- Alchemisten (Alchemy)
+- Reiche Ernte (Cornucopia)
+
+- Promo Geldversteck (Stash)
+- Promo Schwarzmarkt (Black market)
+- Promo Befestigtes Dorf (formerly Carcassone = Walled Village)
+
+- Karawane (Caravan / Seaside)
+- Wechselbalg (Changeling / Nocturne)
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–3 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283819" value="Ancient Times (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203184" value="Animals (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="69035" value="The Books of Magic (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171915" value="Dominion: Adventures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347307" value="Dominion: Allies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285887" value="Dominion: Captain Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285888" value="Dominion: Church Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416002" value="Dominion: Cornucopia &amp; Guilds – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="415317" value="Dominion: Cornucopia &amp; Guilds (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125403" value="Dominion: Dark Ages" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160673" value="Dominion: Die Intrige – Erweiterung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238623" value="Dominion: Dismantle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="192951" value="Dominion: Empires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39707" value="Dominion: Envoy Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228386" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187740" value="Dominion: Fan-Edition I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110831" value="Dominion: Governor Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365192" value="Dominion: Hinterlands – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365432" value="Dominion: Hinterlands (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234892" value="Dominion: Höflinge Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209358" value="Dominion: Intrigue – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209419" value="Dominion: Intrigue (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413562" value="Dominion: Marchland Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298055" value="Dominion: Menagerie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232452" value="Dominion: Nocturne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369536" value="Dominion: Plunder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160943" value="Dominion: Prince Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66690" value="Dominion: Prosperity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364019" value="Dominion: Prosperity – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362517" value="Dominion: Prosperity (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257673" value="Dominion: Renaissance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209431" value="Dominion: Sauna / Avanto Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="51811" value="Dominion: Seaside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="356205" value="Dominion: Seaside – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355958" value="Dominion: Seaside (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="141918" value="Duel (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="68281" value="Fairy Tale (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128915" value="Paradox (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232930" value="Pirate&#039;s Life (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="88046" value="Royal Court (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80435" value="Salvation (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123095" value="The Scrolls of Power (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210658" value="Stadt Land Spielt Minierweiterungen 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="139778" value="Warmonger (fan expansion for Dominion)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="40834" value="Dominion: Intrigue" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="66098" value="Dominion: Alchemy" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="41105" value="Dominion: Black Market Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="90850" value="Dominion: Cornucopia" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="137166" value="Dominion: Guilds" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="66682" value="Dominion: Stash Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="101665" value="Dominion: Walled Village Promo Card" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="151" />
+			<average value="8.14702" />
+			<bayesaverage value="5.64153" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.64153" />
+												</ranks>
+
+			<stddev value="1.25872" />
+			<median value="0" />
+			<owned value="438" />
+			<trading value="4" />
+			<wanting value="2" />
+			<wishing value="27" />
+			<numcomments value="24" />
+			<numweights value="7" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="192951">
+         <thumbnail>https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__small/img/Hivv3FLtgMIXoA7T6rQD5cdamrM=/fit-in/200x150/filters:strip_icc()/pic2868179.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JPUvgHftSAmqocl9zq5stA__original/img/O7TxK5Euj-f2Zfbp6mUmGR9mgMo=/0x0/filters:format(jpeg)/pic2868179.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Empires" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Imperium" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Keisarikunta" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Keizerrijken" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：帝国" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 위대한 제국" />
+			
+						               													<description>Description from the publisher:
+
+The world is big and your kingdom gigantic. It's no longer a kingdom really; it's an empire &amp;mdash; which makes you the emperor. This entitles you to a better chair, plus you can name a salad after yourself.
+
+It's not easy being emperor. The day starts early, when you light the sacred flame; then it's hours of committee meetings, trying to establish exactly why the sacred flame keeps going out. Sometimes your armies take over a continent and you just have no idea where to put it. And there's the risk of assassination; you have a food taster, who tastes anything before you eat it, and a dagger tester, who gets stabbed by anything before it stabs you. You've taken to staying at home whenever it's the Ides of anything. Still, overall it's a great job. You wouldn't trade it for the world &amp;mdash; especially given how much of the world you already have.
+
+Dominion: Empires, the tenth addition to the game of Dominion, contains 96 metal tokens and 300 cards, with cards you can buy now and pay for later, piles with two different cards, and Landmarks that add new ways to score. VP tokens and Events return from previous sets.
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182822" value="Dominion: Summon Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43053" value="Brian Brinlee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82878" value="Elisa Cella" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75051" value="Donald Crank" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49942" value="Garret DeChellis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11968" value="Martin Hoffmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49945" value="Lynell Ingram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88160" value="Raina Kuptz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29346" value="Alayna Lemmer-Danner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14625" value="Mark Poole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18995" value="Marco Primo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65624" value="Joshua J. Stewart" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2791" />
+			<average value="8.34579" />
+			<bayesaverage value="6.98553" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.98553" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.19788" />
+												</ranks>
+
+			<stddev value="1.19823" />
+			<median value="0" />
+			<owned value="9424" />
+			<trading value="52" />
+			<wanting value="277" />
+			<wishing value="1255" />
+			<numcomments value="529" />
+			<numweights value="44" />
+			<averageweight value="2.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="39707">
+         <thumbnail>https://cf.geekdo-images.com/xpDEQMG90GCtQVJZTOfmmw__small/img/fDDQ6aAz4xFbo-Djo9MhHGKjciI=/fit-in/200x150/filters:strip_icc()/pic4907279.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xpDEQMG90GCtQVJZTOfmmw__original/img/a2i-ibKpYrkhYL6tJ0xUEpMu12A=/0x0/filters:format(jpeg)/pic4907279.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Envoy Promo Card" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion rozšíření: Posel" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Délégué" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Gesandter" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Gezant" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Inviato" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Lähettiläs" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Poseł" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン　公使　プロモカード" />
+			    				
+				<name type="alternate" sortindex="1" value="皇輿爭霸之使節擴充包" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 사절 프로모 카드" />
+			
+						               													<description>This promo card was given to the visitors of the gameplay festival in Vienna in 2008. It's the first additional card for the German edition of Dominion. The English edition was distributed by The BGG Store itself, along with the Black Market Promo Card, beginning in March 2009.
+
+Text:
+
+
+
+
+    
+        Envoy (Action - Cost 4 [coin])
+
+    
+    
+         Reveal the top 5 cards of your deck. The player to your left chooses one for you to discard. Draw the rest.
+
+    
+
+
+Revised text (2017):
+
+
+
+
+    
+        Envoy (Action - Cost 4 [coin])
+
+    
+    
+         Reveal the top 5 cards of your deck. The player to your left chooses one. Discard that one and put the rest into your hand.
+
+    
+
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="142132" value="Dominion: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8907" value="Stiftung Spielen in Österreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3327" />
+			<average value="7.19461" />
+			<bayesaverage value="6.4616" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.4616" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.58668" />
+												</ranks>
+
+			<stddev value="1.35525" />
+			<median value="0" />
+			<owned value="9712" />
+			<trading value="197" />
+			<wanting value="45" />
+			<wishing value="210" />
+			<numcomments value="922" />
+			<numweights value="156" />
+			<averageweight value="2.1987" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="228386">
+         <thumbnail>https://cf.geekdo-images.com/T0qot2hB9JJGsugZSbKZog__small/img/O67PlHTWrYJYAl_cSAjnMcy0Kq0=/fit-in/200x150/filters:strip_icc()/pic3635906.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/T0qot2hB9JJGsugZSbKZog__original/img/QnZ41mqkebjGk45U2SXN8_gZp9I=/0x0/filters:format(jpeg)/pic3635906.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+			
+						                           
+						               													<description>This version combines the german versions of Dominion: Update Pack and Dominion: Intrigue Update Pack in one box.
+
+Dominion: Update Pack contains the seven new kingdom cards introduced in the second edition of Dominion, thereby allowing owners of the first edition to obtain these new cards without needing to repurchase the entire game.
+
+Dominion: Intrigue Update Pack contains the seven new kingdom cards introduced in the second edition of Dominion: Intrigue, thereby allowing owners of the first edition to obtain these new cards without needing to repurchase the entire game.
+
+Dominion: Update Pack and Dominion: Intrigue Update Pack are part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4+ players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160673" value="Dominion: Die Intrige – Erweiterung" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="234892" value="Dominion: Höflinge Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209358" value="Dominion: Intrigue – Update Pack" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209357" value="Dominion: Update Pack" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="71" />
+			<average value="7.95352" />
+			<bayesaverage value="5.5707" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5707" />
+												</ranks>
+
+			<stddev value="1.32653" />
+			<median value="0" />
+			<owned value="282" />
+			<trading value="2" />
+			<wanting value="6" />
+			<wishing value="42" />
+			<numcomments value="8" />
+			<numweights value="3" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="187740">
+         <thumbnail>https://cf.geekdo-images.com/iFUFbzS5oOqufFmSRb40zQ__small/img/gV7FSJGe40ABtJgej0_9xpZn0EY=/fit-in/200x150/filters:strip_icc()/pic3027148.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iFUFbzS5oOqufFmSRb40zQ__original/img/8r4IFGmNt8OKWTwFsaJd5-U5zZk=/0x0/filters:format(jpeg)/pic3027148.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Fan-Edition I" />
+			
+						                           
+						               													<description>Dominion: Fan-Edition I is a German language collection box, including promotional cards, blank cards and additional material.
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="110831" value="Dominion: Governor Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="160943" value="Dominion: Prince Promo Card" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="35" />
+			<average value="4.43486" />
+			<bayesaverage value="5.48195" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.48195" />
+												</ranks>
+
+			<stddev value="3.0142" />
+			<median value="0" />
+			<owned value="145" />
+			<trading value="1" />
+			<wanting value="4" />
+			<wishing value="28" />
+			<numcomments value="13" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="416819">
+         <thumbnail>https://cf.geekdo-images.com/f9TPog7wJ-lLArEB2Kf9Mg__small/img/hFrxv2Wx_-Z0T9h61LXd_73vlYE=/fit-in/200x150/filters:strip_icc()/pic8342856.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/f9TPog7wJ-lLArEB2Kf9Mg__original/img/GMlHv23C8rVFjuWhO2C7j5uv04Y=/0x0/filters:format(jpeg)/pic8342856.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Farm Promo Card" />
+			
+						                           
+						               													<description>Now 2 money and at the end of the game 2 points
+
+Originally planned as replacement art for the original Harem.
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="7.83333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.58815" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="3" />
+			<wanting value="26" />
+			<wishing value="77" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="110831">
+         <thumbnail>https://cf.geekdo-images.com/gmwWOvg9WPGyj7piI25yUA__small/img/-YWcZz-Az6_5mrCO1KMCNs5kZS8=/fit-in/200x150/filters:strip_icc()/pic1131192.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gmwWOvg9WPGyj7piI25yUA__original/img/k4YPhnoMs9_2YVSv8BpjzDvJJOE=/0x0/filters:format(jpeg)/pic1131192.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Governor Promo Card" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Gouverneur" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Gouverneur Promokarte" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Gubernator" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Kuvernööri" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン　総督　プロモカード" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 총독 프로모 카드" />
+			
+						               													<description>A Dominion promo card to celebrate the 10th anniversary of Puerto Rico.
+
+Text:
+
+
+
+
+    
+        Governor (Action - Cost 5 [coin])
+
+    
+    
+        +1 ActionChoose one; you get the version in parentheses: Each player gets +1 (+3) Cards; or each player gains a Silver (Gold); or each player may trash a card from his hand and gain a card costing exactly 1 [coin] (2 [coin]) more.
+
+    
+
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8241" value="Promotional: BGG Store Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="187740" value="Dominion: Fan-Edition I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="210658" value="Stadt Land Spielt Minierweiterungen 2016" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1423" />
+			<average value="7.72095" />
+			<bayesaverage value="6.30702" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.30702" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.48172" />
+												</ranks>
+
+			<stddev value="1.35493" />
+			<median value="0" />
+			<owned value="5756" />
+			<trading value="122" />
+			<wanting value="61" />
+			<wishing value="224" />
+			<numcomments value="374" />
+			<numweights value="62" />
+			<averageweight value="2.3065" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="137166">
+         <thumbnail>https://cf.geekdo-images.com/kHg6k8Y72deaQjOW1y2U0A__small/img/Ii0TCbqL6YYFiW4D1oZml1uORBg=/fit-in/200x150/filters:strip_icc()/pic1646917.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kHg6k8Y72deaQjOW1y2U0A__original/img/lvkMYheh1lq4_2zO-15_jJSQyhU=/0x0/filters:format(jpeg)/pic1646917.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Guilds" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion Erweiterung 7: Die Gilden" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: De Gilden" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Die Gilden" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Guildes" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Killat" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：ギルド" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 길드를 위하여" />
+			
+						               													<description>Game description from the publisher:
+
+Jobs, everyone's worried about jobs. Whatever happened to tilling the fields in obscurity? The economy is just a trick, like stealing someone's nose, but lately people seem to have seen through it, like when you realize someone hasn't really stolen your nose. So now everyone's joining a guild, learning a craft, and working on a masterpiece &amp;ndash; a painting so beautiful it blinds you, or a cheese grater so amazing that you never eat cheese again. The only people left tilling the fields are the ones doing it ironically. The guilds cover everything &amp;ndash; ironic tilling, butchering, baking, candlestick making, shoemaking, cheesemaking, cheese destruction. Your advisor is convinced that somehow, control of the stonecutters is key to world domination. Very well. You will have stone handled so expertly that the world trembles before you.
+
+Dominion: Guilds is the eighth addition to the game of Dominion, adding thirteen new Kingdom cards to the game. This expansion has coin tokens that you can save to spend later, and cards you can get more out of by paying extra for them.
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416002" value="Dominion: Cornucopia &amp; Guilds – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="302401" value="Dominion: Chest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138408" value="Dominion: Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="275626" value="Dominion: Einsteiger-Bigbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="177903" value="Dominion: Guilds &amp; Cornucopia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="415317" value="Dominion: Cornucopia &amp; Guilds (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40032" value="Eric J. Carter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49941" value="Jessica Cox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49945" value="Lynell Ingram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29346" value="Alayna Lemmer-Danner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49943" value="Lorraine Schleter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3279" />
+			<average value="7.84696" />
+			<bayesaverage value="6.82181" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.82181" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.9952" />
+												</ranks>
+
+			<stddev value="1.21313" />
+			<median value="0" />
+			<owned value="9907" />
+			<trading value="67" />
+			<wanting value="187" />
+			<wishing value="791" />
+			<numcomments value="580" />
+			<numweights value="121" />
+			<averageweight value="2.4711" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="177903">
+         <thumbnail>https://cf.geekdo-images.com/r0v0pcywSMxYQqmJESdt_Q__small/img/PcVPhcukli0cOTJGOBt4ntRRH58=/fit-in/200x150/filters:strip_icc()/pic2522762.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/r0v0pcywSMxYQqmJESdt_Q__original/img/A9YDuYKx23U9U39eGvbW8982C4s=/0x0/filters:format(jpeg)/pic2522762.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Guilds &amp; Cornucopia" />
+			
+						                           
+						               													<description>Dominion: Guilds &amp; Cornucopia combines the Dominion: Guilds and Dominion: Cornucopia small box expansions &amp;mdash; originally the fifth and the eighth expansions &amp;mdash; into a single large box expansion.
+
+The cards from Dominion: Cornucopia &amp;mdash; 13 new Kingdom cards, plus 5 unique cards &amp;mdash; are focused on variety, with cards that reward you for having a variety of cards in your deck, in your hand, and in play, in addition to cards that help you get that variety.
+
+Dominion: Guilds also consists of 13 new Kingdom cards, with some of these cards allowing you to get more out of them by paying extra when you buy them. In addition, this expansion contains coin tokens that you can save to spend later.
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416002" value="Dominion: Cornucopia &amp; Guilds – Update Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="90850" value="Dominion: Cornucopia" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="137166" value="Dominion: Guilds" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="415317" value="Dominion: Cornucopia &amp; Guilds (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49944" value="Taylor Bennett" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40032" value="Eric J. Carter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49941" value="Jessica Cox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49942" value="Garret DeChellis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14593" value="Jeff Himmelman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49945" value="Lynell Ingram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29346" value="Alayna Lemmer-Danner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14715" value="Raven Mimura" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14625" value="Mark Poole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49943" value="Lorraine Schleter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49946" value="Matthew Tames" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="606" />
+			<average value="7.99035" />
+			<bayesaverage value="5.97294" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.97294" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.08579" />
+												</ranks>
+
+			<stddev value="1.28619" />
+			<median value="0" />
+			<owned value="2407" />
+			<trading value="17" />
+			<wanting value="67" />
+			<wishing value="289" />
+			<numcomments value="114" />
+			<numweights value="9" />
+			<averageweight value="2.4444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="104557">
+         <thumbnail>https://cf.geekdo-images.com/J6mcvuL1AbP3n5B-hqH3ng__small/img/Ti_hqI1AdEMzsCHHW3xVVB3PEz0=/fit-in/200x150/filters:strip_icc()/pic1077695.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/J6mcvuL1AbP3n5B-hqH3ng__original/img/_N6Lvbxqi6Oqkw_DfHezDOtwjDI=/0x0/filters:format(jpeg)/pic1077695.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Hinterlands" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Comarcas" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Het Achterland" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Hinterland" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: L&#039;Arrière-Pays" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Nuovi Orizzonti" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Rajaseudut" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Vzdálené kraje" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：異郷" />
+			
+						               													<description>Game description from the publisher:
+
+The world is big and your kingdom small. Small when compared to the world, that is; it's moderate-sized when compared to other kingdoms. But in a big world like this one - big when compared to smaller worlds anyway, if such things exist; it's moderate-sized when compared to worlds of roughly the same size, and a little small when compared to worlds just a little larger - well, to make a long story short - short when compared to longer stories anyway - it is time to stretch your borders. You've heard of far-off places - exotic countries, where they have pancakes but not waffles, where the people wear the wrong number of shirts, and don't even have a word for the look two people give each other when they each hope that the other will do something that they both want done but which neither of them wants to do. It is to these lands that you now turn your gaze.
+
+Dominion: Hinterlands is the sixth addition to the game of Dominion. It adds 26 new Kingdom cards to Dominion, including 20 Actions, 3 Treasures, 3 Victory cards, and 3 Reactions. The central theme is cards that do something immediately when you buy them or gain them.
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="11" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="10" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365192" value="Dominion: Hinterlands – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138408" value="Dominion: Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="365432" value="Dominion: Hinterlands (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43053" value="Brian Brinlee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40032" value="Eric J. Carter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49941" value="Jessica Cox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49942" value="Garret DeChellis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11968" value="Martin Hoffmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49945" value="Lynell Ingram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29346" value="Alayna Lemmer-Danner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36996" value="Kieron O&#039;Gorman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14625" value="Mark Poole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18995" value="Marco Primo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49943" value="Lorraine Schleter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43054" value="Jason Slavin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65624" value="Joshua J. Stewart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30125" value="R. C. Torres" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6663" />
+			<average value="7.92971" />
+			<bayesaverage value="7.2385" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.2385" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.3714" />
+												</ranks>
+
+			<stddev value="1.15794" />
+			<median value="0" />
+			<owned value="17854" />
+			<trading value="140" />
+			<wanting value="304" />
+			<wishing value="1219" />
+			<numcomments value="1104" />
+			<numweights value="224" />
+			<averageweight value="2.5357" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="365432">
+         <thumbnail>https://cf.geekdo-images.com/S8nAwjjJYIzqveU-qdc8WA__small/img/8mSBi3-mbLw2rtmggpCUkJ2lXc4=/fit-in/200x150/filters:strip_icc()/pic6924579.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/S8nAwjjJYIzqveU-qdc8WA__original/img/LipgWnGRpjPYHDgN5nHXTDFWJF4=/0x0/filters:format(jpeg)/pic6924579.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Hinterlands (Second Edition)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Hinterland (Second Edition)" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: W głąb lądu (II edycja)" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：異郷 第二版" />
+			
+						               													<description>The world is big and your kingdom small. Small when compared to the world, that is; it's moderate-sized when compared to other kingdoms. But in a big world like this one - big when compared to smaller worlds anyway, if such things exist; it's moderate-sized when compared to worlds of roughly the same size, and a little small when compared to worlds just a little larger - well, to make a long story short - short when compared to longer stories anyway - it is time to stretch your borders. You've heard of far-off places - exotic countries, where they have pancakes but not waffles, where the people wear the wrong number of shirts, and don't even have a word for the look two people give each other when they each hope that the other will do something that they both want done but which neither of them wants to do. It is to these lands that you now turn your gaze.
+
+Dominion: Hinterlands is the sixth addition to the game of Dominion. It adds 26 new Kingdom cards to Dominion, including 20 Actions, 3 Treasures, 3 Victory cards, and 3 Reactions. The central theme is cards that do something immediately when you buy them or gain them.
+
+Dominion: Hinterlands (Second Edition) contains nine new types of Kingdom cards, which will be released on their own as an update pack (Dominion: Hinterlands – Update Pack) for those who own the first edition of this expansion.
+
+-description from publisher
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413562" value="Dominion: Marchland Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="104557" value="Dominion: Hinterlands" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59030" value="Radosław Jaszczuk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3288" value="Jay Tummelson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="280" />
+			<average value="8.30071" />
+			<bayesaverage value="5.78413" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.78413" />
+												</ranks>
+
+			<stddev value="1.23277" />
+			<median value="0" />
+			<owned value="1117" />
+			<trading value="6" />
+			<wanting value="47" />
+			<wishing value="268" />
+			<numcomments value="66" />
+			<numweights value="11" />
+			<averageweight value="2.1818" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="365192">
+         <thumbnail>https://cf.geekdo-images.com/LcqUU58qxkwJab_2IeNn6A__small/img/S_Gj8-DFoPIXgt-phgiTWD0xWPY=/fit-in/200x150/filters:strip_icc()/pic6920901.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LcqUU58qxkwJab_2IeNn6A__original/img/pD-rZmYLXxlvpvhW7lBn1D9DGmE=/0x0/filters:format(jpeg)/pic6920901.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Hinterlands – Update Pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Hinterland – Update Pack" />
+			
+						               													<description>Dominion: Hinterlands (Second Edition) contains nine new types of Kingdom cards, which will be released on their own as an update pack for those who own the first edition of this expansion.
+
+The new cards: Berserker, Cauldron, Guard Dog, Nomads, Souk, Trail, Weaver, Wheelwright, Witch's Hut
+
+The following cards included in the first edition should be removed when using the Hinterlands second edition Update Pack:
+Cache, Duchess, Embassy, Ill-Gotten Gains, Mandarin, Noble Brigand, Nomad Camp, Oracle, Silk Road
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413562" value="Dominion: Marchland Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104557" value="Dominion: Hinterlands" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="148" />
+			<average value="8.33928" />
+			<bayesaverage value="5.66346" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.66346" />
+												</ranks>
+
+			<stddev value="1.29861" />
+			<median value="0" />
+			<owned value="1080" />
+			<trading value="6" />
+			<wanting value="24" />
+			<wishing value="121" />
+			<numcomments value="60" />
+			<numweights value="4" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="234892">
+         <thumbnail>https://cf.geekdo-images.com/i4LcV1ULdsydeivH0i6leg__small/img/vvYiSP2rus9Iz_qBsDPq40rswz0=/fit-in/200x150/filters:strip_icc()/pic3769231.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/i4LcV1ULdsydeivH0i6leg__original/img/XnWoEgOGpJTwL3cDQrDQRKdAPm0=/0x0/filters:format(jpeg)/pic3769231.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Höflinge Promo Card" />
+			
+						                           
+						               													<description>
+
+
+    
+        H&amp;ouml;flinge (Aktion - Kosten 5 [M&amp;uuml;nzen])
+
+    
+    
+        Decke eine Handkarte auf.
+F&amp;uuml;r jeden Kartentyp (Aktion, Angriff ...),
+den sie hat, w&amp;auml;hle eine andere Option:
++1 Aktion
++1 Kauf
++3 [M&amp;uuml;nzen] oder
+nimm ein Gold vom Vorrat.
+
+    
+
+
+---
+
+Original text:
+
+
+
+
+    
+        Courtier (Action - Cost 5 [coin])
+
+    
+    
+        Reveal a card from your hand. For each type it has (Action, Attack, etc.), choose one:
++1 Action, or +1 Buy, or +3 [coins], or gain a Gold from the supply.
+
+    
+
+
+---
+
+This card is also part of Dominion: Intrigue – Update Pack.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–3 players" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160673" value="Dominion: Die Intrige – Erweiterung" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="228386" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209419" value="Dominion: Intrigue (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="75" />
+			<average value="7.49476" />
+			<bayesaverage value="5.55782" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.55782" />
+												</ranks>
+
+			<stddev value="1.58729" />
+			<median value="0" />
+			<owned value="494" />
+			<trading value="40" />
+			<wanting value="21" />
+			<wishing value="88" />
+			<numcomments value="40" />
+			<numweights value="2" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="40834">
+         <thumbnail>https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__small/img/jnSHqOXWLN3PfdpCtnfjf44oTsA=/fit-in/200x150/filters:strip_icc()/pic460011.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__original/img/VHMKsFZvoK2KKGZiLyoKZb_YhNQ=/0x0/filters:format(jpeg)/pic460011.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Intrigue" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Die Intrige" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Hovin juonet" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intriga" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intrige" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intrigo" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intrika" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intriky" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intryga" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: L&#039;Intrigue" />
+			    				
+				<name type="alternate" sortindex="1" value="Доминион: Интрига" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：陰謀" />
+			    				
+				<name type="alternate" sortindex="1" value="皇輿爭霸之暗潮洶湧" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 장막 뒤의 사람들" />
+			
+						               													<description>In Dominion: Intrigue (as with Dominion), each player starts with an identical, very small deck of cards. In the center of the table is a selection of other cards the players can "buy" as they can afford them. Through their selection of cards to buy, and how they play their hands as they draw them, the players construct their deck on the fly, striving for the most efficient path to the precious victory points by game end.
+
+From the back of the box: "Something&amp;rsquo;s afoot. The steward smiles at you like he has a secret, or like he thinks you have a secret, or like you think he thinks you have a secret. There are secret plots brewing, you&amp;rsquo;re sure of it. At the very least, there are yours. A passing servant murmurs, &amp;ldquo;The eggs are on the plate.&amp;rdquo; You frantically search your codebook for the translation before realizing he means that breakfast is ready. Excellent. Everything is going according to plan."
+
+Dominion: Intrigue adds rules for playing with up to 8 players at two tables or for playing a single game with up to 6 players when combined with Dominion. This game adds 25 new Kingdom cards and a complete set of Treasure and Victory cards. The game can be played alone by players experienced in Dominion or with the basic game of Dominion.
+
+Part of the Dominion series.
+
+Integrates with:
+
+    Dominion
+
+
+Also released as an expansion that requires the base game or card set to play: Dominion: Die Intrige – Erweiterung.
+
+</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="348">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="210" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="118" />
+					<result value="Recommended" numvotes="179" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="210" />
+					<result value="Recommended" numvotes="104" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="128" />
+					<result value="Recommended" numvotes="156" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="74" />
+					<result value="Not Recommended" numvotes="153" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="61" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="90">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="2" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="24" />
+					<result value="10" numvotes="36" />
+					<result value="12" numvotes="22" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="82">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="45" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="26" />
+					<result level="5" value="Unplayable in another language" numvotes="4" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81575" value="Digital Implementations: VASSAL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171915" value="Dominion: Adventures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172592" value="Dominion: Alchemisten &amp; Reiche Ernte – Mixbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66098" value="Dominion: Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347307" value="Dominion: Allies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="41105" value="Dominion: Black Market Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285887" value="Dominion: Captain Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285888" value="Dominion: Church Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="90850" value="Dominion: Cornucopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416002" value="Dominion: Cornucopia &amp; Guilds – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="415317" value="Dominion: Cornucopia &amp; Guilds (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125403" value="Dominion: Dark Ages" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238623" value="Dominion: Dismantle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="192951" value="Dominion: Empires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39707" value="Dominion: Envoy Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228386" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416819" value="Dominion: Farm Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110831" value="Dominion: Governor Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137166" value="Dominion: Guilds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177903" value="Dominion: Guilds &amp; Cornucopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104557" value="Dominion: Hinterlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365192" value="Dominion: Hinterlands – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365432" value="Dominion: Hinterlands (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234892" value="Dominion: Höflinge Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209358" value="Dominion: Intrigue – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413562" value="Dominion: Marchland Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298055" value="Dominion: Menagerie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232452" value="Dominion: Nocturne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369536" value="Dominion: Plunder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160943" value="Dominion: Prince Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66690" value="Dominion: Prosperity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364019" value="Dominion: Prosperity – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362517" value="Dominion: Prosperity (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257673" value="Dominion: Renaissance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420298" value="Dominion: Rising Sun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209431" value="Dominion: Sauna / Avanto Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="51811" value="Dominion: Seaside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="356205" value="Dominion: Seaside – Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355958" value="Dominion: Seaside (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66682" value="Dominion: Stash Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182822" value="Dominion: Summon Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209357" value="Dominion: Update Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="395840" value="Dominion: Verlies Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101665" value="Dominion: Walled Village Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128915" value="Paradox (fan expansion for Dominion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232930" value="Pirate&#039;s Life (fan expansion for Dominion)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138408" value="Dominion: Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="36218" value="Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="275626" value="Dominion: Einsteiger-Bigbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="209418" value="Dominion: Second Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209419" value="Dominion: Intrigue (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="184207" value="Het Koninkrijk Dominion" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11968" value="Martin Hoffmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12123" value="Alexander Jung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11827" value="Lars-Arne &quot;Maura&quot; Kalusky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65624" value="Joshua J. Stewart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11797" value="Christof Tisch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gémklub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="34841" />
+			<average value="7.68524" />
+			<bayesaverage value="7.49867" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="135" bayesaverage="7.49867" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="122" bayesaverage="7.50743" />
+												</ranks>
+
+			<stddev value="1.34935" />
+			<median value="0" />
+			<owned value="51674" />
+			<trading value="660" />
+			<wanting value="417" />
+			<wishing value="3218" />
+			<numcomments value="4686" />
+			<numweights value="1399" />
+			<averageweight value="2.4103" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="209419">
+         <thumbnail>https://cf.geekdo-images.com/cONYkcqV1Oq_hfmVb3txUw__small/img/8lCsz6k57_ewbJm0Oc11tzWkOOU=/fit-in/200x150/filters:strip_icc()/pic4887741.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cONYkcqV1Oq_hfmVb3txUw__original/img/cR-CtbAD0b--DWaHfvGovk7zigQ=/0x0/filters:format(jpeg)/pic4887741.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Intrigue (Second Edition)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Die Intrige 2. Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intriga" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intriga (Segunda Edición)" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intrige! (Tweede Editie)" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Intrigo (Seconda Edizione)" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: L&#039;Intrigue – Seconde Édition" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：陰謀 第二版" />
+			    				
+				<name type="alternate" sortindex="1" value="도미니언: 장막 뒤의 사람들 (2021년 개정판)" />
+			
+						               													<description>"Something&amp;rsquo;s afoot. The steward smiles at you like he has a secret, or like he thinks you have a secret, or like you think he thinks you have a secret. There are secret plots brewing, you&amp;rsquo;re sure of it. At the very least, there are yours. A passing servant murmurs, &amp;ldquo;The eggs are on the plate.&amp;rdquo; You frantically search your codebook for the translation before realizing he means that breakfast is ready. Excellent. Everything is going according to plan."
+
+Dominion: Intrigue (Second Edition), an expansion for Dominion or Dominion (Second Edition), contains 26 Kingdom card types that can be used with the base game. It no longer has Basic cards and thus is no longer a stand-alone expansion; to expand to 5-6 players, use Base Cards.
+
+Dominion: Intrigue (Second Edition) replaces six Kingdom card types from the first edition with six new types of Kingdom cards, while also replacing the blank cards in that item with a seventh new Kingdom card; these new cards are also available on their own in the Dominion: Intrigue Update Pack. In addition, the rulebook has been rewritten, one card has had a mild functional change (Masquerade skips players with no cards in hand), and other cards have received updated wording while remaining functionally the same.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182822" value="Dominion: Summon Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="234892" value="Dominion: Höflinge Promo Card" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209358" value="Dominion: Intrigue – Update Pack" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="216849" value="Dominion (Second Edition) Big Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11968" value="Martin Hoffmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12123" value="Alexander Jung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11827" value="Lars-Arne &quot;Maura&quot; Kalusky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49943" value="Lorraine Schleter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65624" value="Joshua J. Stewart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11797" value="Christof Tisch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56684" value="Laguna" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2084" />
+			<average value="8.12273" />
+			<bayesaverage value="6.66842" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.66842" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.84005" />
+												</ranks>
+
+			<stddev value="1.18987" />
+			<median value="0" />
+			<owned value="6795" />
+			<trading value="66" />
+			<wanting value="88" />
+			<wishing value="542" />
+			<numcomments value="363" />
+			<numweights value="48" />
+			<averageweight value="2.2708" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="209358">
+         <thumbnail>https://cf.geekdo-images.com/anvkqd4zX0NMitRghzrWGA__small/img/u04stK7NGjNpYmpBH06kIEIQq7Y=/fit-in/200x150/filters:strip_icc()/pic3187291.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/anvkqd4zX0NMitRghzrWGA__original/img/cnxCDxLk9MKbZkMLKPYOMZiqEG4=/0x0/filters:format(jpeg)/pic3187291.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Intrigue – Update Pack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: L&#039;Intrigue – Pack de mise à jour" />
+			
+						               													<description>Dominion: Intrigue Update Pack contains the seven new kingdom cards introduced in the second edition of Dominion: Intrigue, thereby allowing owners of the first edition to obtain these new cards without needing to repurchase the entire game.
+
+The new cards: Lurker, Diplomat, Mill, Secret Passage, Courtier, Patrol, Replace
+
+The following cards included in the first edition should be removed when using the Intrigue second edition Update Pack.
+Secret Chamber, Great Hall, Coppersmith, Scout, Saboteur, Tribute
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="216849" value="Dominion (Second Edition) Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="228386" value="Dominion: Erweiterung – Basisspiel &amp; Die Intrige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209419" value="Dominion: Intrigue (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="509" />
+			<average value="8.12931" />
+			<bayesaverage value="5.95662" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.95662" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.10348" />
+												</ranks>
+
+			<stddev value="1.25564" />
+			<median value="0" />
+			<owned value="2683" />
+			<trading value="19" />
+			<wanting value="42" />
+			<wishing value="237" />
+			<numcomments value="144" />
+			<numweights value="10" />
+			<averageweight value="2.1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="413562">
+         <thumbnail>https://cf.geekdo-images.com/CLWxH_15AKz0-58ls-EY4Q__small/img/TL_V54jS4cE0O2Pd9-tepueVkXE=/fit-in/200x150/filters:strip_icc()/pic8017053.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/CLWxH_15AKz0-58ls-EY4Q__original/img/k_45LRHhlq8S0jMl_Q22IkEpZR0=/0x0/filters:format(jpeg)/pic8017053.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Marchland Promo Card" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Grenzregion" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominion: Grenzregion Promokarte" />
+			
+						               													<description>This card was released through the magazine Spielbox #1/2024. Was later available as part of backing Game Boy Geek - Season 12 Kickstarter.
+
+It was created as a replacement for Silk Road in Dominion: Hinterlands (Second Edition), but was excluded from that expansion, as a Victory Kingdom pile would have too many cards to fit in the 100-card Dominion: Hinterlands &amp;ndash; Update Pack.
+
+Text:
+
+
+
+    
+        Marchland (Victory - Cost 5 [coin])
+
+    
+    
+         Worth 1 [VP] per 3 Victory cards you have (round down).
+When you gain this, +1 Buy, and discard any number of cards for +1 [coin] each.
+
+    
+
+
+Part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="135" value="Magazine: Spielbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23532" value="Promotional: Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365192" value="Dominion: Hinterlands – Update Pack" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365432" value="Dominion: Hinterlands (Second Edition)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40032" value="Eric J. Carter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="79" />
+			<average value="8.26646" />
+			<bayesaverage value="5.58883" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58883" />
+												</ranks>
+
+			<stddev value="1.33314" />
+			<median value="0" />
+			<owned value="728" />
+			<trading value="50" />
+			<wanting value="27" />
+			<wishing value="72" />
+			<numcomments value="51" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="298055">
+         <thumbnail>https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__small/img/lF9QNIzgtRDA0FKmcrXhQTJ2Kbo=/fit-in/200x150/filters:strip_icc()/pic5153393.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/H2DMvSKMNxUMi45QHmLn2A__original/img/E7tJzKLCZOwwJt2GirbKmqt5QFc=/0x0/filters:format(jpeg)/pic5153393.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Menagerie" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ドミニオン：移動動物園" />
+			
+						               													<description>Dominion, that's what you're trying to achieve. This time with animals! They each have a lesson to teach, whether it's how to spit really far or what kind of grass tastes the best. It's a lot to keep track of, but you're like an elephant: you remember everything. And you're afraid of mice. You've taken up riding. Horses are intimidating; they say you can lead a horse to water, but you haven't managed it, so you're working your way up, starting with dogs. So far so good; the dog hasn't bucked you off yet. Your menagerie got off to a poor start, with just a goat, two rats, and the advisor who suggested starting a menagerie. You couldn't get that fox you wanted, but it was probably bad anyway. Now you've got some camels, which are just as useless for sewing as you'd been warned, and a turtle that can hold its breath for longer than anyone can stay interested. Soon the animal kingdom will be yours.
+
+Dominion: Menagerie, the 13th expansion to Dominion, has 400 cards, with thirty new Kingdom cards. There are Horses that save a draw for later, Exile mats that cards can be sent to and rescued from, and Ways that give Actions another option. Events return. You need the basic cards and rulebook in order to play Dominion: Menagerie, which can be combined with any other expansion in the game series.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182822" value="Dominion: Summon Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82878" value="Elisa Cella" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1134" />
+			<average value="8.2739" />
+			<bayesaverage value="6.36921" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.36921" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.55493" />
+												</ranks>
+
+			<stddev value="1.23271" />
+			<median value="0" />
+			<owned value="4608" />
+			<trading value="28" />
+			<wanting value="159" />
+			<wishing value="661" />
+			<numcomments value="211" />
+			<numweights value="23" />
+			<averageweight value="2.6957" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="232452">
+         <thumbnail>https://cf.geekdo-images.com/V7tSsQGq_ADFByx5dvTb7w__small/img/x_S9T5ktKnDfH4sJG7FUlkz3o-M=/fit-in/200x150/filters:strip_icc()/pic3677538.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/V7tSsQGq_ADFByx5dvTb7w__original/img/dEy2iWdPpzCUu57XMWK4oxCgi2g=/0x0/filters:format(jpeg)/pic3677538.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Dominion: Nocturne" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dominion: Pieśń nocy" />
+			    				
+				<name type="alternate" sortindex="1" value="ドミニオン：夜想曲" />
+			
+						               													<description>Game description from the publisher:
+
+You've always been a night person; lately you've even considered becoming a vampire. There are a lot of advantages: you don't age; you don't have to see yourself in mirrors anymore; if someone asks you to do something, you can just turn into a bat, and then say, sorry, I'm a bat. There are probably some downsides though. You always think of the statue in the town square that came to life and now works as the tavern barmaid. The pedestal came to life too, so she has to hop around. The village blacksmith turns into a wolf whenever there's a full moon; when there's a crescent moon, he turns into a chihuahua. That's how this stuff goes sometimes. Still, when you breathe in the night air, you feel ready for anything.
+
+Dominion: Nocturne, the 11th expansion to Dominion, has 500 cards, with 33 new Kingdom cards. There are Night cards, which are played after the Buy phase; Heirlooms that replace starting Coppers; Fate and Doom cards that give out Boons and Hexes; and a variety of extra cards that other cards can provide.
+
+Dominion: Nocturne is a part of the Dominion series.
+
+</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19299" value="Creatures: Fairies / Elves / Pixies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6428" value="Creatures: Vampires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62254" value="Creatures: Werewolves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2580" value="Game: Dominion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="374339" value="Dominion: Sammler-Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36218" value="Dominion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216849" value="Dominion (Second Edition) Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142131" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142132" value="Dominion: Big Box" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275626" value="Dominion: Einsteiger-Bigbox" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40834" value="Dominion: Intrigue" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209418" value="Dominion: Second Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149083" value="Dominion: Special Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184207" value="Het Koninkrijk Dominion" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="137963" value="Dominion: Base Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419783" value="Dominion: Tame My Games Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10525" value="Donald X. Vaccarino" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11933" value="Matthias Catrein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82878" value="Elisa Cella" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49942" value="Garret DeChellis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59030" value="Radosław Jaszczuk" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1710" />
+			<average value="7.86668" />
+			<bayesaverage value="6.43824" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.43824" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.61216" />
+												</ranks>
+
+			<stddev value="1.37804" />
+			<median value="0" />
+			<owned value="6403" />
+			<trading value="34" />
+			<wanting value="185" />
+			<wishing value="855" />
+			<numcomments value="338" />
+			<numweights value="33" />
+			<averageweight value="2.8485" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

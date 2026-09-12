@@ -1,0 +1,7452 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="86669">
+         <thumbnail>https://cf.geekdo-images.com/c98B9Oe_NQjrXimBENre5Q__small/img/8iu5xU0ubYk658NpcLIrWC2Ghfo=/fit-in/200x150/filters:strip_icc()/pic845298.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/c98B9Oe_NQjrXimBENre5Q__original/img/ghFYEfpNQDcKnC27o5B5hKoTmDE=/0x0/filters:format(jpeg)/pic845298.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan Scenarios: Helpers of Catan" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan Szenarien: Die Helfer" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Pomocnicy Z Catanu" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan: Die Helfer von Catan" />
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы: Мастера" />
+			
+						               													<description>Catan Scenarios: Helpers of Catan &amp;ndash; a mini-expansion for Catan that's compatible with Catan: Seafarers and both Catan: 5-6 Player Expansion and Catan: Seafarers – 5-6 Player Extension &amp;ndash; consists of ten character cards, each of which has a different special ability that the player can use once or twice before trading for another. For example, Marianne lets you take any one resource card if you rolled something other than a 7, but didn't get resources from that roll. As each player builds her second settlement, she takes a specific card based on player order, with approximate utility increasing to help combat earlier player advantage. A player must use her card's ability before she may turn it in, but she may choose which card to take, adding a level of strategy.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17419" value="Catan 3D Collector&#039;s Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338697" value="Catan: 3D Edition" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="325" value="Catan: Seafarers" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="4103" value="Catan: Seafarers – 5-6 Player Extension" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="152959" value="The Settlers of Catan" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="305668" value="Catan: 25th Anniversary Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="182880" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="191710" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="269980" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="265030" value="Catan: Big Box Jubileumeditie" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="367791" value="Catan: The Helpers" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3659" value="Catan GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="518" />
+			<average value="7.17152" />
+			<bayesaverage value="5.77185" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.77185" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="5.84494" />
+												</ranks>
+
+			<stddev value="1.45876" />
+			<median value="0" />
+			<owned value="2426" />
+			<trading value="51" />
+			<wanting value="27" />
+			<wishing value="146" />
+			<numcomments value="218" />
+			<numweights value="30" />
+			<averageweight value="2.1333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="110794">
+         <thumbnail>https://cf.geekdo-images.com/S6lFCDv4C50Opn_XpHEYOg__small/img/5oNRUZd0W-elzgvZ0DXJHntVxXo=/fit-in/200x150/filters:strip_icc()/pic1122141.png</thumbnail>
+      <image>https://cf.geekdo-images.com/S6lFCDv4C50Opn_XpHEYOg__original/img/lw4oVwoX10zjpb5ndlce8thYcxQ=/0x0/filters:format(png)/pic1122141.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan Scenarios: Oil Springs" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catán Escenarios: Yacimientos de petróleo" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan Escenaris: Jaciments de petroli" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan Scenario&#039;s: De Oliebronnen" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan Szenarien: Die Ölquellen" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Ropa Z Catanu" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan: Die Ölquellen" />
+			
+						               													<description>Game description from the publisher:
+
+In Catan Scenarios: Oil Springs settlers arriving on Catan will cry "Eureka!" as they discover black gold on the island for the first time. This resource brings great opportunity but also danger to the intrepid settlers as they make their mark on the island, claiming it for their own.
+
+First, the good news: Oil can increase resource yields and allow a settlement to grow much faster than normal. The bad news is that players need to monitor the damage their oil use does to the environment and will eventually have to contend with global climate devastation which can result in all players losing the game!
+
+Catan Scenarios: Oil Springs brings home the challenges and opportunities of the current global economy to players while adding more fun and complexity to the Catan experience.
+
+Catan Scenarios: Oil Springs is offered both as a PnP game available on the Catan website, as well as a published edition.  The packaging states "revenue from the sales of the cardboard version of this scenario will be used to cover the expenses of graphics and printing.  Further profits will support Worldwatch's Transforming Cultures Project."
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="53400" value="Erik Assadourian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="53399" value="Ty Hansen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53400" value="Erik Assadourian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53399" value="Ty Hansen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3659" value="Catan GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="391" />
+			<average value="6.70271" />
+			<bayesaverage value="5.6373" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.6373" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="5.66696" />
+												</ranks>
+
+			<stddev value="1.66823" />
+			<median value="0" />
+			<owned value="2432" />
+			<trading value="56" />
+			<wanting value="14" />
+			<wishing value="101" />
+			<numcomments value="182" />
+			<numweights value="29" />
+			<averageweight value="2.1724" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="211081">
+         <thumbnail>https://cf.geekdo-images.com/KnsE871bIPCeTHmdxdNvGQ__small/img/xHtxFfLIJ7T7ReOu_jI6H1p-aj8=/fit-in/200x150/filters:strip_icc()/pic3327951.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KnsE871bIPCeTHmdxdNvGQ__original/img/LDQ3xP970crwdn1F_7Qv5IlkXTI=/0x0/filters:format(jpeg)/pic3327951.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan scenariusze: Mapy – Polska" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan Länderszenarien: Polen" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Polska" />
+			
+						               													<description>A special map for playing Catan. The map displays Poland with some information about the major cities and Poland.
+It's a pre-printed map and you need the original game to play.
+
+The game follows the usual Catan rules with some differences:
+- Players may only build cities in the round intersections denoting actual cities.
+- Players can only build streets on pre-printed places. You have to build a settlement on the actual cities before placing another street.
+- Instead of harbors there are some cities where a player can trade in 3:1 or 2:1.
+- Victory points can be obtained by building the first road onto a "victory point crossing." These points are indicated by tokens (e.g. from the Catan: Seafarers  expansion) placed there. Only with 3 or 4 players.
+- The robber starts next to the board.
+
+A player wins the game if it's his or her turn:
+- 3 players - 13 victory points
+- 4 players - 12 victory points
+- 5 or 6 players - 10 victory points
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–6+ players" />
+  <result name="recommmendedwith" value="Recommended with 3–6+ players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20002" value="Series: Catan Geographies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="143523" value="Michał Zwierzyński" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12382" value="Tanja Donner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="33" />
+			<average value="6.67364" />
+			<bayesaverage value="5.51113" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51113" />
+												</ranks>
+
+			<stddev value="1.66262" />
+			<median value="0" />
+			<owned value="206" />
+			<trading value="5" />
+			<wanting value="8" />
+			<wishing value="33" />
+			<numcomments value="24" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="91534">
+         <thumbnail>https://cf.geekdo-images.com/PVKZVJjQtNS_q39ZG3WihA__small/img/ZKC4c82cUgC37kLSiDCunNHGBY0=/fit-in/200x150/filters:strip_icc()/pic8808925.png</thumbnail>
+      <image>https://cf.geekdo-images.com/PVKZVJjQtNS_q39ZG3WihA__original/img/RFMez4cNixiYBhyHO9j6miDTg38=/0x0/filters:format(png)/pic8808925.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Struggle for Catan" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="CATAN Szybka Gra Karciana" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Das schnelle Kartenspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: El juego de Cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Het snelle kaartspel" />
+			    				
+				<name type="alternate" sortindex="1" value="CATAN: Jocul de cărți" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: O Jogo de Cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: O Jogo de Cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Rychlá karetní hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Catane: Le jeu de cartes" />
+			    				
+				<name type="alternate" sortindex="1" value="Colonistii din Catan: Jocul de carti" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan: Het snelle Kaartspel" />
+			    				
+				<name type="alternate" sortindex="1" value="Naseljenci otoka Catan: Hitra igra s kartami" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadníci z Katanu: Rychlá karetní hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadnicy z Catanu: Szybka gra karciana" />
+			    				
+				<name type="alternate" sortindex="1" value="Oι Άποικοι του Κατάν: Το παιχνίδι με κάρτες" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan: Das schnelle Kartenspiel" />
+			    				
+				<name type="alternate" sortindex="5" value="The Struggle for Catan" />
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы: Быстрая карточная игра" />
+			    				
+				<name type="alternate" sortindex="1" value="カタンの開拓者たち カードゲーム版" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島快速紙牌版" />
+			    				
+				<name type="alternate" sortindex="1" value="카탄: 카드 게임" />
+			
+						               													<description>In 2010, designer Klaus Teuber overhauled the two-player Catan card game with the release of The Rivals for Catan &amp;ndash; released in Germany as Die F&amp;uuml;rsten von Catan &amp;ndash; and in 2011 Teuber, Kosmos and Mayfair Games present a new multi-player card game set in the Catan universe: The Struggle for Catan, aka, Die Siedler von Catan: Das schnelle Kartenspiel.
+
+As in the original The Settlers of Catan board game, players need to manage their resources in order to build settlements, roads, cities, city improvements and knights, all of which grant victory points (VPs) or special abilities. Control of roads and knights can change hands during the game, so don't assume that what's yours will stay yours. City improvements are expensive, but they bring you additional VPs and other bonuses, so strive to spiff up your cities! The first player to have ten VPs wins the game.
+
+The game is dice-less and resource gain and exchanging is based on each player's developments making this version less luck dependent than the original. A twist in the game is that certain developments are limited and can be stolen from other players once there are no new ones left. The first player to gain 10 victory points, wins the game.
+
+(Note that Kosmos lists this game with a 30-minute playing time, while Mayfair Games sets the playing time at 45-60 minutes.)
+
+Mixing two copies of game, can be played with 5 and 6 players.
+
+</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132700" value="Die Siedler von Catan: Das schnelle Kartenspiel – Stadtausbau Kathedrale" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26990" value="Dexy Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21640" value="GP Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8822" value="Ideal Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31372" value="Igroljub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3331" />
+			<average value="6.16406" />
+			<bayesaverage value="5.84605" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4387" bayesaverage="5.84605" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1517" bayesaverage="5.88353" />
+												</ranks>
+
+			<stddev value="1.3789" />
+			<median value="0" />
+			<owned value="9683" />
+			<trading value="306" />
+			<wanting value="29" />
+			<wishing value="172" />
+			<numcomments value="792" />
+			<numweights value="170" />
+			<averageweight value="1.6647" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="27766">
+         <thumbnail>https://cf.geekdo-images.com/-wW5iAnqudxpqGmT4YIQ7g__small/img/9qS-yi0nySdtOqGzy5a_jsGxEp4=/fit-in/200x150/filters:strip_icc()/pic266168.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-wW5iAnqudxpqGmT4YIQ7g__original/img/ZtgDSI0UEPSH9jnXtM9XuXJp1Gk=/0x0/filters:format(jpeg)/pic266168.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="Die Siedler von Catan: Junior" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan telepesei Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Catane Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Catanin uudisasukkaat Junior" />
+			    				
+				<name type="alternate" sortindex="3" value="I Coloni Di Catan Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Colonistii din Catan: Junior" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadníci z Katanu: Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="카탄 주니어" />
+			
+						               													<description>Die Siedler von Catan: Junior  is, as you might expect, a junior edition of The Settlers of Catan, and while the game play remains mostly the same &amp;ndash; with players collecting and trading resources in order to build things, gain more resources and score points &amp;ndash; the setting is new.
+
+Instead of being settlers, though, the players are now pirates, with pirate warehouses located on islands in the waters around Catan and ships sailing in those waters. Pirate warehouses are equivalent to settlements in Catan, and the player receive resources from these warehouses whenever a die roll matches the number showing on that island. These resources take the form of equipment cards, and the resources are wood, wool, rum, sabers and gold. With these, players construct ships and more pirate warehouses or buy development cards. Instead of a robber, players must now beware of a Ghost Pirate, which can block the resources normally provided by a warehouse.
+
+Each player starts with two pirate warehouses, and the first player to build seven warehouses wins. In order to build a new warehouse, however, a player must go by ship from an existing warehouse to a new construction site, which thus keeps players alternating between constructing ships and warehouses.
+
+Aside from the change in theme, other changes between The Settlers of Catan and Catan: Junior include the elimination of cities (i.e., warehouses can't be upgraded) and the distance rule between settlements, resources allocated by the roll of one die instead of a pair of D6s, and the introduction of a marketplace that allows trading with the bank. At the start of the game, one equipment card of each type is placed in the marketplace; on a player's turn, he can exchange one card in hand for a card in the marketplace. At certain times in the game, the marketplace is cleared and reset to feature one equipment card of each type.
+
+</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children&#039;s Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62080" value="Versions &amp; Editions: Junior Versions of Grown-Up Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="184842" value="Catan Junior" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="125921" value="Catan: Junior" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12834" value="Annette Nora Kara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="45655" value="Patricia Raubo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="548" />
+			<average value="6.30814" />
+			<bayesaverage value="5.63492" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8069" bayesaverage="5.63492" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="130" bayesaverage="6.10668" />
+												</ranks>
+
+			<stddev value="1.35347" />
+			<median value="0" />
+			<owned value="1128" />
+			<trading value="31" />
+			<wanting value="13" />
+			<wishing value="79" />
+			<numcomments value="119" />
+			<numweights value="31" />
+			<averageweight value="1.5484" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="167573">
+         <thumbnail>https://cf.geekdo-images.com/PmK9VS5O8uheqXnJ5gvZjA__small/img/Jb4e_9k4E499TOXLgYzhtgOHRuI=/fit-in/200x150/filters:strip_icc()/pic2284659.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PmK9VS5O8uheqXnJ5gvZjA__original/img/tWGSr_PWqFIo6In_Ma3Fqac2qzY=/0x0/filters:format(jpeg)/pic2284659.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Mayfair Games&#039; Limited Edition Promo Expansion Set #17" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan World Championship Berlin 2014 Special" />
+			
+						               													<description>CWC Berlin 2014 Special is a small expansion of the Settlers of Catan base game, given to contestants at the 2014 Catan World Championship.
+
+After distributing the remaining terrain hexes and number tokens according to the game rules, the Berlin hex "Brandenburg Gate" replaces the desert and the Berlin hex "Museum for Communication" replaces the hex that received the 2 token; the 2 token is removed from the game.  The "Berlin Bear" replaces the robber (malicious gossip has it that Berlin's heraldic animal is collecting resources for the completion of the Berlin airport).
+
+When a 7 is rolled, the resulting actions are carried out according to the normal rules.  Afterwards, each player with a settlement or city at a corner of a Berlin hex receives the resource produced by the terrain hex the "Berlin bear" was moved to.  A player who has various settlements or cities adjacent to a Berlin hex still only gets 1 resource.
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18214" value="Cities: Berlin (Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24166" value="Promotional: Mayfair Expansions" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="182880" value="Catan: Big Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="176966" value="Catan: Catan Day 2015 Exclusive Expansion" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65040" value="Benjamin Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12382" value="Tanja Donner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="26" />
+			<average value="6.875" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.74297" />
+			<median value="0" />
+			<owned value="352" />
+			<trading value="30" />
+			<wanting value="11" />
+			<wishing value="43" />
+			<numcomments value="38" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="66056">
+         <thumbnail>https://cf.geekdo-images.com/n5x9eZiQ7Da4SQjB7M41-w__small/img/dGMw2df-4gOwfLCdUeJceBeLCk8=/fit-in/200x150/filters:strip_icc()/pic6877018.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/n5x9eZiQ7Da4SQjB7M41-w__original/img/Y6dJpidB1624ox-QCAdiSVsCnf4=/0x0/filters:format(jpeg)/pic6877018.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Rivals for Catan" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan Двубоят" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Das Duell" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Duel" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Duellen" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Duelul" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Dvoboj" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: El duelo" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Het Duel" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Il Duello" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Kaksinkamppailu" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: O Duelo" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Fürsten von Catan" />
+			    				
+				<name type="alternate" sortindex="1" value="Knížata z Katanu" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Princes de Catane" />
+			    				
+				<name type="alternate" sortindex="5" value="Los Príncipes de Catán" />
+			    				
+				<name type="alternate" sortindex="5" value="The Rivals for Catan" />
+			    				
+				<name type="alternate" sortindex="4" value="De Vorsten van Catan" />
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы: Князья Катана" />
+			    				
+				<name type="alternate" sortindex="1" value="Крале и Владетели на Катан" />
+			
+						               													<description>The Rivals for Catan is a reimplementation of Catan Card Game.
+
+The Rivals for Catan was released in German in September of 2010, on the 15th anniversary of the original card game. An English edition was released in the fourth quarter of 2010. The designer of the game, Klaus Teuber, has stated that he completely reworked many of the original card game's mechanics to make it easier for newcomers to play the game.
+
+Each player portrays a prince for Catan, developing their individual provinces and competing to build a more successful province than the other.  The basic mode of play is similar to the original Catan Card Game, where players expand their provinces by building settlements connected by roads.  Players may also build expansions in their settlements that aid them in various ways, or upgrade their settlements to cities to allow more expansions to be built.  They build these additions by using resources that they accumulate each turn, which are determined by the roll of a die.  Cards are drawn on each turn to replenish the players' hands.  The players may also use action cards that directly affect either their own province or their opponent's province.
+
+The Rivals for Catan features a reduced pool of cards, without the more aggressive style of action cards found in the original Catan Card Game.  Therefore, all action cards will be able to be used from the beginning of the game unlike in the original card game.
+
+Ways to Play:
+The Introductory Game focuses on the basics of the card game, featuring gameplay that is more appropriate for newcomers.  This game is played to 7 victory points and includes 36 Expansion Cards in four stacks.  This play style should take beginner players 25 to 30 minutes to play.
+
+Three Theme Games add more rules, expansions, and aggressive cards.  These Theme Games may be played individually or combined to play a variant called "The Duel of the Princes."  Each Theme Game adds 24 Expansion and Event Cards to the cards from the Introductory Game, which are placed in two stacks separately from the cards from the Introductory Game.  When playing a Theme Game, playtime should be around 45 to 60 minutes.
+
+As with the original Catan Card Game, players can also play the Tournament Game, in which each player chooses specific cards to build their deck ahead of time from which they draw from during the game.
+
+Theme:
+The theme of The Rivals for Catan is no longer restricted only to the feudal era of the Middle Ages like the original Catan Card Game.  The Introductory Game portrays the very early years of the world of Catan, while each Theme Game takes place in progressively later eras.  These eras are known as "The Era of Gold," "The Era of Turmoil," and "The Era of Progress."
+
+Belongs to the Catan Series.
+
+</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="97">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="92" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="70" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="32">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="14" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26100" value="Game: The Rivals for Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78" value="Series: Two-player games (Kosmos)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62276" value="Versions &amp; Editions: Two-Player Versions of More-Player Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324882" value="Catan: Das Duell – Finstere &amp; Goldene Zeiten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211557" value="Catan: Das Duell – Sonderkarte 2016: 20 Jahre Catan, das Spiel für 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212234" value="Catan: Das Duell – Sonderkarte 2016: Michael der Wagemutige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238673" value="Catan: Das Duell – Sonderkarte 2017: Isabell, die Handelsagentin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350674" value="Catan: Das Duell – Sonderkarte 2021: 25 Jahre CATAN-Kartenspiel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350673" value="Catan: Das Duell – Sonderkarte 2021: Weinberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372567" value="Catan: Das Duell – Sonderkarte 2022: Sonja, die Schäferin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402962" value="Catan: Das Duell – Sonderkarte 2023: Klaus, Hüter von Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341591" value="Catan: Zusatzmaterial für Das Duell – Bonus Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118173" value="Die Fürsten von Catan: Sonderkarte 2011 – Carol, die Spieleerklärerin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168216" value="Die Fürsten von Catan: Sonderkarte 2014 – Arnd, der Fischer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131707" value="Die Fürsten von Catan: Sonderkarte Frühjahr 2012 – Catan Mobil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="93401" value="Rivals for Catan: Age of Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127437" value="Rivals for Catan: Age of Enlightenment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133042" value="The Rivals for Catan: Alexander and Sebastian, the Bookkeepers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="88610" value="The Rivals for Catan: Axel the Innovator" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="247494" value="Rivals for Catan: Deluxe – Promo Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149833" value="The Rivals for Catan: Gavin the Polyglot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186788" value="The Rivals for Catan: Heiko the Master Swimmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348682" value="Rivals for Catan: Hostel Scenario" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="111255" value="The Rivals for Catan: Johannes the Advocate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186215" value="The Rivals for Catan: Participation in the Big Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186789" value="The Rivals for Catan: Ron the Well-Travelled Man" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="156679" value="Die Fürsten von Catan: 6 Kartenhalter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="451325" value="Rivals of Catan: Play Mats" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="394739" value="Catan: Das Duell – Die Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="250619" value="Catan: Het Duel Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="203219" value="Rivals for Catan: Deluxe" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="27802" value="Anno 1701: Das Kartenspiel" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="278" value="Catan Card Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8822" value="Ideal Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31372" value="Igroljub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29036" value="IntelliGames.BG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44204" value="Spilbræt.dk" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8567" />
+			<average value="6.93053" />
+			<bayesaverage value="6.56083" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1195" bayesaverage="6.56083" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="808" bayesaverage="6.57827" />
+												</ranks>
+
+			<stddev value="1.39916" />
+			<median value="0" />
+			<owned value="21967" />
+			<trading value="505" />
+			<wanting value="110" />
+			<wishing value="1062" />
+			<numcomments value="1680" />
+			<numweights value="339" />
+			<averageweight value="2.3245" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="298278">
+         <thumbnail>https://cf.geekdo-images.com/DtgCRXApAqkDhlGbg2Vc7Q__small/img/kCbnZvgXZ-kofAH-Sx-s8Zm9s0A=/fit-in/200x150/filters:strip_icc()/pic5868472.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DtgCRXApAqkDhlGbg2Vc7Q__original/img/PLiZ1ldVwnIVY7r55cCcJt6rXbU=/0x0/filters:format(jpeg)/pic5868472.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: 25 Jahre Jubiläums-Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan (Колонизаторы): Юбилейное издание" />
+			    				
+				<name type="alternate" sortindex="1" value="CATAN Starter Set" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 25 años edición aniversario" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 25 jaar wereldwijd jubileum" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Edycja jubileuszowa" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Les 25 Ans" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Zestaw osadnika" />
+			    				
+				<name type="alternate" sortindex="1" value="Катан: Юбилейное издание" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島25週年紀念版" />
+			
+						               													<description>Catan: 25 Jahre Jubil&amp;auml;ums-Edition is a special edition of Catan to celebrate the 25th anniversary of the game's debut, with this package containing the Catan base game, Catan: Seafarers, and two scenarios: Catan: Hawaii and Catan: Iberian Peninsula.
+
+NOTE: not to be confused with Catan: 25th Anniversary Edition, which contains different expansions.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="238135" value="Catan: Hawai&#039;i Scenario" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="325" value="Catan: Seafarers" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="167836" value="Die Siedler von Catan: Hispania Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="106" />
+			<average value="7.78467" />
+			<bayesaverage value="5.58671" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58671" />
+												</ranks>
+
+			<stddev value="1.30402" />
+			<median value="0" />
+			<owned value="334" />
+			<trading value="7" />
+			<wanting value="7" />
+			<wishing value="23" />
+			<numcomments value="19" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="305668">
+         <thumbnail>https://cf.geekdo-images.com/Qd3l2N9yJK6aBgF1BwM50Q__small/img/nbLNdtcFRakeUgzJuoPBzz8jAP4=/fit-in/200x150/filters:strip_icc()/pic5306683.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Qd3l2N9yJK6aBgF1BwM50Q__original/img/hMvKgl5TFNC3QuuouF3vLKhDK2U=/0x0/filters:format(png)/pic5306683.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: 25th Anniversary Edition" />
+			
+						                           
+						               													<description>Catan: 25th Anniversary Edition contains the Catan base game, the Catan: 5-6 Player Extension, the Helpers of Catan scenario, special iridescent anniversary wood pieces and dice, resource card sorting trays, and card sleeves.
+
+NOTE: not to be confused with Catan: 25 Jahre Jubiläums-Edition, which contains different expansions.
+
+</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="86669" value="Catan Scenarios: Helpers of Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="372" />
+			<average value="7.5906" />
+			<bayesaverage value="5.73419" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.73419" />
+												</ranks>
+
+			<stddev value="1.40151" />
+			<median value="0" />
+			<owned value="1248" />
+			<trading value="11" />
+			<wanting value="17" />
+			<wishing value="85" />
+			<numcomments value="69" />
+			<numweights value="7" />
+			<averageweight value="2.1429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="338697">
+         <thumbnail>https://cf.geekdo-images.com/4Kr0RereFqdS29qe-mNYkQ__small/img/HCQGvP8maKFhqx0cFvkJ18AYTx8=/fit-in/200x150/filters:strip_icc()/pic6192204.png</thumbnail>
+      <image>https://cf.geekdo-images.com/4Kr0RereFqdS29qe-mNYkQ__original/img/m6AB2RgqcA5KF4uC-0Qv8Z_2mas=/0x0/filters:format(png)/pic6192204.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: 3D Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan: Edición 3D" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Edycja 3D" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦3D" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島 3D版" />
+			    				
+				<name type="alternate" sortindex="1" value="카탄 3D" />
+			
+						               													<description>In CATAN, players try to be the dominant force on the island of Catan by building settlements, cities, and roads. On each turn, dice are rolled to determine what resources &amp;mdash; sheep, wheat, wood, brick and ore &amp;mdash; the island produces. Players spend these resources to build settlements, roads, and cities and to purchase development cards that have different effects. Each settlement and city you have is worth points, and you can gain additional points by building the longest road, acquiring the largest army, or collecting certain development cards. The first player to collect 10 points wins.
+
+In CATAN: 3D Edition, the island of Catan rises off the table for an immersive experience like no other. Your settlements grow from fertile grain fields, and your cities nestle into the sides of majestic mountains. The look of the land is based on terrain tiles hand-sculpted by game designer Klaus Teuber. All of the terrain is hand-painted for stunning color, and the intricately-designed player pieces are antiqued for a look that's full of history and character.
+
+&amp;mdash;description from the publisher
+
+Note that this is the same game as Catan, but a decision has been made to keep the entry separate.
+
+</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131958" value="Catan Scenarios: Frenemies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86669" value="Catan Scenarios: Helpers of Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358860" value="Catan: 3D Expansions – Seafarers + Cities &amp; Knights" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352073" value="Catan: Die Stoffräuber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="456397" value="Catan: Ein Herz für den Räuber!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20038" value="Catan: Event Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="456857" value="Catan: Mowlin, the Benevolent Ram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271159" value="Catan: Szenario Der Kölner Dom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367791" value="Catan: The Helpers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416257" value="Catan: The Helpers – Leader of the Flock" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="470" />
+			<average value="7.99552" />
+			<bayesaverage value="5.86786" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.86786" />
+												</ranks>
+
+			<stddev value="1.38015" />
+			<median value="0" />
+			<owned value="1654" />
+			<trading value="33" />
+			<wanting value="50" />
+			<wishing value="185" />
+			<numcomments value="119" />
+			<numweights value="6" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="358860">
+         <thumbnail>https://cf.geekdo-images.com/9tKubPu9DcQrLGkBiJccLw__small/img/62C4fXse1acWkpdotrCWJU7Nel8=/fit-in/200x150/filters:strip_icc()/pic6908378.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9tKubPu9DcQrLGkBiJccLw__original/img/7KcodVle3qI0VxkoiqvoJNDTH8I=/0x0/filters:format(jpeg)/pic6908378.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: 3D Expansions – Seafarers + Cities &amp; Knights" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan: 3D Erweiterung – Seefahrer + Städte &amp; Ritter" />
+			
+						               													<description>CATAN: 3D Expansions &amp;ndash; Seafarers + Cities &amp; Knights features two expansions to use with CATAN: 3D Edition that bring new &amp;mdash; yet familiar &amp;mdash; experiences to the table.
+
+In CATAN &amp;ndash; Seafarers, you send ships to explore uncharted islands to build new settlements and discover valuable gold.
+
+In CATAN: Cities &amp; Knights, you develop cities and join forces with your neighboring factions to defend Catan against ruthless barbarians!
+
+&amp;mdash;description from the publisher
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338697" value="Catan: 3D Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="926" value="Catan: Cities &amp; Knights" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="325" value="Catan: Seafarers" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="79" />
+			<average value="8.44367" />
+			<bayesaverage value="5.58438" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58438" />
+												</ranks>
+
+			<stddev value="0.992388" />
+			<median value="0" />
+			<owned value="490" />
+			<trading value="4" />
+			<wanting value="37" />
+			<wishing value="90" />
+			<numcomments value="27" />
+			<numweights value="2" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="2807">
+         <thumbnail>https://cf.geekdo-images.com/tsDqjx3IqOl4r613Qh6-zQ__small/img/5e5rDr_YrtQysBlizqMnN0Z4Lic=/fit-in/200x150/filters:strip_icc()/pic8828033.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tsDqjx3IqOl4r613Qh6-zQ__original/img/-Hc9FbXGWAsQpI2EV_a9BD9wXPQ=/0x0/filters:format(jpeg)/pic8828033.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: 5-6 Player Expansion" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan (Колонизаторы): Расширение для 5-6 игроков" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan Telepesei: Kiegészitő 5-6 játékos részére" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 5 või 6 mängija laiendus" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 5-6 lisäosa" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 5-6 Mängija Mängulaiend" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 5-6 Oyuncu Ek Paketi" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: 5-6 Player Extension" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: ampliació per a 5 i 6 jugadors" />
+			    				
+				<name type="alternate" sortindex="1" value="Catán: Ampliación para 5 y 6 jugadores" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Basisspel 5-6 Spelers" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Das Spiel – 5-6 Personen Erweiterung" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Das Spiel – Ergänzung 5-6 Spieler" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Dodatak za 5. i 6. igrača" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Dodatek dla 5-6 graczy" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: dodatek za 5. in 6. igralca" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Espansione per 5-6 giocatori" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Expansão para 5-6 Jogadores" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Expansion för 5-6 spelare" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Extension pour 5 et 6 joueurs" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Il Gioco – Espansione per 5-6 Giocatori" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Papildymas 5-6 Žaidėjams" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Paplašinājums 5-6 Spēlētājiem" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Stækkun 5-6 leikmenn" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Utvidelse for 5-6 spillere" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Επέκταση για 5-6 παίκτες" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Дополнение для 5-6 игроков" />
+			    				
+				<name type="alternate" sortindex="1" value="Catane: extension pour 5-6 joueurs" />
+			    				
+				<name type="alternate" sortindex="3" value="I Coloni di Catan: Espansione per 5 o 6 giocatori" />
+			    				
+				<name type="alternate" sortindex="3" value="I Coloni di Catan: Estensione per 5 e 6 giocatori" />
+			    				
+				<name type="alternate" sortindex="1" value="Colonistii din Catan: Extensia pentru 5-6 Jucatori" />
+			    				
+				<name type="alternate" sortindex="1" value="Colonizadores de Catan: Expansão para 5 ou 6 Jogadores" />
+			    				
+				<name type="alternate" sortindex="5" value="Los Colonos de Catán: Expansión 5-6 Jugadores" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Colons de Catane: Extension pour 5 et 6 joueurs" />
+			    				
+				<name type="alternate" sortindex="1" value="I Coloni di Catan: Il Gioco – Espansione per 5 o 6 Giocatori" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan: Uitbreiding voor 5 of 6 spelers" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadníci z Katanu: rozšíření pro 5 a 6 hráčů" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadnicy z Catanu: Dodatek dla 5-6 graczy" />
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers fra Catan: Supplementssæt" />
+			    				
+				<name type="alternate" sortindex="1" value="Settlers från Catan: Expansion för 5-6 spelare" />
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers of Catan: 5-6 Player Expansion" />
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers of Catan: 5-6 Player Extension" />
+			    				
+				<name type="alternate" sortindex="5" value="The Settlers: Supplementsæt for 5 og 6 spiller" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan Ergänzung für 5 &amp; 6 Spieler" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan Ergänzungs-Set für 5 und 6 Spieler" />
+			    				
+				<name type="alternate" sortindex="1" value="Οι Άποικοι του Κατάν: Επέκταση για 5-6 Παίκτες" />
+			    				
+				<name type="alternate" sortindex="1" value="Заселниците на Катан: Допълнение за 5-6 играчи" />
+			    				
+				<name type="alternate" sortindex="1" value="Катан. Доповнення для 5-6 гравців" />
+			    				
+				<name type="alternate" sortindex="1" value="Колонизаторы: Расширение для 5-6 игроков" />
+			    				
+				<name type="alternate" sortindex="1" value="המתיישבים של קטאן: הרחבה ל5 ו-6 שחקנים" />
+			    				
+				<name type="alternate" sortindex="1" value="カタンの開拓者たち スタンダード版 5〜6人用拡張版" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島5-6人擴充" />
+			    				
+				<name type="alternate" sortindex="1" value="카탄: 5-6인용 확장" />
+			
+						               													<description>Allows you to add up to two more opponents to The Settlers of Catan. The only change in the rules is that there is a building round at the end of each turn in which any player can build.
+
+Belongs to the Catan Series.
+
+Expands:
+
+    Catan
+
+
+Expanded by:
+
+    Catan: Seafarers – 5-6 Player Extension
+    Catan: Cities &amp; Knights – 5-6 Player Extension
+
+
+</description>
+										      	               				<yearpublished value="1996" />
+						               				<minplayers value="5" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="163">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="125" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="120" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="89" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="59" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="103" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="56" />
+					<result value="Recommended" numvotes="76" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="114" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 4–6 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="53">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="17" />
+					<result value="10" numvotes="24" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="37">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="30" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61990" value="Players: Expansions Changing Player Count" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131958" value="Catan Scenarios: Frenemies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86669" value="Catan Scenarios: Helpers of Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="110794" value="Catan Scenarios: Oil Springs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238135" value="Catan: Hawai&#039;i Scenario" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="4103" value="Catan: Seafarers – 5-6 Player Extension" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="399807" value="The Siege (fan expansion for Catan)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273558" value="Catan: 3D Clay Pieces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145942" value="Catan: Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306290" value="Catan: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365837" value="Catan: Hexadocks Extension Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346990" value="Catan: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271278" value="Catan: Settlers Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139876" value="Catan: Table of Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273557" value="Catan: Trading Ship Figurines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="182448" value="Catan: Wooden Pieces for 5-6 Players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140406" value="Catan: Wooden Viking Pieces (Basic and Expansion)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140407" value="Catan: Wooden Viking Pieces (Basic Only)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141863" value="Catan: Yucatan Adventure Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140260" value="Catan: Yucatan Wooden Token Set (125 Tokens)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="393266" value="Catan: ZV3DCreations Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140404" value="The Settlers of Catan: Game Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="305668" value="Catan: 25th Anniversary Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="191710" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="269980" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="394723" value="Catan: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="265030" value="Catan: Big Box Jubileumeditie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="152959" value="The Settlers of Catan" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12036" value="Volkan Baga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12382" value="Tanja Donner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13034" value="Pete Fenlon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107207" value="Eric Hibbeler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="133362" value="Andreas Klober" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24191" value="Marion Pott" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106728" value="Quentin Regnes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11" value="Klaus Teuber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12063" value="Stephen Graham Walsh" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3659" value="Catan GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="496" value="danspil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Enigma (Bergsala Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21640" value="GP Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23382" value="HaKubia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8822" value="Ideal Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31372" value="Igroljub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29036" value="IntelliGames.BG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5020" value="Ísöld ehf." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5597" value="Laser plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42" value="Tilsit" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18204" />
+			<average value="6.98272" />
+			<bayesaverage value="6.69061" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.69061" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="6.68814" />
+												</ranks>
+
+			<stddev value="1.57429" />
+			<median value="0" />
+			<owned value="57156" />
+			<trading value="591" />
+			<wanting value="125" />
+			<wishing value="905" />
+			<numcomments value="4000" />
+			<numweights value="924" />
+			<averageweight value="2.3106" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="161527">
+         <thumbnail>https://cf.geekdo-images.com/OlacxFqqIDQ7a1LpWQQjAw__small/img/JhfesDKN5Fr_YQ4tOszQyB22oS0=/fit-in/200x150/filters:strip_icc()/pic2228343.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OlacxFqqIDQ7a1LpWQQjAw__original/img/jyIMTuVFQDL2dNK6yoCtYJUym88=/0x0/filters:format(jpeg)/pic2228343.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Ancient Egypt" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan: El Antiguo Egipto" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan: Het Oude Egypte" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan: Das Alte Ägypten" />
+			
+						               													<description>For Catan: Ancient Egypt, designer Klaus Teuber has transformed his best-selling game The Settlers of Catan to a new location and time, with players now living in the time of the Pharaohs and using their oxcarts to move resources to build small villages and great temples styled after some of the most interesting buildings of Egyptian antiquity. As always, you must beware of the robber! His chariot can interrupt production at your cattle pastures, papyrus groves and quarries.
+
+After you master the Catan: Ancient Egypt base game, you can try these variants:
+
+
+    Help from the Gods: Ten god cards are now available to player, with their powers adding a variety of options for dynamic gameplay.
+    The Great Pyramid: Players can now build and move papyrus boats across the Nile to compete for the pharaoh's blessing and the vizier's favor by building blocks onto the great pyramid.
+
+
+</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 3–4 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72535" value="Ancient: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20398" value="Series: Catan Histories" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="437" />
+			<average value="7.25511" />
+			<bayesaverage value="5.74609" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5582" bayesaverage="5.74609" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1660" bayesaverage="5.83172" />
+												</ranks>
+
+			<stddev value="1.26686" />
+			<median value="0" />
+			<owned value="1221" />
+			<trading value="14" />
+			<wanting value="58" />
+			<wishing value="253" />
+			<numcomments value="108" />
+			<numweights value="19" />
+			<averageweight value="2.4737" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgameexpansion" id="372510">
+         <thumbnail>https://cf.geekdo-images.com/DO-XrGM3B_PY1S6H4jlGgA__small/img/MPw_MsVTixMmrok-rrQL1FFMcGc=/fit-in/200x150/filters:strip_icc()/pic7305761.png</thumbnail>
+      <image>https://cf.geekdo-images.com/DO-XrGM3B_PY1S6H4jlGgA__original/img/e0gMeFxMZmr_xTpGbkuHagjtpQ8=/0x0/filters:format(png)/pic7305761.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Aufbruch der Menschheit – Der Schamane" />
+			
+						                           
+						               													<description>Sonderkarte zu Catan - Aufbruch der Menschheit
+1 Schamanen-Karte
+2 Regel-Karten
+
+Spiel 2022 Promokarte, die es beim Tauschrauschspiel von Kosmos gab.
+
+Kartentext:
+In deinem Zug:
+Bewege 1 deiner Entdecker bis zu 2 Kreuzungen, ohne daf&amp;uuml;r 1 Fell oder 1 Fleisch abzugeben. Gib diese Karte dann an deinen rechten Nachbarn weiter.
+
+---
+
+Promocard for Catan - Dawn of Mankind
+1 shamans card
+2 rules cards
+Promocard from the Spiel 2022, which was handed out as a gift during the Catan Swapping Game at the convention.
+
+Text on card:
+On your turn:
+Move 1 of your explorers up to 2 intersections without paying 1 hide or 1 meat. Then pass this card on to your right neighbor.
+
+</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358858" value="Catan: Dawn of Humankind" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65040" value="Benjamin Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106728" value="Quentin Regnes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59283" value="Naomi Robinson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.63299" />
+			<median value="0" />
+			<owned value="73" />
+			<trading value="10" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="182880">
+         <thumbnail>https://cf.geekdo-images.com/1aI3_eOJjoVwCcPOWJ6JmA__small/img/G58eZ4kEezDSKueirw7f2-pcNng=/fit-in/200x150/filters:strip_icc()/pic2719457.png</thumbnail>
+      <image>https://cf.geekdo-images.com/1aI3_eOJjoVwCcPOWJ6JmA__original/img/hkyYPIAUFln25zA60GC7Mk_QO1Y=/0x0/filters:format(png)/pic2719457.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Box" />
+			
+						                           
+						               													<description>The game of Catan in a Big Box. Relive Catan in several new ways.
+
+The Catan Big Box combines the base game with several expansions:
+
+     Catan: Traders &amp; Barbarians.
+     Catan geographies: Mallorca and New York.
+     A tableau with two monuments from Berlin.
+     Helpers of Catan, a variant with character cards that have special abilities. 
+     A set of pink playing pieces for swapping out another color. 
+
+
+</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131362" value="Catan Geographies: Mallorca" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="86669" value="Catan Scenarios: Helpers of Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="132481" value="Catan: New York" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="27760" value="Catan: Traders &amp; Barbarians" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="167573" value="Mayfair Games&#039; Limited Edition Promo Expansion Set #17" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="125" />
+			<average value="7.34563" />
+			<bayesaverage value="5.57564" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.57564" />
+												</ranks>
+
+			<stddev value="1.35318" />
+			<median value="0" />
+			<owned value="415" />
+			<trading value="3" />
+			<wanting value="7" />
+			<wishing value="31" />
+			<numcomments value="22" />
+			<numweights value="3" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="191710">
+         <thumbnail>https://cf.geekdo-images.com/uHsUu5mFIPe2QMGLTon-LQ__small/img/ZaxhWvim9WiASFqDDRn13Brmnao=/fit-in/200x150/filters:strip_icc()/pic2838574.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uHsUu5mFIPe2QMGLTon-LQ__original/img/8dVvJ9K_4v_e3GRUdsKlocfUBwg=/0x0/filters:format(jpeg)/pic2838574.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Box" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="CATAN 大盒版" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan: Plus" />
+			
+						               													<description>Catan: Big Box contains the classic Catan board game, along with the expansion that allows up to six players to compete on the base game, the Frenemies scenario, the Helpers of Catan mini-expansion that gives each player a character with a bonus ability, the Mallorca scenario (printed on paper), and the Deutschland scenario (printed on game board, with the city landmarks also being included).
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20002" value="Series: Catan Geographies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38749" value="Catan Geographies: Germany" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131362" value="Catan Geographies: Mallorca" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131958" value="Catan Scenarios: Frenemies" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="86669" value="Catan Scenarios: Helpers of Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="620" />
+			<average value="7.57672" />
+			<bayesaverage value="5.84535" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.84535" />
+												</ranks>
+
+			<stddev value="1.32654" />
+			<median value="0" />
+			<owned value="1836" />
+			<trading value="8" />
+			<wanting value="6" />
+			<wishing value="80" />
+			<numcomments value="81" />
+			<numweights value="10" />
+			<averageweight value="2.1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="269980">
+         <thumbnail>https://cf.geekdo-images.com/bLDPA2gNUob2WyAst4yubQ__small/img/0N0wuS9UcmFdUVmBmjoucjZrT1A=/fit-in/200x150/filters:strip_icc()/pic4526596.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bLDPA2gNUob2WyAst4yubQ__original/img/YcSzU5RwJNVCHNvNy8-yf57KLDg=/0x0/filters:format(jpeg)/pic4526596.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Box" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan Plus" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島大盒版" />
+			
+						               													<description>The 2019 edition of Catan: Big Box contains the classic Catan board game, along with the expansion that allows up to six players to compete on the base game, the Catan Dice Game, the Frenemies scenario, the Helpers of Catan mini-expansion that gives each player a character with a bonus ability, the Corsica scenario (printed on paper), and the New York scenario (printed on paper).
+
+</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20002" value="Series: Catan Geographies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="27710" value="Catan Dice Game" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38845" value="Catan Dice Game Plus" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="149857" value="Catan Geographies: Corsica" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131958" value="Catan Scenarios: Frenemies" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="86669" value="Catan Scenarios: Helpers of Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="132481" value="Catan: New York" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="400" />
+			<average value="7.61068" />
+			<bayesaverage value="5.74127" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.74127" />
+												</ranks>
+
+			<stddev value="1.29856" />
+			<median value="0" />
+			<owned value="1540" />
+			<trading value="6" />
+			<wanting value="2" />
+			<wishing value="79" />
+			<numcomments value="65" />
+			<numweights value="8" />
+			<averageweight value="2.125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="394723">
+         <thumbnail>https://cf.geekdo-images.com/AnYfBmwPAl9etP46aXNwpw__small/img/qN5ndmbwld16G6IuAY6IfSz-ajg=/fit-in/200x150/filters:strip_icc()/pic8893437.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AnYfBmwPAl9etP46aXNwpw__original/img/1ri_98-f2uacdVy3_xodjKgHrXo=/0x0/filters:format(jpeg)/pic8893437.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Box" />
+			
+						                           
+						               													<description>The 2023 edition of CATAN: Big Box contains the classic CATAN board game, along with the expansion that allows up to six players to compete on the base game, the Beste Freunde (Frenemies) scenario, , the Iberian Halbinsel scenario, the Rickshaw Run scenario, and the Der Weihnachtsmann (Santa Claus) and Der Osterhase (Easter Bunny) scenarios.
+
+</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–6 players" />
+  <result name="recommmendedwith" value="Recommended with 2–6 players" />
+</poll-summary> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20002" value="Series: Catan Geographies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="187366" value="Catan Geographies: Rickshaw Run" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="189097" value="Catan Scenarios:  Easter Bunny" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131958" value="Catan Scenarios: Frenemies" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="167836" value="Die Siedler von Catan: Hispania Edition" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12382" value="Tanja Donner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="118223" value="David Bibian Fernández" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107207" value="Eric Hibbeler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106728" value="Quentin Regnes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="59" />
+			<average value="7.3322" />
+			<bayesaverage value="5.53968" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.53968" />
+												</ranks>
+
+			<stddev value="1.44145" />
+			<median value="0" />
+			<owned value="312" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="27" />
+			<numcomments value="18" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="265030">
+         <thumbnail>https://cf.geekdo-images.com/aHuTPc_uh0VTVrqUWAVQVg__small/img/qYtV8KA_1uj-aiH7CiXkHo55_sI=/fit-in/200x150/filters:strip_icc()/pic4471122.png</thumbnail>
+      <image>https://cf.geekdo-images.com/aHuTPc_uh0VTVrqUWAVQVg__original/img/hlLLP1AssNJ3sgtR3MOurKyaMfc=/0x0/filters:format(png)/pic4471122.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Box Jubileumeditie" />
+			
+						                           
+						               													<description>Catan: Big Box Jubileumeditie contains the classic Catan board game, along with the expansion that allows up to six players to compete on the base game, the Frenemies scenario, the Helpers of Catan mini-expansion that gives each player a character with a bonus ability, the Mallorca scenario (printed on paper), and the New York scenario (printed on paper).
+It also contains a voucher for Catan Universe.
+
+</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20002" value="Series: Catan Geographies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13" value="Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="131958" value="Catan Scenarios: Frenemies" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="86669" value="Catan Scenarios: Helpers of Catan" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2807" value="Catan: 5-6 Player Expansion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="131362" value="Catan Geographies: Mallorca" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="132481" value="Catan: New York" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24" />
+			<average value="7.47917" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.41774" />
+			<median value="0" />
+			<owned value="95" />
+			<trading value="2" />
+			<wanting value="3" />
+			<wishing value="7" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item type="boardgame" id="194097">
+         <thumbnail>https://cf.geekdo-images.com/VZoro7LO-_co-Gv6-OvmfQ__small/img/C_EMK5d4F0FZwwiLk95LaURpO2k=/fit-in/200x150/filters:strip_icc()/pic3245558.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VZoro7LO-_co-Gv6-OvmfQ__original/img/tG6sjDxFq8VZmff_CKGSEK4nkx0=/0x0/filters:format(jpeg)/pic3245558.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Catan: Big Game Event Kit" />
+			
+						                           
+						               													<description>From the publisher:
+
+In 2013 Mayfair Games conducted a big game and set a world record for the most people playing in the same Catan game at the same time&amp;hellip; 922 people. This record was then beaten in 2015 when 1,040 players, including Klaus Teuber himself, played at an event in Essen, Germany.
+Two years later in 2017, the record was once again beaten when 1,096 players played at an event in Rotterdam, The Netherlands.
+
+The group experience shared by the players and the combined mutual excitement in play resulted in one of the great events in the world of gaming.
+
+Mayfair has created this kit to provide players the means to conduct a little or not so little, big game experience for themselves.
+Need an ice breaker for parties? Need something for new friends to meet old friends?
+
+Catan: The Big Game Event Kit offers the ability to conduct a six player Catan game with a few unique rules. More than 6 friends? Multiple kits can be used to provide play for as many people as you wish to join in the play. Just daisy chain the boards together and add as many friends as you can find. Hundreds of friends? Read the big game how to guide which will walk you through planning your big game event.
+
+To provide an economical solution, player wood is replaced by die cut, development and resource cards are replaced by small format cards, and the maps are printed.
+
+The big game is the best large scale experience you could have with any game, and Catan is perfectly suited to give you your money&amp;rsquo;s worth.
+
+</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="6" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="" />
+  <result name="recommmendedwith" value="(no votes)" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="451387" value="Catan Connect" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13" value="Catan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="42" />
+			<average value="7.22669" />
+			<bayesaverage value="5.52672" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17727" bayesaverage="5.52672" />
+												</ranks>
+
+			<stddev value="1.48205" />
+			<median value="0" />
+			<owned value="101" />
+			<trading value="5" />
+			<wanting value="7" />
+			<wishing value="38" />
+			<numcomments value="21" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
