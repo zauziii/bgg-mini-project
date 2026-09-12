@@ -18,8 +18,15 @@ Raw responses are cached in <out>/raw/ so re-runs do not re-download.
 
 Usage
 -----
-    export BGG_API_TOKEN="your token"
-    python3 fetch_bgg.py [--out data] [--sleep 3.5]
+    Windows (run.bat)
+
+    Windows (Anacond Prompt):
+        set BGG_API_TOKEN="your token"
+        python scripts\fetch_bgg.py --out data
+
+    Mac / Linux:
+        export BGG_API_TOKEN="your token"
+        python3 fetch_bgg.py --out data
 
 Requires only the Python standard library (urlib + xml.etree)
 """
