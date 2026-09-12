@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Raw API cache - can be re-downloaded, no need to push
+raw/
+
+# Secrets - NEVER commit API tokens
+.env
+*.token
+*.key
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
