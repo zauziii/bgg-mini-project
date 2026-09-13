@@ -9,8 +9,8 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 ## Repository structure
 | Folder | Content |
 |---|---|
-| `data/` | raw & cleaned datasets |
-| `scripts/` | fetch + clean pipelines |
+| `data/` | raw & cleaned datasets (work in progress) |
+| `scripts/` | fetch + clean pipelines (work in progress) |
 | `canvas/` | mini-project [canvas](https://docs.google.com/document/d/1OYbvQNJgDx0BgSNYbPcRcZpna5havE-W1R5lEIug1BU/edit?usp=sharing) (proposal)
 | `notebooks/` | EDA & modeling notebooks (work in progress) |
 | `webapp/` | interactive visualization web app (work in progress) |
