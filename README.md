@@ -53,7 +53,7 @@ python3 scripts/fetch_bgg.py --out data
 
 **Windows (easiest):**
 
-***Windows (manual, Anoconda Prompt):**
+**Windows (manual, Anoconda Prompt):**
 
 **Mac / Linux:**
 
