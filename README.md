@@ -11,6 +11,7 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 |---|---|
 | `data/` | raw & cleaned datasets |
 | `scripts/` | fetch + clean pipelines |
+| `canvas/` | mini-projecets [canvas](https://docs.google.com/document/d/1OYbvQNJgDx0BgSNYbPcRcZpna5havE-W1R5lEIug1BU/edit?usp=sharing) (proposal)
 | `notebooks/` | EDA & modeling notebooks (work in progress) |
 | `webapp/` | interactive visualization web app (work in progress) |
 | `blog/` | blog post materials (work in progress) |
