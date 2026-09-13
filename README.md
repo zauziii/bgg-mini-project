@@ -33,9 +33,9 @@ The pipeline has two steps: **download** then **clean**. Pick your platform belo
 
 ### Step 1 - Download the data
 
-***Windows (easiest):** double-click `run.bat` in the repo root, paste your token when asked (get one at https://boardgamegeek.com/applications), wait ~20 minutes → `data/games.csv`.
+**Windows (easiest):** double-click `run.bat` in the repo root, paste your token when asked (get one at https://boardgamegeek.com/applications), wait ~20 minutes → `data/games.csv`.
 
-***Windows (manual, Anoconda Prompt):**
+**Windows (manual, Anoconda Prompt):**
 
 ```bat
 set BGG_API_TOKEN="your token"
