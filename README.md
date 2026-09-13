@@ -29,27 +29,33 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 
 ## Quick start
 
-### Windows - run.bat
+The pipeline has two steps: **download** then **clean**. Pick your platform below.
 
-1. Put `run.bat` in this folder (repo root)
-2. Double-click it
-3. When asked `Enter your BAG API token:`, paste your token
-   (get one at https://boardgamegeek.com/applications)
-4. Wait ~20 minutes → check `data/game.csv`
+### Step 1 - Download the data
 
-### Windows - manually (Anaconda Prompt)
+***Windows (easiest):** double-click `run.bat` in the repo root, paste your token when asked (get one at https://boardgamegeek.com/applications), wait ~20 minutes → `data/games.csv`.
+
+***Windows (manual, Anoconda Prompt):**
 
 ```bat
 set BGG_API_TOKEN="your token"
 python scripts\fetch_bgg.py --out data
 ```
 
-### Mac / Linux
+**Mac / Linux:**
 
 ```bash
 export BGG_API_TOKEN="your token"
 python3 scripts/fetch_bgg.py --out data
 ```
+
+### Step 2 - Clean the data
+
+**Windows (easiest):**
+
+***Windows (manual, Anoconda Prompt):**
+
+**Mac / Linux:**
 
 ## Columns (data/cleaned_games.csv)
 
