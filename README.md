@@ -60,6 +60,11 @@ python3 scripts/fetch_bgg.py --out data
 
 ## Columns (data/cleaned_games.csv)
 
+| Column | Description |
+|---|---|
+| `game_id` | BGG game id |
+| `name` | primary name |
+
 ## Data cleaning highlights
 
 ## Security note
