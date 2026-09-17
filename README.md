@@ -64,8 +64,40 @@ python3 scripts/fetch_bgg.py --out data
 |---|---|
 | `game_id` | BGG game id |
 | `name` | primary name |
+| `year_published` | release year (NaN = unknown) |
+| `min_players` / `max_players` | player count range |
+| `playing_time_min` | typical play time in minutes |
+| `min_playtime` / `max_playtime` | play time range |
+| `min_age` | recommended minimum age (0 = no restriction) |
+| `users_rated` | number of ratings |
+| `avg_rating` | average user rating (1-10) |
+| `bayes_rating` | Bayesian average (NaN = not enough ratings) |
+| `complexity_weight` | complexity 1 (easy) .. 5 (heavy) |
+| `board_game_rank` | overall BGG rank (NaN = unranked) |
+| `categories` | semicolon-separated categories |
+| `mechanics` | semicolon-separated mechanics |
+| `designers` | semicolon-separated designers |
+| `description` | free-text description (unstructured, great for NLP) |
+| `description_length` | number of characters in description |
+| `decade` | release decade, e.g. 2010 (0 = unknown) |
+| `complexity_group` | light / medium / heavy / unknown |
+| `playtime_group` | short (≤30 min) / medium (31-90) / long (>90) / unknown |
+| `is_solo` | 1 = playable solo |
+| `rank_tier` | top1000 / top5000 / ranked / unranked |
+| `n_categories` / `n_mechanics` | number of categories / mechanics |
 
 ## Data cleaning highlights
+
+The raw export contains classic "dirty data" problems that the cleaning
+pipeline fixes:
+
+- **Fake zeros** — BGG uses `0` as "no data" for year, playtime, ratings,
+  complexity and users_rated (e.g. 402 games have `playing_time=0`, 197 have
+  `avg_rating=0.0`). These are converted to `NaN`.
+- **Ancient games** — e.g. Go is stored with year **-2200** (2200 BC); treated
+  as unknown year.
+- **`"Not Ranked"`** — literal string for unranked games; normalized to `NaN`.
+- **`min_age=0`** is *kept* — BGG uses it to mean "no age restriction".
 
 ## Security note
 
