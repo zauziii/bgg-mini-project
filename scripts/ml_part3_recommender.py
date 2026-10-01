@@ -9,6 +9,9 @@ games based on group size, playtime preference and complexity.
 2026/09/30: the two remaining matching functions (playtime, complexity).
 2026/10/01: build the game pool, the recommend() function, and run three
             demo user profiles (family night / veteran duo / solo evening).
+2026/10/01: log-distance playtime fit (the linear decay over-penalised long
+            games), a rating-quality term in the score, and export of the per-game
+            score table that powers the web app recommendation page.
 """
 
 import pathlib
@@ -25,9 +28,11 @@ warnings.filterwarnings("ignore")
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data" / "cleaned_games.csv"
+REC_OUT = ROOT / "data" / "recommendation_scores.csv"
 
 df = pd.read_csv(DATA, encoding="utf-8-sig")
 print(f"Loaded {len(df)} games x {len(df.columns)} columns\n")
+
 
 # ======================================================================
 # 1. MATCHING FUNCTIONS
@@ -43,11 +48,11 @@ def players_fit(row, n_players):
     return 0.0
 
 def playtime_fit(g_minutes, pref_minutes):
-    """1.0 at exact match, decays linearly with the gap in minutes."""
+    """Log-distance decay: 1.0 at exact match, ->0 far away (long-tail robust)."""
     if pd.isna(g_minutes) or g_minutes <= 0:
         return 0.5
-    diff = abs(g_minutes - pref_minutes)
-    return max(0.0, 1.0 - diff / pref_minutes)
+    diff = abs(np.log(g_minutes + 1) - np.log(pref_minutes + 1))
+    return float(np.exp(-diff / 2.0))
 
 def complexity_fit(g_complexity, pref):
     """1.0 at exact complexity, decays with distance (pref in 1-5)."""
@@ -79,21 +84,24 @@ def complexity_fit(g_complexity, pref):
 rec = df[["game_id", "name", "min_players", "max_players",
           "playing_time_min", "complexity_weight", "avg_rating",
           "categories", "mechanics", "board_game_rank"]].copy()
-rec["top_category"] = rec["categories"].fillna("").str.split(";").str[0]
+rec["top_category"] = rec["categories"].fillna("").str.split(";").str[0].str.strip()
 rec["users_rated"] = df["users_rated"].fillna(0)
 
 def recommend(n_players, pref_minutes, pref_complexity, n=5, min_ratings=100):
-    """Filter by data quality, score every game, return top-n."""
-    pool = rec[rec["users_rated"] >= min_ratings]
+    """Filter by data quality, score every game, return top-n with reasons."""
+    pool = rec[rec["users_rated"] >= min_ratings]     # only games with real data
     pool = pool[pool["avg_rating"].notna()]
+    pool = pool.copy()
     pool["players_fit"] = pool.apply(players_fit, axis=1, n_players=n_players)
     pool["playtime_fit"] = pool["playing_time_min"].apply(
         playtime_fit, pref_minutes=pref_minutes)
     pool["complexity_fit"] = pool["complexity_weight"].apply(
         complexity_fit, pref=pref_complexity)
-    pool["score"] = (0.5 * pool["players_fit"]
-                     + 0.25 * pool["playtime_fit"]
-                     + 0.25 * pool["complexity_fit"])
+    # overall score: fit dimensions + a quality term (avg_rating normalised)
+    # so a perfect-fit but poorly-rated game never beats a great game.
+    pool["score"] = (0.35 * pool["players_fit"] + 0.2 * pool["playtime_fit"]
+                     + 0.2 * pool["complexity_fit"]
+                     + 0.25 * pool["avg_rating"] / 10.0)
     top = pool.sort_values("score", ascending=False).head(n)
     return top[["name", "avg_rating", "complexity_weight", "playing_time_min",
                 "min_players", "max_players", "top_category", "score"]]
@@ -110,3 +118,24 @@ print(recommend(n_players=2, pref_minutes=180, pref_complexity=4).round(2).to_st
 
 print("\nDemo 3 - solo evening: 1 player, 45 min, medium (3/5):")
 print(recommend(n_players=1, pref_minutes=45, pref_complexity=3).round(2).to_string(index=False))
+
+
+# ======================================================================
+# 4. EXPORT THE SCORE TABLE FOR THE WEB APP
+# ======================================================================
+# one representative row per game (players=4, 45 min, medium complexity)
+rec_out = rec.copy()
+rec_out["players_fit"] = rec_out.apply(players_fit, axis=1, n_players=4)
+rec_out["playtime_fit"] = rec_out["playing_time_min"].apply(
+    playtime_fit, pref_minutes=45)
+rec_out["complexity_fit"] = rec_out["complexity_weight"].apply(
+    complexity_fit, pref=3)
+rec_out["score"] = (0.35 * rec_out["players_fit"] + 0.2 * rec_out["playtime_fit"]
+                    + 0.2 * rec_out["complexity_fit"]
+                    + 0.25 * rec_out["avg_rating"] / 10.0)
+rec_out.to_csv(REC_OUT, index=False, encoding="utf-8")
+print(f"\nSaved per-game score table -> {REC_OUT} ({len(rec_out)} rows)")
+
+print("\nNEXT STEP: in the web app, the recommendation page will")
+print("re-compute these three fit scores live (players / time /")
+print("complexity chosen by the user) and sort the same way.")
