@@ -1,7 +1,7 @@
 """
 ml_part3_recommender.py
 =================================================================
-Part 3 of the ML pipeline
+Part 3 of the ML pipeline:
 turn the ML analysis into a content-based recommender that suggests
 games based on group size, playtime preference and complexity.
 
