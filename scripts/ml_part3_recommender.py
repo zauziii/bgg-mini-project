@@ -12,6 +12,9 @@ games based on group size, playtime preference and complexity.
 2026/10/01: log-distance playtime fit (the linear decay over-penalised long
             games), a rating-quality term in the score, and export of the per-game
             score table that powers the web app recommendation page.
+2026/10/02: SIMILAR GAMES - "more like this" based on
+            the categories + mechanics tags. Build the tag sets, the one-hot matrix
+            and the pairwise distance matrix.
 """
 
 import pathlib
@@ -97,8 +100,6 @@ def recommend(n_players, pref_minutes, pref_complexity, n=5, min_ratings=100):
         playtime_fit, pref_minutes=pref_minutes)
     pool["complexity_fit"] = pool["complexity_weight"].apply(
         complexity_fit, pref=pref_complexity)
-    # overall score: fit dimensions + a quality term (avg_rating normalised)
-    # so a perfect-fit but poorly-rated game never beats a great game.
     pool["score"] = (0.35 * pool["players_fit"] + 0.2 * pool["playtime_fit"]
                      + 0.2 * pool["complexity_fit"]
                      + 0.25 * pool["avg_rating"] / 10.0)
@@ -136,6 +137,53 @@ rec_out["score"] = (0.35 * rec_out["players_fit"] + 0.2 * rec_out["playtime_fit"
 rec_out.to_csv(REC_OUT, index=False, encoding="utf-8")
 print(f"\nSaved per-game score table -> {REC_OUT} ({len(rec_out)} rows)")
 
-print("\nNEXT STEP: in the web app, the recommendation page will")
-print("re-compute these three fit scores live (players / time /")
-print("complexity chosen by the user) and sort the same way.")
+# print("\nNEXT STEP: in the web app, the recommendation page will")
+# print("re-compute these three fit scores live (players / time /")
+# print("complexity chosen by the user) and sort the same way.")
+
+
+# ======================================================================
+# 5. SIMILAR GAMES ("more like this")
+# ======================================================================
+# Different question from the recommender:
+#   recommender   : "what fits my needs?"    (game vs user requirement)
+#   similar games : "what is like this one?" (game vs game, by shared tags)
+
+from scipy.spatial.distance import pdist, squareform
+
+print("\n" + "=" * 60)
+print("PART 5  Similar games: 'more like this' (WIP)")
+print("=" * 60)
+
+# build one label set per game: categories + mechanics
+sim = rec[["game_id", "name", "top_category"]].copy()
+sim["labels"] = (rec["categories"].fillna("")
+                 + ";" + rec["mechanics"].fillna(""))
+sim["labels"] = sim["labels"].str.split(";").apply(
+    lambda lst: sorted({s for s in lst if s}))
+# "family" = the game series (e.g. "Catan: Big Box" -> "catan").
+sim["family"] = sim["name"].str.split(":").str[0].str.strip().str.lower()
+
+# games with no tags at all cannot be compared - drop them
+mask = sim["labels"].apply(len) > 0
+sim = sim[mask].reset_index(drop=True)
+print(f"Games with tags for comparison: {len(sim)} (dropped {int((~mask).sum())})")
+
+# one-hot matrix: rows = games, cols = unique tags
+all_tags = sorted({t for lst in sim["labels"] for t in lst})
+mat = np.zeros((len(sim), len(all_tags)), dtype=bool)
+for i, lst in enumerate(sim["labels"]):
+    idx = [all_tags.index(t) for t in lst]
+    mat[i, idx] = True
+
+# pairwise distance on the binary tag vectors
+# TODO: double-check hamming vs jaccard for set overlap
+dist = squareform(pdist(mat, metric="hamming"))
+print(f"Pairwise matrix: {len(sim)} x {len(sim)}")
+
+# quick debug: nearest rows to the first game
+i = 0
+nearest = np.argsort(dist[i])[:6]
+print(f"\nDebug - nearest rows to '{sim.loc[i, 'name']}':")
+for j in nearest:
+    print(f"  {sim.loc[j, 'name']:<45s} distance {dist[i, j]:.3f}")
