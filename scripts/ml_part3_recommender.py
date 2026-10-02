@@ -1,10 +1,23 @@
 """
 ml_part3_recommender.py
 =================================================================
-Part 3 of the ML pipeline:
-turn the ML analysis into a content-based recommender that suggests
-games based on group size, playtime preference and complexity.
+Task 1: turn the ML analysis into something USEFUL for real players:
+        a content-based recommender that suggests games based on
+        group size, playtime preference and complexity preference.
+Task 2 SIMILAR GAMES - "more like this" via Jaccard similarity
+        on the categories + mechanics tags (same-series games excluded).
 
+USAGE
+-----
+
+Output:
+  - 3 demo recommendations in the terminal (family/veteran/solo)
+  - data/recommendation_scores.csv  (2077 games x fit scores)
+    -> this file powers the web app recommendation page
+  - data/similar_games.csv  (2075 games x top-5 similar games)
+    -> this file powers the web app "More like this" buttons
+
+Log:
 2026/09/29: project skeleton, data loading, first matching function.
 2026/09/30: the two remaining matching functions (playtime, complexity).
 2026/10/01: build the game pool, the recommend() function, and run three
@@ -17,6 +30,7 @@ games based on group size, playtime preference and complexity.
             and the pairwise distance matrix.
 2026/10/02: for every game, pick the top-5 most similar games (excluding
             the game itself and same-series editions) and export similar_games.csv.
+2026/10/02: finish.
 """
 
 import pathlib
@@ -44,7 +58,7 @@ print(f"Loaded {len(df)} games x {len(df.columns)} columns\n")
 # ======================================================================
 
 def players_fit(row, n_players):
-    """1.0 = group size inside the range, 0.5 = one player away, 0 = far."""
+    """1.0 = group size inside the game's range, 0.5 = one step away, 0 = far."""
     lo, hi = row["min_players"], row["max_players"]
     if lo <= n_players <= hi:
         return 1.0
@@ -53,7 +67,7 @@ def players_fit(row, n_players):
     return 0.0
 
 def playtime_fit(g_minutes, pref_minutes):
-    """Log-distance decay: 1.0 at exact match, ->0 far away (long-tail robust)."""
+    """Log-distance decay: 1.0 at exact match, ->0 far away (robust to long tails)."""
     if pd.isna(g_minutes) or g_minutes <= 0:
         return 0.5
     diff = abs(np.log(g_minutes + 1) - np.log(pref_minutes + 1))
@@ -62,8 +76,8 @@ def playtime_fit(g_minutes, pref_minutes):
 def complexity_fit(g_complexity, pref):
     """1.0 at exact complexity, decays with distance (pref in 1-5)."""
     if pd.isna(g_complexity):
-        return 0.0
-    return float(np.exp(-abs(g_complexity - pref)))
+        return 0.5
+    return float(np.exp(-abs(g_complexity - pref) / 2.0))
 
 
 # # quick sanity check on the first game in the dataset
@@ -102,6 +116,8 @@ def recommend(n_players, pref_minutes, pref_complexity, n=5, min_ratings=100):
         playtime_fit, pref_minutes=pref_minutes)
     pool["complexity_fit"] = pool["complexity_weight"].apply(
         complexity_fit, pref=pref_complexity)
+    # overall score: fit dimensions + a quality term (avg_rating normalised)
+    # so a perfect-fit but poorly-rated game never beats a great game.
     pool["score"] = (0.35 * pool["players_fit"] + 0.2 * pool["playtime_fit"]
                      + 0.2 * pool["complexity_fit"]
                      + 0.25 * pool["avg_rating"] / 10.0)
@@ -136,7 +152,7 @@ rec_out["complexity_fit"] = rec_out["complexity_weight"].apply(
 rec_out["score"] = (0.35 * rec_out["players_fit"] + 0.2 * rec_out["playtime_fit"]
                     + 0.2 * rec_out["complexity_fit"]
                     + 0.25 * rec_out["avg_rating"] / 10.0)
-rec_out.to_csv(REC_OUT, index=False, encoding="utf-8")
+rec_out.to_csv(REC_OUT, index=False, encoding="utf-8-sig")
 print(f"\nSaved per-game score table -> {REC_OUT} ({len(rec_out)} rows)")
 
 # print("\nNEXT STEP: in the web app, the recommendation page will")
@@ -147,14 +163,15 @@ print(f"\nSaved per-game score table -> {REC_OUT} ({len(rec_out)} rows)")
 # ======================================================================
 # 5. SIMILAR GAMES ("more like this")
 # ======================================================================
-# Different question from the recommender:
-#   recommender   : "what fits my needs?"    (game vs user requirement)
+# Different question from Part 1-4:
+#   recommender   : "what fits my needs?"   (game vs user requirement)
 #   similar games : "what is like this one?" (game vs game, by shared tags)
+# Similarity = Jaccard of the label sets (categories + mechanics).
 
 from scipy.spatial.distance import pdist, squareform
 
 print("\n" + "=" * 60)
-print("PART 5  Similar games: 'more like this' (WIP)")
+print("PART 5  Similar games: 'more like this' (Jaccard on tags)")
 print("=" * 60)
 
 # build one label set per game: categories + mechanics
@@ -162,8 +179,9 @@ sim = rec[["game_id", "name", "top_category"]].copy()
 sim["labels"] = (rec["categories"].fillna("")
                  + ";" + rec["mechanics"].fillna(""))
 sim["labels"] = sim["labels"].str.split(";").apply(
-    lambda lst: sorted({s for s in lst if s}))
+    lambda lst: sorted({s.strip() for s in lst if s.strip()}))
 # "family" = the game series (e.g. "Catan: Big Box" -> "catan").
+# We never recommend the same series (editions/reprints are too easy).
 sim["family"] = sim["name"].str.split(":").str[0].str.strip().str.lower()
 
 # games with no tags at all cannot be compared - drop them
@@ -178,9 +196,9 @@ for i, lst in enumerate(sim["labels"]):
     idx = [all_tags.index(t) for t in lst]
     mat[i, idx] = True
 
-# pairwise distance; diagonal set to max so the game itself is never picked
-dist = squareform(pdist(mat, metric="hamming"))
-np.fill_diagonal(dist, 1.0)
+# pairwise Jaccard distance (1 - similarity). Similarity = 1 - distance.
+dist = squareform(pdist(mat, metric="jaccard"))
+np.fill_diagonal(dist, 1.0)               # ignore the game itself
 print(f"Pairwise matrix: {len(sim)} x {len(sim)}")
 
 # # quick debug: nearest rows to the first game
@@ -194,10 +212,14 @@ SIM_N = 5
 sim_rows = []
 families = sim["family"].values
 for i in range(len(sim)):
-    # exclude the game itself and other games from the same series
+    # exclude the game itself AND all games from the same series.
+    # "same series" = family keys that are equal or contain each other,
+    # e.g. "catan" vs "baden-württemberg catan" or "catan: family edition".
     order_all = np.argsort(dist[i])
     fam_i = families[i]
-    cand = [j for j in order_all if families[j] != fam_i][:SIM_N]
+    cand = [j for j in order_all
+            if not (families[j] == fam_i
+                    or families[j] in fam_i or fam_i in families[j])][:SIM_N]
     scores = 1.0 - dist[i, cand]
     row = {"game_id": sim.loc[i, "game_id"], "name": sim.loc[i, "name"],
            "top_category": sim.loc[i, "top_category"]}
@@ -208,7 +230,7 @@ for i in range(len(sim)):
 
 sim_df = pd.DataFrame(sim_rows)
 SIM_OUT = ROOT / "data" / "similar_games.csv"
-sim_df.to_csv(SIM_OUT, index=False, encoding="utf-8")
+sim_df.to_csv(SIM_OUT, index=False, encoding="utf-8-sig")
 print(f"Saved -> {SIM_OUT} ({len(sim_df)} games x top-{SIM_N} similar)")
 
 # demo: what is like Catan? (pick the classic game, not an edition)
@@ -219,3 +241,4 @@ catan = catan.iloc[0]
 print(f"\nDemo - games like '{catan['name']}' (category: {catan['top_category']}):")
 for k in range(1, SIM_N + 1):
     print(f"  {catan[f'sim{k}_name']:<45s} similarity {catan[f'sim{k}_score']:.3f}")
+print("\nDONE - your part is complete (recommender + similar games).")
