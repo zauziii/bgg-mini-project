@@ -15,6 +15,8 @@ games based on group size, playtime preference and complexity.
 2026/10/02: SIMILAR GAMES - "more like this" based on
             the categories + mechanics tags. Build the tag sets, the one-hot matrix
             and the pairwise distance matrix.
+2026/10/02: for every game, pick the top-5 most similar games (excluding
+            the game itself and same-series editions) and export similar_games.csv.
 """
 
 import pathlib
@@ -176,14 +178,44 @@ for i, lst in enumerate(sim["labels"]):
     idx = [all_tags.index(t) for t in lst]
     mat[i, idx] = True
 
-# pairwise distance on the binary tag vectors
-# TODO: double-check hamming vs jaccard for set overlap
+# pairwise distance; diagonal set to max so the game itself is never picked
 dist = squareform(pdist(mat, metric="hamming"))
+np.fill_diagonal(dist, 1.0)
 print(f"Pairwise matrix: {len(sim)} x {len(sim)}")
 
-# quick debug: nearest rows to the first game
-i = 0
-nearest = np.argsort(dist[i])[:6]
-print(f"\nDebug - nearest rows to '{sim.loc[i, 'name']}':")
-for j in nearest:
-    print(f"  {sim.loc[j, 'name']:<45s} distance {dist[i, j]:.3f}")
+# # quick debug: nearest rows to the first game
+# i = 0
+# nearest = np.argsort(dist[i])[:6]
+# print(f"\nDebug - nearest rows to '{sim.loc[i, 'name']}':")
+# for j in nearest:
+#     print(f"  {sim.loc[j, 'name']:<45s} distance {dist[i, j]:.3f}")
+
+SIM_N = 5
+sim_rows = []
+families = sim["family"].values
+for i in range(len(sim)):
+    # exclude the game itself and other games from the same series
+    order_all = np.argsort(dist[i])
+    fam_i = families[i]
+    cand = [j for j in order_all if families[j] != fam_i][:SIM_N]
+    scores = 1.0 - dist[i, cand]
+    row = {"game_id": sim.loc[i, "game_id"], "name": sim.loc[i, "name"],
+           "top_category": sim.loc[i, "top_category"]}
+    for k, (j, sc) in enumerate(zip(cand, scores), start=1):
+        row[f"sim{k}_name"] = sim.loc[j, "name"]
+        row[f"sim{k}_score"] = round(float(sc), 3)
+    sim_rows.append(row)
+
+sim_df = pd.DataFrame(sim_rows)
+SIM_OUT = ROOT / "data" / "similar_games.csv"
+sim_df.to_csv(SIM_OUT, index=False, encoding="utf-8")
+print(f"Saved -> {SIM_OUT} ({len(sim_df)} games x top-{SIM_N} similar)")
+
+# demo: what is like Catan? (pick the classic game, not an edition)
+catan = sim_df[sim_df["name"].str.lower() == "catan"]
+if catan.empty:                                  # fall back to any Catan game
+    catan = sim_df[sim_df["name"].str.contains("Catan", case=False, na=False)]
+catan = catan.iloc[0]
+print(f"\nDemo - games like '{catan['name']}' (category: {catan['top_category']}):")
+for k in range(1, SIM_N + 1):
+    print(f"  {catan[f'sim{k}_name']:<45s} similarity {catan[f'sim{k}_score']:.3f}")
