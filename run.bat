@@ -1,22 +1,30 @@
 @echo off
-title BGG data downloader (Anaconda)
+title BGG data downloader
 cd /d "%~dp0"
 
-REM --- find the Anaconda python.exe ---
-set PY_CMD=
-if exist "%USERPROFILE%\anaconda3\python.exe" set PY_CMD=%USERPROFILE%\anaconda3\python.exe
-if exist "%USERPROFILE%\miniconda3\python.exe" set PY_CMD=%USERPROFILE%\miniconda3\python.exe
-if exist "C:\ProgramData\Anaconda3\python.exe" set PY_CMD=C:\ProgramData\Anaconda3\python.exe
-if exist "C:\Anaconda3\python.exe" set PY_CMD=C:\Anaconda3\python.exe
-if "%PY_CMD%"=="" (
-    echo [ERROR] Anaconda python.exe not found in the usual places.
-    echo Open Anaconda Prompt instead and run:
-    echo   python scripts\fetch_bgg.py --out data
-    pause
-    exit /b 1
+REM --- 1. try Anaconda first, then any Python on PATH ---
+set "PY_CMD="
+for %%P in (
+  "%USERPROFILE%\anaconda3\python.exe"
+  "%USERPROFILE%\miniconda3\python.exe"
+  "C:\ProgramData\Anaconda3\python.exe"
+  "C:\Anaconda3\python.exe"
+) do (
+  if exist %%P set "PY_CMD=%%~P"
+)
+if not defined PY_CMD (
+  where python >nul 2>nul
+  if not errorlevel 1 set "PY_CMD=python"
+)
+if not defined PY_CMD (
+  echo [ERROR] Python not found.
+  echo Install Python from https://www.python.org/downloads/
+  echo and check "Add Python to PATH" during install.
+  pause
+  exit /b 1
 )
 
-REM --- get the API token ---
+REM --- 2. get the API token ---
 if "%BGG_API_TOKEN%"=="" (
     set /p BGG_API_TOKEN=Enter your BGG API token: 
 )
