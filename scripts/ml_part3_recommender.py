@@ -241,4 +241,4 @@ catan = catan.iloc[0]
 print(f"\nDemo - games like '{catan['name']}' (category: {catan['top_category']}):")
 for k in range(1, SIM_N + 1):
     print(f"  {catan[f'sim{k}_name']:<45s} similarity {catan[f'sim{k}_score']:.3f}")
-print("\nDONE - your part is complete (recommender + similar games).")
+print("\nDONE - This part is complete (recommender + similar games).")
