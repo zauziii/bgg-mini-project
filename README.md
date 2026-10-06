@@ -10,19 +10,21 @@ Board game dataset downloaded from the **official BoardGameGeek XML API2**, clea
 | Folder | Content |
 |---|---|
 | `data/` | raw & cleaned datasets (work in progress) |
-| `scripts/` | fetch + clean pipelines (work in progress) |
+| `scripts/` | data pipelines and regression analysis |
 | `canvas/` | mini-project [canvas](https://docs.google.com/document/d/1OYbvQNJgDx0BgSNYbPcRcZpna5havE-W1R5lEIug1BU/edit?usp=sharing) (proposal)
 | `notebooks/` | EDA & modeling notebooks (work in progress) |
-| `webapp/` | interactive visualization web app (work in progress) |
+| `webapp/` | interactive visualization web app modules and assets |
 | `blog/` | blog post materials (work in progress) |
 | `presentation/` | spotlight presentation slides (work in progress) |
-| `report/` | technical report PDF (work in progress) |
+| `final_report.pdf` / `final_report.qmd` | technical report and Quarto source |
 
 ## Files
 
 | File | What it is |
 |---|---|
 | `scripts/fetch_bgg.py` | hot list + 50 keyword searches → ~4,000 candidate IDs → 2,077 core board games after filtering out expansions & non-game entries |
+| `scripts/ml_part1_regression.py` | Popularity regression with TF-IDF/SVD description features and rating MAE side analysis |
+| `webapp/part1_find.py` | Home and game-finder functionality for the web app |
 | `data/games.csv` | Raw export straight from the downloader (uncleaned) |
 | `run.bat` | Windows one-click downloader (double-click, paste token) |
 | `README.md` | This file |

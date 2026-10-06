@@ -1,0 +1,44 @@
+---
+title: "What Makes a Board Game Great? Mining BoardGameGeek"
+subtitle: "Introduction to Data Science — mini-project technical report"
+author:
+  - name: "Aoxue Li"
+  - name: "Ezeme Onyenezi Innocent"
+  - name: "Zhi Zhou"
+date: today
+lang: en
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=2.2cm
+    linestretch: 1.15
+    colorlinks: true
+    linkcolor: Maroon
+    citecolor: Maroon
+    urlcolor: Maroon
+    number-sections: true
+    toc: false
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    pdf-engine: xelatex
+    keep-md: false
+---
+
+<!-- bibliography: references.bib -->
+<!-- csl: apa -->
+
+> **A note on contributions and the use of AI.** Our differing levels of
+> familiarity with Git and GitHub resulted in uneven commit counts in the
+> repository history; commit counts do not reflect effort, and all three
+> team members contributed equally across data collection, preprocessing,
+> exploratory analysis, machine learning, and the web application. We
+> used AI-assisted tools to help with code writing, debugging, and
+> polishing this report; every AI-generated output was reviewed and
+> validated by the team, who take full responsibility for the final
+> results. More details can be found in the project
+> [README](https://github.com/zauziii/bgg-mini-project/blob/main/README.md).
+
+
