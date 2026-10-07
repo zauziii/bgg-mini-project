@@ -24,14 +24,37 @@ Run it from the folder that contains games.csv
 output: cleaned_games.csv (+ a summary printed in the terminal)
 """
 
+import pathlib
+
 import pandas as pd
+
+# ======================================================================
+# 0. LOCATE THE DATA FOLDER (works no matter where the script lives)
+# ======================================================================
+# The script may sit in the project root or in scripts/; the data
+# folder is always <project root>/data. We walk up from the script
+# location until we find a folder that contains data/games.csv.
+HERE = pathlib.Path(__file__).resolve().parent
+DATA_DIR = None
+for candidate in (HERE, HERE.parent, HERE.parent.parent):
+    if (candidate / "data" / "games.csv").is_file():
+        DATA_DIR = candidate / "data"
+        break
+if DATA_DIR is None:
+    raise FileNotFoundError(
+        "Could not find data/games.csv. Run run.bat first to download "
+        "the data, and keep clean_bgg_data.py inside the project folder."
+    )
+
+IN_CSV = DATA_DIR / "games.csv"
+OUT_CSV = DATA_DIR / "cleaned_games.csv"
 
 # ======================================================================
 # 1. READ THE DATA
 # ======================================================================
 # dtype={"game_id": str} keeps game ids as text (ids can have leading zeros)
 # utf-8-sig: game.csv is saved with a BOM (Excel-friendly) - read it back correctly
-df = pd.read_csv("games.csv", dtype={"game_id": str}, encoding="utf-8-sig")
+df = pd.read_csv(IN_CSV, dtype={"game_id": str}, encoding="utf-8-sig")
 
 print("Raw rows:", len(df))
 
@@ -161,5 +184,5 @@ print(df["avg_rating"].describe().to_string())
 # 9. SAVE
 # ======================================================================
 # utf-8-sig adds a BOM so Excel opens the file without mojibake
-df.to_csv("cleaned_games.csv", index=False, encoding="utf-8-sig")
+df.to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
 print("\nSaved cleaned_games.csv with", len(df), "rows x", len(df.columns), "columns")

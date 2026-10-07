@@ -4,8 +4,8 @@ part1_find.py - Aoxue Li's part: data core + Home + "Find a game"
 Task checklist:
   1. Run the app end-to-end; Home and Find must render correctly.
   2. Verify the fit functions and weights match
-     scripts/ml_part3_recommender.py EXACTLY. If something differs from
-     the ML script, that is a bug: fix it.
+     scripts/ml_part3_recommender.py EXACTLY. Inconsistency found in complexity_fit
+     and fixed.
   3. Check Home page metrics agree with the real data (2,077 games, etc).
   4. Harden edge cases: missing playtime / complexity must not break scoring.
 
@@ -46,7 +46,7 @@ def complexity_fit(game_weight: float, pref: float) -> float:
     """1.0 at exact complexity, decays with distance (1 = light, 5 = heavy)."""
     if pd.isna(game_weight):
         return 0.5
-    return float(np.exp(-abs(game_weight - pref) / 0.5))
+    return float(np.exp(-abs(game_weight - pref) / 2.0))
 
 
 def recommend(games: pd.DataFrame, n_players: int, pref_minutes: int,
