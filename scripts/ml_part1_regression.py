@@ -1,26 +1,22 @@
 """
 ml_part1_regression.py - Aoxue Li: regression on the BGG data
-================================================================
-WHAT WE LEARNED (v2, 2026-10):
-  - Predicting the raw community rating (avg_rating) gives low R2
-    (~0.25-0.37) - the rating is a noisy average squeezed into a
-    narrow band (most games 5.5-8.5), so there is little signal
-    to explain. The MAE (~0.8 points) is actually a decent result.
-  - Two things fix this:
-      1) MAIN TARGET = popularity (log of users_rated). "What makes
-         a board game popular?" - R2 jumps to ~0.70 and the result
-         is more actionable for publishers/designers.
-      2) TEXT FEATURES: TF-IDF of the game description (reduced to
-         30 components). Text helps BOTH targets.
+============================================================
+WHAT IT DOES:
+  Main target   : popularity = log(users_rated). "What makes a board
+                  game popular?" R2 ~ 0.70, actionable for publishers.
+  Side target   : avg_rating. Raw rating is noisy and squeezed into a
+                  narrow band (most games 5.5-8.5), so R2 is low by
+                  nature; the MAE (~0.8 points) is the honest metric.
+  Text features : TF-IDF of the game description, reduced to 30
+                  components with TruncatedSVD. Text helps BOTH targets.
+  Models        : Linear Regression, Ridge, Random Forest,
+                  Gradient Boosting, MLP.
+  Anti-leak     : users_rated is NOT a feature (it is the target).
 
-USAGE
------
-  Windows (easiest): double-click ml.bat in the repo root
-  Windows (Anaconda Prompt):
-      python scripts/ml_part1_regression.py
-  Mac / Linux:
-      python3 scripts/ml_part1_regression.py
-Output:
+REQUIRES:
+  data/cleaned_games.csv   (run run.bat/sh, then clean.bat/sh)
+
+OUTPUT:
   - terminal table: CV R2 / test R2 / RMSE / MAE for all 5 models
   - data/ml_charts/01_model_comparison.png   (main: popularity R2)
   - data/ml_charts/01b_rating_mae.png        (side: rating MAE)
@@ -47,9 +43,9 @@ from sklearn.preprocessing import StandardScaler
 
 warnings.filterwarnings("ignore")
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # paths + publication style
-# ----------------------------------------------------------------------
+# ======================================================================
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data" / "cleaned_games.csv"
@@ -73,9 +69,9 @@ plt.rcParams.update({
     "savefig.bbox": "tight",
 })
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 1. FEATURE PREPARATION
-# ----------------------------------------------------------------------
+# ======================================================================
 df = pd.read_csv(DATA, encoding="utf-8-sig")
 print(f"Loaded {len(df)} games x {len(df.columns)} columns")
 

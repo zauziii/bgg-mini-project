@@ -1,34 +1,25 @@
 """
-fetch_bgg.py - Download a BoardGameGeek dataset via the offical XML API2.
+fetch_bgg.py - download a BoardGameGeek dataset via the official XML API2
+=========================================================================
+WHAT IT DOES:
+  Since fall 2025 BGG requires a Bearer token (register your app at
+  https://boardgamegeek.com/applications, then generate a token).
+  This script:
+    1. GET /xmlapi2/hot?type=boardgame        -> current hot games (ids)
+    2. GET /xmlapi2/search?query=...          -> ids from a list of search terms
+    3. GET /xmlapi2/thing?id=..&stats=1       -> full details, 20 ids per batch
+  and finally saves all games into a single games.csv file.
+  Rate limiting: BGG limits the XML API to ~100 requests/min. This script
+  stays well below that (3.5s between requests) and backs off on HTTP 429
+  / 5xx. Raw responses are cached in <out>/raw/ so re-runs do not re-download.
 
-Why this script exists
-----------------------
-Since fall 2025 BGG requires a Bearer token (register your app at
-https://boardgamegeek.com/applications, then generate a token).
+REQUIRES:
+  Python standard library only (urllib + xml.etree)
+  BGG_API_TOKEN in the environment, or passed with --token
 
-This script:
-  1. GET /xmlapi2/hot?type=boardgame        -> current hot games (ids)
-  2. GET /xmlapi2/search?query=...          -> ids from a list of search terms
-  3. GET /xmlapi2/thing?id=..&stats=1       -> full details, 20 ids per batch
-and finally saves all games into a single games.csv file.
-
-Rate limiting: BGG limits the XML API to ~100 requests/min. This script stays
-well below that (3.5s between requests) and backs off on HTTP 429 / 5xx.
-Raw responses are cached in <out>/raw/ so re-runs do not re-download.
-
-Usage
------
-    Windows (run.bat)
-
-    Windows (Anacond Prompt):
-        set BGG_API_TOKEN="your token"
-        python scripts\fetch_bgg.py --out data
-
-    Mac / Linux:
-        export BGG_API_TOKEN="your token"
-        python3 fetch_bgg.py --out data
-
-Requires only the Python standard library (urlib + xml.etree)
+OUTPUT:
+  <out>/games.csv           (one row per board game)
+  <out>/raw/*.xml           (raw XML cache so re-runs do not re-download)
 """
 
 import argparse

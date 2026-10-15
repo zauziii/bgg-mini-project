@@ -1,44 +1,35 @@
 """
 eda.py - FULL Exploratory Data Analysis for the BGG board game dataset
-=======================================================================
-Week 2 of the mini-project: EDA & visualizations (complete version).
+======================================================================
+WHAT IT DOES:
+  Week 2 of the mini-project: EDA & visualizations.
+  Prints a text summary for every section and saves 14 PNG charts.
+  STYLE: publication-quality ("scientific paper") look.
+    - serif fonts (Times New Roman where available)
+    - no top/right spines, light dashed grid lines
+    - matplotlib "tab10" scientific palette
+    - 300 dpi output, tight bounding boxes
 
-STYLE: publication-quality ("scientific paper") look.
-  - serif fonts (Times New Roman where available)
-  - no top/right spines, light dashed grid lines
-  - matplotlib "tab10" scientific palette
-  - 300 dpi output, tight bounding boxes
+REQUIRES:
+  data/cleaned_games.csv   (run run.bat/sh, then clean.bat/sh)
+  pandas + matplotlib
 
-Reads  data/cleaned_games.csv
-Prints a text summary for every section
-Saves  14 PNG charts into data/charts/
-
-Chart map
----------
- 01 missing_values.png          how much data is missing per column
- 02 rating_histogram.png        distribution of avg_rating
- 03 rating_vs_complexity.png    scatter: rating x complexity (r = 0.50)
- 04 rating_by_complexity_box.png  box: rating within each complexity group
- 05 games_per_decade.png        how many games per decade
- 06 rating_by_decade_box.png    box: rating within each decade
- 07 rating_by_playtime_box.png  box: rating within each playtime group
- 08 rating_by_solo_box.png      box: solo vs non-solo rating
- 09 complexity_hist.png         distribution of complexity_weight
- 10 playtime_hist.png           distribution of playing_time_min
- 11 rating_vs_popularity.png    scatter: rating x users_rated (log x)
- 12 top_categories.png          top 10 categories (horizontal bars)
- 13 top_mechanics.png           top 10 mechanics (horizontal bars)
- 14 players_bucket.png          how many games for each max-player range
-
-Usage
------
-  Windows (easiest): double-click eda.bat in the repo root
-  Windows (Anaconda Prompt):
-      python scripts/eda.py
-  Mac / Linux:
-      python3 scripts/eda.py
-
-Requires pandas + matplotlib (both come with Anaconda).
+OUTPUT:
+  data/charts/ with 14 PNG charts:
+   01 missing_values.png            how much data is missing per column
+   02 rating_histogram.png          distribution of avg_rating
+   03 rating_vs_complexity.png      scatter: rating x complexity (r = 0.50)
+   04 rating_by_complexity_box.png  box: rating within each complexity group
+   05 games_per_decade.png          how many games per decade
+   06 rating_by_decade_box.png      box: rating within each decade
+   07 rating_by_playtime_box.png    box: rating within each playtime group
+   08 rating_by_solo_box.png        box: solo vs non-solo rating
+   09 complexity_hist.png           distribution of complexity_weight
+   10 playtime_hist.png             distribution of playing_time_min
+   11 rating_vs_popularity.png      scatter: rating x users_rated (log x)
+   12 top_categories.png            top 10 categories (horizontal bars)
+   13 top_mechanics.png             top 10 mechanics (horizontal bars)
+   14 players_bucket.png            how many games for each max-player range
 """
 
 import pathlib
@@ -47,18 +38,18 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 0. WHERE ARE WE?
-# ----------------------------------------------------------------------
+# ======================================================================
 HERE = pathlib.Path(__file__).resolve().parent   # .../scripts
 ROOT = HERE.parent                                # repo root
 DATA = ROOT / "data" / "cleaned_games.csv"
 OUT = ROOT / "data" / "charts"
 OUT.mkdir(parents=True, exist_ok=True)
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 0.5 PUBLICATION STYLE (applies to every chart below)
-# ----------------------------------------------------------------------
+# ======================================================================
 # Scientific palette (matplotlib tab10, used by academic papers)
 BLUE   = "#1f77b4"   # main series
 ORANGE = "#ff7f0e"   # highlights (missing values, players)

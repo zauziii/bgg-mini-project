@@ -1,27 +1,20 @@
 """
-clean_bgg_data.py
-=================
-Clean the raw BoardGameGeek data (games.csv) into a tidy dataset
+clean_bgg_data.py - clean the raw BGG data into a tidy dataset
+==============================================================
+WHAT IT DOES:
+  Fixes the typical "dirty data" problems of the BGG export:
+    1. duplicate rows
+    2. empty strings vs. real missing values
+    3. numbers stored as text
+    4. BGG's special "fake zero" values (year 0, bayes 0, weight 0)
+    5. messy free-text (names, description)
+    6. add useful new features for later analysis
 
-It fixes the typical "dirty data" problems of the BGG export:
-  1. duplicate rows
-  2. empty strings vs. real missing values
-  3. numbers stored as text
-  4. BGG's special "fake zero" values (year 0, bayes 0, weight 0)
-  5. messy free-text (names, description)
-  6. add useful new features for later analysis
+REQUIRES:
+  data/games.csv   (run run.bat/sh first to download the data)
 
-Run it from the folder that contains games.csv
-    Windows (easiest): double-click clean.bat in the repo root
-    Windows (Anaconda Prompt):
-        cd data
-        python .../scripts/clean_bgg_data.py
-
-    Mac / Linux:
-        cd data
-        python3 ../scripts/clean_bgg_data.py
-
-output: cleaned_games.csv (+ a summary printed in the terminal)
+OUTPUT:
+  data/cleaned_games.csv  (+ a summary printed in the terminal)
 """
 
 import pathlib
@@ -31,9 +24,6 @@ import pandas as pd
 # ======================================================================
 # 0. LOCATE THE DATA FOLDER (works no matter where the script lives)
 # ======================================================================
-# The script may sit in the project root or in scripts/; the data
-# folder is always <project root>/data. We walk up from the script
-# location until we find a folder that contains data/games.csv.
 HERE = pathlib.Path(__file__).resolve().parent
 DATA_DIR = None
 for candidate in (HERE, HERE.parent, HERE.parent.parent):

@@ -1,36 +1,35 @@
 """
-ml_part3_recommender.py
-=================================================================
-Task 1: turn the ML analysis into something USEFUL for real players:
-        a content-based recommender that suggests games based on
-        group size, playtime preference and complexity preference.
-Task 2 SIMILAR GAMES - "more like this" via Jaccard similarity
-        on the categories + mechanics tags (same-series games excluded).
+ml_part3_recommender.py - Zhi Zhou: content-based recommender + similar games
+=============================================================================
+WHAT IT DOES:
+  Task 1: turn the ML analysis into something USEFUL for real players -
+          a content-based recommender that suggests games based on
+          group size, playtime preference and complexity preference.
+          Three demo profiles: family night / veteran duo / solo evening.
+  Task 2: SIMILAR GAMES - "more like this" via Jaccard similarity on the
+          categories + mechanics tags (same-series games excluded).
 
-USAGE
------
+REQUIRES:
+  data/cleaned_games.csv   (run run.bat/sh, then clean.bat/sh)
 
-Output:
-  - 3 demo recommendations in the terminal (family/veteran/solo)
+OUTPUT:
+  - 3 demo recommendations in the terminal
   - data/recommendation_scores.csv  (2077 games x fit scores)
-    -> this file powers the web app recommendation page
-  - data/similar_games.csv  (2075 games x top-5 similar games)
-    -> this file powers the web app "More like this" buttons
+    -> powers the web app recommendation page
+  - data/similar_games.csv  (2077 games x top-5 similar games)
+    -> powers the web app "More like this" buttons
 
-Log:
-2026/09/29: project skeleton, data loading, first matching function.
-2026/09/30: the two remaining matching functions (playtime, complexity).
-2026/10/01: build the game pool, the recommend() function, and run three
-            demo user profiles (family night / veteran duo / solo evening).
-2026/10/01: log-distance playtime fit (the linear decay over-penalised long
-            games), a rating-quality term in the score, and export of the per-game
-            score table that powers the web app recommendation page.
-2026/10/02: SIMILAR GAMES - "more like this" based on
-            the categories + mechanics tags. Build the tag sets, the one-hot matrix
-            and the pairwise distance matrix.
-2026/10/02: for every game, pick the top-5 most similar games (excluding
-            the game itself and same-series editions) and export similar_games.csv.
-2026/10/02: finish.
+LOG:
+  2026/09/29: project skeleton, data loading, first matching function.
+  2026/09/30: the two remaining matching functions (playtime, complexity).
+  2026/10/01: build the game pool, the recommend() function, and run three
+              demo user profiles. Log-distance playtime fit (the linear
+              decay over-penalised long games), a rating-quality term in
+              the score, and export of the per-game score table.
+  2026/10/02: SIMILAR GAMES - build the tag sets, the one-hot matrix and
+              the pairwise distance matrix; for every game, pick the top-5
+              most similar games (excluding the game itself and same-series
+              editions) and export similar_games.csv. finish.
 """
 
 import pathlib
@@ -41,9 +40,9 @@ import pandas as pd
 
 warnings.filterwarnings("ignore")
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # paths
-# ----------------------------------------------------------------------
+# ======================================================================
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data" / "cleaned_games.csv"

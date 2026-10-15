@@ -1,5 +1,5 @@
 """
-ml_part2_classification.py
+ml_part2_classification.py - Ezeme Onyenezi Innocent: good-game classifier
 =======================================================================
 Task A: predict "is this a GOOD game?" (rating >= 7) with 4 classifiers:
         Logistic Regression, Random Forest, Gradient Boosting, MLP.
@@ -12,8 +12,17 @@ NOTE (v2, aligned with Part 1):
   - same TF-IDF -> SVD text pipeline as Part 1 is added, so both parts
     share one cold-start feature set: 10 structured + 30 text components.
 
-See also: text-analysis task
-  scripts/ml_part2_discriminative_words.py  (tf-idf word profiles per category)
+REQUIRES:
+  data/cleaned_games.csv   (run run.bat/sh, then clean.bat/sh)
+
+OUTPUT:
+  - terminal table: CV AUC / test AUC / F1 / accuracy for all 4 models
+  - data/ml_charts/06_roc_curves.png
+  - data/ml_charts/07_pr_curve.png
+  - data/ml_charts/03_confusion_matrix.png
+  - data/ml_charts/04_classifier_vs_baseline.png
+  - data/ml_charts/02_feature_importance.png
+  - data/ml_charts/05_permutation_importance.png
 """
 
 import pathlib
@@ -38,9 +47,9 @@ import numpy as np
 
 warnings.filterwarnings("ignore")
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # paths + publication style
-# ----------------------------------------------------------------------
+# ======================================================================
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data" / "cleaned_games.csv"
@@ -63,9 +72,9 @@ plt.rcParams.update({
     "savefig.bbox": "tight",
 })
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 1. FEATURE PREPARATION
-# ----------------------------------------------------------------------
+# ======================================================================
 df = pd.read_csv(DATA, encoding="utf-8-sig")
 print(f"Loaded {len(df)} games x {len(df.columns)} columns")
 
@@ -350,4 +359,4 @@ for i, v in enumerate(perm_s):
 fig.savefig(CHART_OUT / "05_permutation_importance.png")
 plt.close(fig)
 print(f"\nChart saved: {CHART_OUT / '05_permutation_importance.png'}")
-print("\nDONE - this part is complete.")
+print("\nDONE - This part is complete.")

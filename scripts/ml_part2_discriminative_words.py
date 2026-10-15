@@ -1,19 +1,17 @@
 """
-ml_part2_discriminative_words.py
+ml_part2_discriminative_words.py - Ezeme Onyenezi Innocent: category words
 ==========================================================================
-Task: for each major game category, find the WORDS that make it special.
-      "Economic games talk about market, auction, trade - Children's games
-       talk about memory, matching, pictures."
+WHAT IT DOES:
+  For each major game category, find the WORDS that make it special.
+  "Economic games talk about market, auction, trade - Children's games
+  talk about memory, matching, pictures."
+  A word is discriminative if its tf-idf is high in THIS category but
+  low everywhere else (we subtract the global average).
 
-USAGE
------
-  Windows (easiest): double-click ml.bat in the repo root
-      (runs the full 3-part pipeline; your numbers will match)
-  Windows (Anaconda Prompt):
-      python scripts/ml_part2_discriminative_words.py
-  Mac / Linux:
-      python3 scripts/ml_part2_discriminative_words.py
-Output:
+REQUIRES:
+  data/cleaned_games.csv   (run run.bat/sh, then clean.bat/sh)
+
+OUTPUT:
   - terminal table: top 8 discriminative words per category
   - data/charts/08_category_words.png  (publication-style grid chart)
 """
@@ -27,9 +25,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 warnings.filterwarnings("ignore")
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # paths + visualizatio style
-# ----------------------------------------------------------------------
+# ======================================================================
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data" / "cleaned_games.csv"
@@ -53,9 +51,9 @@ plt.rcParams.update({
     "savefig.bbox": "tight",
 })
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 1. LOAD + prep
-# ----------------------------------------------------------------------
+# ======================================================================
 df = pd.read_csv(DATA, encoding="utf-8-sig")
 df["top_category"] = df["categories"].fillna("").str.split(";").str[0].str.strip()
 print(f"Loaded {len(df)} games")
@@ -67,9 +65,9 @@ cats = list(counts[counts >= MIN_GAMES].head(6).index)   # 6 categories
 df_use = df[df["top_category"].isin(cats)].copy()
 print(f"Analyzing {len(cats)} categories: {', '.join(cats)}\n")
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 2. TF-IDF: how important each word is inside each category
-# ----------------------------------------------------------------------
+# ======================================================================
 # a word is "discriminative" if it is common in THIS category
 # but rare everywhere else -> exactly what tf-idf measures
 vec = TfidfVectorizer(stop_words="english", max_features=5000, min_df=5)
@@ -97,9 +95,9 @@ print("Discriminative words per category (top 8, tf-idf score):")
 for c, wl in profiles.items():
     print(f"  {c:<22s} " + ", ".join(f"{w} ({s:.2f})" for w, s in wl))
 
-# ----------------------------------------------------------------------
+# ======================================================================
 # 3. CHART: one horizontal bar per category (publication style)
-# ----------------------------------------------------------------------
+# ======================================================================
 fig, axes = plt.subplots(2, 3, figsize=(12, 7.5))
 colors = [BLUE, ORANGE, GREEN, RED, PURPLE, GRAY]
 for ax, (c, wl), col in zip(axes.flat, profiles.items(), colors):
