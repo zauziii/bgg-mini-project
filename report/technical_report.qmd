@@ -1,6 +1,6 @@
 ---
 title: "What Makes a Board Game Great? Mining BoardGameGeek"
-subtitle: "mini-project technical report"
+subtitle: "DATA11007 Data Science mini-project technical report"
 author:
   - name: "Aoxue Li"
   - name: "Ezeme Onyenezi Innocent"
@@ -25,39 +25,73 @@ format:
 lang: en
 ---
 
-> **A note on contributions and the use of AI.** Our differing levels of
-> familiarity with Git and GitHub resulted in uneven commit counts in the
-> repository history; commit counts do not reflect effort, and all three
-> team members contributed equally across data collection, preprocessing,
-> exploratory analysis, machine learning, and the web application. We
-> used AI-assisted tools to help with code writing, debugging, and
-> polishing this report; every AI-generated output was reviewed and
-> validated by the team, who take full responsibility for the final
-> results. More details can be found in the project
-> [README](https://github.com/zauziii/bgg-mini-project/blob/main/README.md).
+> **A note on contributions and the use of AI.** Our differing levels of familiarity with Git and GitHub resulted in uneven commit counts in the repository history; commit counts do not reflect effort, and all three members contributed equally across data collection, preprocessing, exploratory analysis, machine learning, and the web application. We used AI-assisted tools for code writing, debugging, and polishing; all AI-generated output was reviewed and validated by the team. More details can be found in the project [README](https://github.com/zauziii/bgg-mini-project/blob/main/README.md).
 
 
 # Abstract
 
-The board game market has grown rapidly, yet the quality of newly released games is hard to judge before player ratings accumulate. We confront this **cold-start problem** using data from BoardGameGeek (BGG): a complete pipeline collects 2,077 base games via BGG's offcial XML API2, and predicts two complementary quantities--*popularity* (regression, $R^2 \approx 0.73$) and *quality* (binary classification, test AUC up to 0.856) -- from a deliberately rating-free feature set of 10 structured attributes plus 30 latent text components from game description text themes as the strongest quality signal (71% of Gini importance; shuffling the text block drops test AUC by 0.078), and reveal that description length is a redundant proxy. After tuning the decision threshold on the precision–recall curve, we get an F1 of 0.71, compared with a 69.2% majority-class baseline. This is comparable to a leakage-prone variant that used popularity as a feature. We then turn the predictions into an interpretable content-based gamer recommender/finder and an interactive Streamlit app.
+The board game market has grown rapidly, yet the quality of newly released games is hard to judge before player ratings accumulate. We confront this **cold-start problem** using data from BoardGameGeek (BGG): a complete pipeline collects 2,077 base games via BGG's offcial XML API2, and predicts two complementary quantities---*popularity* (regression, $R^2 \approx 0.73$) and *quality* (binary classification, test AUC up to 0.856)---from a deliberately rating-free feature set of 10 structured attributes plus 30 latent text components from game description text themes as the strongest quality signal (71% of Gini importance; shuffling the text block drops test AUC by 0.078), and reveal that description length is a redundant proxy. After tuning the decision threshold on the precision–recall curve, we get an F1 of 0.71, compared with a 69.2% majority-class baseline. This is comparable to a leakage-prone variant that used popularity as a feature. We then turn the predictions into an interpretable content-based game recommender/finder and an interactive Streamlit app.
 
 **Keywords:** cold-start problem, recommender systems, text mining, board games, interpretability.
 
 # 1. Introduction
 
+Board games have experienced a revival, and BoardGameGeek (BGG) hosts more than 100,000 games and possesses millions of community ratings. However, for **new or niche games** (those with few or no ratings), there are few aggregated signals available, and recommendation systems encounter the *cold-start problem*: without interaction history, they can only rely on item attributes [@schein2002coldstart; @melville2002contentboosted].
+
+We treat this as a cold-start prediction problem: **can we tell whether a game will be well received from its attributes alone, with no rating data?** Our work has three parts. First, we build a reproducible data pipeline that collects 2,077 base games from the BGG XML API. Second, we run a dual-mode prediction study on features that exclude rating information: regression for popularity, classification for quality, along with strict evaluation and two methods for assessing feature importance. Third, we put the results to use through an interpretable recommender and an interactive web app that bring the analysis to end users.
+
+Taken together, the project answers two linked questions. One is the analytical question fundamental to this report: *what makes a board game great?* The other is practical: *how can that knowledge actually help a player choose?* The web application, Board Game Finder, bridges the two. It turns the modelling findings, which include signal quality and how it trades off, into an interpretable recommendation tool. It was built around a simple mission: **turn winter nights into game nights**. During long, dark Finnish winters, choosing a game should never be the reason a game night does not happen.
+
 # 2. Methods
 
 ## 2.1 Data collection and Preprocessing
 
+Data were collected from the offical BGG XML API2 with a personal developer token. Seeds came from `/hot`, 52 hand-picked `/search` terms (euro, family, party, abstract, thematic games), and `/thing` calls with 20 IDs per batch and `stats=1`. We limited requests to one every 3.5 seconds, backed off on 429/5xx errors, and cached every raw response. After keeping only base games, the dataset contains **2,077 games and 26 columns**: name, year, player counts, playtime, age, complexity weight, ratings, rank, categories, mechanics, designers, and description.
+
+Before modelling, we filled missing structured numeric values with medians, stripped HTML from descriptions, and applied TF-IDF (1500 terms, English stop-words) [@salton1988termweighting]. We then reduced the matrix with truncated SVD [@deerwester1990latentsemantic] to **30 latent "text themes"**. The final feature set has **10 structured features and 30 text features**. We deliberately left out rating counts and the target rating itself, so popularity cannot leak into a model meant to predict quality.
+
 ## 2.2 Learning Tasks and Evaluation
+
+**Task 1 (regression).** Predict popularity as `log1p(users_rated)` and evaluate with R$^2$ on held-out data.
+
+**Task 2 (classification).** Predict the binary label **good game** (average rating $\geq$ 7). Of the 1,880 supervised games, 30.8% are positive. We compared four classifiers (Logistic Regression, Random Forest with `class_weight='balanced'` [@breiman2001randomforests], Gradient Boosting [@friedman2001greedy], MLP) using 5-fold stratified cross-validation (AUC) and an 80/20 stratified hold-out (test AUC, F1, accuracy). Since a 0.5 cutoff favors the majority class, the decision threshold was tuned to maximize F1 on the precision-recall curve. Feature importance was measured with Gini importance [@breiman2001randomforests] and permutation importance [@altmann2010permutation]. The 30 text components were permuted as one block, since correlated components would otherwise underestimate the text contribution.
+
+**Task 3 (recommender).** An interpretable rule-based recommender scores each game against a user's group size, playtime, and complexity preferences: `0.35·players + 0.20·playtime + 0.20·complexity + 0.25·rating/10`, with a quality floor of $\geq$ 100 ratings. A second module finds **similar games** via Jaccard similarity on categories and mechanics, excluding same-series editions.
 
 ## 2.3 Ethics and Privacy
 
+All data are public aggregates, so no personal data are involved. Ratings play two separate roles: a quality floor for recommendations in the product logic, and a prediction target in the modelling. They are never used as a predictor.
+
 # 3. Results
+
+After cleaning, the dataset contains 2,077 base games. The average score is approximately 6.09 out of 10, and the average complexity is about 2.5. The scores are concentrated around the mean, but there is a long right tail, indicating some high-scoring games. Most of the games were released after 2010, and the community usually prefers games with medium complexity. We fully considered these trends when building the model and setting the default configuration of the recommendation system.
 
 ## 3.1 Dataset and Exploratory Analysis
 
+With rating-free features only, regressing `log1p(users_rated)` reaches **R$^2 \approx 0.73$** (Gradient Boosting performed best). In other words, popularity is largely explained by what a game is, not just by how it was received.
+
 ## 3.2 Regression: Predicting Popularity
+
+```{=latex}
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{lcccc}
+\toprule
+Model & CV AUC & Test AUC & F1 (0.5) & Accuracy (0.5) \\
+\midrule
+Logistic Regression & 0.860 & 0.841 & 0.632 & 0.753 \\
+Random Forest       & 0.879 & \textbf{0.856} & 0.608 & 0.798 \\
+Gradient Boosting   & 0.866 & 0.852 & 0.651 & 0.806 \\
+MLP (neural net)    & 0.859 & 0.835 & 0.661 & 0.798 \\
+\bottomrule
+\end{tabular}
+\caption{Classification results (good game = rating $\geq$ 7; cold-start features).}
+\label{tbl-class}
+\end{table}
+```
+
+All four models clear a test AUC of 0.83 even without rating-derived features. Random Forest does best on held-out data, reaching 0.856 (Figure 1a).
 
 ## 3.3 classification: Preductubg Quality
 
