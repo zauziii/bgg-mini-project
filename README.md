@@ -1,337 +1,336 @@
 # 🎲 BGG Board Game Data Pipeline
 
-> A University of Helsinki *Data Science* mini project — downloading, cleaning, analysing and serving board game data from **BoardGameGeek**.
+A University of Helsinki Data Science mini project that collects board game data from **BoardGameGeek (BGG)**, prepares an analysis dataset, compares machine learning methods, and serves recommendations through a Streamlit app.
 
-[![BGG API](https://img.shields.io/badge/source-BoardGameGeek%20XML%20API2-orange)](https://boardgamegeek.com/xmlapi2)
-[![Streamlit](https://img.shields.io/badge/web%20app-Streamlit-FF4B4B)](https://bgg-mini-project.streamlit.app)
-[![License](https://img.shields.io/badge/terms-API%20Terms%20of%20Use-blue)](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use)
+[![BGG API](https://img.shields.io/badge/source-BoardGameGeek%20XML%20API2-orange)](https://boardgamegeek.com/xmlapi2) [![Streamlit](https://img.shields.io/badge/web%20app-Streamlit-FF4B4B)](https://bgg-mini-project.streamlit.app) [![API terms](https://img.shields.io/badge/data%20use-BGG%20API%20Terms-blue)](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use)
 
-## At a Glance
+**[Open the app](https://bgg-mini-project.streamlit.app)** · [Quick start](#quick-start) · [Analysis results](#analysis-and-machine-learning) · [Team contributions](#team-and-contributions)
 
-| | |
+## At a glance
+
+| Item | Summary |
 |---|---|
-| **Dataset** | 2,077 board games × 26 cleaned features |
-| **Source** | Official BGG XML API2 — `thing`, `search`, `hot` endpoints |
-| **Pipeline** | Download → Clean → EDA → ML (regression, classification, NLP, recommender) → Web app |
-| **Web app** | 5 Streamlit pages — game finder, data explorer, "more like this", Bestiary quiz ([live demo](https://bgg-mini-project.streamlit.app)) |
+| Dataset | 2,077 board games and 26 cleaned columns |
+| Source | BGG XML API2: `thing`, `search`, and `hot` endpoints |
+| Collection | Hot list and 50 keyword searches, followed by filtering to core board games |
+| Workflow | Download → Clean → Explore → Model → Web app |
+| Analysis | Exploratory analysis, regression, classification, text analysis, and content-based recommendations |
+| Web app | Five pages: Home, Find me a game, Explore the data, More like this, and Board Game Bestiary |
 
----
+## Quick start
 
-## 📂 Repository Structure
+Run the commands below **from the repository root**. In Anaconda, open Anaconda Prompt and activate your project environment first. On macOS/Linux, use `python3` in place of `python` if required by your environment.
 
-```
-├── data/            # raw cache, cleaned datasets, EDA & ML charts, recommender CSVs
-├── scripts/         # download, cleaning, EDA, regression, classification, NLP, recommender
-├── webapp/          # Streamlit app modules & Bestiary artwork assets
-├── report/          # final_report.pdf (technical report) + final_report.qmd (Quarto source)
-├── presentation/    # slide deck (PPTX) for the final presentation
-├── canvas/          # project proposal canvas (DOCX + HTML)
-└── .streamlit/      # app theme configuration
+### 1. Install dependencies
+
+```bash
+python -m pip install -r requirements.txt
 ```
 
-### Key Files
+The EDA and machine learning scripts also require the following packages:
 
-**Data & scripts**
+```bash
+python -m pip install pandas numpy matplotlib scikit-learn scipy
+```
 
-| File | What it does |
-|---|---|
-| `scripts/fetch_bgg.py` | Hot list + 50 keyword searches → ~4,000 candidates → **2,077 core games** after filtering |
-| `scripts/clean_bgg_data.py` | Dedup, normalise missing values, type conversion, feature engineering → `data/cleaned_games.csv` |
-| `scripts/eda.py` | Full exploratory analysis — saves **14 publication-style charts** into `data/charts/` |
-| `scripts/ml_part1_regression.py` | Popularity regression with TF-IDF/SVD description features + rating-MAE side analysis |
-| `scripts/ml_part2_classification.py` | "Good game" (rating ≥ 7) classifier — ROC/PR curves, confusion matrix, feature importance |
-| `scripts/ml_part2_discriminative_words.py` | TF-IDF word profiles that distinguish each major game category |
-| `scripts/ml_part3_recommender.py` | Content-based game finder (fit score) + Jaccard "more like this" neighbours |
+### 2. Run the app
 
-**Web app**
+The cleaned dataset is included in the repository. If the recommendation outputs are also present, start the app directly:
 
-| File | What it does |
-|---|---|
-| `webapp/app.py` | Streamlit entry point — page config, styling, sidebar routing |
-| `webapp/part1_find.py` | Home page + game finder |
-| `webapp/part2_explore.py` | Interactive Plotly data explorer |
-| `webapp/part3_more.py` | "More like this" page + Board Game Bestiary quiz |
+```bash
+python -m streamlit run webapp/app.py
+```
 
-**Datasets**
+Open [http://localhost:8501](http://localhost:8501) if the browser does not open automatically.
 
-| File | Description |
-|---|---|
-| `data/games.csv` | Raw export from the downloader (uncleaned) |
-| `data/cleaned_games.csv` | Cleaned analysis dataset — **2,077 × 26** |
-| `data/recommendation_scores.csv` | Fit scores for all games (powers the game finder) |
-| `data/similar_games.csv` | Top-5 similar games per game (powers "More like this") |
+The app uses `data/cleaned_games.csv` and the recommendation outputs, including `data/recommendation_scores.csv` and `data/similar_games.csv`. If these outputs are missing, generate them first:
 
----
+```bash
+python scripts/ml_part3_recommender.py
+```
 
-## 🗃️ Data Overview (`data/cleaned_games.csv`)
+On Windows, `run_webapp.bat` provides a launcher. On macOS/Linux, use `bash run_webapp.sh`.
 
-| Column | Description |
-|---|---|
-| `game_id` | BGG game id |
-| `name` | Primary name |
-| `year_published` | Release year (`NaN` = unknown) |
-| `min_players` / `max_players` | Player count range |
-| `playing_time_min` | Typical play time in minutes |
-| `min_playtime` / `max_playtime` | Play time range |
-| `min_age` | Recommended minimum age (`0` = no restriction) |
-| `users_rated` | Number of ratings |
-| `avg_rating` | Average user rating (1–10) |
-| `bayes_rating` | Bayesian average (`NaN` = not enough ratings) |
-| `complexity_weight` | Complexity 1 (easy) … 5 (heavy) |
-| `board_game_rank` | Overall BGG rank (`NaN` = unranked) |
-| `categories` | Semicolon-separated categories |
-| `mechanics` | Semicolon-separated mechanics |
-| `designers` | Semicolon-separated designers |
-| `description` | Free-text description (great for NLP) |
-| `description_length` | Number of characters in description |
-| `decade` | Release decade, e.g. 2010 (`0` = unknown) |
-| `complexity_group` | light / medium / heavy / unknown |
-| `playtime_group` | short (≤30 min) / medium (31–90) / long (>90) / unknown |
-| `is_solo` | `1` = playable solo |
-| `rank_tier` | top1000 / top5000 / ranked / unranked |
-| `n_categories` / `n_mechanics` | Number of categories / mechanics |
+### 3. Rebuild the pipeline
 
----
-
-## 🧹 Data Cleaning Highlights
-
-The raw export contains classic "dirty data" problems that the cleaning pipeline fixes:
-
-- **Fake zeros** — BGG uses `0` as "no data" for year, playtime, ratings, complexity and `users_rated` (e.g. 402 games have `playing_time=0`, 197 have `avg_rating=0.0`). Converted to `NaN`.
-- **Ancient games** — e.g. Go is stored with year **-2200** (2200 BC); treated as unknown year.
-- **`"Not Ranked"`** — literal string for unranked games; normalised to `NaN`.
-- **Duplicates & text numbers** — duplicate `game_id` rows are dropped; numeric columns stored as text are converted.
-- **`min_age=0` is kept** — BGG uses it to mean "no age restriction".
-
----
-
-## 📊 Analysis & Machine Learning
-
-All models use a **cold-start feature set**: structured game attributes available before release + 30 TF-IDF → SVD components from the game description. Post-rating signals such as `users_rated` are excluded from the classifier to prevent leakage.
-
-| Part | Question | Approach | Headline result |
-|---|---|---|---|
-| **EDA** | What does the dataset look like? | 14 charts: distributions, trends, tags, correlations | Rating correlates with complexity at $r \sim 0.50$ |
-| **Part 1 — Regression** | What makes a game popular? | Linear, Ridge, RF, GB, MLP | Popularity (`log(users_rated)`) test $R^2 \sim 0.70$; raw rating $R^2 \sim 0.25–0.37$ with $MAE \sim 0.8$ |
-| **Part 2 — Classification** | Is this a "good" game (rating ≥ 7)? | LogReg, RF, GB, MLP, class-weighted | Test $\text{AUC} \sim 0.85$ vs ~69% majority-class baseline |
-| **Part 2 — Text** | What words characterise each category? | Per-category TF-IDF profiles | e.g. economic games: *market, auction, trade* |
-| **Part 3 — Recommender** | What fits our game night? | Transparent fit score on players, play time, complexity, quality, popularity | Top-10 personalised lists |
-| **Part 3 — Similar games** | More like this? | Jaccard similarity on categories + mechanics, same series excluded | Top-5 neighbours per game |
-
----
-
-## 🖥️ Web App
-
-> **Live demo:** [bgg-mini-project.streamlit.app](https://bgg-mini-project.streamlit.app)
-
-The Streamlit app (`webapp/app.py`) has five pages:
-
-1. **Home** — what the project is and where the data comes from
-2. **Find me a game** — sliders for group size, available time and complexity taste return the ten best-fitting games
-3. **Explore the data** — interactive Plotly charts with year/category/complexity filters, hover, zoom and search
-4. **More like this** — pick any game to see its five closest neighbours
-5. **Board Game Bestiary** — an eight-question parody quiz that assigns one of four player creatures, each linked to real games:
-   - 🏗️ **Tung Tung Tung Tung Sahur — The City Builder** (economic, city building, civilization)
-   - 🏖️ **Tralalero Tralala — The Beach Party Animal** (party, dexterity, word games)
-   - 📜 **Luguanluguan — The Rule Sheriff** (abstract strategy, deduction)
-   - 💣 **Bombardino Crocodillo — The Bombardier** (dice, wargame, fighting)
-
----
-
-## 🚀 Quick Start
-
-The pipeline has five steps: **download → clean → explore → model → web app**. Every step has a Windows `.bat` (double-click) and a macOS/Linux `.sh` launcher.
-
-> 💡 The cleaned datasets are committed to the repo, so Steps 1–2 can be skipped if you only want to run analysis, models or the app.
-
-### Step 1 — Download the data
-
-> Get a free API token at [boardgamegeek.com/applications](https://boardgamegeek.com/applications).
-
-**Windows (easiest):** double-click `run.bat`, paste your token when asked, wait ~20 min → `data/games.csv`.
+Downloading the data again is optional when using the committed snapshot. A new download may change the dataset and the resulting scores.
 
 <details>
-<summary>Manual commands</summary>
+<summary><strong>Download data from BGG</strong></summary>
+
+Register an application and obtain an API token at [boardgamegeek.com/applications](https://boardgamegeek.com/applications).
+
+**Windows — Anaconda Prompt / Command Prompt:**
 
 ```bat
-:: Windows (Anaconda Prompt)
-set BGG_API_TOKEN="your token"
+set "BGG_API_TOKEN=your_token"
 python scripts\fetch_bgg.py --out data
 ```
 
+**macOS / Linux:**
+
 ```bash
-# Mac / Linux
-export BGG_API_TOKEN="your token"
+export BGG_API_TOKEN="your_token"
 python3 scripts/fetch_bgg.py --out data
 ```
 
+Windows users can also double-click `run.bat` and enter the token when prompted. The original download took approximately 20 minutes; timing depends on the API and cache state.
+
+Output: `data/games.csv`. Raw XML responses are cached in `data/raw/` so interrupted runs can reuse downloaded responses.
+
 </details>
-
-> Raw XML responses are cached in `data/raw/`, so interrupted runs resume without re-downloading.
-
-### Step 2 — Clean the data
-
-**Windows (easiest):** double-click `clean.bat`.
 
 <details>
-<summary>Manual commands</summary>
-
-```bat
-:: Windows (Anaconda Prompt)
-python scripts\clean_bgg_data.py
-```
+<summary><strong>Clean the data</strong></summary>
 
 ```bash
-# Mac / Linux
-bash clean.sh
-# or directly:
-python3 scripts/clean_bgg_data.py
+python scripts/clean_bgg_data.py
 ```
 
+Launchers: `clean.bat` on Windows or `bash clean.sh` on macOS/Linux.
+
+Output: `data/cleaned_games.csv`.
+
 </details>
-
-Output → `data/cleaned_games.csv`
-
-### Step 3 — Exploratory data analysis
-
-**Windows (easiest):** double-click `eda.bat`.
 
 <details>
-<summary>Manual commands</summary>
-
-```bat
-:: Windows (Anaconda Prompt)
-python scripts\eda.py
-```
+<summary><strong>Run exploratory analysis</strong></summary>
 
 ```bash
-# Mac / Linux
-bash eda.sh
-# or directly:
-python3 scripts/eda.py
+python scripts/eda.py
 ```
 
+Launchers: `eda.bat` on Windows or `bash eda.sh` on macOS/Linux.
+
+Output: 14 PNG charts in `data/charts/`.
+
 </details>
-
-Output → 14 PNG charts in `data/charts/`
-
-### Step 4 — Machine learning
-
-**Windows (easiest):** double-click `ml_parts.bat`.
 
 <details>
-<summary>Manual commands</summary>
-
-```bat
-:: Windows (Anaconda Prompt)
-python scripts\ml_part1_regression.py
-python scripts\ml_part2_classification.py
-python scripts\ml_part3_recommender.py
-python scripts\ml_part2_discriminative_words.py   REM optional NLP extra
-```
+<summary><strong>Run machine learning and generate recommendations</strong></summary>
 
 ```bash
-# Mac / Linux
-bash ml_parts.sh
-# or run individually:
-python3 scripts/ml_part1_regression.py
-python3 scripts/ml_part2_classification.py
-python3 scripts/ml_part3_recommender.py
-python3 scripts/ml_part2_discriminative_words.py   # optional NLP extra
+python scripts/ml_part1_regression.py
+python scripts/ml_part2_classification.py
+python scripts/ml_part3_recommender.py
 ```
+
+Optional category-level text analysis:
+
+```bash
+python scripts/ml_part2_discriminative_words.py
+```
+
+Launchers: `ml_parts.bat` on Windows or `bash ml_parts.sh` on macOS/Linux.
+
+Outputs: model charts in `data/ml_charts/`, `data/recommendation_scores.csv`, and `data/similar_games.csv`.
 
 </details>
 
-Output → model charts in `data/ml_charts/`, plus `data/recommendation_scores.csv` and `data/similar_games.csv`.
+## Analysis and machine learning
 
-### Step 5 — Run the web app
+The following approximate results describe the project snapshot. Consult the scripts and [technical report](report/final_report.pdf) for the analysis details; these values are not guarantees for a fresh download or a different evaluation split.
 
-**Windows (easiest):** double-click `run_webapp.bat`.
+| Part | Question | Approach | Snapshot result or output |
+|---|---|---|---|
+| EDA | What patterns appear in the collected games? | Distributions, release-year trends, categories, mechanics, and correlations | 14 charts; rating–complexity correlation approximately 0.50 |
+| Part 1 — Regression | How well can game attributes predict popularity? | Linear regression, Ridge, random forest, gradient boosting, and MLP | Test R² approximately 0.70 for `log(users_rated)` |
+| Part 1 — Rating analysis | How well can game attributes predict average rating? | Rating prediction as a secondary analysis | Test R² approximately 0.25–0.37; MAE approximately 0.8 rating points |
+| Part 2 — Classification | Can a game be classified as having an average rating of at least 7? | Logistic regression, random forest, gradient boosting, and MLP; class weighting where applied | Test ROC-AUC approximately 0.85. Majority-class baseline **accuracy** approximately 0.69; this is a separate metric |
+| Part 2 — Text | Which words characterise each major game category? | Category-level TF-IDF profiles | Examples for economic games: *market*, *auction*, and *trade* |
+| Part 3 — Game finder | Which games fit the selected group and preferences? | A transparent fit score using player count, play time, complexity, quality, and popularity | Top-10 recommendation lists |
+| Part 3 — Similar games | Which games share categories and mechanics? | Jaccard similarity on categories and mechanics, with same-series matches excluded | Top-5 neighbours per game |
+
+### Features and evaluation
+
+The predictive analyses use structured game attributes and 30 components derived from game descriptions through TF-IDF and SVD. The classifier excludes `users_rated` as a predictor.
+
+These are retrospective predictions for games in the collected dataset. BGG's [complexity/weight score](https://boardgamegeek.com/wiki/page/weight) is a community rating. A model using `complexity_weight` or its derived groups therefore does not have a strictly prerelease feature set. The recommendation system also uses existing rating and popularity information.
+
+To reproduce and assess the predictive results:
+
+- Record the data snapshot, eligible sample size, train/test split, random seed, target definition, and model associated with each score.
+- Check that the classifier's predictors exclude its target `avg_rating` and rating-derived fields such as `bayes_rating`, `board_game_rank`, and `rank_tier`.
+- Fit TF-IDF, SVD, imputation, scaling, and other learned preprocessing on training data only. During cross-validation, fit them within each training fold, for example through a scikit-learn `Pipeline`.
+- Compare the same metrics on the same evaluation sample. ROC-AUC and accuracy should be reported separately.
+
+The fit score and Jaccard neighbours are recommendation rules; the predictive model scores above do not establish their recommendation quality.
+
+## Repository structure
+
+```text
+.
+├── data/           # Raw cache, cleaned data, charts, and recommendation CSVs
+├── scripts/        # Collection, cleaning, EDA, ML, and recommendation scripts
+├── webapp/         # Streamlit modules and Bestiary artwork
+├── report/         # Technical report and Quarto source
+├── presentation/   # Final presentation slides
+├── canvas/         # Project proposal canvas: DOCX and HTML
+├── .streamlit/     # Streamlit theme configuration
+└── requirements.txt
+```
 
 <details>
-<summary>Manual commands</summary>
+<summary><strong>Key files</strong></summary>
 
-```bat
-:: Windows (Anaconda Prompt)
-streamlit run webapp\app.py
-```
-
-```bash
-# Mac / Linux
-bash run_webapp.sh
-# or directly:
-streamlit run webapp/app.py
-```
+| File | Purpose |
+|---|---|
+| `scripts/fetch_bgg.py` | Collect the hot list and keyword-search candidates, fetch details, and cache XML responses; approximately 4,000 candidates yielded 2,077 core games in the project snapshot |
+| `scripts/clean_bgg_data.py` | Remove duplicate IDs, normalise missing values, convert types, and engineer analysis variables |
+| `scripts/eda.py` | Generate 14 exploratory charts in `data/charts/` |
+| `scripts/ml_part1_regression.py` | Popularity regression, description features, and the secondary rating analysis |
+| `scripts/ml_part2_classification.py` | Rating-threshold classification, ROC/PR curves, confusion matrices, and feature importance |
+| `scripts/ml_part2_discriminative_words.py` | Generate TF-IDF word profiles for major game categories |
+| `scripts/ml_part3_recommender.py` | Generate game-finder scores and similar-game neighbours |
+| `webapp/app.py` | Configure the app, styling, and sidebar routing |
+| `webapp/part1_find.py` | Home and game-finder pages |
+| `webapp/part2_explore.py` | Interactive Plotly data explorer |
+| `webapp/part3_more.py` | Similar-game page and Bestiary quiz |
+| `data/games.csv` | Raw tabular export from the downloader |
+| `data/cleaned_games.csv` | Cleaned analysis dataset: 2,077 rows and 26 columns |
+| `data/recommendation_scores.csv` | Scores used by the game finder |
+| `data/similar_games.csv` | Top-5 similar games for each game |
+| `report/final_report.pdf` | Technical report |
+| `report/final_report.qmd` | Quarto source for the report |
 
 </details>
 
-Your browser opens [http://localhost:8501](http://localhost:8501). The app needs `data/cleaned_games.csv` and `data/similar_games.csv` (Steps 2 and 4).
+## Data and cleaning
 
-> The deployed version is live at [bgg-mini-project.streamlit.app](https://bgg-mini-project.streamlit.app).
+The collection starts with BGG's hot list and 50 keyword searches. After fetching game details and applying the project's filters, the documented dataset contains 2,077 core board games.
 
-### Dependencies
+The cleaning script handles duplicate IDs, text-formatted numbers, missing-value codes, and derived variables. Examples recorded for the raw snapshot include 402 games with `playing_time=0` and 197 with `avg_rating=0.0`.
 
-```bash
-pip install -r requirements.txt
-```
+| Field or issue | Project handling and interpretation |
+|---|---|
+| Duplicate `game_id` | Drop duplicate rows |
+| Numeric values stored as text | Convert to numeric types |
+| Zero year, play time, average rating, or complexity | Treat as missing under the project's cleaning rules |
+| `users_rated=0` | The documented cleaning rule also maps these values to missing. This needs field-specific interpretation: zero may be a valid count of games with no ratings, rather than missing data |
+| Negative publication year | Treat as missing for modern release-year analysis. A negative year can represent an ancient game; it is not inherently an invalid value. The raw export retains the source value |
+| Literal `"Not Ranked"` | Normalise to missing rank |
+| `min_age=0` | Retain the source code; without further evidence, do not interpret it as a confirmed absence of age restrictions |
 
-EDA and ML scripts additionally need:
+<details>
+<summary><strong>Data dictionary — data/cleaned_games.csv</strong></summary>
 
-```bash
-pip install pandas numpy matplotlib scikit-learn scipy
-```
+Combined rows below describe more than one column; the full dataset has 26 columns.
 
----
+| Column | Description |
+|---|---|
+| `game_id` | BGG game identifier |
+| `name` | Primary game name |
+| `year_published` | Publication year after cleaning; missing when unavailable or excluded by the year-cleaning rule |
+| `min_players` / `max_players` | Supported player-count range |
+| `playing_time_min` | Typical play time in minutes |
+| `min_playtime` / `max_playtime` | Minimum and maximum play time in minutes |
+| `min_age` | Recommended minimum age; source code `0` is retained |
+| `users_rated` | Number of user ratings, subject to the zero-handling rule above |
+| `avg_rating` | Average user rating on the 1–10 scale |
+| `bayes_rating` | BGG Bayesian rating; missing where unavailable under the cleaning rules |
+| `complexity_weight` | Community complexity/weight rating on the 1–5 scale |
+| `board_game_rank` | Overall BGG rank; missing for unranked games |
+| `categories` | Semicolon-separated game categories |
+| `mechanics` | Semicolon-separated game mechanics |
+| `designers` | Semicolon-separated designer names |
+| `description` | Free-text game description |
+| `description_length` | Description length in characters |
+| `decade` | Release decade, such as 2010; `0` denotes unknown |
+| `complexity_group` | `light`, `medium`, `heavy`, or `unknown` |
+| `playtime_group` | `short` (≤30 minutes), `medium` (31–90), `long` (>90), or `unknown` |
+| `is_solo` | `1` when the recorded player range supports solo play |
+| `rank_tier` | `top1000`, `top5000`, `ranked`, or `unranked` |
+| `n_categories` / `n_mechanics` | Counts of categories and mechanics |
 
-## 👥 Team & Contributions
+</details>
 
-| Member | Programme | Owned deliverables |
+## Web app
+
+**Live app:** [bgg-mini-project.streamlit.app](https://bgg-mini-project.streamlit.app)
+
+| Page | What it provides |
+|---|---|
+| Home | Project overview and data-source information |
+| Find me a game | Player-count, time, and complexity controls that return ten fitting games |
+| Explore the data | Interactive Plotly charts with year, category, and complexity filters, plus hover and zoom |
+| More like this | Five similar games for a selected title |
+| Board Game Bestiary | An eight-question parody quiz that links one of four player creatures to game suggestions |
+
+<details>
+<summary><strong>Bestiary characters</strong></summary>
+
+- 🏗️ **Tung Tung Tung Tung Sahur — The City Builder:** economic, city-building, and civilization games.
+- 🏖️ **Tralalero Tralala — The Beach Party Animal:** party, dexterity, and word games.
+- 📜 **Luguanluguan — The Rule Sheriff:** abstract strategy and deduction games.
+- 💣 **Bombardino Crocodillo — The Bombardier:** dice, wargames, and fighting games.
+
+</details>
+
+## Limitations
+
+- **Sample coverage:** the hot list and keyword searches give a selected sample of BGG games, so the findings may not apply to the full database.
+- **Data snapshot:** ratings and rating counts change over time. Here, popularity means the number of user ratings at collection time.
+- **Model performance:** reported scores apply to this dataset and evaluation split. Results for newly collected games or a different sample may differ.
+
+## Team and contributions
+
+| Member | Programme | Main responsibilities |
 |---|---|---|
-| **Aoxue Li** | Life Science Informatics | `clean_bgg_data.py`, `ml_part1_regression.py`, `webapp/part1_find.py`; `.sh` launcher scripts; presentation slides; README & project documentation |
-| **Ezeme Onyenezi Innocent** | Computer Science | `scripts/eda.py`, `ml_part2_classification.py`, `ml_part2_discriminative_words.py`, `webapp/part2_explore.py`, `webapp/part3_more.py` |
-| **Zhi Zhou** | Life Science Informatics | `scripts/fetch_bgg.py`, `ml_part3_recommender.py` (recommender + similar-games engine), `app.py`; `.bat` launcher scripts; deployment & environment configuration; README & project documentation |
+| **Aoxue Li** | Life Science Informatics | Cleaning and feature engineering; Part 1 regression; Home and game-finder pages; macOS/Linux launchers; presentation slides; README and documentation |
+| **Ezeme Onyenezi Innocent** | Computer Science | EDA; Part 2 classification and text analysis; data-explorer page; similar-game page and Bestiary quiz |
+| **Zhi Zhou** | Life Science Informatics | BGG downloader and cache; recommendation and similarity engine; app shell and integration; Windows launchers; deployment and environment configuration; README and documentation |
 
-> The report and proposal were built and reviewed jointly by all three members.
+The report and proposal were prepared and reviewed jointly by all three members.
 
-### Task Division
+<details>
+<summary><strong>Detailed task division</strong></summary>
+
+**●** lead / module owner · **◐** joint work, testing, or review · **—** not involved
 
 | Work package | Aoxue | Ezeme | Zhi |
 |---|:---:|:---:|:---:|
-| Data collection (BGG API downloader & caching) | ◐ | **—** | **●** |
-| Cleaning & feature engineering | **●** | **—** | ◐ |
-| Exploratory data analysis (14 charts) | **—** | **●** | ◐ |
-| Part 1 — popularity / rating regression | **●** | ◐ | ◐ |
-| Part 2 — good-game classification | ◐ | **●** | ◐ |
-| Part 2 — discriminative-words text analysis | ◐ | **●** | ◐ |
-| Part 3 — recommender & similar games | ◐ | ◐ | **●** |
-| Web app — Home & Find me a game | **●** | ◐ | ◐ |
-| Web app — Explore the data | ◐ | **●** | ◐ |
-| Web app — More like this & Bestiary | ◐ | **●** | ◐ |
-| App shell, theme & integration | ◐ | ◐ | **●** |
-| Batch/Shell launcher — `.sh` scripts (macOS/Linux) | **●** | ◐ | ◐ |
-| Batch/Shell launcher — `.bat` scripts (Windows) | ◐ | ◐ | **●** |
-| Deployment & environment configuration | ◐ | ◐ | **●** |
-| Report, Quarto source & proposal | ◐ | ◐ | ◐ |
-| Presentation slides (PPT) | **●** | ◐ | ◐ |
+| Data collection: BGG downloader and caching | ◐ | — | ● |
+| Cleaning and feature engineering | ● | — | ◐ |
+| Exploratory analysis: 14 charts | — | ● | ◐ |
+| Part 1: popularity / rating regression | ● | ◐ | ◐ |
+| Part 2: rating-threshold classification | ◐ | ● | ◐ |
+| Part 2: discriminative-words text analysis | ◐ | ● | ◐ |
+| Part 3: recommender and similar games | ◐ | ◐ | ● |
+| Web app: Home and Find me a game | ● | ◐ | ◐ |
+| Web app: Explore the data | ◐ | ● | ◐ |
+| Web app: More like this and Bestiary | ◐ | ● | ◐ |
+| App shell, theme, and integration | ◐ | ◐ | ● |
+| macOS/Linux `.sh` launchers | ● | ◐ | ◐ |
+| Windows `.bat` launchers | ◐ | ◐ | ● |
+| Deployment and environment configuration | ◐ | ◐ | ● |
+| Report, Quarto source, and proposal | ◐ | ◐ | ◐ |
+| Presentation slides | ● | ◐ | ◐ |
 | Oral presentation | ◐ | ◐ | ◐ |
-| README & project documentation | **●** | — | **●** |
+| README and project documentation | ● | — | ● |
 
-> **●** module owner / lead · **◐** joint work, testing and review · **—** not involved
->
-> Two-owner packages (README & project documentation) are split 50/50 between the named owners.
+</details>
 
-### Contribution Visualisation
+### Contribution estimate
 
-Per-work-package share (**A** = Aoxue, **E** = Ezeme, **Z** = Zhi):
+These percentages are a **team self-assessment**, based on the role weights below. They are not measured working hours or commit shares.
 
-- **Three-person joint packages** (◐/◐/◐): equal thirds
-- **Led modules** (●/◐/◐): lead 60%, each reviewer 20%
-- **Two-person packages** (●/—/●): 50/50
-- **Packages with —** (●/—/◐): lead 60%, reviewer 20%, non-participants score 0 (package total = 80, not 100)
+| Work-package pattern | Points assigned |
+|---|---|
+| Three joint contributors: ◐ / ◐ / ◐ | 100/3 points each |
+| One lead and two reviewers: ● / ◐ / ◐ | Lead: 60; each reviewer: 20 |
+| Two leads: ● / — / ● | Each lead: 50; non-participant: 0 |
+| One lead and one reviewer, with one non-participant | Lead: 60; reviewer: 20; non-participant: 0 |
 
-> Total pool is **1,740 points** (not 1,800) due to 4 rows where one member does not participate (package total = 80 instead of 100). Final percentages are computed from actual scores.
+There are 18 work packages. **Three packages**—data collection, cleaning, and EDA—receive 80 points each under this convention. The other 15 receive 100 points each, giving a total of **1,740 points**. The 80-point packages consequently carry less total weight than the 100-point packages.
 
-```mermaid
+| Member | Share of allocated points |
+|---|---:|
+| Aoxue Li | 34.29% |
+| Ezeme Onyenezi Innocent | 30.27% |
+| Zhi Zhou | 35.44% |
+| **Total** | **100.00%** |
+
+``` mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'pie1': '#4E79A7', 'pie2': '#F28E2B', 'pie3': '#59A14F'}}}%%
 pie showData
     title Overall contribution (team self-assessment)
@@ -340,35 +339,37 @@ pie showData
     "Zhi Zhou" : 35
 ```
 
-### AI Assistance Log
+Commit counts are not used to measure effort because members had different levels of Git/GitHub experience. The README and documentation package is split equally between its two named leads.
 
-> Tick one box per work package, name the tool(s), and state in one line what AI was used for. Keep the row even when no AI was used (tick **No**). Every AI-generated output must be reviewed, run and validated by a human.
+### AI assistance log
 
-| Work package | AI-assisted? | What AI assisted with | Reviewed / validated by |
-|---|---|---|---|
-| Data collection (downloader & caching) | ☑ Yes | Aoxue and Zhi applied for permission simultaneously; Zhi used AI to help fetch data from the website. | — |
-| Cleaning & feature engineering | ☐ No | This part is owned by Aoxue. | — |
-| Exploratory data analysis | ☐ No | This part is owned by Ezeme. | — |
-| Part 1 — regression | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Part 2 — good-game classification | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Part 2 — discriminative-words NLP | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| Part 3 — recommender & similar games | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Web app — Home & Find me a game | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| Web app — Explore the data | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| Web app — More like this & Bestiary | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| App shell, theme & integration | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| Report & Quarto source | ☑ Yes | AI generated a public-ready YAML. | *\[name\]* |
-| Batch/Shell launcher — `.sh` scripts | ☑ Yes | *\[what AI did\]* | *\[name\]* |
-| Batch/Shell launcher — `.bat` scripts | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Deployment & environment configuration | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Presentation slides (PPT) | ☐ No | *\[what AI did\]* | *\[name\]* |
-| Oral presentation | ☐ No | *\[what AI did\]* | *\[name\]* |
-| README & project documentation | ☑ Yes | AI suggested mermaid plot. | Aoxue & Zhi |
+The percentages below are the team's estimates of AI involvement within each work package. They are not measured percentages of final code or authorship, and they are separate from the human contribution estimates above.
 
-> Commit counts do not reflect effort: members came to the project with differing levels of Git/GitHub familiarity. As a team policy, AI-assisted tools were only used for code writing, debugging and language polishing; every AI-generated output was reviewed, run and validated by a human, and each use is recorded in the log above.
+The team reports reviewing, running, and validating AI-generated code, and checking AI-assisted text and layout before inclusion. Team members remain responsible for their deliverables.
 
----
+| Work package | Estimated AI involvement | Assistance reported by the team |
+|---|---:|---|
+| Data collection: downloader and caching | 55% | Writing downloader code and cache logic |
+| Cleaning and feature engineering | 10% | Edge-case handling and debugging |
+| Exploratory data analysis | 10% | Plotting-code assistance |
+| Part 1: regression | 10% | Debugging model-fitting code |
+| Part 2: rating-threshold classification | 10% | Debugging evaluation code |
+| Part 2: discriminative-words NLP | 15% | Writing and debugging the text-analysis pipeline |
+| Part 3: recommender and similar games | 15% | Similarity-matching logic |
+| Web app: Home and Find me a game | 55% | Page logic, layout, and debugging |
+| Web app: Explore the data | 50% | Page logic and charts |
+| Web app: More like this and Bestiary | 60% | Page logic, quiz flow, and matching rules |
+| App shell, theme, and integration | 55% | App shell, theme, and page integration |
+| Report and Quarto source | 10% | YAML configuration, syntax corrections, and layout fixes |
+| macOS/Linux `.sh` launchers | 50% | Generating and debugging shell launchers |
+| Windows `.bat` launchers | 50% | Generating and debugging batch launchers |
+| Deployment and environment configuration | 10% | Environment-setup assistance |
+| Presentation slides | 10% | Layout adjustments |
+| Oral presentation | 0% | No AI assistance reported |
+| README and project documentation | 30% | Contribution-diagram suggestion, Markdown formatting, command corrections, and wording review |
 
-## 🔒 Security Note
+## API token and data use
 
-The BGG API token is **never** stored in this repo. Scripts read it from the environment or ask for it interactively, and `.gitignore` excludes any token-like files and the `raw/` cache.
+The downloader reads the BGG API token from `BGG_API_TOKEN` or an interactive prompt. Keep token values out of source files and commits. The repository's ignore rules cover local token files and the raw-response cache.
+
+BGG data use is governed by the [BGG XML API Terms of Use](https://boardgamegeek.com/wiki/page/XML_API_Terms_of_Use). The terms badge above refers to the data source; it does not specify a software licence for this repository.
