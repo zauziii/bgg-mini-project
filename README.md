@@ -129,7 +129,7 @@ Outputs: model charts in `data/ml_charts/`, `data/recommendation_scores.csv`, an
 
 ## Analysis and machine learning
 
-The following approximate results describe the project snapshot. Consult the scripts and [technical report](report/final_report.pdf) for the analysis details; these values are not guarantees for a fresh download or a different evaluation split.
+The following approximate results describe the project snapshot. Consult the scripts and [technical report](report/technical_report.pdf) for the analysis details; these values are not guarantees for a fresh download or a different evaluation split.
 
 | Part | Question | Approach | Snapshot result or output |
 |---|---|---|---|
